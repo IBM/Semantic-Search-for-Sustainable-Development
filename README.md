@@ -1,0 +1,2 @@
+# Semantic-Search-for-Sustainable-Development-
+Semantic Search for Sustainable Development is code for searching documents for text that "semantically" corresponds to any of the UN's Sustainable development goals/targets. For example, it can be used to mine the national development plan documents of a country and identify pieces of text that correspond to any of the SDGs in order to verify alignment of the plan with the SDGs. 
