@@ -49,6 +49,7 @@ def loadTruth(template_data_path, exclude_ria = [], targets = None):
             target_matches = shelf['targets']
             shelf.close()
         except:
+            shelf.close()
             development_matches = parseundp.extract_template_data(template_data_path)
             target_matches = parseundp.create_target_dictionary(development_matches)
             shelf = shelve.open('undp')
@@ -507,9 +508,12 @@ def updateGroundTruth(new_truths):
         new_truths (dict): Dictionary of new sentence matches(value:list) for the target(key)
 
     '''
-    shelf = shelve.open('RIA_Data')
-    ground_truth = shelf['ground_truth']
-    shelf.close()
+    try:
+        shelf = shelve.open('RIA_Data')
+        ground_truth = shelf['ground_truth']
+        shelf.close()
+    except:
+        shelf.close()
     
     for key in new_truths:
         doc = ''
@@ -518,10 +522,13 @@ def updateGroundTruth(new_truths):
                 doc += val
                 doc += ' '
         ground_truth[key][0] += doc
-        
-    shelf = shelve.open('RIA_Data')
-    shelf['ground_truth'] = ground_truth
-    shelf.close()
+    
+    try:
+        shelf = shelve.open('RIA_Data')
+        shelf['ground_truth'] = ground_truth
+        shelf.close()
+    except:
+        shelf.close()
 
 
 

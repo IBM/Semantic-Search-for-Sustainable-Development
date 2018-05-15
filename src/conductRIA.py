@@ -18,6 +18,12 @@ from CustomParVec import CustomParVec
 from undp_experiments_Utils import getTargetDoc, getInfo, get_all_matches, ria, evaluateByTarget, avgMatches, getUpdates, getResults, generateSpreadsheet, updateGroundTruth
 
 
+#if you want to use the Google news pre-trained model, set below to true
+USE_GOOGLE_NEWS = False
+
+
+
+
 #To start, we specify the paths that hold our policy documents and template2 RIA data. 
 #We should also specify any documents we wish to exclude. We will learn our embeddings using the undp target descriptions 
 #and all of the policy documents including the new country we wish to produce an RIA for.
@@ -26,13 +32,34 @@ documents_path = 'data/documents/'
 template_data_path = 'data/template2/'
 exclude_documents = []
 
-#I have saved a dictionary of the target descriptions. We load it here.
-#shelf = shelve.open('undp.db')
-#targets_only = shelf['targets_only']
-import pickle
-targets_only = pickle.load(open('undp.pkl', 'rb'))
-#targets_only['1.1'] gives the text for SDG 1 Target 1.1 and so on
-#shelf.close()
+#If a dictionary of the target descriptions has already been created, load it otherwise create it. We load it here.
+try:
+    shelf = shelve.open('undp')
+    targets_only = shelf[u'targets_only']
+    shelf.close()
+except:
+    shelf.close()
+    alphabet = 'abcdefghijklmnopqrstuvwxyz'
+    i = 0
+    targets_only = {}
+    with open('targets.txt') as file:
+        for line in file:
+            x = line.split()
+            if x[0][-1] not in alphabet:
+                targets_only[x[0]] = ' '. join(x[1:])
+    shelf = shelve.open('undp')
+    shelf[u'targets_only'] = targets_only
+    shelf.close()
+    
+    development_matches = parseundp.extract_template_data(template_data_path)
+    target_matches = parseundp.create_target_dictionary(development_matches)
+    shelf = shelve.open('undp')
+    shelf[u'targets'] = target_matches
+    shelf.close()
+    
+
+#import pickle
+#targets_only = pickle.load(open('undp.pkl', 'rb'))
 
 #Next we create our corpus of Doc2Vec tagged documents in which each document is a paragraph/sentence from the documents 
 #in the documents path as well as the target descriptions.
@@ -55,11 +82,16 @@ par_vec_nbow = CustomParVec(words_by_line, num_workers, num_features, min_word_c
 par_vec_tfidf = CustomParVec(words_by_line, num_workers, num_features, min_word_count, context, downsampling, True)
 
 #We will also experiment with Google's pre-trained word2vec model which has 300 dimensions.
-model_google = models.KeyedVectors.load_word2vec_format('GoogleNews-vectors-negative300.bin', binary=True) 
-par_vec_google = CustomParVec(words_by_line, num_workers, 300, min_word_count, context, downsampling, True, model_google)
+if USE_GOOGLE_NEWS:
+    model_google = models.KeyedVectors.load_word2vec_format('GoogleNews-vectors-negative300.bin', binary=True) 
+    par_vec_google = CustomParVec(words_by_line, num_workers, 300, min_word_count, context, downsampling, True, model_google)
 
 #Let's place our models in a single list
-par_vecs = [par_vec_google, par_vec_nbow, par_vec_tfidf]
+if USE_GOOGLE_NEWS:
+    par_vecs = [par_vec_google, par_vec_nbow, par_vec_tfidf]
+else:
+    par_vecs = [par_vec_nbow, par_vec_tfidf]
+
 
 #data for any prior RIA we would like to test
 policy_documents_liberia   = ['Liberia Agenda for Transformation.txt', 'Liberia Eco stabilization and recovery plan-april_2015.txt']
@@ -94,8 +126,11 @@ avg_new = avgMatches(match_by_sent, test_target_matches, 301)
 
 avg_new[30]
 
+
 #conduct a ria
 #Retrieve data from prior RIAs
+
+
 target_matches = getTargetDoc(template_data_path)
 targs, targ_vecs, sents = getInfo(par_vec_tfidf, target_matches)
 
@@ -109,22 +144,6 @@ policy_documents = policy_documents_png
 score_dict_tf = ria(documents_path, policy_documents, par_vec_tfidf, sents, targ_vecs, targs)
 
 #Generate the results spreadsheet
-for_devika_png = getResults(score_dict_tf, 10)
-generateSpreadsheet(for_devika_png, 'RIA_PNG.xlsx')
-
-#Update model for future RIA
-updates = getUpdates('RIA_PNG.xlsx')
-updates['4.6']
-
-shelf = shelve.open('RIA_Data')
-ground_truth = shelf['ground_truth']
-shelf.close()
-ground_truth['4.6']
-
-updateGroundTruth(updates)
-
-shelf = shelve.open('RIA_Data')
-ground_truth = shelf['ground_truth']
-shelf.close()
-ground_truth['4.6']
+ria_results = getResults(score_dict_tf, 10)
+generateSpreadsheet(ria_results, 'RIA_PNG.xlsx')
 
