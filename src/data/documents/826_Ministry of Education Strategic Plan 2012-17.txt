@@ -1,0 +1,1523 @@
+no title
+
+REPUBLIC OF NAMIBIA
+
+strategicPLAN
+
+2012 - 2017
+
+MINISTRY OF EDUCATION
+
+FOREWORD .......................................................................................................................................... iv
+
+ACKNOWLEDGEMENT ........................................................................................................................ vi
+
+EXECUTIVE SUMMARY ...................................................................................................................... viii
+
+1. INTRODUCTION ........................................................................................................................ 1 1.1 Introduction and Background ........................................................................................ 1 1.2 Rationale for the Strategic Plan .................................................................................... 3 1.3 Linkage between Strategic Plan and Performance Management Plan (PMP) .............. 4
+
+2. STRATEGIC DIRECTION .......................................................................................................... 5
+
+2.1 Conceptual Framework
+
+2.2 Mandate ........................................................................................................................ 5 2.3 Vision Statement ........................................................................................................... 6 2.4 Mission Statement ......................................................................................................... 6 2.5 Core Values ................................................................................................................... 7
+
+3. CONCEPTUAL UNDERSTANDING, STRATEGIC THEMES AND OBJECTIVES ................... 8
+
+3.1 Strategic Themes .......................................................................................................... 8 3.2 Strategic Theme and Objectives ................................................................................... 9
+
+4. STRATEGY MAP ..................................................................................................................... 10
+
+5. STRATEGIC PLAN-MATRIX .................................................................................................... 11
+
+TABLE OF CONTENT
+
+iv
+
+STRATEGIC PLAN 2012 - 2017
+
+The Strategic Plan of the Ministry of Education provides the strategic direction and frameworks during the period namely, 2012 - 2017 in order to achieve the Ministry's vision, mission and strategic objectives.
+
+This blueprint articulates the Ministry's strategies, processes and evidence-based reporting of results in the education and training sector. The ultimate goal is the actualization of the Ministry's goals of access, equity, democracy and quality education for all.
+
+The five strategic themes developed by the Ministry and corresponding strategic objectives and initiatives form the basis of the Strategic Plan, and should assist the Ministry to attain its vision and mission.
+
+The Namibian educational system requires continuous improvement in quality teaching and learning outcomes. The entire staff of the Ministry of Education from the classroom to the top management must, therefore, be always conscious that their performances influence the delivery of quality educational services and positive learner academic achievements.
+
+We set high standards in this Plan for positive learning outcomes leading to diverse opportunities for our learners regarding their careers and success in life. Our Strategic Plan identifies strategic objectives, initiatives and measureable results that demonstrate the expected outcomes of the education system over the next five years. Monitoring and evaluation therefore becomes an integral part of each and every component of the plan.
+
+We are conscious that it will not be easy to achieve the Strategic objectives and the collective outcomes of education and training excellence that we articulated in our Vision Statement. We further recognize that the education and training sector in Namibia is likely to face many challenges in the implementation of
+
+FOREWORD
+
+the Plan, and it is critical therefore, that all the stakeholders in education and training join forces with the Ministry in the pursuit of excellence and in fulfilling the mandate of the Ministry. This is envisaged through our commitment to stakeholder partnerships, whereby development partner participation through ETSIP implementation has been elaborated.
+
+The key performance indicators (KPIs), initiatives and timeframe for achieving the strategic themes/ objectives were formulated, and responsibilities assigned to relevant units in order to ensure the effective implementation of the Strategic Plan. Mechanisms were also put in place to monitor progress in achieving the strategic themes and objectives. We are confident that the Performance Management Plan (PMP), as a tool, would ensure the implementation process and reporting of results in a timely manner.
+
+In conclusion, the Ministry of Education will continue to strive for the provision of quality teaching and learning, improved learning outcomes, and the production of an educated and skilled workforce needed for a productive and competitive Nation through the effective implementation of this Strategic Plan.
+
+DR. ABRAHAM IYAMBO MINISTER OF EDUCATION
+
+vi
+
+STRATEGIC PLAN 2012 - 2017
+
+The Strategic Plan of the Ministry of Education for the period 2012 - 2017 is a culmination of the collective wisdom of the Ministry and its stakeholders. The Ministry acknowledges the participation and valuable contributions, which were made by all the staff members of the Ministry of Education and stakeholders, both local and international, in the education and training sector during the development stage of the Strategic Plan, including the consultative stakeholders' meetings across the regions.
+
+The guidance, active involvement and technical support from the Office of the Prime Minister and the Ministerial Implementation Team during the development of the Strategic Plan were invaluable, and are highly appreciated. This Plan could not have been completed without the active involvement and immeasurable support of individuals and groups, thus, we express our sincere appreciation to all.
+
+ALFRED MATENGU ILUKENA PERMANENT SECRETARY
+
+ACKNOWLEDGEMENT
+
+AIDS
+
+- Acquired Immuno Deficiency Syndrome
+
+AUPE
+
+- Adult Upper Primary Education
+
+CLDC
+
+- Community Learning and Development Centre
+
+DAE
+
+- Directorate of Adult Education
+
+DNEA
+
+- Directorate of National Examination and Assessment
+
+DPS
+
+- Deputy Permanent Secretary
+
+EMIS
+
+- Education Management Information Services
+
+ETSIP
+
+- Education and Training Sector Improvement Programme
+
+FE
+
+- Formal Education
+
+HAMU
+
+- HIV & Aids Management Unit
+
+HIV
+
+- Human Immuno-deficiency Virus
+
+HR
+
+- Human Resources
+
+ICT
+
+- Information and Communication Technology
+
+IT
+
+- Information Technology
+
+KPI
+
+- Key Performance Indicators
+
+LL
+
+- Lifelong Learning
+
+MIT
+
+- Ministerial Implementation Team
+
+MoE
+
+- Ministry of Education
+
+NCHE
+
+- National Council for Higher Education
+
+NDPs
+
+- National Development Plans
+
+NESE
+
+- National External School Evaluation
+
+NIED
+
+- National Institute for Education Development
+
+NLAS
+
+- Namibia Library and Archives Services
+
+NLP
+
+- National Literacy Programme
+
+NSFAF
+
+- Namibia Student Financial Assistant Fund
+
+O/M/A's
+
+- Offices/Ministries/Agencies
+
+PA
+
+- Performance Agreement
+
+PAD
+
+- Planning and Development
+
+PESTLE
+
+- Political, Economical, Sociological, Technological, Legal and Environmental Factors
+
+PMS
+
+- Performance Management System
+
+PQA
+
+- Programmes Quality Assurance
+
+RC
+
+- Regional Council
+
+SATS
+
+- Standardized Achievement Tests
+
+SLA's
+
+- Service Level Agreements
+
+SOE's
+
+- State Owned Enterprises
+
+SWOT
+
+- Strength, Weaknesses, Opportunities and Threats
+
+ABBREVIATIONS
+
+viii
+
+STRATEGIC PLAN 2012 - 2017
+
+This Strategic Plan provides an implementation framework and identifies the strategic interventions and levers necessary to improve the education system. It provides an opportunity and challenge to chart a path that recognizes the education system as the key engine driver and contributor to the development of the Namibian society.
+
+This Strategic Plan serves as the centre around which all other activities revolve, and at the same time provides direction to the different units within the Ministry of Education. It provides the important link between the Ministry of Education and other high level commitments such as Vision 2030, NDPs, the Education Act of 2001 and other relevant policies and documents. This Strategic Plan was developed in line with the Performance Management System (PMS) process in order to ensure alignment to Vision 2030, NDPs and other high level documents. The Strategic Plan is the first milestone in the Performance Management System.
+
+An overview of the Strategic Plan is presented below:-
+
+• Chapter 1 Introduction and background provide a brief overview of the historical evolution of the Ministry of Education and the reform initiatives, which serve as the foundation of the
+
+Strategic Plan 2012-2017. Chapter 1 further illustrates the rationale of the Strategic Plan and the process used in developing the Plan.
+
+• Chapter 2 High level statements provide the linkage with the following key elements namely, the Mandate which is to educate and train for national development; Vision Statement which is to be the ministry of excellence in providing quality education and training for National Development. The Mission Statement which is to provide accessible and equitable quality education and training for a skilled, productive and competitive Nation, and the Core Values constitute; Integrity, Accountability, Commitment, Respect and Empathy, Teamwork and Professionalism. The above mentioned were derived from key national documents, the situational analyses, stakeholder analysis and strategic issues identified during the planning process.
+
+EXECUTIVE SUMMARY
+
+•
+
+Chapter 3
+
+Five strategic themes were identified as pillars of excellence or key focus areas such as; Teaching and Learning, Leadership and management, Infrastructure, Regulatory framework and Stakeholder Relation during the five year period. The strategic themes will be operationalized through 19 strategic objectives that describe the desired results to be achieved in order to realize the Ministry of Education's vision and to fulfill its mission.
+
+• Chapter 4 Strategy Map provides a framework that exhibits the entire Strategic Plan on one page. It shows the hypothesized cause-effect relationship between the strategic objectives. It indicates how the strategic objectives support each other to achieve the Ministry of Education's Vision, and to fulfill the Mission, which would result in satisfying the stakeholders' needs and expectations.
+
+• Chapter 5 Strategic Plan Matrix indicates the accountability framework that provides the link between the strategic theme, strategic objectives, key performance indicators, annual targets and the financial requirements to achieve the stated initiative.
+
+1.1 Introduction and Background
+
+The Ministry of Education was established mainly to provide education and training for national development. Inspired and guided by our National Vision Statement-Vision 2030, Namibia had to undergo a dramatic reform of its overall national development strategy. Vision 2030 sets a very ambitious target that, by 2030, Namibia should join the ranks of high income countries and afford all its citizens a quality of life that is comparable to that of the developed world. With emphasis on enhanced quality of life for all, Vision 2030 calls for rapid economic growth to be accompanied by equitable social development. These twin goals of growth with equity are to be pursued within a broader strategic framework of transforming the economy into a knowledge-based economy.
+
+The NDP, which embodies the goals of Vision 2030, sets out the macroeconomic growth targets and emphasizes the role of private sector as an engine of growth. Within the context of Vision 2030, the NDP4 identifies the key four focus areas, such as the national Human Resources Planning and Development, Job Creation and reduction of unemployment rate from 44.5% to 40.4%, Reduction of inequality of income as measured by Gini-Coefficient Index to 0.47 from 0.7, and increased size of manufacturing and service sectors by diversifying Namibian economy, leading towards achieving to increased per capita income to the level of developed high income countries. These factors have been incorporated in the development of Strategic Plan's high level statements, strategic themes and objectives. The Mandate of the Ministry clearly states "to educate and train for national development" and its essence is captured in several of the strategic objectives, initiatives and key performance indicators to achieve during the next five years. The Strategic Plan focuses on "providing accessible and equitable quality education and training for a skilled productive and competitive Nation" as the Ministry's Mission. The Strategic Plan objectives and initiatives are designed to achieve higher passing rates at the primary and secondary schools so that nation's workforce needs and skill-can be met and achieve a knowledge-based economy.
+
+Therefore, a strategic plan for the education sector was developed to reform the Sector in order to contribute to the actualization of Vision 2030 and the attainment of national development goals as set out in the NDPs. Eduction and Training Sector Pimprovement Programme (ETSIP) represents
+
+INTRODUCTION
+
+the education and training sector's response to the call of Vision 2030. Its key purpose is to substantially enhance the sector's contribution to the attainment of strategic national development goals, and to facilitate the transition to a knowledge based economy. In the immediate future, it will improve the quality of education and skilled workforce required to improve knowledge-driven productivity and growth, and thus contribute to economic growth.
+
+All key stakeholders in the education sector have been assigned unique and key roles towards the implementation of the ETSIP document of which the Ministry of Education is not an exception. The Ministry opted to develop a Strategic Plan to harmonise various planning and strategic documents into one plan, which will inform the education Chapter of NDP4. Therefore the Strategic Plan is an internal document that outlines the Ministry's strategy, direction, purpose, strategic themes, strategic objectives, strategic initiatives and making decisions on allocating its resources to pursue this strategy. The Strategic Plan was developed based on Vision 2030, ETSIP, situational analysis conducted and other high level documents. The aim of the strategic plan is to contribute to the overall attainment of Vision 2030 in an evolving and dynamic environment. The strategic thinking and planning benefitted from an intensive and broad based consultative process, which included diverse actors such as; the key partners (stakeholders) and staff members. The process began with the review of the relevant legislative and policy documents so as to have a shared and common understanding of the Ministry's mandate. Having understood the Ministry's Mandate, this was followed by a rigorous SWOT & PESTLE analysis and stakeholder analysis, so as to scan the internal and external environment, identify the needs and expectations of the key stakeholders and the strategic issues as part of the situational analysis.
+
+One of the strategic themes of the Strategic Plan is strengthening the stakeholder relations and partnerships. With the key strategic objective of Maximizing benefits from strategic partnerships. ETSIP being the improvement programme, we pay special attention to implementing and monitoring the initiatives pertaining to its key focus areas. In the second phase of the ETSIP, several key performance indicators will be identified as part of the Strategic Plan and subsequently in the Performance Management Plans (PMPs) at the directorate or sector levels. Special attention will focus on the use of ETSIP resources, a significant part of which comes from development partners. Efficient and effective use of resources resulting in increased outcome of teachers and learners to be measured through key performance indicators is a challenge to programme operators at the headquarters directorates, regions and school levels.
+
+Using the information derived from the exercises, the old vision and mission statements and core values of the MoE were revised. These high level statements give direction to where the Ministry wants to be in five years. To support the high level statements, five strategic themes have been identified as the key focus areas (pillars of excellence) during the Strategic Plan implementation period. Objectives have been developed to facilitate the implementation of each strategic theme. The strategic objectives describe the desired results that must be achieved to realize the Vision and the Mandate. A strategy map had been also developed that links the key elements of the Strategic Plan. This map provides a bird's eye view on how the MoE will achieve such strategic objectives. Key performance indicators and targets have been developed to facilitate a continuous process of monitoring the progress of the implementation of the Strategic Plan. Initiatives have been identified and costed, and units were assigned with responsibilities to meet the strategic objectives and the set targets.
+
+1.2 Rationale for the Strategic Plan
+
+A Strategic Plan is a very crucial document, which will propel the Ministry of Education to live-up to its Mandate and achieve its Vision. The Strategic Plan is a means to success when implemented successfully. It enables the Ministry to formulate better strategies through the use of a more systematic, logical and rational approach to strategic choices. The Plan allows the Ministry to initiate and influence activities, and thus to exert control over its own destiny. It is worth stating that the Strategic Plan uniquely embraces a ministerial and sector wide approach in the definition of its themes, strategic objectives, KPI, target and initiatives.
+
+It stipulates the key performance indicators and targets to be met within specified time-frames as well as strategic initiatives to be implemented in order to meet the set targets and achieve the strategic objectives. Furthermore, it provides the amount of resources required to implement the strategic initiatives and the entire Strategic Plan. It further makes it easier for the Ministry of Education to assess the Ministry's performance, and confirm that progress is occuring against defined direction.
+
+It also serves as a foundation for the implementation of the Performance Management System (PMS). The Strategic Plan is the basis for Performance Agreements (PAs), benchmarked at individual staff member level, thereby translating the strategy into desired outcomes for the entire Ministry. In addition, this integrated Strategic Plan unifies the Ministry around a shared vision and guides decisions in the allocation of scarce resources.
+
+It further clarifies the Mandate and Mission of the Ministry of Education, and making it easy for the employees to understand what is expected from them. This Plan is designed to empower staff members to be more pro-active in shaping the future of the education system, and build a strong teamwork. It is also intended to strengthen the utilization of expertise within the Ministry and maximise benefits from partnerships. It would also improve communication and coordination of activities, thus reducing duplication of efforts in the Ministry.
+
+1.3 Linkage between Strategic Plan and Performance Management Plan (PMP)
+
+The high level statements, such as the Ministry's Mandate, Vision, Mission, and core values identified by the Ministry's Strategic Plan have been incorporated into the Ministry's Performance Management Plan (PMP). The Strategic Themes and Strategic Objectives form the foundation for developing Key Performance Indicators for PMPs at the unit levels.
+
+The strategic theme/objective level indicators measure country-level progress in each of the strategic objective areas that are laid out in the Strategic Plan Framework. The PMP lists not only all the indicators included in the Ministry's Strategic Plan but also indicators at the detailed and disaggregated levels to account for regional variations, gender equity, social, economic and geographic differences, and learning outcomes by grades within primary and secondary schools, that are of interest to management at the unit levels. Thus, the PMPs at the headquarters directorate, regional and school level serve as a comprehensive operational or tactical plan to monitor the program activities and report evidence-based results on a continuous basis. The results achieved through PMP will not only address at the initiative, strategic objective and theme levels required by the Strategic Plan but also on detailed program activity levels so needed by operating units at the directorate, region and school levels.
+
+At the lowest level are the key performance indicators, which are a combination of input, process, output and outcome indicators. These standard indicators measure the direct, intended results expected from MoE - supported programs, projects and activities. Program level key performance indicators are directly attributable to MoE support as well as those of development partner assistance - training, technical, commodity and financial support.
+
+2.1 Conceptual Framework
+
+TERMS/CONCEPTS DEFINITION
+
+Access The importance of having the right to participate in an educational programme.
+
+Quality The focus is on learning which strengthens the capacities of learners to act progressively on their own through the acquisition of relevant knowledge, useful skills and appropriate attitudes.
+
+Relevance Relevance can best be defined as the degree to which a resource or activity matches an end user's needs. The closer the match, the greater the potential value.
+
+Reasonable Facilities Reasonable facilities help to alleviate a substantial disadvantage for example, inaccessible buildings, transport or websites and poor communication or service facilities. Reasonable facilities are put in place to help reduce these barriers in order to provide equality of access and opportunity for all.
+
+Excellence Excellence is a quality of being, a virtue, superior accomplishment or achievement, outstanding value. 
+
+2.2 Mandate
+
+The Mandate prescribes the core service area in which the Ministry of Education has to perform. In other words, it specifies the core functions and responsibilities of the Ministry of Education to the stakeholders and beneficiaries. The Ministry of Education's Mandate is derived from the Namibian Constitution, Article 20 and all relevant acts such as the Education Act (Act No. 16 of 2001), Vocational Education Act (Act No. 1 of 2008), Namibia Library and Information Srvice Act (Act No. 4 of 2000) and Archives Act (Act No. 12 of 1992).
+
+To educate and train for national development
+
+According to Article 20 of the Namibian Constitution (1) All persons shall have the right to education. (2) Primary education shall be compulsory and the State shall provide reasonable facilities to render effective this right for every resident within Namibia, by establishing and maintaining State schools at which primary education will be provided free of charge.
+
+STRATEGIC DIRECTION
+
+(3) Children shall not be allowed to leave school until they have completed their primary education or have attained the age of sixteen (16) years, whichever is the sooner, save in so far as this may be authorized by Act of Parliament on grounds of health or other considerations pertaining to the public interest.
+
+(4) All persons shall have the right, at their own expense, to establish and to maintain private schools, or colleges or other institutions of tertiary education: provided that:
+
+(a) Such schools, colleges or institutions of tertiary education are registered with a Government department in accordance with any law authorizing and regulating such registration;
+
+(b) the standards maintained by such schools, colleges or institutions of tertiary education are not inferior to the standards maintained in comparable schools, colleges or institutions of tertiary education funded by the State; (c) no restrictions of whatever nature are imposed with respect to the admission of pupils based on race, colour or creed; (d) no restrictions of whatever nature are imposed with respect to the recruitment of staff based on race or colour.
+
+2.3 Vision Statement
+
+To be the ministry of excellence in providing quality education and training for national development
+
+2.4 Mission Statement
+
+To provide accessible and equitable quality education and training for a skilled, productive and competitive Nation
+
+The mission statement below defines the fundamental purpose for the Ministry of Education, succinctly describing why the Ministry of Education exists and what it has to do to achieve the Vision. The mission statement is based on the above mentioned Mandate.
+
+2.5 Core Values
+
+To achieve the Vision and Mission, the Ministry of Education has adopted the following core values to guide the management and work of all institutions within the Ministry. These values form the foundation of the Ministry of Education's culture and priorities, and provide a framework in which decisions should be made. They will guide the policies, strategies and the daily work and behaviour of staff members.
+
+CORE VALUES WHAT DO WE MEAN
+
+Integrity The Ministry will implement the values of accessible and equitable quality education in all its institutions, linking these to the goals enunciated under Vision 2030. Members of staff will demonstrate adherence to ethical principles in the way they carry out their professional duties. They will perform their duties with integrity.
+
+Accountability Each institution within the Ministry will be accountable for implementing the agreed plans, through a well-developed Monitoring and Evaluation (M & E) scheme. Individual officers will be accountable for carrying out their responsibilities efficiently, timely and with integrity.
+
+Commitment Every institution and every member of staff will demonstrate commitment to the Government's objectives of providing accessible, equitable and quality education for all. Such commitment will provide the foundation for continuous improvement within the Ministry of Education's activities.
+
+Respect & empathy Every member of staff will show respect for the opinions and work of colleagues. They will treat learners, parents and other stakeholders with dignity and politeness at all times, embracing cultural diversity and tolerance.
+
+Teamwork Teamwork will be the modus operandi for achieving strategic objectives, as this is the most important and most effective way of working. Team building will be an important tool for every institution.
+
+Professionalism Institutions and individuals will exercise high levels of professionalism, never compromising the Ministry's values and standards. Staff members will use their skills and competencies, continuously in seeking opportunities to improve through innovative approaches. Professionalism involves working collaboratively and fairly with the common goal of serving the customers/stakeholders. Sharing knowledge of best practices with colleagues at all levels, and enhancing the quality of our services will be a practical expression of professionalism.
+
+3.1 Conceptual Understanding
+
+The Namibian educational system is about quality learning. All professional and support staff from the classroom to the ministry are mindful that the decisions they make should relate to improving the delivery of education for quality learning. In this plan we set high standards for learning achievements leading to success in life. Our strategic plan will identify measureable outcomes that demonstrate the progress that learners will make over the next five years.
+
+3.2 Strategic Themes
+
+The Ministry of Education identified five Strategic Themes in which the Ministry must excel. These Strategic Themes are the "pillars of excellence." They will be operationalized through the development of strategic objectives that describes specific things that the Ministry of Education must achieve to realise the vision, live up to the mission and deliver value to the customer/ stakeholders.
+
+STRATEGIC THEMES WHAT DO WE MEAN
+
+1. TEACHING & LEARNING This strategic theme focuses on providing accessible and equitable quality inclusive education to the learners. It also focuses on the act or experience that has a formative effect on the mind, character or physical ability of an individual. It further emphasizes learning as an act of acquiring new or modifying existing knowledge, behaviour, skills, values or preferences.
+
+2. LEADERSHIP & MANAGEMENT This strategic theme focuses on visionary leadership and management by creating an environment for staff members to perform to the best of their abilities. It emphasizes that leaders and managers should be able to successfully integrate and maximize available resources within the internal and external environment of the MOE for the attainment of set goals and objectives.
+
+3. INFRASTRUCTURE This strategic theme focuses on accelerating the pace of developing and maintaining the physical infrastructure that is required for the education sector to fulfill its Mandate.
+
+4. REGULATORY FRAMEWORK This strategic theme focuses on laws, policies and regulations that outline the legal requirements to render quality education and training. They may also be complemented by policies, standards, directives and guidelines to ensure that the education system is properly administered.
+
+5. STAKEHOLDER RELATIONS This strategic theme focuses on a strategic alliances and relationships between the Ministry of Education and its key stakeholders in pursuit of common goals and objectives. It also aims to build successful partnerships, which require both the Ministry of Education and stakeholders to base their relations on trust, equality, mutual understanding and respect and obligations. The Ministry requires the support of the key stakeholders to successfully align their plans to this Strategic Plan.
+
+CONCEPTUAL UNDERSTANDING, STRATEGIC THEMES AND OBJECTIVES
+
+3.3 Strategic Theme and Objectives
+
+STRATEGIC THEMES STRATEGIC OBJECTIVES
+
+1. TEACHING & LEARNING 1.1 Provide accessible and equitable quality inclusive education.
+
+1.2 Improve supervision of teaching and learning.
+
+1.3 Ensure quality relevant learning content.
+
+1.4 Create a conducive environment for teaching & learning.
+
+1.5 Build educators' skills and competencies.
+
+2. LEADERSHIP & MANAGEMENT 2.1 Enhance information & knowledge management.
+
+2.2 Enhance management of the decentralization function.
+
+2.3 Improve organizational performance.
+
+2.4 Enhance HIV prevention including Wellness.
+
+2.5 Improve ICT provision and usage.
+
+2.6 Strengthen management skills and competencies.
+
+2.7 Attract, deploy & retain skilled workforce.
+
+2.8 Ensure prudent financial management & adequate and fair allocation of resources
+
+3. INFRASTRUCTURE 3.1 Improve maintenance of infrastructure & Ensure modern and reliable physical infrastructure
+
+4. REGULATORY FRAMEWORK 4.1 Ensure compliance to regulatory framework.
+
+4.2 Ensure responsive regulatory framework.
+
+5. STAKEHOLDER RELATIONS 5.1 Maximize benefits from strategic partnerships.
+
+5.2 Increase collaboration with local, regional & international partners.
+
+5.3 Strengthen and manage relations with key internal & external stakeholders.
+
+R IT Y A C C O U N T A B IL IT Y C O M M IT M E N T R E SP E C T &
+
+E M P A T H Y T E A M W O R K P R O F E SS IO N A L I
+
+2. 8 E ns ur e pr ud en t f in an ci al m an ag em en t & a de qu at e an d fa ir al lo ca tio n of re so ur ce s
+
+ha nc e
+
+H IV p re ve nt io n cl ud in g w el ln es s 2. 5
+
+Im pr ov e
+
+IC T pr ov is io n
+
+an d us ag e 2. 6
+
+St re ng th en m an ag em en t
+
+sk ill s an d co m pe te nc ie s 2. 7.
+
+A ttr ac t, de pl oy & re
+
+sk ill ed w or kf or ce
+
+B ui ld e du ca to r's  an d co m pe te nc ie s re at e a co nd uc iv e n vi ro nm en t f or c hi ng & le ar ni ng
+
+En su re re le va nt ty le ar ni ng c on te nt pr ov e su pe rv is io n e ac hi ng le ar ni ng E A C H IN G & E A R N IN G
+
+4. R E G U L A T O R Y F R A M E W O R K 4. 1 En su re c om pl ia nc e to re gu la to ry fr am ew or k 4. 2 En su re re sp on si ve re gu la to ry fr am ew or k
+
+3. 1 Im pr ov e m ai nt en an ce of in fr as tr uc tu re & E ns ur e m od er n an d re lia bl e ph ys ic al in fr as tr uc tu re 3. I N F R A ST R U C T U R E
+
+2. 3 Im pr ov e or ga ni za tio na l pe rf or m an ce 2. 2 En ha nc e m an ag em en t o f th e de ce nt ra liz at io n fu nc tio n 2. 1 En ha nc e in fo rm at io n & kn ow le dg e m an ag em en t 2. L E A D E R SH IP & M A N A G E M E N T
+
+5. 3
+
+St re ng th en & m an
+
+re la tio ns w ith k ey in te
+
+& e xt er na l s ta ke ho ld
+
+5. 2
+
+In cr ea se
+
+co lla bo ra tio n w ith lo c
+
+re gi on al & in te rn at io
+
+pa rt ne rs
+
+5. 1
+
+M ax im iz e be ne fi
+
+fr om s tr at eg ic
+
+pa rt ne rs hi ps
+
+5.
+
+S T A K E H O L D E
+
+R E L A T IO N N :
+
+To b e th e m in is tr y of e xc el le nc e in p ro vi di ng q ua lit y ed uc at io n an d tr ai ni ng fo r n at io na l d ev el op m en t. N :
+
+To p ro vi de a cc es si bl e an d eq ui ta bl e qu al ity e du ca tio n an d tr ai ni ng fo r a s ki lle d, p ro du ct iv e an d co m pe tit iv e
+
+N at io n
+
+1. 1
+
+Pr ov id e ac ce ss ib le
+
+eq ui ta bl e an d qu al ity
+
+ed uc at io n fo r a ll
+
+Defining the Strategic Themes and Strategic Objectives is not enough. A matrix for the Strategic Plan was developed to ensure that there is a clear direction in successfully implementing the strategy. The following terminologies used in the matrix are hereby defined;
+
+•
+
+Strategic Objective:
+
+Is the statement of the desired result.
+
+• Key Performance Indicators: Is a measure of performance. It answers the question "How success in achieving the strategy will be measured and tracked". It helps the Ministry of Education to define and evaluate how successful the institution is implementing the initiatives.
+
+• Targets: Indicates the "desired result of a performance measure". The level of performance or rate of improvement needed or required. They are established by month; quarter, half-year and year. Its purpose is to keep the Ministry of Education focused on achieving the set strategic objectives.
+
+• Initiatives: The projects and programmes that the responsible units have to undertake to ensure that the performance targets are met or executed. They drive strategic performance. Initiatives are means by which the Ministry of Education will achieve the strategic objectives. They should be at a higher level and strategic in nature avoiding the business as usual by all means. They will bring about change in service delivery in the Ministry of Education.
+
+• Accountable Unit: A unit identified and given the responsibility to account and take ownership of the initiative set out in the Strategic Plan.
+
+• Cost Estimates: Estimate costs required for the initiatives. Resource allocations (budgets) should be aligned, so as to ensure the achievement of maximum results with minimum resources.
+
+The focus should be on strategic outcomes/customer benefits/impacts as defined in the Strategic Plan.
+
+STRATEGIC PLAN-MATRIX
+
+bj ec tiv e
+
+ND P 4
+
+De si re d
+
+O ut co m e
+
+no KP I
+
+Ta rg et s
+
+Pr og ra m m e/
+
+In iti at iv e
+
+Ba se lin e 20 12 /1 3 20 13 /1 4 20 14 /1 5 20 15 /1 6 20 16 /1 7 c ce ss ib le in clu siv e a ll l ev el s 1 & 2 pr om ot io n ra te - pr im ar y 82 .3 82 .9 83 .5 84 .1 84 .7 85 .3 1. 1. 1
+
+O ut co m es a nd im pa ct o f a cc e
+
+an d eq ui ta bl e in clu siv e qu al ity e du c
+
+al l le ve ls.
+
+pr om ot io n ra te
+
+- s ec on da ry 69 .0 70 .0 71 .0 72 .0 73 .0 74 .0
+
+re pe tit io n ra te - pr im ar y 15 .3 14 .8 14 .3 13 .8 13 .3 12 .8
+
+Re pe tit io n ra te - se co nd ar y 21 .9 21 .6 21 .3 21 .0 20 .7 20 .4
+
+% o f s ch oo l d ro po ut s
+
+-
+
+pr im ar y 2. 4 2. 3 2. 2 2. 1 2. 0 1. 9
+
+% o f s ch oo l d ro po ut s -
+
+se co nd ar y 9. 1 8. 4 7. 7 7. 0 6. 3 5. 6
+
+Ne t e nr ol lm en t r at e &
+
+No . o f
+
+le ar ne rs in p re -p rim ar y 38 % 67 39 50 % 75 47 62 % 84 53 74 % 94 67 86 % 10 6 03 98 % 11 8 76
+
+Ne t e nr ol lm en t r at e &
+
+No .o f
+
+le ar ne rs in p rim ar y ed uc at io n 99 .8 38 6 59 6 99 .9 38 6 98 2 99 .9 38 6 98 2 10 0 38 7 36 9 10 0 38 7 36 9 10 0 38 7 36 9
+
+Ne t e nr ol lm en t r at e & No .
+
+of le ar ne rs in s ec on da ry
+
+ed uc at io n 57 .1 16 4 29 3 60 .1 16 9 22 1 63 .1 17 4 29 8 66 .1 17 9 52 7 69 .1 18 4 91 3 72 .1 19 0 46 0
+
+Ne t e nr ol lm en t i n
+
+NL P at a ll
+
+st ag es 28 0 11 24 2 24 21 0 27 18 2 51 15 8 42 13 7 51
+
+% o f g irl s' en ro lm en t i n
+
+pr im ar y ph as e (g en de r p ar ity ) 49 .5 49 .6 49 .7 49 .8 49 .9 50
+
+% o f g irl s' en ro lm en t i n
+
+se co nd ar y ph as e (g en de r
+
+pa rit y) 53 .4 53 .3 53 .2 53 .1 53 52 .9
+
+Su rv iva l r at es in
+
+G ra de 8 81 .3 84 .1 86 .9 89 .7 92 .5 95 .3
+
+Su rv iva l r at es in
+
+G ra de 1 1 46 .6 47 .6 48 .6 49 .6 50 .6 51 .6 bj ec tiv e
+
+ND P 4
+
+De si re d
+
+O ut co m e no KP I
+
+Ta rg et s
+
+Pr og ra m m e/
+
+In iti at iv e
+
+Ba se lin e 20 12 /1 3 20 13 /1 4 20 14 /1 5 20 15 /1 6 20 16 /1 7
+
+# of c hi ld re n en ro lle d in
+
+EC D pr og ra m m es 57 ,4 22 57 ,4 22 60 ,0 00 65 ,0 00 70 ,0 00 75 ,0 00 1. 1. 2
+
+Ac ce ss ib le a nd q ua lity e du ca ti
+
+% o f E du ca re rs w ho h av e
+
+m or e th an 1 m on th tr ai ni ng
+
+in
+
+E CD 68 % 68 % 70 % 75 % 80 % 90 %
+
+% o f E
+
+CD c en tre s wi th
+
+ad eq ua te s an ita tio n
+
+(fu nc tio na l t oi le ts o r l at rie s) 32 ,7 32 ,7 40 % 50 % 60 % 75 %
+
+Nu m be r o f E
+
+CD c en tre s
+
+re ce ivi ng
+
+G RN s ch oo l f ee di ng 0 0 50 10 0 20 0 30 0
+
+No e nr ol m en ts in
+
+D ist an ce
+
+Ed uc at io n pr og ra m m es 32 6 43 34 5 18 36 6 44 37 3 00 37 4 00 37 5 00 1. 1. 3
+
+En ro lm en ts in e du ca tio na l p ro
+
+% o f s ec on da ry s ch oo l
+
+le ar ne r t ha t q ua lifi ed to e nt er
+
+te rti ar y in st itu tio ns . 11 .8 12 .8 13 .8 14 .8 15 .8 16 .8
+
+Nu m be r e nr ol le d at
+
+V TC 6 81 6 9 56 1 13 3 85 18 7 39 26 2 35 36 7 29
+
+No o f e nr ol m en ts a t U
+
+NA M 16 2 03 17 0 20 17 8 71 18 7 64 19 7 02 20 6 40
+
+No o f s tu de nt s en ro lle d at
+
+Po N 12 4 40 13 5 50 14 3 35 15 0 50 15 9 53 17 2 79
+
+Av er ag e an nu al c om pl et io n
+
+ra te s fo r V
+
+ET tr ai ni ee s 80 % 80 % 74 % 74 % 74 % 74 %
+
+# of fa cu lty p os itio ns a t P oN 42 0 45 0 46 0 49 0 52 5 55 0
+
+% o f P oN s tu de nt s th at p as s 59 60 62 64 66 68
+
+Pa ss ra te a t U
+
+NA M 50 % 55 % 60 % 70 % 80 % 90 %
+
+% in cr ea se in s tu de nt
+
+en ro lm en ts 5 6. 73 5. 35 4. 99 5. 44 6. 35
+
+No o f B en ef ici ar ie s of
+
+N SF AF
+
+Lo an /G ra nt s 4 99 1 6 23 9 8 11 0 11 3 55 16 4 64 24 6 96 bj ec tiv e
+
+ND P 4
+
+De si re d
+
+O ut co m e no KP I
+
+Ta rg et s
+
+Pr og ra m m e/
+
+In iti at iv e
+
+Ba se lin e 20 12 /1 3 20 13 /1 4 20 14 /1 5 20 15 /1 6 20 16 /1 7 n ar ni ng 1 & 2
+
+Ra te o f s ch oo l p er fo rm an ce
+
+at p rim ar y le ve l ( sc al e 1
+
+- 4) 1. 9 2 2. 1 2. 2 2. 3 2. 5 1. 2. 1
+
+Na tio na l st an da rd s an d pe
+
+in di ca to rs
+
+an d pr of es sio na l st an
+
+te ac he rs to
+
+m ea su re
+
+in te rn al
+
+ef f
+
+le ar ni ng o ut co m es
+
+1. 2. 2
+
+Le ar ni ng s up po rt
+
+1. 2. 3
+
+Su pe rv isi on o f t ea ch in g an d le
+
+1. 2. 4
+
+Co nd uc ive e nv iro nm en t f or te a
+
+le ar ni ng 1. 2. 5
+
+Ed uc at or s' sk ills a nd c om pe te
+
+Ra te o f s ch oo l p er fo rm an ce
+
+at s ec on da ry le ve l ( sc al e
+
+1-4) . 2. 4 2. 5 2. 6 2. 7 2. 8 2. 9 1. 2. 6
+
+Pe rfo rm an ce
+
+M an ag em en t S y
+
+# of s ch oo ls ev al ua te d ba se d
+
+on th e na tio na l E xt er na l
+
+Sc ho ol
+
+E va lu at io n (N
+
+ES E) . 13 2 16 8 0 20 4 0 24 0 1. 2. 7
+
+Ss ch oo l c lu st er in g sy st em
+
+1. 2. 8
+
+Q ua lity a ss ur an ce s ys te m s at
+
+% o f I ns pe ct or s/
+
+E du ca tio n
+
+O ffi ce rs /s ch oo l m an ag em en t
+
+tra in ed o n su pe rv isi on fo r
+
+te ac hi ng a nd le ar ni ng
+
+(s ca le 1 - 4 ) 10 % 35 % 50 % 70 % 90 % 10 0% 1. 2. 9
+
+St an da rd s fo r t he e du ca tio n sy
+
+1. 2. 10
+
+Le ad er s w ith
+
+ne ce ss ar y
+
+kn ow le dg e th ro ug h in -s er vic e tra in in
+
+1. 2. 11
+
+Sk ills
+
+an d co m pe te nc
+
+pr og ra m m es .
+
+1. 2. 12
+
+N at io na l s ta nd ar ds a nd p e
+
+in di ca to rs
+
+an d p ro fe ss io na l st an
+
+te ac he rs t o m ea su re i nt er na l ef f
+
+le ar ni ng o ut co m es .
+
+j ec tiv e
+
+ND P 4
+
+De si re d
+
+O ut co m e
+
+no KP I
+
+Ta rg et s
+
+Pr og ra m m e/
+
+In iti at iv e
+
+Ba se lin e 20 12 /1 3 20 13 /1 4 20 14 /1 5 20 15 /1 6 20 16 /1 7 le va nt i ng ov e ve m en ts 1 & 2
+
+In cr ea sin g
+
+SA TS s co re
+
+G ra de
+
+5 a)
+
+E ng lis h
+
+b)
+
+M at he m at ics 46 % 43 % - - 50 % 47 % - - 54 % 51 % - - 1. 3. 1
+
+In sp ec to rs o f
+
+Ed uc at io n an d
+
+te ac he rs fo r E ng lis h an d
+
+M at he m at
+
+in te rp re ta tio n of
+
+S AT S re po rts .
+
+SA TS G ra de 7 a ) E ng lis h b)
+
+M at hs c) S cie nc e 45 % 42 % 51 % 50 % 47 % 56 % - - - 55 % 52 % 61 % - - - 60 % 57 % 66 % 1. 3. 2
+
+In sp ec to rs o f
+
+Ed uc at io n an d
+
+te ac he rs fo r E ng lis h,
+
+M at he m at ics a
+
+Sc ie nc e on th e in te rp re ta tio n of
+
+S AT
+
+Pe rc en ta ge o f l ea rn er s
+
+ac hi ev in g
+
+D or b et te r i n
+
+G ra de 1 2:
+
+M at he m at ics
+
+S cie nc e
+
+En gl ish 40 .8 % 44 .2 % 34 .0 % 42 .9 % 45 .5 % 40 .0 % 44 .2 % 47 .8 % 42 .5 % 45 .3 % 50 .1 % 45 .0 % 46 .6 % 52 .4 % 47 .5 % 47 .9 % 54 .7 % 50 .0 % 1. 3. 3
+
+St an da rd s an d co m pe te nc ie s
+
+le ar ni ng .
+
+Pe rc en ta ge o f l ea rn er s
+
+ac hi ev in g
+
+D or b et te r i n
+
+G ra de 1 0:
+
+M at he m at ics
+
+S cie nc e
+
+En gl ish 41 .4 % 47 .7 % 46 .6 % 43 .5 % 50 .5 % 50 .6 % 44 .2 % 51 .1 % 52 .4 % 44 .9 % 51 .7 % 54 .2 % 45 .6 % 52 .3 % 55 .8 % 46 .3 % 52 .9 % 57 .4 % 1. 3. 4
+
+Cu rri cu lu m a t a ll l ev el s to b e a
+
+th e se t s ta nd ar ds f or ar ni ng 1 & 2
+
+Ra tio o f l ea rn er to te xt bo ok
+
+1: 3 1: 2 1: 1 1. 1 1: 1 1: 1 1. 4. 1
+
+Ad eq ua te a nd re le va nt te ac hi
+
+le ar ni ng m at er ia l a t a ll l ev el s
+
+# o f s ch oo ls wi th p ro pe r
+
+lib ra ry b ui ld in gs 34 0 36 6 39 2 41 8 44 4 47 0 1. 4. 2
+
+Re so ur ce m at er ia ls in lib ra rie
+
+re so ur ce c en te rs .
+
+% in cr ea se o f s ch oo l
+
+lib ra rie s le ar ni ng re so ur ce s. 7%
+
+10 % 10 % 10 % 10 % 10 %
+
+% in cr ea se o f c om m un ity
+
+lib ra rie s re so ur ce s 7% 15 % 20 % 25 % 30 % 35 %
+
+No . o f s ch oo ls wi th fu ll-tim e
+
+life s kil ls te ac he rs 0 48 98 14 8 19 8 29 8 1. 4. 3
+
+Ps yc ho -s oc ia l s up po rt se rv ice
+
+to le ar ne rs th ro ug h tra in in g of lif e s
+
+te ac he rs a nd s up po rt te ac he r c ou n
+
+No . o f s ch oo ls wi th fu lly
+
+eq ui pp ed a nd fu nc tio na l
+
+co m pu te rs la bo ra to rie s 83 20 0 20 0 20 5 30 0 35 0 j ec tiv e
+
+ND P 4
+
+De si re d
+
+O ut co m e no KP I
+
+Ta rg et s
+
+Pr og ra m m e/
+
+In iti at iv e
+
+Ba se lin e 20 12 /1 3 20 13 /1 4 20 14 /1 5 20 15 /1 6 20 16 /1 7
+
+No o f s ch oo ls wi th in te rn et
+
+fa cil itie s.
+
+34 30 0 30 0 35 0 40 0 20 0 1. 4. 4
+
+G ui de lin e to m an ag e te ac hi ng
+
+le ar ni ng re so ur ce s
+
+No . o f s ch oo ls wi th
+
+eq ui pp ed s cie nc e
+
+la bo ra to rie s 91 9 92 9 93 9 94 9 95 9 96 9
+
+Te ac he r l ea rn er ra tio a t
+
+pr im ar y 1: 29 1: 29 1: 29 1: 32 1: 35 1: 35 1. 4. 5
+
+St af fin g no rm s.
+
+1. 4. 6
+
+Ap po in tm en t o f t ea ch er a ss ist
+
+al l le ar ne rs w ith s pe cia l n ee ds .
+
+1. 4. 7
+
+Ad di tio na l s up po rt to a ll l ea rn e
+
+1. 4. 8
+
+Ap pr op ria te te ac hi ng &
+
+le ar ni ng m at er ia ls
+
+Te ac he r l ea rn er ra tio a t
+
+se co nd ar y 1: 24 1: 25 1: 25 1: 28 1: 30 1: 30
+
+Le ct ur e st ud en t r at e at
+
+P oN 1: 50 1: 45 1: 40 1: 30 1: 30 1: 30 1 & 2 % o f e du ca to rs m ee tin g se t
+
+co m pe te nc y st an da rd s. 0 20 % 30 % 40 % 50 % 60 % 1. 5. 1
+
+Tr ai ni ng n ee ds a ss es sm en t f o
+
+ed uc at or s. 1. 5. 2
+
+Pr of es sio na l e du ca to r t ra in in g
+
+pr og ra m m e.
+
+1. 5. 3
+
+Pr of es sio na liz e ed uc at or s.
+
+1. 5. 4
+
+Co m pe te nc y st an da rd s.
+
+1. 5. 5
+
+In du ct io n co ur se fo r a ll s ta ff.
+
+1. 5. 6
+
+Ed uc at io n pr og ra m m es .
+
+% o f N am ib ia n fa cu lty w ith
+
+Ph d' s 10 15 20 25 30 35
+
+Pe da go gi ca l S kil ls co ve ra ge
+
+at
+
+U NA M 50 % 60 % 70 % 80 % 90 % 10 0%
+
+% in cr ea se in te ac he r
+
+tra in ee s. 15 % 20 % 30 % 40 % 50 % 60 % 1. 5. 7
+
+O ut co m es a nd im pa ct o f t he
+
+pr of es sio na l t ra in in g pr og ra m m es .
+
+1. 5. 8
+
+M en to rin g sy st em to o ffe r su p
+
+se rv in g st af f.
+
+1. 5. 9
+
+Cl us te r s ys te m .
+
+1. 5. 10
+
+T ra in in g po lic y fo r e du ca to rs .
+
+# of re fe re ed p ub lic at io ns 18 1 19 0 20 0 20 0 22 0 23 0
+
+Fa cu lty o n sa bb at ica l le ar ni ng 0 2 4 8 10 15 j ec tiv e
+
+ND P 4
+
+De si re d
+
+O ut co m e no KP I
+
+Ta rg et s
+
+Pr og ra m m e/
+
+In iti at iv e
+
+Ba se lin e 20 12 /1 3 20 13 /1 4 20 14 /1 5 20 15 /1 6 20 16 /1 7 1
+
+Nu m be r o f s ta ff m em be rs
+
+tra in ed o n re co rd
+
+m an ag em en t. 22 0 25 0 25 0 30 0 30 0 30 0 2. 1. 1
+
+Re co rd m an ag em en t.
+
+2. 1. 2
+
+Eq ui ta bl e ac ce ss to q ua lity in fo
+
+an d life lo ng le ar ni ng .
+
+2. 1. 3
+
+Re gi on al k no wl ed ge c en tre s
+
+2. 1. 4
+
+Ef fic ie nc y in p ro du ct io n tim e.
+
+2. 1. 5
+
+Re se ar ch a nd
+
+D ev el op m en t
+
+No . o f R eg io na l S tu dy
+
+Re so ur ce
+
+C en tre s
+
+co ns tru ct ed 0 2 1 1 1 2
+
+Pr od uc tio n tim e of a nn ua l
+
+st at ist ica l r ep or ts (m on th s) . 5 4 4 4 4 4
+
+In cr ea se
+
+in
+
+Re se ar ch
+
+an d
+
+De ve lo pm en t sp en di ng
+
+as
+
+pe rc en t o f G
+
+DP 0. 06 % 0. 08 % 0. 1% 0. 2% 0. 25 % 0. 3% o f t he n 1 & 2
+
+De gr ee o f d ec en tra liz at io n
+
+pr oc es s ac co m pl ish ed 25 % 50 % 75 % 10 0% 10 0% 10 0% 2. 2. 1
+
+An nu al im pl em en ta tio n pl an
+
+2. 2. 2
+
+De ce nt ra liz at io n fu nc tio na l f ra m l 2
+
+No . o f P er fo rm an ce
+
+Ag re em en ts s ig ne d an d
+
+ap pr ai se d 0 5 31 63 63 63 2. 3. 1
+
+O rg an iza tio n st ru ct ur e to re sp o
+
+or ga ni za tio na l m an da te .
+
+No o f P
+
+M S ba se d
+
+pe rfo rm an ce re vie ws 0 31 63 63 63 2. 3. 2
+
+M on ito rin g an d ev al ua tio n sy s
+
+ed uc at io n pr og ra m m es a t a ll l ev el s.
+
+No o f s er vic e-le ve l
+
+ag re em en ts s ig ne d an d
+
+ap pr ai se d wi th
+
+S O E' s 0 6 6 6 6 6 2. 3. 3
+
+M on ito rin g m ec ha ni sm fo r p er
+
+of SO
+
+Es a nd a ll o th er s ub sid ize d en tit i
+
+2. 3. 4
+
+Pe rfo rm an ce
+
+M an ag em en t
+
+Sy st em a t a ll l ev el s.
+
+% o f s ta ff co ve re d by
+
+P M S 0 0 25 50 75 10 0
+
+% s et ta rg et s m et in
+
+Di re ct or at es
+
+A nn ua l P la ns . 30 % 55 % 60 % 70 % 80 % 90 % 2. 3. 5
+
+It er na l p ro ce ss es to im pr ov e
+
+ef fic ie nc y an d ef fe ct ive ne ss
+
+2. 3. 6
+
+Co m m un ica tio n an d co or di na t
+
+st ra te gy j ec tiv e
+
+ND P 4
+
+De si re d
+
+O ut co m e no KP I
+
+Ta rg et s
+
+Pr og ra m m e/
+
+In iti at iv e
+
+Ba se lin e 20 12 /1 3 20 13 /1 4 20 14 /1 5 20 15 /1 6 20 16 /1 7  es s; h ip en t
+
+HI V 1
+
+HI V Li fe
+
+S kil ls
+
+Ed uc at io n
+
+in clu di ng
+
+W oH a nd
+
+M FM C 30 35 40 45 50 55 2. 4. 1 %
+
+ed uc at io n se ct or
+
+le ar
+
+st ud en ts
+
+ha vin g co m pr eh en s
+
+Pr ev en tio n kn ow le dg e an d sk ills
+
+se xu al re pr od uc tiv e he al th
+
+2. 4. 2 % o f l ea rn er s ag ed 6 -1 9, e xp o
+
+Li fe
+
+S kil ls ed uc at io n in clu di ng
+
+W oH a
+
+2. 4. 3 % o f e m pl oy ee s, le ar ne rs a nd
+
+ac ce ss in g an d ut iliz in g
+
+HI V as w e
+
+he al th a nd s af et y re la te d se rv ice s
+
+HI V M ai ns tre am in g in o th er
+
+Ed uc at io n
+
+Pr og ra m m es 40 50 60 70 80 90
+
+# an d % o f e du ca to rs
+
+kn ow in g th ei r H
+
+IV s ta tu s an d
+
+re m ai n th e sa m e 23 16 12 55 95 21 .5 61 00 29 .8 68 12 47 .4 42 01 55 .6 33 60 10 0
+
+% o f s tu de nt s wi th a cc es s to
+
+st ud en t s er vic es 2 3 5 6 10 20 T sa ge . 3
+
+Nu m be r o f e du ca to rs u sin g
+
+IC Ts in e du ca tio n 60 0 60 0 60 0 75 0 75 0 10 00 2. 5. 1
+
+Ac ce ss to
+
+IC T at a ll i ns tit ut io ns
+
+2. 5. 2
+
+IC T tra in in g, m ai nt en an ce a nd
+
+2. 5. 3
+
+M &E p ro ce ss fo r I
+
+CT e xp an sio
+
+No . o f I
+
+CT u se rs in lib ra rie s
+
+an d
+
+CL DC 's (0 00 's) 62 10 0 15 0 20 0 25 0 30 0
+
+No . o f c om m un ity lib ra rie s/
+
+CL DC 's pr ov id in g ac ce ss to
+
+IC T 29 41 55 65 73 75
+
+St ud en t c om pu te r r at io n at
+
+Po N 1: 15 1: 7 1: 6 1: 5 1: 4 1: 3 kil ls c ie s 2 % o f s ta ff tra in ed to u pg ra de
+
+th ei r s kil ls 30 50 60 70 85 10 0 2. 6. 1
+
+Tr ai ni ng n ee ds a ss es sm en t f o
+
+2. 6. 2
+
+Tr ai ni ng a nd e xp os ur e pr og ra m
+
+2. 6. 3
+
+Tr ai ni ng d at a m an ag em en t s ys
+
+2. 6. 4
+
+In clu sio n of le ad er sh ip a nd
+
+m an ag em en t c ou rs es fo r e du ca to rs
+
+in st itu tio ns 2. 5. 5
+
+Ap pr en tic es hi p pr og ra m m e
+
+Nu m be r p la ce d in
+
+ap pr en tic es hi p pr og ra m m e 0 0 20 00 50 00 10 0 00 15 0 00 lo y & 3 % o f s ta ff tu rn ov er . 6 5 4 3 2 1 2. 7. 1
+
+Ap po in tm en t r eq ui re m en t f or jo
+
+ca te go rie s.
+
+2. 7. 2
+
+Ca re er in fo rm at io n sy st em
+
+2. 7. 3
+
+Re cr ui tm en t p ro ce ss
+
+No . o f s ch oo ls wi th fu ll-ti m e
+
+lib ra ria ns 0 10 20 30 40 50 j ec tiv e
+
+ND P 4
+
+De si re d
+
+O ut co m e no KP I
+
+Ta rg et s
+
+Pr og ra m m e/
+
+In iti at iv e
+
+Ba se lin e 20 12 /1 3 20 13 /1 4 20 14 /1 5 20 15 /1 6 20 16 /1 7 de nt fa ir so ur ce s 1
+
+Ra te o f v ar ia nc e (O ve r a nd
+
+Un de r s pe nd in g re du ce d) (% ) 4. 5 3. 0 2. 5 2. 0 1. 5 1. 0 2. 8. 1
+
+Bu dg et in g an d th e pl an ni ng p r
+
+2. 8. 2
+
+Ite rn al p ar tic ip at or y bu dg et in g
+
+gu id el in es 2. 8. 3
+
+Pe r C ap ita
+
+F un di ng fo rm ul a
+
+2. 8. 4
+
+Fu nd in g fo rm ul a fo r p ro gr am m
+
+in st itu tio ns 2. 8. 5
+
+Al lo ca tio n of fu nd in g to m at er ia
+
+te ac hi ng s up pl ie s
+
+% in cr ea se in th e
+
+de ve lo pm en t b ud ge t 3. 6 4. 5 5 6. 0 6. 5 7. 5
+
+% in cr ea se in fu nd in g fo r
+
+m at er ia ls an d su pp lie s. 1. 7 2. 5 5 10 12 .5 15 .0 f n & a l 2
+
+No o f c la ss ro om s re no va te d 25 9 26 0 26 0 26 0 26 0 26 0 3. 1. 1
+
+In fra st ru ct ur e
+
+M as te r P la n
+
+No . o f c la ss ro om s to b e
+
+co ns tru ct ed 19 8 21 1 20 6 22 8 22 4 23 5 ew or k 2
+
+No o f s er vic e-le ve l
+
+ag re em en ts s ig ne d an d
+
+ap pr ai se d 0 6 6 6 6 6 4. 1. 1
+
+M on ito rin g &
+
+Ev al ua tio n
+
+Pl an f
+
+No . o f p er fo rm an ce re vie ws
+
+wi th
+
+S O Es 0 6 6 6 6 6 p on siv e ew or k 2
+
+No . o f p ol ici es d ev el op ed a nd
+
+re vie we d 4 3 3 3 2 2 ef its 1 & 2 % o f d ev el op m en t p ar tn er
+
+ag re em en ts a nd o th er
+
+in st ru m en ts u tili ze d. 30 % 40 % 45 % 55 % 60 % 70 % 5. 1. 1
+
+Do no r S up po rt to
+
+E du ca tio n
+
+M
+
+Pl an 5. 1. 2
+
+ET SI P Ph as e 2
+
+Pl an
+
+5. 1. 3.
+
+H ar m on ise d
+
+Ed uc at io na l I nd ic
+
+% o f K
+
+PI im pl em en te d 0 70 75 80 90 10 0
+
+% o f b ud ge t s pe nt o n
+
+ET SI P
+
+pl an ne d
+
+DP S ac tiv itie s 72 70 86 93 10 0 10 0 j ec tiv e
+
+ND P 4
+
+De si re d
+
+O ut co m e no KP I
+
+Ta rg et s
+
+Pr og ra m m e/
+
+In iti at iv e
+
+Ba se lin e 20 12 /1 3 20 13 /1 4 20 14 /1 5 20 15 /1 6 20 16 /1 7 i th & ar tn er s 4
+
+No . o f s tu de nt s
+
+ac co m m od at ed in jo b
+
+at ta ch m en ts
+
+24 05 24 05 24 05 24 05 24 05 24 05 5. 2. 1
+
+St ra te gi c su pp or t f ro m lo ca l, re
+
+an d in te rn at io na l p ar tn er s. & ns w ith e xt er na l 4
+
+Le ve l o f s ta ke ho ld er
+
+sa tis fa ct io n (s ca le 1 -4 ) 1 2 2. 5 3 3. 5 4 5. 3. 1
+
+St ak eh ol de r R el at io ns
+
+M as te r to th e
+
+Na tio na l H ou sin g
+
+In co m e an d
+
+Ex pe nd itu re
+
+S ur ve y i s e vid en t t ha t 1 1. 6% o f c hi ld re n ag e 6-13 w er e no t in sc ho ol . M
+
+O E wi ll e m bes e im ba la nc es . e n ex t t hr ee y ea rs (M
+
+TP P er io d) a re e xp ec te d to b e as fo llo ws : 2 01 2
+
+- 1 3 (N $9 .4 15 b illi on ); 20 13 - 14 (N $9 .7 78 b illi on ); 20 14 - 15 (N t s, a m ou nt s un de r o pe ra tio na l a nd d ev el op m en t a ct ivi tie s wi ll be u tili se d fo r t he n ex t t hr ee y ea rs to a dd re ss s tra te gi c ob je ct ive s an n .
+
+NOTES

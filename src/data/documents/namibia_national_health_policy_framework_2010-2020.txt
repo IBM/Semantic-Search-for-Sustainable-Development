@@ -1,0 +1,617 @@
+no title
+
+i
+
+Ministry of Health and Social Services
+
+National Health Policy Framework 2010-2020
+
+"towards quality health and social welfare services"
+
+Private Bag 13198 Ministerial Building Windhoek Harvey Street Namibia Windhoek
+
+Tel: 061 2039111 Fax: 061 227607 Email: doccentre@mhss.gov.na Website: http://www.healthnet.org.na
+
+July 2010
+
+iii
+
+FOREWORD
+
+T he delivery of health and social services in any country poses difficult policy challenges to managers and health workers. A policy framework provides for a comprehensive description of the general goals of health and social services and the strategies that are to be employed in achieving the goals. Since independence the Ministry of Health and Social Services embarked upon the process of formulating a policy on health and social services for the country and the first policy statement was issued in 1990 and hence revised in 1998.
+
+This document therefore sets out the National Health Policy Framework for the period 2010 - 2020. The Framework forms the basis of more detailed programme policies which are to be operationalised through management plans, strategic plans and the country's development plans.
+
+The Framework builds on our understanding of our current strengths and weaknesses as outlined in the Health and Social Services Systems Review, quarterly, mid - term and annual reviews of our programmes and development plans.
+
+The Framework therefore sets out our strategic agenda and the need to consolidate on achievements in improving access to care, deal decisively with emerging and re - emerging diseases, promote efficiency and source funding for the sector.
+
+I am confident that if the health and social services sector acquaint itself thoroughly with the contents of this Framework and proceed to implement the overarching strategic interventions our health policy framework will translate into effective programmes that will lead us to achieving success as well as to the attainment of our vision, "A healthy nation, which is free of disease of poverty and inequality".
+
+iv
+
+PREFACE
+
+H ealth and social well being are considered as fundamental pre-requisites to, as well as beneficiaries of socio-economic development. It is to this end that the Ministry of Health and Social Services has embarked upon the improvement of health and social service by embarking upon reforms such as the health and social services system review, adoption and implementation of the strategic plan for the period 2009 - 2013 and the revision of the 1998 Policy Framework.
+
+The National Health Policy Framework for the period 2010 - 2020 as set out in this document is a continuation of efforts that started at the time of independence. The Framework, therefore, provides the overall orientation for health and health actions in Namibia. Furthermore, health problems in Namibia are in transition - infectious diseases are major contributors to the burden of disease as well as health problems related to pregnancy and delivery and infant and childhood - the health system in Namibia has to be able to respond to such changes and hence the emphasis on public health priority.
+
+The Primary Health Care approach has shown its value as the key principle in health system. The values of service delivery, universal coverage, leadership and public policy are therefore embedded in this policy framework.
+
+May I take this opportunity to express my sincere appreciations to the various government offices, development partners and civic organisation who manifested their commitment by attending the stakeholder consultation conferences and for their valuable inputs and comments. My thanks also goes to the World Health Organisation for the technical and financial support.
+
+My sincere gratitude to all Ministry officials from national, regional, district and tertiary hospital level for the contributions in providing inputs and valuable comments and the logistical services for stakeholder consultation conferences as well as for the work done by the Directorate of Policy, Planning and Human Resource Development.
+
+It is therefore my wish that all individuals, organisations and our partners in health acquaint themselves with the contents of the National Health Policy Framework in order to reach the health and social services goal as articulated in this document.
+
+v
+
+Table of Contents
+
+FOREWORD...........................................................................................................................................................iii PREFACE................................................................................................................................................................ iv LIST OF ABBREVIATIONS........................................................................................................................................vi CHAPTER 1: INTRODUCTION........................................................................................................................1 CHAPTER 2: SITUATIONAL ANALYSIS............................................................................................................2  2.1 Background, achievements and main challenges............................................................2 2.2 A stronger case for public health and primary health care..............................................3 2.3 The need to address public health priorities by strengthening the health system............................................................................................................3 2.4 Principles and values.......................................................................................................3 CHAPTER 3: POLICY FRAMEWORK...............................................................................................................5  3.1 Vision...............................................................................................................................5 3.2 Mission............................................................................................................................5 3.3 Policy goal........................................................................................................................5 CHAPTER 4: General public health and social services priorities...................................................................6  4.1. HIV/AIDS and STI..............................................................................................................6 4.2. Sexually Transmitted Infections (STI)...............................................................................7 4.3 Maternal, neonatal and child health...............................................................................7 4.3. Adolescent health and school health..............................................................................9 4.4 Nutrition........................................................................................................................10 4.5 Endemic diseases...........................................................................................................11 4.6 Mental health and disability..........................................................................................13 4.7 Lifestyle related health problems - non communicable diseases (NCD).......................14 4.8 Disease outbreaks, disaster related health problems and emerging diseases..............15 4.9 Health and Environment................................................................................................16 4.10 Other common health problems...................................................................................17 4.11 Social welfare.................................................................................................................17 CHAPTER 5: Health System Strengthening..................................................................................................19  5.1 Service delivery:.............................................................................................................19 5.2 Workforce......................................................................................................................22 5.3 Information and research..............................................................................................23 5.4 Healthcare Technologies................................................................................................24 5.5 Health promotion:.........................................................................................................25 5.6 Health financing:............................................................................................................26 5.7 Governance:...................................................................................................................27 CHAPTER 6: MONITORING AND EVALUATION............................................................................................29 CHAPTER 7: KEY IMPLEMENTATION PHASES..............................................................................................30  7.1. A cycle of revision and change…....................................................................................30
+
+Annex I: Legal instruments...................................................................................................................31 Annex II: Institutional framework - partners in policy..................................................................................32 Annex III: List of documents informing the Policy Framework.................................................................34
+
+vi
+
+LIST OF ABBREVIATIONS
+
+ART Anti- Retroviral Therapy COPD Chronic obstructive pulmonary diseases EmOC Emergency Obstetric Care HIV/AIDS Human Immune Virus/ Acquired Immune Deficiency Syndrome IMNCI Integrated Management of Newborn & Childhood Illness IMR Infant Mortality Rate LWHA MDR TB Multi Drug Resistant Tuberculosis MET Ministry of Environment and Tourism MMR Maternal Mortality Rate MNCC MoHSS Ministry of Health and Social Services MoL Ministry of Lands and Resettlement MRLHRD Ministry of Regional and Local Government, Housing and Rural Development NAC National Aids Council NACP National Aids Coordination Program NAMACOC The National Multi- sectoral AIDS Coordination Committee NCD Non Communicable Diseases NHPF National Health Policy Framework PHS Population and House Hold Survey PLWHA People Living With HIV and AIDS PMTCT Prevention of Mother to Child Transmission STI Sexually Transmitted Infections VCT Voluntary Counselling and Testing WHO World Health Organization
+
+XDR TB Extensively Drug Resistant Tuberculosis
+
+CHAPTER 1: Introduction
+
+The development of this National Health Policy Framework (NHPF) has been informed by Vision 2030 which is the overall development agenda for Namibia. Furthermore, the framework has been informed by medium term plans such as the National Development Plan 3, the Ministry of Health and Social Services Strategic Plan 2009 - 2013, the Millennium Development Goals as well as from programme and health sector review.
+
+Vision 2030 places emphasis on the country free of the diseases of poverty and inequality; the majority of Namibians living healthy lifestyles and equal access to a comprehensive preventive and curative health service. The constitution of the Republic of Namibia emphasizes equitable access to basic social welfare and health care as a right of every citizen.
+
+The Namibia health and social services sector since independence have been guided by the Policy Statement of 1990 and the 1998 Policy Framework. During the twenty (20) years of independence, major progress has been made towards the achievements for health for all people in Namibia. Over this period a number of changes have occurred such as adoption of the decentralization policy to improve service provision and management by de-concentrating authority to 13 MoHSS Regional Directorates; national level re-organisation to enable support service provision and management; restructuring and re-orientation of the health sector in line with the Primary Health Care approach; orientation of social services from curative and remedial social work to a developmental approach with emphasis on prevention of social ills and empowerment of individuals, groups, and communities; broadening of health financing options through the introduction of user-fees policy at all facilities and an exemption mechanism for the poor in place as well as the introduction of the principle of managed competition in the area of buying-in support services.
+
+However, some of these notable key achievements have been reversed due to among other things, emerge and re - emergence of diseases, undeveloped health system, skills storages and dispersed population for effective health and social services delivery. All these call for a review of the Policy Framework to incorporate emerging issues and identify new strategies for action
+
+This NHPF was developed through a participatory process, involving key stakeholder consultations at national and regional levels, health development partners, health professions organizations and government ministries as well as three regional consultative stakeholder conferences and one national consultative stakeholder conference. The task was to review the 1998 Policy Framework, determine elements of the policy which were still relevant and needed to be carried forward in the new policy, and identify new issues that needed to be addressed. The focus of NHPF outlines and set out general priorities that if effectively addressed, will bring the health and social services sector closer to its vision of, "A healthy nation, which is free of diseases of poverty and inequality." The general priorities for public health are; HIV/AIDS and STI, maternal, neonatal and child health, adolescent health and school health, nutrition, endemic diseases, mental health and disability, life-style (Non communicable diseases), outbreaks and disasters and emerging diseases, general health problems as well as social welfare
+
+CHAPTER 2: Situational Analysis
+
+2.1 Background, achievements and main challenges  a. The present policy is a continuation of efforts started at the time of independence. The most important policy change was introduced in 1990 with the introduction of the PHC approach as the fundamental principle for providing public health services to the population. This was followed by further efforts to contextualise the PHC approach in 19951. In 1998, the first National Health Policy Framework document was introduced. It provided the overall orientation for health and health action in Namibia. This framework however needs revision as it is now outdated. The Health and Social Services System Review, 2008 referred specifically to the need to update this policy framework. Various important programme policy documents have been developed over the years such as the National Policy on HIV/AIDS and the National Malaria Policy, among others.
+
+b. Post Independence, the country has been hard hit by the HIV/AIDS epidemic and has responded admirably to the epidemic by providing ART across the country as well as implementation of PMTCT in obstetric care services. The government has received assistance from the international community to support their efforts in tackling this epidemic. HIV prevention efforts have borne fruit since the epidemic now seems to have peaked. Immunization efforts have achieved a high coverage and neonatal tetanus has been eliminated and Namibia has successfully been on track for eradication of polio despite an imported outbreak in 2006. Pre-certification documents were submitted in 2008 and country has been accepted as polio-free. Maternal and child health problems have been addressed and micronutrient deficiencies such as vitamin A and iodine have been brought under control by the introduction of public health measures. Malaria cases have been radically reduced and Namibia is entering the elimination phase.
+
+The health system has been restructured based on the PHC approach, providing access to a range of effective public health interventions. The health network has been expanded accordingly. There has been a major effort to produce a workforce who can respond to the needs of the health system.
+
+The health system has been consolidated with active participation of the private sector and nongovernmental and faith-based organisations. There is active participation of relevant UN agencies, and other national and international health partners in health development, with proactive sector leadership being provided by the MoHSS
+
+c. HIV/AIDS will continue to be the most important challenge over this policy period with substantial efforts required to stem the transmission, which continues to occur at a disquieting rate still feeding the epidemic although an encouraging downward trend has been observed (HIV Sentinel Survey, 2008). ART will constitute a big challenge to public sector financing, in particular if treatment policies change. Continued engagement of international partners in this endeavour is of critical importance. Namibia is still plagued with the burden of infectious diseases and has
+
+1Integrated Health Care Delivery: The challenge of implementation - A situational analysis and practical implementation guide not managed to maintain the downward trend in IMR and MMR despite considerable resource inputs. That will be a critical challenge in the policy period. Namibia is at the same time living in the realm of rapid modernisation, which impacts the health of poor and affluent people alike with non-communicable and lifestyle related ailments and disease becoming more predominant in the epidemiological profile of the country. As far as the health system is concerned the main challenge is to continue to provide public funding for securing universal coverage. Training, deployment and retaining of Namibians as health workers will be a major challenge. Making sure that the health system as a whole is adequately reformed and equipped to be able to respond to changing challenges;is the biggest system challenge.
+
+d. At the government level, reduction of poverty will require special attention. More equitable distribution of resources will be paramount to such an endeavour. Job creation and development of human resources are key strategies for that to happen.
+
+2.2 A stronger case for public health and primary health care  2.2.1 The PHC approach has shown its value as the key principle in the health system. Following global reviews of PHC, the World Health Assembly recommended and re-emphasized the need for PHC and making it more focused on people centered care (service delivery reform); health equity, solidarity and social inclusion (universal coverage reforms); health authorities that can be relied on (leadership reforms) and communities where health is promoted and protected (public policy reform)2 . In the African Region, this approach has been endorsed by the Ouagadougou Declaration in the WHO African Region (2008).
+
+In times when the public sector is being challenged by insurance-based private sector medical care, it is of paramount importance to reiterate the responsibility of the Namibian state as a provider of strong health leadership in public health and hence the health of Namibians. A strong public sector is indispensable no matter what health system is in place.
+
+2.2.2 The constant search for improving not only access to public health services but also the quality of the same will make public health services an attractive option and proposition.
+
+2.3 The need to address public health priorities by strengthening the health system  Health problems in Namibia are in transition. Infectious diseases are still major contributors to the burden of disease as are the health problems related to pregnancy and delivery and health problems related to infancy and childhood. At the same time non-communicable diseases and lifestyle related diseases are becoming more common. Therefore, the health system in Namibia has to be able to respond to such changing problems/situations and has to undergo the necessary changes. This health policy document is emphasising the general public health priority problems as well as the response from the health system, which has its own problems as brought out in the Health and Social Services System Review. Hence the health system will be the target for reorganisation and strengthening.
+
+2.4 Principles and values  2.4.1 All Namibians have the right to enjoy good health through access to primary care and referral level services according to need;
+
+2Primary Health care - Now More Than Ever
+
+2.4.2 Health and social welfare services will be affordable and the principle of equity and fairness will underpin the commitment expressed in this policy framework; special attention will be given to the needs of vulnerable groups; 2.4.3 The new policy framework is for the government, emphasising that the responsibility for health and social welfare is not the prerogative of one single government sector;  2.4.4 Intersectoral collaboration in terms of active engagement of other sectors in targeted health action, is a dimension which adds strength to interventions;Quality of care is and will be a pivotal dimension of all health services
+
+2.4.5 All Namibians will be encouraged and empowered to actively participate in activities, which promote good health and prevent ill health at individual, family and community level, hence complementing the health and social welfare services. The public system will provide an enabling environment for this to happen through supporting community health.
+
+2.4.6 Namibia has a pluralistic health system and this will continue. The private sector for profit and not-for-profit plays an important role. The private sector will work together with the public system in accordance with their complementary role under the tutelage of the MoHSS. Formation of symmetrical public-private partnerships will be encouraged.
+
+2.4.7 Attention to gender issues and other social determinants of health will ensure that women and men, boys and girls can enjoy a healthy life and have access to health services according to their specific needs; researched efforts are required to uncover the social dimensions as determinants for health and social problems. Continued attention will be given to social welfare needs of the population in close collaboration with other Government sectors.
+
+CHAPTER 3: Policy Framework
+
+3.1 Vision  A healthy nation, which is free of diseases of poverty and inequality.
+
+3.2 Mission  The MoHSS to provide a determined leadership to make health and social welfare services effective, and efficient; to facilitate conditions for organized communities, households and individuals to take control of their health and to liaise with other sectors and partners driven by a shared commitment to health of the nation.
+
+3.3 Policy goal  Health and social well-being are fundamental human rights. Consequently, the ultimate goal of the Government of Namibia and the Ministry of Health and Social Services is the attainment of a level of health and social well-being by all Namibians, which will enable them to lead economically and socially productive lives. This will be achieved through using a cost-effective developmental social welfare and Primary Health Care approach, which includes promotive, preventive, curative and rehabilitative services in collaboration with other sectors, communities, individuals and partners.
+
+CHAPTER 4: General public health and social services priorities
+
+4.1. HIV/AIDS and STI  HIV/AIDS was described in the National Health Policy Framework, 1998 as an "emerging disease". The reality now is that HIV/AIDS has been established as a major public health problem and the highest national public health priority. According to sentinel surveys among pregnant women, the epidemic has peaked with the prevalence at 22% in 2002 and 17.8% in 2008. There is a wide variation in HIV prevalence in the country spanning from 31.7% in Katima Mulilo to 5.9% in Aranos. Transmission though is still going on at an unacceptably high rate driven by various behavioural and contextual factors. It is understood that Namibia has identified multiple concurrent partnerships, intergenerational sex, early sexual debut, alcohol abuse, mobility and migration, transactional sex and low and inconsistent use of condoms, low male circumcision, low levels of HIV counselling and testing, gender and income inequality as the key drivers of the HIV epidemic in Namibia3.
+
+With the introduction of anti-retroviral treatment in 2003, HIV/AIDS has been transformed into a manageable chronic condition. The National Policy on HIV/AIDS, the National Strategic Framework for HIV/ AIDS and a set of operational guidelines provide the management reference for all the HIV/AIDS activities. HIV/AIDS is not only considered as a public health problem, but also as a problem affecting many aspects of development and life in Namibia. The strategic responses are: Prevention, Treatment, Care and Support and impact mitigation and Response Management. The National AIDS Council (NAC) comprising of Ministers and Regional Governors is the highest coordinating body for the National HIV/AIDS response.
+
+The ARV treatment programme has been set up and has achieved to put 86,539 on ART treatment, which is 84% of the eligible population. The utilization of Voluntary Counselling and Testing (VCT) services is relatively low at 25%4 among the population aged 15-49 years but improving. PMTCT has been successfully integrated into maternal and newborn PHC services with 242 sites operational out of a target of 256 sites. Although the current policy emphasises a multi-pronged approach to prevention, in practice it has mainly been based on condom distribution and promotion as well as communication for behaviour impact. There has been a considerable increase in the use of condoms.
+
+The main challenge, which remains, is to reduce transmission of HIV below the epidemic threshold. Prevention has been prioritized as the key strategy in reducing new HIV infections. The country's approach to prevention will target the key drivers of the epidemic. Comprehensive prevention strategy will focus on reducing the risk of HIV transmission through changes in sexual behavior, changes in underlying structures and will include biomedical interventions. Biomedical interventions that will be used are male circumcision, PMTCT, HIV counseling and testing, increased male and female condom use and control of sexually transmitted infections. A new initiative prevention with persons living with HIV and AIDS was also adopted by the county. Free male and female condoms will continue to be made available to all sexually active populations.
+
+3 Drivers of the Epidemic Report (check proper title of the latest behavioural study) 4 Namibia Universal Access Report, 2008
+
+4.2. Sexually Transmitted Infections (STI)  Sexually Transmitted Infections (STIs) are among the most common causes of illness in Namibia and have far reaching health, social and economic consequences. STIs are important because of their magnitude, potential complications and their interaction with HIV/AIDS
+
+The reported numbers of STI cases for the period 2008/2009 has come down to 59,344 from 73, 552 cases in 2007/2008. This represents a drop of 19.3% in the total number of STI cases.
+
+Despite the decrease in the national STI figures over the past years, STIs remains an important public health problem in Namibia. Moreover STIs increase the risk of acquiring and transmitting HIV. The number of Urethral Discharge Syndrome (UDS) has been on a gradual decrease since 1995 and 2001. This is a good indicator of a true reduction in STI cases, since UDS is a proxy indicator of a current behavior.
+
+Strategic response directions:  a. HIV/AIDS will continue to be a national priority in all government sectors, in the private and nongovernmental sectors, and among the public at large. This will be reflected in allocation of public resources and contributions from international partners; b. since continued transmission is a serious concern, prevention efforts will be intensified based on evidence about the structure of transmission; appropriate legal provisions will support the effort; c. VCT as a prevention measure will be intensified aiming at having 90% of the adult population knowing their HIV status;
+
+d. circumcision will be promoted as one among other key preventive measure. Adequate legal instruments will be brought in place and health services will be geared towards responding to demand for male circumcision;
+
+e. ART coverage will reach 100% coverage among eligible persons. New eligibility criteria and medical technology will be introduced when supported by appropriate evidence; f. PMTCT will cover all eligible mothers and newborns and support for non-breastfeeding mothers as well as those who are breastfeeding will be intensified; g. human rights of people living with HIV and AIDS (PLWHA) will be protected by legal and awareness means;
+
+h. special social, nutritional and other needs of PLWHA and their relatives will be addressed; workplace programmes will be inclusive and focus on wellness; i. the STI prevention and treatment effort will be intensified to reduce the STI burden as well as preventing HIV transmission.
+
+4.3. Maternal, neonatal and child health  Maternal and child health continues to be a public health priority. During the first decade after independence there was progress in child health but less so in maternal health.
+
+Indicator5 1992 2000 2006
+
+MMR 225 271 449
+
+IMR 57 38 46
+
+<5Y MR 83 62 69
+
+5 NDHS 2006
+
+It is of great concern that MMR increased by 50% in 2006 as compared to 2000 (2006 NDHS). The main causes of maternal mortality are eclampsia (33%), haemorrhage (25%) and obstructed labour (25%). HIV/ AIDS continues to be an important indirect cause (37%). Other related problems include communication, transport and access to quality of obstetric care. However, little is known about the nature and extent of contributing factors related to this problem at home. Access to emergency obstetric care (EmOC6) is unevenly distributed. Ten of 13 regions do not have recognized comprehensive EmOC although some hospitals in the underserved regions do provide such service. There is a shortage of staff with the ability to deliver basic EmOC. Hence only 42% of health facilities have trained staff in basic EmOC. Added to this the distances to the nearest health facility are vast for many people. Twenty-one percent of the population lives more that 10 km from a health facility and vast distances will have to be travelled to reach a health facility providing comprehensive EmOC.
+
+Ninety percent of pregnant women attend ANC services and a high percentage (81%) of deliveries is attended by a skilled health worker. The Contraceptive Prevalence Rate is 46% and Unmet Need for Family Planning is 3%. The sentinel sero-prevalence rate of HIV among pregnant women has declined from 22.2% in 2002 to 17.8% in 2008.
+
+Out of the 46 infant deaths per 1000 live births (IMR), 32% occur during the first month of life, indicating the importance of responding to the health needs of the newborn in the health facility and after having been discharged with the mother.
+
+Based on the concern about worsening indicators, a Road Map for Accelerating the Reduction of Maternal and Neonatal Morbidity and Mortality has been developed and officially launched (2009)
+
+The under-five mortality rate is 69 deaths per 1000 live births. According to the HIS 2006, malaria, diarrhoea and pneumonia are common conditions in this age group. Immunization coverage varies between regions with recent measles outbreaks as an indication of low immunization coverage.
+
+Child health is mainly based on immunization, micronutrient supplements, diagnosis and management of common diseases among infants and children such as diarrhoea, malaria and pneumonia. Growth monitoring is also an important part of child health. Infant and child care is organized and delivered through the package of Integrated Management of Newborn and Childhood Illness (IMNCI), which has achieved a high coverage.
+
+Strategic response directions: a. a minimum package of maternal, neonatal, child health and family planning will be introduced and implemented;
+
+b. evidence-based norms and standards will be applied; c. equipping, upgrading and expansion of a network of health facilities providing quality EmOC (basic and comprehensive) will be intensified in order to secure a fair distribution of and access to services;
+
+d. review of pre-service curricula in EmOC will be performed; e. adequate training of district teams and training of doctors and nurses for comprehensive EmOC at all health facilities providing basic and comprehensive EmOC will be emphasised;
+
+6EmOC comprises both basic and comprehensive emergency obstetric care; the latter includes blood transfusion services and the ability to perform caesarian section  f. pre-deployment training of doctors in surgery and anaesthesia at teaching hospitals will be stream-lined and opportunity for nurses to specialise in anaesthesia and/or advanced midwifery will be opened;
+
+g. the legal position of staff providing EmOC vis-à-vis the scope of practice will be reviewed; h. procurement and deployment of communication and means of transport will be implemented; i. awareness campaigns about maternal, newborn and child care will be strengthened; j. community awareness and action will be promoted; k. supervision of services will be intensified; l. implementation of the IMNCI package together with other established child care interventions, including due attention to achieving adequate immunization coverage with all antigens will continue and be strengthened;
+
+m. the concept of "continuum of care" to have a holistic life cycle view on MNCC to avoid missed opportunities and create efficiency gains as well as health benefits will be promoted; n. special attention will be paid to children LWHA, their care and their nutrition needs; o. generation of information will be strengthened through routine data collection and research; p. notification of maternal deaths will be introduced and implementation of maternal mortality audits to improve knowledge of the contributing factors to the problem will be emphasised;
+
+4.4 Adolescent health and school health  Health of young people and adolescents7 is important for the nation and for the individuals. It is in this age group that the transition happens from childhood into adulthood with the dramatic biological changes happening. In addition, this is also the period when social roles and norms are defined and moulded by the influence of the family, the community and society at large. These changes are reflected in exploring new roles and taking risks, which sometimes lead to ill health and disease.
+
+Behaviours associated with adolescence have health consequences. Recruitment into the pool of HIV and STI infected people happens to a great extent in this age group. Related to that, unplanned pregnancies occur with all the consequences for the teenage mother and the baby. "Baby dumping" is an extreme consequence of this phenomenon. 19% of all pregnancies in Namibia are teenage pregnancies. Unsafe abortion happens, as a result of unwanted pregnancies and is very risky for the young girls. There are also considerable substances and alcohol abuse problems in this age group as alcohol and other substances are seen as a cheap form of entertainment and escape. Young people are more prone to accidents as a consequence of risky behaviour.
+
+Mental health problems are important in this age group according to mainstream international research, but are not expressed as such in Namibia. In youth-friendly- centres young people rarely present themselves with mental health symptoms. Depression may be expressed as body symptoms and presented as headache or back pain. There are underlying factors, which expose young people. With increasing modernisation of Namibian society there is an increasing mismatch between the biological maturity and the sociopsychological role. Biological maturity happens before socio-psychological maturity and leaves a gap. With high unemployment among young people they tend to see themselves as "without a future".
+
+There are many opportunities to be considered to improve the lives of the adolescents. Guidance and influence can enable young people to acquire life skills for a better management of their adolescent and their
+
+Aristotle comments: "Youth are heated by nature as drunken men by wine"
+
+7 adolescent is defined by the un as the age group 10-19 years, and young people as age group 10-24 adult life. For the school health population there are health problems such as poor nutrition, development disorders, disabilities such as hearing and vision problems and other problems, which can be picked up by the schoolteacher and brought to the attention of the health system. For school children and adolescents there are many opportunities for enabling children with life skills such as information about healthy life styles including education on HIV and sexuality.
+
+National Guidelines for Adolescent Health are being developed and youth-friendly-centres have been established but do not have a wide coverage yet. A school health programme does exist with a policy document. Both areas do suffer from insufficient coverage, shortage of trained staff and routines for providing services as required. There are legal instruments meant to protect this age group, e.g. protection of minors, minimum age for buying alcohol and tobacco.
+
+Other sectors have important roles to play, which calls for intersectoral collaboration.
+
+Strategic response directions: a. creation of community awareness of the health needs of young people, in particular sexual and reproductive needs through media and other channels; b. orientation of health workers about the special needs of adolescents including mental and social health problems;
+
+c. provision of information and counselling; d. promotion of parental involvement, involvement of community and other sectors; e. increased access to protective means against pregnancy, STI and HIV; f. treatment of STIs and common ailments; g. provision of adolescent friendly services based on evidence with adequately trained staff; h. strengthening of school health services including regular examination of school population, follow-up of specific conditions/defects and promotion of school clubs;
+
+4.5 Nutrition  Nutrition problems are of concern to the nation, in particular malnutrition among children. Malnutrition still persists as a contributing cause of morbidity and mortality and as a hindrance for children and young adolescent to grow and develop to their full biological potential. It also influences the ability of children and young adolescent to learn and acquire the skills they need for living their lives. According to the latest NDHS 2006, 29% of under-five year olds are stunted, underweight stands at 17% and severely underweight at 4%. The problem of under-nutrition coexists with overweight and obesity in the same age group, 4% nationally with an urban/rural differential of 7%/3%. It is of added concern that chronic malnutrition (stunting) has increased from 23% (2000) to the 29% in 2006 (NDHS). Breastfeeding is weak with only 24% of mothers exclusively breastfeeding. Among women of fertile age, 16% are chronically malnourished and 28% are overweight. Chronic malnutrition is more severe in rural areas (20%). Sixteen percent of infants are born with low birth weight (< 2,500 g).
+
+Micronutrient deficiency is still prevalent in Namibia. Goitre continues to be a problem although public health action has considerably reduced the problem. Vitamin A deficiency is still prevalent according to serological surveys of children and zinc deficiency is considered to constitute a problem calling for action.
+
+HIV/AIDS can cause reduced food consumption, interfere with food digestion and absorption. In a survey among PLWHA (2008), 20.1% were found to be undernourished (BMI <18.5) and 2.5 percent were severely malnourished (BMI <16). Alcohol intake as a calorie substitute leads to malnutrition with micronutrient deficiency.
+
+Overweight and obesity among children and adults alike is of increasing concern. Lifestyle factors are strongly associated with these problems. Type 2 diabetes8 is associated with obesity, and in cardio-vascular diseases nutrition plays an important role. It is also increasingly documented that some cancers are associated with nutritional factors.
+
+Routine nutritional surveys do focus on the under-five year age group leaving large gaps in knowledge regarding the nutritional status of the rest of the population. Currently, little is known about the composition of the diet of the Namibian population. Namibia developed a Food and Nutrition Policy in 1995. The targets set have, unfortunately, not been met. A Strategic Plan for Nutrition 2010-2014 is under development outlining the strategic lines of action by MoHSS and other sectors.
+
+The nature of the root causes of nutrition problems is complex with general poverty being a strong determinant. Health problems like chronic diarrhoea can lead to malnutrition and nutrition problems lead to ill health, and all end up being picked up by the health system, but other sectors are of critical importance.
+
+Strategic response directions: a. growth monitoring and appropriate intervention in PHC settings; b. provision of vitamin A to children and to mothers after delivery, and preparation for zinc supplementation based on evidence; monitoring the implementation of iodised table salt policy; c. promotion of research for monitoring of micronutrient deficiencies; research into the nutrition situation of the adult population and their diet and staging adequate action together with other sectors to promote a balanced diet;
+
+d. advocacy for fortification of food; e. Promotion of use of local foods and the necessary health education support; f. Special attention to the nutritional situation of women in antenatal clinics; g. promotion of breastfeeding and advocacy for proper conditions for workplace women to breastfeed;
+
+h. paying attention to the nutritional needs of PLWHA; i. advocacy for and promotion of the introduction of school feeding programmes; j. participation in health promotion action against overweight and obesity; k. promotion of national laboratory services to perform analyses of contents of food (biological, chemical and physical) items with the required legal instruments.
+
+4.6 Endemic diseases Malaria continues to be a public health problem in Namibia. It was the leading cause of illness and death from 1999-2002, and continues to be one of the top 5 public health concerns in the country. Malaria incidence has shown a continued downward trend since 2001. As a result Namibia, along with other SADC member state, is considered as a low-transmission country with the potential of moving into a pre-elimination phase for the next five years to come. The programme has a National Malaria Policy (March 2005), Communication and Advocacy Strategy (2009) and an Epidemic Monitoring and Response Guidelines to guide the programme. The programme is currently in the process to reorient programme interventions in
+
+8 Diabetes occuring in adult life and being associated with life style factors line with malaria elimination which requires substantial amount of resources. The programme is embedded in the MOHSS' Directorate of Special Programmes (Malaria, Tuberculosis and HIV/AIDS). It can be expected that the number of cases will continue to decline and hence in the future, it is hoped that malaria will be eliminated in the country.
+
+Schistosomiasis and Soil - transmitted helminthes poses a serious health problem in the northern regions particularly in Caprivi, Kavango and Omusati regions. It is likely that 14% of the population are infected, with many more at risk of infection. According to the study done in the affected regions in 2000 and 2001, the prevalence of schistosomiasis in Namibia ranges from 17% - 100% in Kavango, 0% -54% in Caprivi and Omusati regions. The rates of anaemia among pregnant women are highest in these regions where soil-transmitted helminthes and schistosomiasis are endemic. These areas are also associated with the highest rates of growth retardation among children. The school population also suffers from worm and other parasitic diseases such as schistosomiasis. These results warrant attention as a public health problem.
+
+Plague was successfully controlled and eliminated in Namibia following the establishment of a plague control programme in 1999. Prior to this, cases of plague were reported in Ohangwena region and in Oshikoto region (Onandjokwe district). The programme strategies included strengthening management capability at the local level, case recognition and management, dusting programme, rodent trapping programme, health education and plague surveillance system. Plague cases were reduced from 1,092 to zero within 3 years and deaths from 45 to zero within 2 years. The case fatality rate was reduced from 4.12% to 0% over a 3-year period. No cases have been reported in Namibia since 2003. Although plague has been successfully eliminated in the affected areas, re-emergence cannot be excluded and therefore there is a need to strengthen surveillance and active case detection.
+
+Strategic response directions:  a. Strengthening malaria diagnosis and case management; b. Increasing the coverage of Insecticide Treated Nets (ITNs) to all people living in malaria risk areas; c. Strengthening operational research; d. Promoting knowledge and awareness on malaria prevention and treatment; e. Increasing quality and coverage of In-door Residual House Spraying (IRHS); f. Strengthening the health systems for effective malaria control; g. Strengthening surveillance and active case detection; h. Strengthening malaria cross border initiatives and collaboration; i. implement appropriate control interventions for Schistosomiasis.
+
+Tuberculosis is a major public health problem in Namibia, which has been aggravated by HIV/AIDS. Approximately two-thirds of newly detected cases of Tuberculosis are HIV positive (UNAIDS, 2008). Namibia still has the second highest case notification rate in Southern Africa (735 per 100,000) after Swaziland. Some regions are reporting more than 1200 per 100,000 (Erongo and Hardap). Tuberculosis is the third leading cause of death in hospitals and the age group most affected is the group between 24 and 35 years coinciding with the age group most affected by HIV/AIDS. Social factors such as overcrowding, alcoholism and poor nutrition are known to promote the spread of infection and the breakdown of infection into disease.
+
+The National TB Control Programme is governed by the National Tuberculosis Policy and operates according to National Guidelines for the Management of Tuberculosis. The Programme has made progress and managed to achieve a treatment success rate of 83%. However, the emergence of Multi Drug Resistant Tuberculosis (MDR TB) and of Extensively Drug Resistant Tuberculosis (XDR TB) is of major concern.
+
+Strategic response directions: a. intensified case detection; b. intensified management and supervision of treatment courses, through Community -based DOTS, to avoid defaulting and development of MDR TB; c. introduction of adequate isolation facilities for patients with MDR TB and promotion of infection control;
+
+d. TB/HIV co - management e. ensuring availability of adequate supply of medicines; f. support and undertake research for possible social determinants for action, e.g. alcohol and substance abuse, crowding, poverty, nutrition including vitamin deficiencies contributing to infection and breakdown of infection into disease.
+
+4.7 Mental health and disability  Mental health problems in low and middle-income countries tend to be underestimated as a public health problem. According to mainstream international figures, as many as 15% of people attending outpatient services show signs of mental health problems. The 2001 Population and House hold Survey (PHS 2001) found 5.6% of those with a disability suffering from a mental health problem. The Health Information System Report of 2001 found that of the patients treated as inpatient, 3.8% had a mental health diagnosis. According to MoHSS statistics, schizophrenia is the leading mental health diagnosis in outpatient settings
+
+- schizophrenia being more likely to be associated with disability. Such figures are considered to be underestimates and do not reflect the real situation. The best estimate for Namibia comes close to the international figures: approximately 15% of the population with mental health problems of which 3% have a serious/major mental health problem, 10% a common mental disorder. Added to this 2% of children have either serious mental health problems or learning or behavioural problems.
+
+Namibia, going through a period of rapid transition into a modern society, is likely to face problems with alcohol and other substance abuse adding to the burden of mental and social problems. Finally, HIV/AIDS is associated with various types of mental distress and disease. This adds to the percentage of the population estimated to have a mental health problem.
+
+The existing psychiatric services in the country are focused on institutional care at the Windhoek Mental Health Care Centre and Oshakati Psychiatric Unit in the Intermediate Hospital. Psychiatric care is little developed in the regions except for inpatient care in the two hospitals mentioned. There is very little community care developed except for a few NGOs operating in selected areas. There is a severe shortage of specialised staff: doctors and nurses. All this has been recognised and a National Policy for Mental Health (2005) intends to remedy this situation. The Mental Health Act is under development providing the necessary human rights and legal protection of this vulnerable group.
+
+Strategic response directions: a. Emphasis on prevention of mental health problems through a multi-sectoral effort; b. awareness creation and advocacy for the plight of people with mental health problems; c. training and deployment of a minimum of specialised human resources; d. strengthening of specialized referral services for mental health; e. .integration of mental health care at the PHC level; f. intensification of community care; g. support and supervision from specialised doctors and nurses, coordination with social services inside MoHSS and in the health system at large; h. engagement of and with other sectors and NGOs; i. Undertaking national surveys on the prevalence of mental health problems.
+
+Disability prevalence is 4.7% according to the 2001 Population and Housing Survey, which translates into approximately 85,000 people with disability. As mentioned under mental health, 5.6% of disability is related to chronic mental illness. Disability is expressed as physical, language and speech, developmental /mental and sensory impairment and permanent functional limitations. Injury is an increasing problem in Namibia and is an important cause of disability, while others are due to infections, and metabolic and congenital conditions.
+
+Disability Prevention and Rehabilitation programme aims to provide services for the visually impaired (35% of people with disabilities in Namibia), the hearing impaired (21% of people with disabilities) and to other types of disability.
+
+A study from 2003 (SINTEF) found that only 0.48% of children with disabilities had attended school in comparison with 78% of all children and of the 69% of the population employed only 1% are disabled people.
+
+A National Policy on Disability, 1997 is the key policy document, in which roles are assigned to various ministries among them MoHSS. The responsibility of the MoHSS is to contribute to the prevention and rehabilitation of disability. The responsibility is distributed between the Directorate of Social Services and the Division of Disability Prevention and Rehabilitation.
+
+The needs of the disabled people are not met sufficiently. Services for disabled people are centralised, inadequate and there is little systematic involvement of communities in rehabilitation efforts. There is shortage of professionals such occupational therapists, speech therapist, physiotherapists and prosthetists/ orthotists.
+
+Strategic response directions: a. Promotion of primary, secondary and tertiary prevention of disabilities; b. adequate provision of rehabilitation services; c. meeting the demand for prosthetics and orthotics and other assistive devises; d. establishing and consolidating community based rehabilitation; e. effective advocacy and awareness efforts implemented; f. promotion of network collaboration among stakeholders; g. recognition of needed professionals and accelerated training and deployment.
+
+4.8 Lifestyle related health problems - non communicable diseases (NCD)  NCDs are on the increase as a public health problem. Cardiovascular diseases including hypertension, diabetes, cancer and chronic obstructive pulmonary disease (COPD)9 are more often the cause of attendance in outpatient services, among inpatients in hospitals and as causes of death. Lifestyle related ailments and diseases take normally many years to develop through accumulated damage to the body and its organs and systems. This results in that most cancer patients seek medical aid at an advance stage and the only realistic treatment option is palliative care.
+
+9 Chronic lung disease
+
+On the other hand the onset of HIV/AIDS had shown increased HIV/AIDS related cancer incidence world wide. In Namibia Kaposi Sarcoma has increased from 212 incidence (6.8/100 000) in 1995 - 1998 to 624 incidence (11.2/100 000) in 2000 - 2005, significant increase in Cervical Cancer is also observed in the abovementioned reporting period.
+
+Alcohol is a cause of social and medical malaise and ailments. According to a nationwide KAP Baseline Survey on Alcohol and Drug Use in Namibia, 47.9% answered that they felt that they had consumed more than was good. Alcohol is causing serious diseases such as liver cirrhosis and contributes to the development or worsening of the other diseases mentioned. It is also the cause of much domestic and other violence. Smoking is the main cause of COPD and causes lung cancer. Severe COPD is a cause of disability with inability to perform work and social functions. Food (overeating and eating an un-balanced diet) is a major contributor to diabetes, overweight and to cardio-vascular diseases. Some food items are increasingly considered to be particularly harmful such as sugar based on corn syrup (soft drinks)
+
+Exercise is known to have a positive influence on hypertension, diabetes and cardiovascular diseases and possibly on cancer risk as well. Some of the action is mediated through the immune system and some by simply burning calories.
+
+Action can be taken through legal instruments, e.g. labelling of tobacco10, prohibiting sale of alcohol and tobacco to minors. Legal instruments can be used for ensuring the quality of food items as it is happening already as far as biological contamination is concerned, but less so for the chemical and nutritional content of food. The other action can be taken through health promotion and communication for behavioural change, which can take place through mass media, through flyers and pamphlets and posters in public space. Action is already being taken by various entities in the MoHSS such as action regarding nutrition and discouragement of smoking and alcohol indulgence. The IEC Unit is producing messages and material for distribution in the MoHSS and for wider circulation.
+
+This area is under development and the problems and issues will have to be articulated and adequate strategies identified in guideline documents. Diagnostic and treatment services will be available through PHC and hospital level services. MoHSS will focus more on health promotion and prevention, including surveillance of NCD risk factors to inform early mitigation. An idea to be considered would be the creation of a slogan such as SAFE (Smoking, Alcohol, Food and Exercise) to capture the attention.
+
+Strategic response directions: a. organizing and strengthening action against important lifestyle and NCDs; b. institution of surveillance of NCD risk factors among the population; c. development of legal instruments, e.g. prohibition of smoking in public places, non-sale of alcohol to minors, and alcohol taxation among others; d. developing and implementing with other sectors and stakeholders the awareness creation instruments and strengthening health promotion through behavioural change communication, including community dialogue and cancer prevention measures; e. advocate for healthy lifestyle at an early age; f. institutionalization of NCD screening and promotion of good quality health services for lifestyle related ailments and other NCDs through PHC and specialised levels;
+
+10 The Tobacco Products Control Bill enacted 2010  g. Strengthen the capacity of the community and Home Based palliative care organisations to manage terminal ill patients.
+
+4.9 Disease outbreaks, disaster related health problems and emerging diseases Disease outbreaks will continue to happen, e.g. cholera, measles, meningitis, etc. Namibia is a country prone to natural disasters in particular recurrent flooding along the border-rivers with Angola creating conditions for disease outbreaks such as cholera and other diarrhoeal diseases and malaria. Severe droughts do also occur with ensuing predicaments to the health of the people. Climate change constitutes a menace to the fragile eco-systems in Namibia.
+
+In a globalised world, the travel of infections and diseases are facilitated as SARS, avian and A/H1N1have evidenced. The A/H1N1 pandemic has had an impact in all countries of the world as far as setting up of a national response is concerned. Such new diseases/emerging diseases will continue to occur. All this calls for a high level of preparedness to respond. Revised International Health Regulations (IHR 2005) have been approved by the World Health Assembly and Member States have been given 5 years to achieve full compliance.
+
+The Office of the Prime Minister coordinates complex disaster responses and various government sectors are involved in responding to such situations, but the MoHSS is the custodian of health problems and responses. There are Regional Disaster Plans in place. Namibia needs to have a recognised National Public Health Laboratory (NPHL) although some relevant analyses can be performed at the NIP.
+
+Strategic response directions:  a. strengthening of the outbreak and emergency response capacity of the MoHSS and other relevant sectors with a protocol for preparedness and response; b. intensifying the cross-border collaboration for identification of shared problems and action; c. establishment of a National Public Health Laboratory in the NIP; d. strengthening the management of emerging diseases such as H1N1 flu; e. adequate incorporation of the obligation of the IHR in relevant legal instruments
+
+4.10 Health and Environment  Environmental health relates to all biological, physical, chemical psychological factor. In Namibia there has been focus on water, sanitation, waste management, food safety, occupational health. The MoHSS plays an important role as the custodian of health particularly to prevent the magnitude and impact of environmental and occupational hazards. The MoHSS recognizes that they are not the sole agency to respond to these environmental risks therefore needs to consult widely with other stakeholders such as MRLHRD, MoLSW, MET, Ministry of Mines and Energy. The various key legal instruments such as policies, strategies, Acts and regulations are at different level of implementation.
+
+The focus will continue to be on the same areas with more emphasis being given to food safety where the environmental health function will be the focal point for food safety in collaboration with the MAWF. More emphasis will also be given to radiation hygiene according to the Atomic Energy and Radiation Protection Act (2005). Port and border sanitary controls require strengthening, since Namibia is more connected to the world outside than ever before. Waste management will require increased attention as modern consumption produces an increasing volume of waste. Occupational health is increasingly important not only in traditional productive sectors but also in the growing industrial sectors, e.g. mining. Sanitation in particular in rural areas will need a sizable investment in order to secure much better coverage with basic sanitation facilities, e.g. VIP latrines, given that by 2008 access to rural sanitation was at 14% and access to basics sanitation in urban areas had declined to 58%.
+
+Strategic response directions:  a. updating legal instruments, policies and technical documents such as the Public Health Act; b. developing capacity for the quantification and monitoring of environmental and occupational hazards;
+
+c. developing institutional capacity to implement legal instruments; d. setting standards for accreditation; e. provision of National Public Health Laboratory. Such a laboratory can also perform functions related to food safety;
+
+f. adequate certification of other laboratories (water quality); g. establishment of an adequate port and border sanitary control function.
+
+4.11 Other common health problems  Other common health problems are causes for people seeking health care at primary and referral level. They are not related to the public health problems mentioned earlier and yet they are important for the individual in terms of having access to care, and for the health system in terms of being able to respond to such health problems.
+
+Common cold, nose and throat problems, skin diseases, eye diseases, dental and oral health conditions, injuries and disorders of the musculo-skeletal system are important causes for attending outpatient services. Pneumonia and other respiratory tract infections such as bronchitis and asthma, skin diseases, injuries and others are important causes for hospital admission.
+
+For minor common health problems, household are already handling such conditions with simple remedies. Given such a situation there is a potential to enable people do more in terms of prevention and early intervention, thus contributing to the reduction of unnecessary visits to health facilities. Most common conditions can easily be handled at first level health facility. However, it is a well recognised problem that many people turn directly to the hospital level when they have a health problem, particularly where first level facilities are located within hospital premises. When clients need referral to specialist attention, such services will have to be accessible and of good quality.
+
+Strategic response directions:  a. Enabling households and communities to cope with simple conditions through prevention and early intervention
+
+b. improving the quality of primary care services to effectively handle minor ailments and refer to higher levels when necessary;
+
+c. applying relevant administrative measures to direct patients / clients to the appropriate service level;
+
+d. provision of good quality services at all levels; e. prevention of dental and oral health problems, improving access to emergency care and introduction of restorative dentistry as conditions allow.
+
+4.12 Social welfare  Social welfare was reorganized and consolidated after independence by giving a comprehensive mandate to the MoHSS. However, while the health services were united and restructured soon after independence, the social services arm of the ministry was left out of this essential service. The sector presented somewhat diverse origins and its talks were not clearly defined. A process of developing a national social welfare policy was initiated in 1996 and a "white paper" was drafted in 1999.
+
+The social welfare mandate has now been distributed over four ministries: Ministry of Health and Social Welfare, Ministry of Gender Equality and Child Welfare, Ministry of Labour and Social welfare and Ministry of Veterans Affairs. This situation has caused fragmentation, overlapping and uncertainty among the clients. The process of developing a social welfare policy for the nation could not advance due to this institutional situation. The approach to social welfare in Namibia is based on enabling, empowerment and coping, hence building on the resources people have in stead of delivery of services to passive clients.
+
+Currently the MOHSS has a mandate over ageing, catering for the special social needs of the ageing population, which in particular in rural areas has become more vulnerable due to poverty and disintegration of traditional extended family structures. The Ministry of Labour and Social Welfare administers the basic state grants to the older people and persons with disabilities. The MoHSS has a mandate on Social Protection, which in particular refers to addressing the social needs of vulnerable groups such as PLWHA, tuberculosis patients and their families and other poor and marginalised groups. Further, the mandate covers licensing and inspection of non-profit welfare organizations and engaging them in dealing with social welfare for marginalised groups. Another mandate is Family Protection and Family Life Empowerment, which targets families which are strained due to social and economic circumstances, 20% of rural families are estimated to depend on social welfare as the only source of income. Finally, the mandate also covers Substance Abuse Prevention and Treatment, where the Etegameno Rehabilitation and Resource Centre provide specific institutional social support for people with abuse problems.
+
+The problems experienced by the DSWS with its activities in the regions are related to uncertainty about the mandate with fragmentation and overlapping. There is a serious workforce problem with 42% of established posts being vacant and there is a need to develop new professionals to cover specific areas. Further, there is a need to update and develop relevant legal instruments.
+
+Extensive complimentary social welfare services and development programme rendered by welfare organisation registered as such and in receipt of subsidies or financial assistance from the government to enhance poverty reduction efforts. The approach therefore is a paradigm shift towards developmental social welfare services and social development. A need to develop comprehensive policy which will inform a holistic body of legislation has been identified as a priority. Similarly, Social Welfare Information System needs to be developed to improve emergency preparedness planning and to facilitate mitigation of needs.
+
+Strategic response directions:  a. Development, revision and implementation of relevant social welfare legislation and policy; b. Development, revision and implementation of relevant social welfare guidelines and manuals; c. Establishment and revival of, and support to, social welfare committees; d. Improvement of staff capacity on social welfare service delivery; e. Development and implementation of social welfare information system; f. Strengthening of preventive, promotive and rehabilitative social welfare service delivery.
+
+CHAPTER 5: Health System Strengthening
+
+5.1 Service delivery:  Namibia has a pluralistic health system with the public sector as the main actor. The private sector plays a substantial role divided up among for-profit and not-for-profit health services. The private sector is sizeable, in particular there are 844 private health facilities registered with MOHSS, among which are 13 hospitals, 75 clinics and 8 health centres, mainly in urban areas of Erongo and Khomas regions. Seventy-two percent of doctors in Namibia are in the private sector and a little less than 50% of the registered nurses. Faith-based organizations operate services on an outsourcing basis. MoHSS is the main implementer and provider of public health services with a four tier system: outreach points (1150) clinics and health centres (309), district hospitals (29) and intermediate and referral hospitals (4). Access to service is hampered by the vastness of the country with most of the country being thinly populated outside urban centres in the middle and the south of the country. Sixty percent of the population is concentrated in the north, where there is a concentration of health facilities. It is estimated that 21% of the population is living more than 10 km away from a health facility.
+
+The public health system is a unitary system managed by the MoHSS. The 13 regions have RMTs, who are responsible for the translation, implementation and management of the health system in the respective regions including the hospitals. There has been some de-concentration of planning and management functions to the regions and the districts. However, the issuance of Funds Distribution Certificates (FDC) has until recently only been possible at central level making it very cumbersome to have funds released for covering expenses in the regions. The Regional Director is a member of the Regional Development Committee assuring coordination between the Regional Council and the MoHSS
+
+Decentralization to the Regional Councils of various government sector functions and responsibilities has been underway for some years. The Regional Council is responsible for environmental health in the regions although there is also MoHSS environmental health staff deployed in the regions.
+
+The health district has management responsibility coordinated by the DCC. In the health district, a range of PHC programme services are delivered at outreach, clinic, health centre level and to some extent at hospital level. General outpatient screening is a feature of the services with treatment of common ailments and referral of more complicated cases.
+
+Health in the community has been depending on volunteer health workers. The system has been reviewed (2006) and it was found that the system is not sustainable due to attrition of volunteer health workers. Traditional medicine is widely used in the country and often the first port of call. However, there is no regulation of the practice. Further, more can be done to appreciate the contribution of traditional medicine.
+
+Referral hospitals are not autonomous. This, in particular, has been identified as a problem in the two referral hospitals in Windhoek and in the intermediate hospitals in Oshakati. Windhoek Central Hospital (WCH) and Katutura Hospital are already teaching hospitals and it is envisaged for Oshakati Hospital to become a teaching hospital.
+
+The issues about service delivery are related to shortage of staff, particularly in remote areas. There is no well-defined minimum package for services to be delivered at the primary care level. There is congestion in hospitals with primary care level patients due to layman's perception of better quality of services at hospital level. There is a varying level of service management skills at all levels and there is a clinical leadership vacuum, where there is no clear structure for clinical management and service quality assurance.
+
+Support services such as maintenance of equipment and buildings (Ministry of Works) and transport are not working well due to a shortage of adequately trained professional staff. This causes delays in repair works and in new constructions.
+
+The public sector cannot currently adequately respond to the needs for certain referral level specialized services and the MoHSS is cognisant of the accelerated development of new and advanced medical technology. New services and technology will be gradually introduced according to feasibility and without sacrificing a balanced response to priority health problems in the country using the public-private partnership model.
+
+Blood transfusion services are centralised with blood collection taking place mainly at central level. Eighty percent of blood is collected from regular donors and 90% of blood is distributed to state entities. It works closely with NIP for compatibility testing and its hospital banks are manned by NIP. The service is organised in Namibia Blood Transfusion Service (NAMBTS), an autonomous body with a board, where members are mainly drawn from the corps of regular blood donors. Its operations are based on a National Blood Policy (2007) and the legal basis is still the regulations from before independence (1962), which are outdated, e.g. do not mention HIV. The National Blood Authority as articulated in the Blood Policy is the technical/ professional body for decision making. Its function is made difficult since there is no real legal basis for it to operate. There is a business plan 2010-2014 according to which the entity manages its operations and development activities. The institution has to break even in its operations. It receives considerable funding from PEPFAR. The main problems are: there is no real legal basis for operations and there is uncertainty about future donor funding.
+
+Laboratory services are organised in the National Institute of Pathology (NIP), an autonomous entity with a mandate to provide laboratory services to the public health system and to sell services to the private sector. It has delegated laboratory functions in public hospitals and in major health centres. The commercial interest is balanced with public health needs, but the NIP will have to break even. This service is providing well-appreciated good quality service and has the potential to serve as National Public health Laboratory.
+
+Delivery of high-quality laboratory services is essential for providing the foundation for clinical decisions, monitoring biological specimen and to detect, identify and quantify toxic contaminants such as lead, pesticides residues, heavy metals and volatile organic compounds and environmental samples (air, water and soil). In response to an increasing concern regarding the population's vulnerability to health risks, efforts are being made to reduce preventable risks i.e. food borne illness and environmental threats. Accurate and timely laboratory analyses are therefore critical to identify, track and limit public health threats.
+
+Public health sector recognizes that the majority of testing for public health is either performed in private laboratories or is dependent on private laboratories for referral and reporting. Therefore, there is a need to ensure greater association with independent laboratories for improved communication and coordination of laboratory testing which is necessary to support public health interventions.
+
+Ambulance services is one of the health care services on the Ministry of Health and Social Services that provides emergency services to all those in need. However, currently there is no coordinated system to regulate the use and management of these public services. The lack of a policy and guidelines hampers the effective service delivery to victims of road accident, violence, and severe illness in the country. There are also very few ambulance drivers with basic life skills for pre-hospital care.
+
+An Ambulance Service management subdivision was therefore created in the Ministry to address these shortcomings. A draft policy on ambulance services now exists, and the Ministry is in partnership with the Motor Vehicle Accident Fund in order to rollout capacity building exercise aimed at addressing the inadequate skills and competencies currently experienced in the public ambulance services in the entire country. Second. to build a national long term pre-hospital emergency management services, that include infrastructure development and procurement of emergency fleet for the public".
+
+Strategic response directions: a. development of a costed minimum health service package specific for level of service; b. development of a more adequate planning matrix with better balance between distance and population criteria;
+
+c. promotion of clinical leadership with relevant training and support; d. introduction of telemedicine and availing an internet-based system for access to technical medical knowledge where feasible;
+
+e. establishing one management structure for WCH and Katatura Hospital for service integration and promotion of efficiencies, and granting more autonomy to central and intermediate hospitals; f. establishment of public/private partnerships for in-country provision of specialized services as a substitute for sending patients abroad;
+
+g. establishment of health service centres of excellence for training of doctors and nurses pre-service and in-service with a linkage to academic training institutions; h. promoting innovation in service organization and management by being attentive to new initiatives in the public as well as in the private sector. The health system needs renewal to continue to be relevant for the providers and clients alike; i. establishing a maintenance unit in the MoHSS and strengthening maintenance service through maintenance service contracts;
+
+j. consideration and exploration of the benefits of outsourcing of support services such as cleaning, laundry services, catering and ambulance services; k. strengthen community health; l. introduction of an adequate system for quality management to enable service managers to improve and monitor the quality of services delivered; m introduction of accreditation of private as well as public health facilities in line with efforts ongoing in the Southern African Region11; introduction of the ISO 9000 standard when conditions allow; n. agitate for urgent update of the legal basis for blood transfusion services o. promotion of traditional medicine and collaboration between the modern sector and the traditional sector (inter-cultural medicine); p. expansion of blood clinics and blood banks; q. consolidating all needs assessment findings; r. promote quality assurance programs for private clinical and environmental laboratories though training, consultation, certification and proficiency testing;
+
+11 COHSASA, Council for Health Service Accreditation in Southern Africa  s. develop and foster links with neighbouring institutions and international organisations on laboratory services;
+
+t. finalising and implementing policy on emergency/ambulance services; and u. establishing and developing required capacity through best practice norms and standards
+
+5.2 Workforce  The workforce situation in Namibia is above the WHO benchmark of 2.5 health workers per 1000 population. In Namibia there are 3.0 health workers per 1000 population. Specific health worker-population ratios include 1:2,952 for doctors, 1:704 for registered nurses, 1:10,039 for pharmacists, 1:13,519 for social workers, and 1:28,562 for health inspectors, among others. This situation though conceals the fact that there is a very unequal distribution with most health workers concentrated in urban areas and a high percentage found in the private sector in particular in private clinics. Overall 26.9 percent of posts in the public sector are vacant, 36% for doctors, 21% for registered nurses, and 42% for social workers. The country depends very much on the recruitment of expatriate doctors. There is a problem with attrition, as conditions of service have not been adequately updated. Special incentives for working in remote area settings are needed to retain staff. Work overload has also been quoted as a reason for attrition.
+
+Training of doctors, pharmacist, dentists and other health related professionals has in the past happened outside the country but now a national medical school has been established. Registered nurses, social workers and radiographers are trained at the UNAM and at the Polytechnic of Namibia there is training of environmental health officers and medical laboratory technicians. Enrolled nurses, pharmacy assistants, radiographers and environmental health assistants are trained at the four health training centres, which also serve the purpose of continuing education. Of note is that there is a human resource plan 2007-2013 developed by the National Planning Commission, while the Ministry has developed a 5 year HR strategy in line with NDP3.
+
+Strategic response directions:  a. development and implementation of the MOHSS Human Resources plan; b. review of staffing norms in health facilities based on the service profile and the workload; c. increment in the output of health professionals from all training institutions in Namibia; offering new courses for health professionals in Namibia according to feasibility and targeted training of health professionals outside the country; d. review of the scope of practice for professions and provision of the necessary institutional and legal protection;
+
+e. developing nursing professionals, who can perform important management and public health and clinical functions, e.g. specialised nurses (psychiatry, community health, diagnosis and treatment, advanced midwifery); developing other health and social welfare professionals as required; corresponding recognition of health and other professionals; f. Paying particular attention to career path development; g. Consideration for task shifting12, as recommended by WHO, as a modality to make better use of available human resources for health;
+
+h. Introduction of extension workers to work under supervision of local clinics and health centres; i. (re)introduction of incentives for working in remote areas and introduction of community service for all newly graduated health professionals;
+
+12 Task shifting is a process of delegation whereby tasks are moved, where appropriate, to less specialized health workers without sacrificing the quality of service provided  j. Establishment of a performance management system to improve services and management of human resources;
+
+k. strengthening continuing education; l. building quality dimensions into all training across the board with emphasis on "duty", professionalism and good client/service management; m. establishment of a programme for management training and encouragement for service staff to attend distance-learning programmes in management.
+
+5.3 Information and research  Health information is for management and policy change and development. Information is generated through routine data collection, analysis and reporting. Information systems do also cover human resources, infrastructures and other health resources. Adequately managed systems are essential for any service delivery. The international recommendation is 5% of the health budget if information systems are to function and deliver knowledge and information as required.
+
+The Bamako Call to Action on Research for Health and The Algiers Declaration (2008) both emphasise the urgency of investing more in health research and knowledge generation for advancing national health development. There is a call to aim at spending 2% of the health budget on research activities.
+
+It is well recognised that the regular NDHS provide essential health status information and the addition of the first Health and Social Services System Review 2008 is an essential tool for health system review. The regular National Health Account survey adds useful information to the information pool as does the Annual Report on Essential Indicators.
+
+The existing information system suffers from degrees of fragmentation where resource-strong programmes "push" their own information system agenda. The central information system is grossly understaffed. The electronic health information system (HIS) is slow to produce required reports and consequently annual reports have not been issued on a regular basis.
+
+There is a problem with the completeness of data with problems of collecting data from the private sector.
+
+Strategic response directions:  a. integration of parallel resource-strong programme information systems in the mainstream health information system, which is server-based; b. assignment of adequate human and other resources for information and research, aiming at reaching 5% and 2% of total health budget, respectively; c. creating closer links between information and policy and planning; d. enabling health workers/health managers at all levels to access and utilize information; e. consolidation of a system for research management: setting research priorities, management of research processes and capture of all knowledge generated in a unified accessible knowledge management system; liaison with relevant academic and other training institutions for conducting research;
+
+f. performing regular targeted surveys and specific inquiries according to programme needs, health status and health system;
+
+g. ensuring submission of relevant data from the private sector; h. timely delivery of information related to nationally and internationally agreed indicators, e.g. MDG indicators; i. developing and maintaining relevant linkages as much as possible between various information systems.
+
+5.4 Healthcare Technologies  All issues pertaining to medicines in Namibia are guided by the National Drug Policy (1998). This policy has been updated and the National Medicine Policy 2010 will be launched within the next few months along with the National Pharmaceutical Master Plan II - a strategic implementation plan for the National Medicines Policy.
+
+The legislation controlling medicines and related substances is Act 13 of 2003 that was implemented in August 2008. Under this Act the Namibian Medicines Regulatory Council has been mandated to control medicines and related substances in Namibia. A system of registration of medicines and inspection of manufacturers and facilities where medicines are kept is in place but is hampered by shortage of staff.
+
+In the public sector there is a centrally managed system for procurement, storage and distribution of medicines and related supplies and all medicines to be supplied in the public health facilities must first be included in the Namibia Essential Medicines List (Nemlist). The Nemlist is currently in its fourth edition, printed in December 2008. In addition to specifying which medicines are available in the public health sector the Nemlist also divides medicines into different classes which determine at which level of care they can be available, or for which conditions they may be used.
+
+Various efforts have been made to address the critical shortage of trained pharmacy staff in Namibia. The MoHSS has recruited pharmacists using development partner funds to address the critical shortage of staff. Furthermore the intake for Pharmacist's Assistants Training Course at the National Health Training Centre has been increased from 10 to 25 per year, more Namibians are being sent to study pharmacy in other African countries, and there are plans for a Pharmacy Degree Course at UNAM to start in February 2011. The introduction of the Electronic Dispensing Tool into all main ART sites has also improved the efficiency of pharmacy staff by reducing the time they have to spend on manual record keeping, a lesson that could be extended to all areas.
+
+Improving rational use of medicines has been targeted since the mid 1990s. Relevant health workers have been trained on rational use of medicines, therapeutics committees have been strengthened, three national medicine use surveys have been conducted and a comprehensive Standard Treatment Guideline (STG) for Namibia is due to be launched soon. However, irrational use of medicines remains an area of major concern.
+
+The main challenge at central level is that contracted suppliers do not supply on time. At operational level the main constraint experienced is shortage of qualified staff to provide pharmacy services. There are currently no posts in the MoHSS staff establishment for Pharmacists in a District Hospital. Other major constraints at operational level are shortage of appropriate space for providing pharmacy services, inappropriate use of medicines, and poor stock management.
+
+Strategic response directions:  a. maintaining a centralised medicine procurement and distribution system even under a decentralised regime;
+
+b. addressing the shortage of Pharmacy staff (pharmacists and sub-professionals); c. continuous review and update of essential medicine list to ensure that it is in line with National Treatment Guidelines; e. introducing suitable IT solutions at all hospital pharmacies to improve quantification and stock management;
+
+f. continued support to Therapeutics Committees to investigate medicine use in their Regions / Hospitals and implement appropriate interventions.
+
+Medical equipment needs a minimum standardization with updated standardized lists of equipment. With the introduction of expensive advanced diagnostic and treatment technology, e.g. MR and CT scanners, a solid medical technology assessment is required (cost-effectiveness and benefits).
+
+Maintenance of equipment is a major problem although centralised and regional workshops are in place.
+
+Strategic response directions:  a. update of equipment list and avoidance, as much as possible, of non-standardized donations without maintenance arrangements;
+
+b. out-sourcing and introduction of maintenance service contracts; c. performing medical technology assessment when introducing advanced diagnostic and treatment technology;
+
+d. introduction of indicators on the functionality of medical equipment.
+
+5.5 Health promotion:  Health promotion1 as defined by WHO is important in all clinical and public health endeavours. It focuses on the coping ability of individuals. Behavioural change communication came into the mainstream with HIV/AIDS as an important intervention strategy. Increasingly people are having access to information, which will enable them to manage their own health (internet and other media resources). All health practitioners have to have communication skills. Programmes and the health system at large have to be able to identify communication strategies and transform them into adequate action through health provider communication, communication of messages to specific groups through various media, and communication to the public at large about health matters. Various legal instruments support health promotion.
+
+Strategic response directions:  a. rationalising and streamlining health promotion and behavioural change communication to be pervasive through all programmatic and general clinical work; b. making adequate use of media and other channels of communication; c. strengthening the coordination, management and technical functions regarding health promotion in the MoHSS by developing adequate strategies and guidelines; d. strengthening capacity in health promotion at all levels; e. establishing a close partnership with other actors in government sectors and private sectors; f. introducing communication in all curricula for pre-service training of health workers and consider for all in-service training.
+
+5.6 Health financing:  Namibia is upper middle-income country with a very unequal distribution of wealth. Health inequalities are embedded in such wealth inequalities. The per capita spending on health is (1264 N$, 2005) comparing favourably with countries in the region. Health care financing in Namibia is mainly tax-based. Health care spending as a percentage as of total government spending is 13.5% - the highest in the region, but still short
+
+13"Health promotion is the process of enabling people to increase control over their, and to improve their health" WHO, 1986 of the Abuja target of 15%. User charges (registration fee) in the public sector are in place as an instrument to discourage people to go directly to hospitals. International partners, although few, provide a substantial contribution targeting special programmes. Their contribution was 23% in 2007. Donor funds are included in forward public sector budgeting, but do not appear in the annual budget announcement by the MoF. The private sector contribution is 25%. Faith based organizations receive grants from MOHSS for provision of health services according to agreed contractual arrangements.
+
+There is an insurance scheme providing health insurance for public sector employees. Private insurance companies provide health insurance policies for private sector employees. Out-of-pocket payment is at this moment not a sizable percentage according to the latest National Health Account.
+
+Planning and budgeting are done in separate entities in the MoHSS and need to be brought together. The MTEF for the health sector requires definition of programmes.
+
+The MoF has introduced an integrated financial management system (IFMS), which has the potential to de-concentrate access to this system but, unexpectedly, it has made it more cumbersome for the regions to access funds as the system is not yet established in the regions. FDC holders (regions and directorates at central MoHSS) control their budget allocations and are the key actors involved in planning and budgeting.
+
+Accountability, financial and programme, still leaves much to be desired and needs to be streamlined with routine procedures in place. The revenue collected in the MoHSS comes mainly from the sale of services (76%) in government hospitals to private patients and providers. All revenue goes into the public coffer in the MoF including user fees. In the hospitals there is no proper billing system in place. Public finances for health are increasingly coming under stress in particular from expenses to special programmes.
+
+Strategic response directions:  a. increasing resource allocation according to the Abuja Declaration; b. developing a health financing strategy to enable exploration of alternative health financing mechanisms to ensure sustainability;
+
+c. assessing financial implications of major policy changes before being approved, e.g. introduction of new eligibility criteria and new treatments for ART; d. development of a resource allocation formula for regions, directorates and programmes; e. Consideration of universal health insurance in particular if out-of-pocket payment increases; f. rationalising and streamlining planning and budgeting with one entity being responsible; g. using relevant expenditure classifiers in the IFMS for monitoring and accountability by FDC holders; h. promote greater involvement of districts in the planning process with possible de-concentration of a "real" budget for such levels;
+
+i. Implementation of the IFMS in all regions and other FDC holders; j. provision of government grants to faith-base organization governed by result-based contracts; k. initiating a process of bringing partner contributions into the state budget.
+
+5.7 Governance:  The MoHSS is the sole custodian14 of the health of the people in the country but not the sole custodian of responses and interventions. For social welfare the responsibility is shared with other ministries: Ministry of
+
+14 Different terminologies have been used: stewardship, governance and custodianship. They basically all mean the same namely: overall authority, responsibility and accountability in the government system for health in the country.
+
+Gender Equality and Child Welfare, Ministry of Labour and Social Welfare, and Ministry for Veterans Affairs. Other ministries share responsibility for specific and general interventions for promotion and prevention.
+
+The MoHSS ensures universal coverage and access to health care through adequate policies such as emphasis on PHC. The stewardship function delivers through formulation of policies, national as well as programme policies, planning and budgeting, and establishment of relevant technical programmes providing guidance and support. Facility planning is a central function with some overlapping responsibilities. A strategic plan has been developed for the period 2009 to 2013 with emphasis on service provision, human resource management, infrastructure development and management, financial management and governance as a reflection of the areas under scrutiny in the Health and Social Services System Review. The strategic plan will be an important instrument in providing two cycles of strategic planning in a policy cycle of 10 years.
+
+The MoHSS has been mandated by Cabinet to manage and Coordinate the National response to HIV and AIDS, through the establishment of the National AIDS Coordination Program (NACOP) and the five yearly National Strategic Plans/Frameworks.
+
+The MoHSS assures overall sector management including the private sector. It regulates a number of areas with various legal instruments as brought out in Annex I. Such legal instruments need to be updated in particular the Public Health Act (1919). Also the Mental Health Bill needs to be enacted to provide the necessary protection of people with mental health problems, while various other policy and legal instruments need to be completed, updated, developed and/or enacted.
+
+The MoHSS enters into contractual arrangements through outsourcing arrangement with Faith-based organisations and other contractual partners. There is a problem with inadequate management of the contracts with service providers.
+
+The independent Health Professionals Council of Namibia is responsible for assuring that all health professionals operating in the country have a recognised formal training. The MoHSS is responsible for defining scope of practice and for providing the requisite institutional and legal protection of its workforce.
+
+The MoHSS has a number (small) of important international partners. There is no mechanism in place for collaboration with partners as a group, which is felt as a problem by partners. Very limited action has been taken to introduce other aid instruments than the project modality.
+
+For effective regulation of the private sector, licensing, inspection and adherence to government policies such as programme policies and reporting has been limited.
+
+Strategic response directions:  a. intensifying the ongoing institutional reform in order to create a streamlined central ministry with rational distribution of responsibilities and without overlapping and double functions; b. implementation of the Strategic Plan 2009 - 2013 with adequate monitoring and evaluation and preparation of the next strategic plan;
+
+c. publication of an Annual Report from the MoHSS as a means of accountability to cabinet and communication with partners and the public at large; d. development and updating of all relevant legal instruments and ensuring health facilities' compliance with regulations in force; e. review of the public-private partnership between the private sector and public hospitals in order to promote a more symmetrical arrangement as far as fee structure is concerned (mutual exchange of services);
+
+f. effective regulation of the private sector with licensing and inspection to ensure compliance with Government policies and guidelines;
+
+g. continued preparation for decentralization of health services to the Regional Councils; h. application of the principles of harmonization and alignment and setting up a system for regular contact and collaboration with development partners as a group with initiation of the discussion about introduction of other aid instruments (Accra); i. strengthening sector management of collaboration with other government sectors; j. establishment of a National Health Council and health committees at all levels. k. update the legislation under its jurisdiction to be compatible with internationally recognised standards;
+
+.l establish the instructional capacity and capability for the administration of the legislative framework;
+
+m. establish the technical skills and expertise for the effective implementation of its legal instruments; n. ensure that all facilities are compliant with the adopted standard and regulatory framework; o. ensure that all health professions are adequately equipped and perform their functions within pre-defined operational parameters;
+
+p. ensure that the public is protected against uncontrolled activities and from person operating outside approved standards;
+
+CHAPTER 6 Monitoring and Evaluation
+
+For the success of the policy, it will be important to assess its implementation in terms of changes in the health situation and performance of the health system. In this regard, information about the health situation in the country, the performance of the health system and the social determinants of health is of paramount importance to keep government, non-government institutions and the public at large informed about status, causes and progress. Information systems in a wider sense will contribute to producing the data and information required. Surveys, research and other assessment and review activities will contribute to monitoring the situation as far as the health status is concerned. Regular assessment of the health system will provide the necessary information for taking corrective action. Studies targeting social determinants of health will make a substantial contribution to understanding factors leading to ill health and hence provide the information required for targeted interventions to be tailored.
+
+CHAPTER 7 Key Implementation Phases
+
+7.1. A cycle of revision and change…
+
+The policy covers the period 2010 ‐ 2020 and will be implemented through the strategic plans of five years. These strategic plans shall be operationalised through the development of annual management plans. The operationalisation of management plans and the demographic and health survey conducted every five years provides for a cycle of revision and change of the strategic response directions outlined in this framework.
+
+Annex I: Legal instruments
+
+Name Status
+
+Public Health Act (1919) A new draft bill has been prepared but is still being edited
+
+General Health Regulation (1969) To be updated
+
+Municipality of Windhoek Health Regulations (1952) To be updated
+
+Hospitals and Health Facilities Act (1994) Two separate bills are in preparation: one for the public sector and one for the private sector
+
+The Traditional Health Practitioners Bill (2010) To be enacted
+
+Medical and Dental Bill; Allied Health professionals Bill; Nursing Bill; Pharmacy Bill; Social Work and Psychology Bill Being drafted as replacements for the existing Acts (2004)
+
+Regulations for The Control of Blood transfusion Services (1962) Outdated and a new legal instrument will have to be developed as a matter of urgency.
+
+Tobacco Products Control Bill (2009/10) Second reading
+
+Liquor Act (1998)
+
+Mental Health Bill (2009) To be enacted
+
+National Disability Council Act (2004)
+
+Combating of Domestic Violence Act (2003)
+
+Namibia Institute of Pathology Act (1999)
+
+Medicines and Related Substances Control Act (2003) with amendments (2008)
+
+Atomic Energy and Radiation Protection Act (2005)
+
+International Health Regulations (IHR) - ratified 2007
+
+Water Act (1956) To be updated
+
+Water Resources Management Act 2004
+
+Pollution and Waste Bill (2009) To be enacted
+
+Labour Act (1992) - Regulations related to Hazardous Substances
+
+National Disability Council Act (2004)
+
+Bill of the Rights, Protection and Care of the People (2009)
+
+Non-profit Welfare Organizations Bill (2009) To be enacted
+
+Prevention and Treatment of Drug Dependency Bill (2009) To be enacted
+
+Social Welfare Advisory Council Bill (2009)
+
+Annex II: Institutional framework - partners in policy
+
+The strategic response directions elaborated in this policy framework will be achieved with the involvement of all stakeholders in health and social services delivery. The Government of the Republic of Namibia therefore calls on all stakeholders to invest in the implementation, monitoring and evaluation of the policy framework to ensure the attainment of Vision 2030, national development plans and international commitments.
+
+1. Ministry of Health and Social Services MoHSS is responsible for the overall coordination of the implementation of the National Health Policy Framework. Through its national and regional structures, all sectors will collaborate with MoHSS in the implementation of the road map. The MoHSS will be responsible for providing technical support and guidance to all sectors as well as disseminate all policies and guidelines to other stakeholders and the community at large involved in health and social services delivery.
+
+2. Office of the Prime Minister Enabling Public service staff rules, policies and procedures
+
+3. Ministry of Information, Communication and Technology (MICT)  Will inform and educate the public on health and social services. Messages will place emphasis on the need to seek health care at all stages and to assist in the coordination of social mobilization including advocacy, community involvement and behaviour change communication.
+
+4. Ministry of Gender Equality and Child Welfare (MGECW) Will promote and advocate for strategies to mitigate social problems. To ensure co-ordination of the provision of social welfare services between line ministries.
+
+5. Ministry of Justice (MoJ)  Promote sexual and reproductive health and rights by ensuring justice for citizens on reproductive health issues that come before the courts particularly rape and gender based violence. Assist with the review and update of health and social services sector related Legislation
+
+6. Ministry of Finance (MoF)  Will ensure adequate budget allocation and resource mobilization for health and social services strategic interventions.
+
+7. Ministry of Education (MoE) Ensure an environment conducive for Human Resource Development for the heath sector. Strengthen school-based health programmes.
+
+8. Ministry of Defence (MoD) Ensure the provision of health service to Namibia Defence Force (NDF) members and to collaborate with the Ministry of Health and Social Services to ensure that MoD health care providers are oriented towards health care guidelines and protocols. Provide logistics and personnel during national immunization days and national emergencies.
+
+9. Ministry of Labour and Social Welfare (MLSW)  Provide Assistance and guidelines in the implementation of the labour act in the health sector. To ensure the sharing of the available health personnel statistics in the country.
+
+10. Ministry of Home Affairs and Immigration (MHAI)  Prioritize the processing of work permits for foreign nationals recruited for health services. Ensure that all births and deaths are registered.
+
+11. Ministry of Regional and Local Government, Housing and Rural Development (MRLGHRD)  Promote for adequate provision of reliable water, electricity and sanitation services to communities.
+
+12. Ministry of Works, Transport and Communication (MWTC)  Will construct and upgrade public health facilities in collaboration with the Ministry of Health and Social Services for the provision of essential health services that are responsive to the needs of the population. Provide appropriate communication systems to enhance efficient referral systems. Prioritize construction and maintenance of good roads in rural areas to facilitate easy transportation to health facilities.
+
+13. Ministry of Youth, National Service, Sports and Culture (MYNSSC)  Will provide youth with information and services on sexual and reproductive health as well as maternal and child health with a strong emphasis on preventing unwanted pregnancy and HIV/AIDS. Promote behaviour change among young people and communities, and in particular, by modifying negative cultural practices into safe practices. Promote Adolescent Friendly Health Services in collaboration with other stakeholders.
+
+14. Ministry of Agriculture, Water and Forestry (MAWF) Will ensure household food security, and availability of safe and adequate water supply. In collaboration with other stakeholders, promote nutrition education, food diversification and food production at the household level.
+
+15 Office of the President: National Planning Commission Secretariat (NPCs)  Will ensure that priority research topics related to health and social services are included in national surveys. Will mobilize resources for the implementation of health sector strategies.
+
+16 Tertiary Education Institutions  Will undertake priority health research identified by the Ministry of Health and Social Services. Collaborate with the Ministry of Health and Social Services to ensure that all student in health related studies are trained. Ensure that the curricula are updated to include new developments and evidence based interventions.
+
+17. Civil Society Organizations (CSOs)  Assist with Social mobilisation, TB, HIV/AIDS, Community counsellors and advocacy around issues affecting people with disabilities
+
+18. Faith-Based Organizations (FBOs)  Collaborate with the MoHSS in the provision of Health Care Services and to assist with social mobilisation, TB, HIV/AIDS, Community counsellors and advocacy around issues affecting people with disabilities
+
+19. Private Health and Social Services providers Contribution to health service provision in line with set standards, protocols and guidelines. To ensure the sharing of health information statistics with the ministry.
+
+20. Laboratory Services   To provide high quality affordable accessible, timely essential laboratory services as well as to provide safe and quality blood and blood products
+
+21 Health Profession Councils of Namibia (HPCN)  To regulate all health and social welfare professionals in the country 
+
+22. Trade Unions Collaborate with the MoHSS to ensure a cordial relationship and to educate its members on labour related issues with regard to the health and social service sector.
+
+23. Development Partners (Multi lateral and Bi-lateral Agencies)  Collaborate with the National Planning Commission and the MoHSS to provide financial support for the health and social services strategic directions.
+
+Annex III: List of documents informing the Policy Framework
+
+Ministry of Health and Social Service (2005) Equity in Health Care in Namibia: Towards Needs Based allocation formula Ministry of Health and Social Service 2008; Report on 2008 National HIV Sentinel Survey, prevalence rate in pregnant women biannual Survey (1992-2008). Windhoek, Namibia
+
+Ministry of Health and Social Service 1990; Health Policy Statement, Windhoek, Namibia Ministry of Health and Social Service, 1992: The official national PHC/CBHC guidelines Windhoek, Namibia Ministry of Health and Social Service 1998; Towards Achieving Health and Social Well Being for All Namibians: A Policy Framework. Windhoek, Namibia
+
+Ministry of Health and Social Service, 2006: Report on Needs Assessment for Emergency Obstetric Care (EmOC), Windhoek, Namibia
+
+Ministry of Health and Social Service 2007; National AIDS Coordination Programme, Mid-Term Review Report, 2007. Windhoek, Namibia
+
+Ministry of Health and Social Service 2007; National Aids Coordination Programme Mid-Term Review Team - Leadership Windhoek, Namibia
+
+Ministry of Health and Social Service 2007: Report on Needs Assessment for Emergency Ministry of Health and Social Service 2008; National Tuberculosis Policy Windhoek, Namibia Ministry of Health and Social Service 2009; MoHHS Five Year Strategic Plan (2009-2013), Windhoek, Namibia Ministry of Health and Social Service 2010; National Medicine Policy, Windhoek, Namibia
+
+Ministry of Health and Social Service 2008; National Health Accounts 2008 Windhoek, Namibia Ministry of Health and Social Service, Planning Division, 2008.The Health Sector and Health Sector Reform in Namibia, Windhoek, Namibia
+
+Ministry of Labour and Social Welfare, 2004. Namibia Labour Force Survey, Windhoek, Namibia Ministry of Lands, Resettlements and Rehabilitation 1997; National Policy on Disability, Windhoek, Namibia National Planning Commission 2001; NPC: 2001 Population & Housing Census Windhoek, Namibia National Planning Commission 2004; Namibia Vision 2030, Policy Framework for Long-term National Development, Windhoek, Namibia
+
+National Planning Commission: Namibia Income Household & Expenditure Survey, 2003/04. National Planning Commission: Third National Development Plan (NDP3): 2007/08-20011/12 Vol. I. Office of the President, Windhoek, Namibia. Oct. 2007
+
+Wold Health Organisation 2008; Primary Health Care, Now more than ever. World Bank 2007; Socioeconomic Differences in Health, Nutrition and Population: Cross Country Report. World Bank 2008, World Development Indicators
+
+World Development Report, 2007

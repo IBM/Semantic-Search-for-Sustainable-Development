@@ -1,0 +1,1217 @@
+no title
+
+Republic of Mauritius
+
+Long-Term Energy Strategy
+
+2009 - 2025
+
+October 2009
+
+Ministry of Renewable Energy &
+
+Public Utilities
+
+TABLE OF CONTENTS
+
+PAGE Foreword 1  Executive Summary 2-11 1.0 Introduction 12-13 2.0 Energy Sector Overview 14 2.1 Institutional Structure 14 2.2 The Energy Balance 14 2.3 Total Primary Energy Requirement 14-15 2.4 Local Production 15 2.5 Imports of Energy sources 15 2.6 Re-exports and bunkering 15 2.7 Electricity Generation 15 2.8 Fuel Input for electricity Generation 16 2.9 Electricity Sales and Consumption 16 2.10 Final Energy Consumption 16 2.11 Transport 16 2.12 Manufacturing 16 2.13 Household 16 2.14 Commercial and Distributive Trade 16 2.15 Agriculture 16
+
+3.0 Maurice Ile Durable Vision 18 3.1 Objectives 18 3.2 Maurice Ile Durable Fund 18-19
+
+4.0 Framework of the Long-Term Energy Strategy and Action Plan 20 4.1 Background 20-21 4.2 Objectives of Energy Strategy 21 4.3 Share of Renewables in Electricity Mix 21 4.4 Security of Energy Supply 21-22 4.5 Security of Electricity Supply 22
+
+5.0 Institutional and Regulatory Framework 23
+
+6.1 Energy Efficiency Act 25 6.2 Energy Audit 25 6.3 Education and Training 26 6.4 Demand Side Management 26 6.5 Sustainable Buildings 26-27 6.6 Energy Efficiency in Tourism Industry 27-28 6.7 Product Labelling and Efficiency Standards  28 6.8 Targets for Efficiency in the Electricity Sector 29
+
+7.0 Renewable Energy Development Strategy 30 7.1 Bagasse Energy Strategy 30-31 7.2 Master Plan for Renewable Energy 31 7.3 Solar Energy Strategy 31 7.4 Solar Water Heating 31-32 7.5 Solar Photovoltaic 32 7.6 Wind Energy Strategy 32 7.7 Wind Farm in Mauritius 33 7.8 Hydro Power Strategy 33 7.9 Waste-to-Energy Strategy 33-34 7.10 Other technologies 34 7.11 Targets for Renewable Energy over period 2010 - 2025 35
+
+8.0 Strategy for the Electricity Sector 36 8.1 Strategic Objectives 36 8.2 Electricity Market Share 36 8.3 Small Scale Distributed Generators/SIPPs 36-37 8.4 Strategy for Electricity from coal 37 8.5 Replacement of Old Diesel Engines 37
+
+9.0 Energy Strategy for Transport Sector 38 9.1 Background 38 9.2 Main Elements of Strategy 38-39
+
+10.3 Framework for Banking Sector to support Energy Strategy Reform 41 10.4 Carbon Financing 41-42 10.5 Energy Service Companies 42 10.6 Environmental and Social Subsidies 42-43
+
+11.0 Energy Strategy and Gender Issues 44 11.1 Energy Use 44 11.2 Energy and Gender Equity 44-45
+
+12.0 Action Plan 46 12.1 Introduction to the Action Plan 46 12.2 Energy Sector Action Plan 47-52
+
+Mauritius" which outlines in broad terms Government's long term vision for the energy sector. Based on this Outline, an energy study jointly funded by the EC and UNDP/UNEP was carried out from August to December 2007. The aim of the study was to support the development of a 25 year comprehensive energy policy, including a Master Plan for Renewable Energy sources.
+
+In their final report, the Consultants made a number of recommendations to address all aspects of energy demand, supply and utilization for the power and transportation sectors with emphasis on energy efficiency and the development of renewable energy. The recommendations also pertain to energy imports, energy security, diversification of the energy mix, energy efficiency and energy conservation, environment and education.
+
+The final report was adopted by Government in December 2008, with the exception of certain recommendations which have wide ranging implications, and require further consultations and studies.
+
+Based on the policy document, the Long Term Energy Strategy and Action Plan has been elaborated. This document is a blue print for the development of the energy sector up to year 2025. It lays emphasis on the development of renewable energy, reduction of our dependence on imported fossil fuel and the promotion of energy efficiency in line with Government's objective to promote sustainable development in the context of the Maurice Ile Durable vision.
+
+Given the importance of energy in the context of economic development and environmental sustainability, the draft strategy document and action plan was circulated to a wide range of stakeholders and to the public and private sectors for their comments and views. The deadline for submission of comments initially fixed for 24 September 2009 was eventually extended by one week to enable a maximum number of stakeholders to respond.
+
+The implementation of this strategy requires the commitment of policy makers, the participation of private and public organizations and the collaboration of every citizen. We have tried to incorporate, as far as possible, the comments and views received and to ensure consistency with the policy initiatives adopted in December 2008. Notwithstanding this approach, the scale of the energy challenge will on its own prompt policy reviews, innovations and appropriate changes to the regulatory framework. This will ensure the continuous update of the document to best reflect public interest requirements.
+
+We take this opportunity to express our sincere thanks to all those who have contributed in the elaboration of this document.
+
+Ministry of Renewable Energy & Public Utilities
+
+ORGANISATION OF CHAPTERS AND
+
+EXECUTIVE SUMMARY
+
+Energy helps to drive the global economy and has a significant impact on the quality of life and health of the population. Reliable and affordable energy has in the wake of the recent surge in prices of petroleum products, never been as important as it is to-day. It is now central to our economic development and will continue to be an indispensable vector on which the economic and environmental sustainability will depend.
+
+The Government of Mauritius is focused on diversifying the country's energy supply, improving energy efficiency, addressing environmental and climate changes and modernizing our energy infrastructure in order to meet the challenges ahead. Besides security of supply and affordability we are further confronted with another challenge namely that of making a rapid shift to a low carbon, efficient and environmentally benign system of energy supply. What is needed is nothing short of a complete change in habits through decisive policy actions, but without losing sight of the affordability criteria. In this venture, the collaboration and participation of the private sector and other stakeholders is a sine qua non.
+
+This long term energy strategy is our roadmap to address the energy and environmental challenges lying ahead. The heart of this plan rests on innovation through science driven development of new technologies. In this document we outline our commitment to energy security, diversity, efficiency through the development of economically competitive fuels and technologies, including bold initiatives in renewable such as wind and solar energy. Diversification of energy supply towards alternate sources can greatly relieve dependence on conventional energy sources over time while helping to cope with growing environmental concerns.
+
+This plan renews and extends our commitment to the environment, both resolving and supporting a future of cleaner energy. This plan has to be placed in its proper perspective in particular the pre condition to disbursement of the first tranche of funds by the European Commission in the context of the accompanying measures tied up with the reform of the sugar industry. However, as the world energy outlook is constantly fraught with uncertainties with a high level of volatility of oil prices coupled with unpredictable price spikes, this document will require updating at regular intervals. Furthermore, it is important to remember that there is no single solution to meeting energy demand and Mauritius will have to rely on an array of resources to meet its energy needs and this portfolio will inter alia include renewable sources and traditional fossil fuels linked with new technologies to reduce their environmental impact.
+
+This document contains eleven sections together with an action plan with timelines for implementation.
+
+Chapter 1 gives an overview of the country's demographic, social, economic framework and the economic objectives.
+
+more importantly competition, which will be achieved through the operations of the Utility Regulatory Authority and enactment of energy efficiency legislation.
+
+Chapter 6 is devoted to the subject of energy efficiency in all sectors of the economy which is central to the overall strategy. In this perspective the emphasis is on legislative measures for the conduct of energy audits and product labelling for minimum energy performance standards. These will be complemented by education and training of energy auditors, demand side management, the rationalization of energy use in public buildings and greater energy efficiency in the tourism sector.
+
+Chapter 7 highlights the renewable energy development strategy with bagasse as the main component of the energy mix to be supported by the contribution of solar, wind, solar photovoltaic, hydro power and waste to energy initiative. Concurrently the diversification of the renewable energy base is proposed through the application of other energy technologies. This chapter also captures the potential contribution of renewable energy sources.
+
+Chapter 8 provides salient information on the strategy for the development of the electricity sector, the role of the CEB and the democratization of electricity generation by allowing small independent power producers to enter the market.
+
+Chapter 9 provides salient information on the energy requirement of the transport sector and highlights the institutional and strategic measures to modernize public transport with strong emphasis on energy efficiency.
+
+Chapter 10 outlines the philosophy of financial incentives and tax regime to support the long term energy strategy to ensure affordability and sustainability of investments in the energy sector and the introduction and development of new energy technologies.
+
+Chapter 11 outlines the strategy to ensure gender equity in respect of access to energy and in particular the need to address issues which tend to prejudice women in general.
+
+Chapter 12 is an outline of the Action Plan to implement the strategies
+
+SUMMARY OF STRATEGIES
+
+Energy Balance, Energy Security
+
+• Achieve by 2025 about 35% self sufficiency in terms of electricity supply through use of renewable sources of energy.
+
+• Ensure security of energy supply by diversifying the energy base and the creation of adequate stocks, to the extent it is financially viable.
+
+• Meet demand in a consistent manner, assuring security and reliability of supply at affordable prices.
+
+Power Sector Reform
+
+• Create a financially sound and self-sustainable modern electricity sector, a transparent and fair regulatory environment that appropriately balances the interests of consumers, shareholders and suppliers, conditions that provide efficient supply of electricity to consumers and improvement in customer services; and
+
+• Encourage private sector participation in the generation side within the framework of a single buyer model
+
+Energy Efficiency
+
+• Enact of the Energy Efficiency Act.
+
+• Set up an Energy Efficiency Management Office (EEMO) as a nodal agency for energy efficiency and creation of a national data base on energy usage and act as an Observatoire de l'Energie.
+
+• Promote awareness on energy supply and demand.
+
+• Develop and implement a grid-code, feed-in tariffs and incentive schemes for small power producers.
+
+• Target all sectors in the country for improving the efficiency of energy use, including new morcellement, new cities, commercial and industrial developments, public open space and transportation systems.
+
+• Promote the concept of energy management and use of energy savings devices.
+
+Energy Audits
+
+• Make energy auditing for designated consumers/sectors mandatory.
+
+• Regulate the standards of energy auditing, allow for the imports of energy efficient appliances, improve standards of energy utilization in buildings.
+
+• Create a pool of qualified and certified energy auditors in the country.
+
+• Develop an appropriate Energy Auditor Certification Scheme.
+
+• Provide technical support wherever possible to SME's to put in place measures for optimum energy use.
+
+• Develop a model factory concept for demonstrating how energy can be utilized efficiently.
+
+• Set up a Resource Efficient and Clean Production Centre with UNIDO support to promote cleaner production and processes in industries.
+
+• Harmonise energy efficiency strategy for industries with those of the Resource Efficient and Clean Production Centre.
+
+Education And Training
+
+• Develop relevant educational materials on sustainable energy for use at all levels in schools, including primary and pre-primary children.
+
+industries, which will be required to hire a Certified Energy Auditor and to develop energy management plans.
+
+• Encourage smaller industries to carry out energy audits at prescribed intervals.
+
+• Carry out classification of companies by their energy consumption.
+
+• EEMO to prepare and monitor realistic targets for energy savings in the sector.
+
+• Give industries a reasonable moratorium to comply with the above policies.
+
+• Encourage industries to carry out energy audits and implement such measures as may be required for efficient energy use.
+
+• EEMO to run awareness programme on Energy Efficiency and Energy Audits for the industrial sector to facilitate this transition phase.
+
+• Promote efficient street lighting system using CFL and traffic lighting using LED would be promoted.
+
+• Promote use of energy efficient appliances in public buildings, including hospitals, health care centres, schools and public offices.
+
+Sustainable Buildings
+
+• Energy efficiency to become one of the main criteria in the design of public and in rental of private buildings.
+
+• Carry out a phased plan for retrofitting existing state-owned public buildings, in a phased manner, to bring their energy performance up to best practice standards.
+
+• Introduce a new Building Control Act to improve building design and choice of building plant and equipment to attain high efficiency in term of energy use.
+
+• Address issues of sustainable building designs and low energy consumption in specific Planning Policy Guidelines.
+
+• Introduce best working practices and engineering based solutions to address public sector energy efficiency.
+
+• Launch appropriate campaigns with the objective of changing behaviour at work and promoting practices aimed at rationalization of energy use in all big buildings.
+
+• Provide necessary technical support and guidance for the implementation of energy saving measures in all Ministries and parastatals.
+
+• Installation of solar water heaters in Government buildings and promote efficient use of energy in the health sector.
+
+• Reduce energy consumption of public sector to half the current level by the year 2015 and to pursue efforts up to 2025.
+
+Energy Efficiency In The Tourism Industry
+
+• Promote energy efficiency and renewable energy solutions in tourism sector.
+
+• Develop a well-defined energy strategy for the tourism sector.
+
+• Encourage retrofitting of existing hotels with the latest energy efficient technologies and mandatory sustainable building designs for new hotels.
+
+• Encourage use of solar hot water systems in hotels, low-energy lighting/appliances/air-conditioning and cooling devices throughout the hotel freezers.
+
+• Set minimum energy performance standards and labelling for household and non-household electrical energy-consuming appliances/equipment, namely:
+
+(i) room air conditioners; (ii) dishwashers; (iii) refrigerators, freezers and their combinations; (iv) ovens, microwaves and their combinations (v) washing machines, dryers and their combinations; (vi) instantaneous electric water heaters and electric storage water heaters; and
+
+(vii) compact fluorescent lamps (both ballasts integrated and ballasts separated).
+
+RENEWABLE ENERGY
+
+Master Plan for Renewable Energy
+
+• Develop a Master Plan for Renewable Energy by end 2010.
+
+Bagasse Energy
+
+• Use bagasse more efficiently with a view to increasing the contribution of bagasse based electricity in the medium-term from the present level of 350 GWh to 600 GWh annually.
+
+• Additional electricity from the same amount of bagasse currently available from the 5 millions tonne of cane can be generated by the sugar industry through investment in power plants operating at higher pressure.
+
+• Benefits from the use of additional bagasse be reaped by all stakeholders of the sugar industry to IPP's. Accruals from CER's to be passed on to the CEB.
+
+• Maximize the amount of energy generated from available bagasse, while minimizing the use of coal. Within this framework, achieve the target of 600 GWh of electricity from bagasse in medium term.
+
+• Promote research and development in the sector to develop new varieties of sugar cane with higher biomass production.
+
+• Encourage the use of new varieties of sugar cane with higher biomass content and any other technology that would be commercialised so as to increase the amount of energy generated from bagasse.
+
+Solar Energy Strategy
+
+• Implement incentive schemes to encourage use of solar energy, whether for water heating or electricity production.
+
+• Design and implement new scheme to promote wider use to use solar energy for
+
+• Implement wind power projects to the extent that it is technically feasible and suits the local cyclonic conditions.
+
+• Three additional units of 275 kW will be installed at Grenade so that by 2010, wind energy contribution in Rodrigues would be raised to above 10%.
+
+• Develop a wind atlas
+
+• Power system impact studies have revealed that the total wind power capacity that may be accommodated in the national grid is limited to 30% of the night load. In view of this constraint, wind generation capacity can be limited to some 60 MW at current level of night load. Taking due consideration of the future growth in the night load demand, some 2-3 MW of wind power may be accommodated annually.
+
+• Resort to the Build Operate Own (BOO) model for the implementation of any future wind farm in Mauritius. .
+
+• Set up a wind farm of 25-40 MW at Curepipe Point on a BOO scheme. The wind farm is expected to be operational by end 2010.
+
+• Encourage private sector initiatives at Plaines des Roches and Britannia for setting up of wind farms with a minimum of 10 MW installed capacity.
+
+Hydro Power Strategy
+
+• In addition to the eight hydroelectric stations with total installed capacity of 59 MW, at Champagne, Tamarind, Magenta, Le Val, Ferney, Réduit, Cascade Cécile and La Ferme.
+
+• Setting up of mini and micro hydro plants, at potential sites wherever economically viable
+
+• Commission a 375 kW micro hydro power plant in early 2010 on La Nicolière Feeder Canal, at Trente Chutes to generate some 2 GWh/year.
+
+• Consider other potentials sites for hydropower such as Midlands dam.
+
+Other Technologies
+
+• Implement 20MW Waste-to-Energy plant at La Chaumiere as a BOO scheme.
+
+• Install a 3 MW Gas-to-Energy unit with an annual electricity generation of 20 GWh at Mare Chicose landfill site.
+
+• Encourage private operators to explore potential of geothermal energy.
+
+• Consider Ocean Thermal Energy Countries (OTEC) depending on developments of this technology by other countries.
+
+• Develop a Land Based Oceanic Industry project with the participation of private sector operators for the exploitation of sea water for air conditioning of a green data centre.
+
+Technology Transfer/Other Technology
+
+• Encourage innovative strategies for technology transfer through reliance on special programmes under global funds, such as the Global Environmental Facility (GEF) development of the country taking into account the financial sustainability of the utility and thirdly, energy efficiency and conservation, given the high volatility of the prices of fossil fuels, in particular oil.
+
+• Secure adequate investment by putting in place the proper market conditions for such investment in view of massive investment required in electricity section in next 25 years.
+
+• Monitor demand and supply balance for timely implementation of power sector projects.
+
+• Encourage the emergence of new producers/suppliers while fully integrating the role of the sugar sector on the basis of economic, financial and environmental analyses.
+
+• Provide the necessary incentives for the development of the renewable energy sector and promote energy savings and energy efficiency at all levels in the country.
+
+• CEB currently produces around 40% of the country's total power requirements, the remaining 60% being purchased from Independent Power Producers (IPP). The CEB will continue to generate electricity in line with the policy outlined in the 2005 Presidential Address.
+
+• Regulator to ensure level playing in relation to electricity generation.
+
+• Encourage modern coal power plants using clean coal at improved efficiency of 40 to 45% to substitute oil.
+
+• Address issue of ash disposal and particulate emissions in an integrated environment strategy.
+
+• Set up a coal plant of 110 MW with all the mandatory environmental safeguards at Pointe aux Caves.
+
+• Installation in the short-term of six new engines, each of 15 MW capacity at Fort Victoria to replace the old inefficient ones at St Louis.
+
+ENERGY STRATEGY FOR TRANSPORT SECTOR
+
+• Setting up of a new Land Transport Authority.
+
+• Implement on a Bus Modernisation Programme including a 25 km busway and 12 km bus-only lane, as an integrated Bus Rapid Transit System, a route restructuring and review of the regulatory and fare regimes.
+
+• Introducing the modern, speedy, comfortable, and environmentally-friendly buses.
+
+• Implement major infrastructure development programme which includes:
+
+(i) New access road for Jing-Fei at Riche Terre and State land Development at Reduit;
+
+(ii) Construction of Goodlands Bypass Road; (iii) Construction of Triolet Bypass; (iv) Construction of Gros Bois Mare D'Albert Road; (v) Construction of Camp Thorel - L'Esperance Link Road; (vi) Upgrading of Quartier Militaire Road; (vii) Widening of Motorway M1 by providing 3 lanes from Phoenix to
+
+Louis, a review of the parking policy and integration of land planning with transport strategies.
+
+• Promote the use of more efficient and lower emission vehicles and fuels;
+
+• Enforce standards to reduce the level and types of vehicle and supply chain emissions. As a first step towards the introduction of diesel with low sulphur content, the national standard for the sulphur content of automotive and industrial diesel oil would be lowered to 500ppm as from August 2010, making a substantial immediate and noticeable improvement to air quality;
+
+• Diversify fuel supplies with biodiesel manufacture or import while recognizing that local manufacture will be a long term project as presently the volume of waste is insufficient for that purpose;
+
+• Introduce the mix of ethanol -gasolene at the pump by using E10 and moving to E20 at a later stage around 150,000 tonne of molasses are available on an annually renewable basis and up to 120,000 tonne can serve as feedstock in production of some 25 million litres of ethanol;
+
+• Set up strategic reserves of transport fuels to be in line with oil consumption and demand patterns. The State Trading Corporation should ensure storage capacity of at least 30 days on arrival of vessels as compared to the existing 5-10 days storage;
+
+• Promote fuel saving techniques in driving through education and information programme and including such techniques into the driving test ;
+
+• Carry out campaigns to encourage car owners to make more efficient use of fuel;
+
+• Conduct fleet reviews in companies, government and parastatal bodies having over 50 vehicles, and advising them on cutting fuel costs and emissions;
+
+• Encourage the use of information technology to avoid traveling by the public for different services and payments;
+
+• Integrate long term transport planning with land development and in infrastructure investment decisions;
+
+• Restructure operations within organizations and decentralize services from the city to other locations in order to avoid congestion;
+
+• Encourage the use of information technology to avoid travelling by the public for different services and their payments;
+
+• Introduce congestion pricing in order to reduce demand and alleviate traffic congestion.
+
+• Promote the use of hybrid and electric vehicles through fiscal incentives and concessions and introduce fiscal policies to encourage transport fuel efficiency technologies;
+
+• Encourage vehicle users to reduce the distance travelled by single occupancy vehicles in urban areas during peak hours by 10 per cent;
+
+• Encourage private and public sector organizations to improve energy efficiency of heavy duty vehicles with energy efficiency technologies and to improve tyre standards.
+
+Financial Incentives and Tax Regime for Long-Term Energy Strategy
+
+• Revisit existing support to households in the medium-to-long term. .
+
+FRAMEWORK FOR BANKING SECTOR
+
+• Local banks to be encouraged to provide credit to industries which invest in energy efficiency and renewable technologies.
+
+• Improve the availability of credit to small investors for energy efficiency and renewable energy investments.
+
+CARBON FINANCING
+
+• As Mauritius is a none-Annex I Country under the Kyoto Protocol, the Clean Development Mechanism (CDM) is the main vehicle to attract carbon financing to the energy sector. While the selling price for the CO2 credits is unknown and volatile, Mauritius can benefit from interesting annual cash flow if energy efficiency and renewable energy supply projects were implemented and carbon credits accordingly secured.
+
+• Explore Carbon finance for green buildings at the new city of Highlands as part of the Renewable Energy Development Master Plan.
+
+• Assess and quantify the CERs potential.
+
+• Develop expertise and run awareness programmes in carbon financing to help create as many CDM projects as possible in Mauritius in collaboration with the Designated National Authority for CDM.
+
+ENERGY SERVICE COMPANIES
+
+• Promote the establishment of Energy Service Companies (ESCOs), specialised in energy efficiency.
+
+• EEMO to assess and propose the policy and legislation options to stimulate the emergence of this sector.
+
+ENVIRONMENTAL AND SOCIAL SUBSIDIES
+
+• Introduce targeted social and environmental support.
+
+• Consider economic incentives for consumers who choose public transport over private transport.
+
+• Target subsidies to help low-income households and social institutions to afford energy, through assistance in developing ways of permanently lowering their energy bill, by promoting access to the use of compact fluorescent lamps, low-energy refrigerators and other household appliances, and the use of solar hot water systems.
+
+• Consider market incentives to promote the choice of sustainable energy products and services.
+
+• Introduce fiscal incentives for energy suppliers to promote the choice of renewable and carbon-neutral options over fossil fuels.
+
+their entrepreneurship, social and community activities.
+
+• Establish disaggregated data on impact of energy strategies on women needs energy usage and technologies which are reflected in the different energy needs;
+
+• Assess women's access to energy through a comprehensive demand-side analysis on energy needs for the poor to support their livelihood, including the long-term basic energy needs of women;
+
+• Assess and integrate gender needs in the energy project cycle;
+
+• Develop capacity building programmes to enable women to participate in the energy sector through partnerships and networks among grassroots women, NGOs, and energy policymakers at the national and international levels;
+
+• Stagger payment of electricity charges or to facilitate access to electricity for vulnerable groups;
+
+• New policies for connecting and disconnecting electricity supply including the modalities for payments to take into account the needs of women from the vulnerable groups, who have irregular income flows;
+
+• Encourage participation of women to contribute significantly in the adoption of less polluting fuels and technologies, particularly renewable energy resources such as wind and solar power;
+
+• Ensure electricity supply to public places to increase safety for women; and
+
+• Promote equal chances for women to participate actively in SIPP projects through information and awareness campaigns, access to technical information and incentive schemes.
+
+• The Ministry of Women's Rights, Child Development and Family Welfare to carry out Information, Education and Communication programmes for women so that women are fully familiar with the efficient usage of energy.
+
+1.1 Mauritius
+
+1.1.1 The Republic of Mauritius comprises a main island of an area of 1870 km2 which lies 800 km off the east coast of Madagascar at latitude 20º south and longitude 58º east and several outer islands, all of volcanic origin and encircled by fringing coral reefs enclosing lagoons of various sizes. The climate is sub-tropical with winter prevailing from May to September and summer from October to April. According to the Central Statistics Office, the population has been increasing at an average rate of 1 % per annum over the past five years. As at 1st July 2009, the population stood at 1,275,323 with 1,237,286 in the mainland, 37,748 in Rodrigues and 289 in the other islands. The ratio of the urban/rural population is 43:57. The overall population density was around 625 persons per square kilometre as at 1st July 2009.1
+
+1.2 Social
+
+1.2.1 Mauritius has a diverse population, which derives its origins from Africa, China, Europe and India, with a mix of ethnic groups, cultures, languages and religions.
+
+1.3 Political
+
+1.3.1 Mauritius has been successively a Dutch, French and British colony. It became independent on 12th March 1968 and acceded to the status of Republic within the Commonwealth on 12th March 1992. The Republic of Mauritius is a sovereign democratic state within the Commonwealth with a long tradition of parliamentary democracy. A written Constitution guarantees fundamental rights such as right to liberty and protection of the law, freedom of conscience, freedom of association, movement of opinion, freedom of expression, freedom of creed and of religious belief as well as the right to private property. The President is the Head of State and the Prime Minister is the Head of the Government.
+
+1.4 Economic overview
+
+1.4.1 For many years the economy was based mainly on sugar. It was successfully diversified in the 1970's with the setting up of an export processing zone (textile), the development of a tourism sector and financial services. Over the past decade, emphasis has been laid on developing the Information and Communication Technology (ICT) sector. The economy of Mauritius is dominated by the tertiary sector, which accounted for 63.8% of GDP at current basic prices in 1998 has gradually increased to 73.3% in 2008. This is mainly due to an increase in the percentage share of 'Hotel and Restaurant', 'Financial Intermediation' and 'Real estate, renting and business activities' over the last decade. Mauritius is now classified as a middle income country. In the 2007 Global Human Development Report, Mauritius achieved Human Development Indices of 0.843, raking 65th out of 177 countries.
+
+centre for international financial services, including banking, insurance and other consultancy services, a liberal and well-regulated cyber island with state-of-art Information, a centre of excellence in education and health, and an ecologically well-balanced economy, ensuring that higher growth is environmentally sustainable.
+
+1.4.3 The country recorded a GDP growth of 5.0% in 2008. In 2009, GDP is forecasted to grow by 2.7%. Investment rate is expected to reach 25.6% in 2009 (Source CSO).
+
+In order to face the global financial crisis, Government introduced a stimulus package in 2008, with focus on saving jobs, through support to the export of services and investment in infrastructure development.
+
+1.4.4 As far as sugar is concerned, in 2005 the European Union introduced the sugar reform, with a phased reduction of the price of sugar price paid to ACP countries starting with 5% in 2006 to culminate to 36% in 2009. In this context, Government elaborated the Multi-Annual Adaptation Strategy (MAAS), as an integral part of the Mauritian Government's overall economic reform programme. The Adaptation Strategy aims at establishing a more competitive sugar sector through factory centralization, rightsizing of the labour force and optimizing the use of sugarcane byproducts for energy production, ethanol, refined sugar, rum and other products. The reform programme is supported by the European Union, through the EC Accompanying Measures, which includes support for social costs linked to the voluntary retirement of the workforce, support to small planters and Government's ten-year economic restructuring programme. In order to maximise aid delivery effectiveness, the EC Accompanying Measures will be disbursed through budget support via sector budget support initially and moving gradually to general budget support in line with the 10th EDF.
+
+2.1.1 The Ministry of Renewable Energy and Public Utilities (MPU) is responsible for energy policy and its portfolio includes energy, water and wastewater.
+
+2.1.2 The Central Electricity Board (CEB) which was established in 1952, is empowered by the Central Electricity Board Act, 1964 to "prepare and carry out development schemes with the general object of promoting, coordinating and improving the generation, transmission, distribution and sale of electricity" in Mauritius. The Electricity Act of 1939 (amended 1991), Electricity Regulations of 1939 and Central Electricity Board Act provide the legislative framework for the electricity sector. The CEB produces around 40% of the country's total power requirements from its 4 thermal power stations and 8 hydroelectric plants, the remaining 60% being purchased from Independent Power Producers, mainly sugar industry owned, who produce electricity from bagasse/coal.
+
+2.1.3 The State Trading Corporation (STC) is responsible for the import of petroleum products, namely Mogas, gasoil, kerosene and fuel oil. The Petroleum Act primarily includes provisions for the granting of prospecting and mining leases for petroleum. However, as of today, Mauritius has no known indigenous sources of petroleum. The Consumer Protection Act (Prices and Supplies) of 1998 empowers Government to control the import and prices of petroleum products.
+
+2.1.4 The Ministry of Environment is responsible for environmental standards, policy and legislation. The Environment Protection Act and regulations provide an institutional and legislative framework for the management and protection of the environment. This legislation is generally based on European Standards and revisions are made as and when necessary.
+
+2.2 The Energy Balance
+
+2.2.1 The energy balance in the Table as at the close of this Chapter shows the supply and final uses of energy and the different types of fuel. Total primary energy requirement, also known as Total Primary Energy Supply, is obtained as the sum of indigenous production (fuel wood, hydro, wind and bagasse) and imports (fossil fuel) less re-exports and bunkering, after stock adjustments. Final energy consumption is the total amount of energy required by end users as a final product. End-users are mainly categorized into five sectors, namely manufacturing, transport, commercial and distributive trade, households and agriculture.
+
+2.2.2 In order to compare the energy content of the different fuels, a common accounting unit, namely tonne of oil equivalent (toe) is used.
+
+2.3 Total primary energy requirement
+
+2.3.1 The total primary energy requirement of the country increased slightly by 1.6%, from 1,382 ktoe in 2007 to 1,404 ktoe in 2008. In 2008, imported fuels (petroleum products and coal) accounted for 81.2% (1,140 ktoe) while locally available
+
+(93.2%), hydro electricity (3.5%), fuel wood (2.9%) and wind energy (0.4%)
+
+2.3.4 The total primary energy requirement index, with 1990 as base year (1990 = 100), witnessed a change, moving from 184.1 in 2007 to 192.1 in 2008 while the per capita primary energy requirement increased by nearly 2.0%, up from 1.09 toe to 1.11 toe.
+
+2.3.5 Energy intensity defined as total primary energy requirement (toe) per Rs 100,000 of GDP (in 1990 rupees) provides a measure of the efficiency with which energy is being used in production. Energy intensity, which stood at 1.58 in 2007, slightly went down to1.54 in 2008. A lower ratio usually reflects a more efficient use of energy.
+
+2.4 Local production
+
+2.4.1 Total energy production from local renewable sources rose by 7.3% from 246 ktoe in 2007 to 264 ktoe in 2008. This was primarily due to a higher production from bagasse. Thus generation from bagasse increased from 230 ktoe to 246 ktoe. Moreover, production of hydroelectricity increased from 7.2 ktoe to 9.3 ktoe.
+
+2.5 Imports of energy sources
+
+2.5.1 Data on total imports of energy sources show that some 1,451 ktoe of petroleum products and coal were imported in 2008 compared with 1,482 ktoe in 2007, representing a decrease of 2.1%. Petroleum products went down from 1,080 ktoe to 1,075 ktoe (-0.5%) and coal decreased from 402 ktoe to 376 ktoe (-6.9%).
+
+2.5.2 Due to increases in the prices of petroleum products and coal, the import bill went up by 28.0% to reach Rs 27,635 million in 2008 from Rs 21,639 million in the preceding year.
+
+2.6 Re-exports and bunkering
+
+2.6.1 Of the 1,451 ktoe of imported energy sources in 2008, about 341 ktoe (23.5%) were supplied to foreign marine vessels and aircraft, showing an increase of 8.8% over 2007 figures. Re-exports consisted of 131 ktoe of aviation fuel (38.2%), 119 ktoe of diesel oil (34.7%), and 92 ktoe of fuel oil (27.1%). The following changes were noted as compared over the previous year: Aviation fuel +7.5%, Fuel Oil +27.1%, Diesel -0.8%, overall +8.8%.
+
+2.7 Electricity generation
+
+2.7.1 Some 2,557 GWh (220 ktoe) of electricity was generated in 2008 as compared with 2,465 GWh (212 ktoe) in 2007, representing an increase of 3.7 %. The Independent Power Producers (IPPs) supplied 63.2% of the total electricity generated, and the Central Electricity Board (CEB), 36.8%. Thermal energy
+
+(27.7%) and fuel oil (21.4%).
+
+2.9 Electricity sales and consumption
+
+2.9.1 Electricity sales increased by 4% from 1,975 GWh in 2007 to 2,054 GWh in 2008. The average sales price of electricity went up by 26.9%, from Rs 3.79 per kWh to
+
+Rs 4.81 per kWh, during the same period. The per capita consumption of electricity sold per annum stood at 1,619 kWh in 2008 compared with 1,567 kWh in 2007.
+
+2.10 Final energy consumption
+
+2.10.1 Final energy consumption fell by 2.0% from 858 ktoe in 2007 to 841 ktoe in 2008. "Transport" and "Manufacturing" were the two largest energy-consuming sectors accounting for 48.3% and 29.4% of energy consumed respectively. They were followed by "Household" (13.1%), "Commercial and Distributive Trade" (8.2%) and Agriculture (0.5%).
+
+2.11 Transport
+
+2.11.1 In 2008, some 406 ktoe of energy were used for transportation, representing a decrease of 1.2% over last year's figure of 411 ktoe. Consumption of gasoline increased from 107 ktoe to 110 ktoe (+2.8%) and that of diesel oil from 153 ktoe to 154 ktoe (+0.7%). Consumption of aviation fuel decreased from 144 ktoe in 2007 to 137 ktoe in 2008 (-4.9%) and the use of LPG in the transport sector decreased from 7.2 ktoe in 2007 to 5.6 ktoe in 2008 (-22.0%).
+
+2.12 Manufacturing
+
+2.12.1 Energy used for manufacturing processes decreased by 6.1% from 264 ktoe in 2007 to 248 ktoe in 2008. The contribution of electricity was 79 ktoe (9.3%), fuel oil, 53 ktoe (6.2%), diesel oil, 47 ktoe (5.6%) and bagasse, 38 ktoe (4.6%).
+
+2.13 Household
+
+2.13.1 Energy consumed by households (excluding transport) increased slightly from 109 ktoe in 2007 to 110 ktoe in 2008. The two main sources of energy for households were electricity and LPG, representing 51% and 42% respectively of total energy consumed by households. Consumption of electricity increased by 1.4% and that of LPG by 0.7%.
+
+2.14 Commercial and Distributive Trade
+
+2.14.1 Total energy consumption by "Commercial and Distributive Trade" sector rose by 6.0%, from 65.2 ktoe in 2007 to 69.1 ktoe in 2008. This sector witnessed an increase of electricity consumption from 53 ktoe to 58 ktoe (+9.4%) and a decrease of LPG consumption from 11.8 ktoe to 10.9 ktoe (-7.6%).
+
+2.15 Agriculture
+
+17
+
+Fuel Oil Petroleum products
+
+Local production - - -
+
+- - - - - 7,720 - 9,291 32
+
+246,434
+
+Imports 376,050
+
+117,190
+
+331,73 8
+
+272,694 6,146 279,404
+
+68,15 9 1,075,331 - - - - -
+
+Re-exports and bunkering - -
+
+(118,45 4)
+
+(130,543 )
+
+- (92,347) - (341,344) - - - - -
+
+Stock change / Statistical error
+
+27,829
+
+(7,671)
+
+(8,221)
+
+(5,644) (2,124) 26,241
+
+(240) 2,340 - - - - - Total Primary Energy Requirement
+
+403,879 109,518
+
+205,06 2
+
+136,507 4,022 213,298
+
+67,91 9 736,327 7,720 - 9,291 32 246,434
+
+Public electricity generation plant - -
+
+(1,596) - (2,179)
+
+(160,845 )
+
+- (164,619) - - (9,291) (32) -
+
+Autoproducer plants
+
+(378,042 ) -
+
+- - - - - - - - - -
+
+(208,150)
+
+Other transformation - -
+
+- - - - - - (822) 400 - - -
+
+Own use - - -
+
+- - - - - - - - - -
+
+Losses - - -
+
+- - - - - - - - - -
+
+Total Final Consumption
+
+25,837 109,518
+
+203,46 7
+
+136,507 1,843 52,453
+
+67,91 9 571,708 6,897 400 - - 38,284
+
+Manufacturing sector
+
+25,837 -
+
+46,764 - -
+
+52,453
+
+5,314 104,531 542 - - -
+
+38,284
+
+Transport sector - 109,518
+
+154,43 9
+
+136,507 - -
+
+5,599 406,064 - - - - -
+
+Commercial and distributive trade sector
+
+- -
+
+- - - -
+
+10,90 2 10,902 - 312 - - -
+
+Household - - -
+
+- 1,843 -
+
+45,78 6 47,628 6,356 88 - - -
+
+Agriculture - - 2,263 - - - - 2,263 - - - - -
+
+Other - - - - - - 320 320 - - - - -
+
+Note: figures in brackets represent negative quantities key strategies of making Mauritius a sustainable island. In 2007/2008, the price of oil rose significantly from around $40 a barrel some three years ago to reach a peak of $147 and the petroleum import bill increased from Rs 6.5 billion in 2000 to around Rs 25 billion in 2008. The share of petroleum in the total import bill went up from 12 percent to 18 percent. As a country that relies for around 80 percent of its energy on imports, the Government of Mauritius reviewed its strategies and placed primary focus on "building an attractive, modern, inclusive, green, open Mauritius".
+
+3.1.2 In this context, the Prime Minister enunciated the Maurice Ile Durable vision. The main thrust of this vision is to make Mauritius less dependent on fossil fuels through increased utilization of renewable energy and a more efficient use of energy, in general. The project includes the setting up of an Eco Park and the organization of a World Ecological Forum in Mauritius. With this project, Government wants to establish the foundation for self-sufficiency in energy and improve energy security for the country.
+
+3.2 Maurice Ile Durable Fund
+
+3.2.1 The Maurice Ile Durable Fund was created in July 2008, under the aegis of the Ministry of Renewable Energy and Public Utilities to support efforts to promote more efficient use of energy and increase the use of renewable energy. Rs 1.3 billion was provided by Government for financial year 2008-2009, derived from a token MID levy of 15 cents all petroleum products, LPG and coal.
+
+3.2.2 The objectives of the Maurice Ile Durable Fund are -
+
+"To finance
+
+(a) schemes for the preservation of local natural resources with a view to achieving sustainable development and adapting to climate change; (b) projects to explore and harness all potential for local sources of renewable energy and to reduce dependency on imported fossil fuels; (c) the promotion of energy savings through MDE; (d) programmes to reduce consumption of fossil fuels, achieve greater efficiency in the use of energy in enterprises, offices, homes, public sector, transportation sector and in hotels; (e) schemes to encourage innovation by households as well as by business to produce their own energy requirements and for the sale of any surplus at a premium; (f) the provision of -
+
+(i) outright grants of 10,000 rupees for every solar water heater purchased by 31 December 2009, through the solar water heater loan scheme operated by the Development Bank of Mauritius; through recycling of waste, to encourage more efficient use of energy and to increase reliance on renewable energy; (h) programmes for research and analysis pertaining to the development of renewable source of energy and consumption trends and to ensure environmental sustainability; (i) energy management programmes through networking with local and international partners;
+
+(j) awareness campaigns on energy saving and the use of renewable energy sources; and (k) such other projects incidental to or conducive to the attainment of any of the above objects. "
+
+3.2.3 Since July 2008, the Maurice Ile Durable Fund has implemented various schemes to promote energy efficiency and electricity savings, namely the sale of I million Compact Fluorescent Lamps at a subsidized price to domestic consumers and a grant of Rs 10,000 to 29,000 households for the purchase of solar water heaters. The MID Fund is also financing the replacement of street lights in rural and urban roads, and all conventional lightings in public buildings, schools, hospitals by economic compact fluorescent lighting systems and the replacement of all traffic lights by LED signal lights. It financed a joint project by the University of Mauritius and the University of Compiegne for the development of a Maurice Ile Durable strategy. The reports of the research work have been submitted by the University of Mauritius and will be used as a basis for the formulation of the Maurice Ile Durable Strategy. National consultations will be held with all stakeholders shortly. A new Grid Code for Small Power Producers has been prepared and the incentive scheme and feed in tariff are now being prepared.
+
+3.2.4 The MID Fund is also supporting the feasibility study for a wind farm at Curepipe Point, wind power projects in Rodrigues, a hydro power project at Midlands, a Landfill
+
+Gas to Energy project and a Waste to Energy project.
+
+3.2.5 In the context of the MID vision, Government has recently become the 137th member of the newly founded International Renewable Energy Agency (IRENA).
+
+4.1.1 Since 2005, a series of economic reforms have been introduced, with the aim of democratising the economy, empowering all categories of citizens and widening opportunities for citizens in order to promote a fairer and more equitable society.
+
+4.1.2 On the environmental front, there has been a general recognition that man is impacting on the planet in an unprecedented manner. The main cause has been the indiscriminate use of fossil fuels, causing climatic change, global warming and rise in sea level. Furthermore, the high degree of volatility in oil markets has increased awareness amongst policymakers of the need to decrease dependence on fossil fuels by increasing use of sustainable energies. This calls for a general shift in the energy policies and strategies in both developed and developing countries.
+
+4.1.3 Government's energy strategy is underpinned by the Energy Policy framework, adopted in December 2008. The framework is based on the emerging economic model, with the main pillars of the Mauritian economy being tourism, with a target of two million tourist arrivals by year 2015, information technology, seafood hub, manufacturing and a restructured cane industry.
+
+4.1.4 It is imperative that the environmental dimension be integrated in the energy strategy of our country in view of its vulnerability as a Small Island Developing State. Energy accounts generally for about 80% of all greenhouse gas emissions, which are at the root of climate change and air pollution. Energy strategies in Mauritius, has until recently been demand driven without any incentive to reduce demand and can no longer be sustainable.
+
+4.1.5 Environmental issues are at the forefront of any energy strategy. It is therefore the duty and responsibility of Government to work towards decreasing carbon dioxide emissions. Though a signatory of the Kyoto Protocol, Mauritius as a developing country has no binding commitment to reduce its greenhouse gas emission. However, it has taken the firm commitment to implement mitigation and adaptation measures in view of its vulnerability as a Small Island Developing State.
+
+4.1.6 In terms of energy supply, Mauritius is reliant on imported sources to more than 80%. From a broader perspective, the consumption of fossil fuels by the emerging giants China and India over the past few years have pushed energy prices to higher levels, while the geopolitical situation in the Gulf States have had significant impacts on the price of oil, causing significant volatility. The price of oil reached a peak of USD 147 in July 2008 followed by a drastic fall to about USD 60. The International Energy Agency has revised its estimate of a global decline rate of oil production to 6.7% in its 2008 World Energy Outlook. It is also highlighted that global conventional oil production will peak around 2020. Mauritius as a small island state with no fossil fuels is vulnerable to future increases in the prices of oil and coal.
+
+4.2.1 In keeping with the Maurice Ile Durable vision, energy strategies have been designed to achieve the following key objectives in the medium to long-term:
+
+• reduce our vulnerability with regard to imported fossil fuels and their volatile prices;
+
+• promote economic growth and job creation;
+
+• democratize energy supply;
+
+• secure affordable energy to consumers;
+
+• ensure the financial sustainability of the electricity utility; and
+
+• promote long-term sustainable development in line with the concept of "Maurice Ile Durable".
+
+4.2.2 These objectives are underpinned by targets in terms of improvement of efficiency in the use of energy and reduction in the use of fossil fuels and in the emission of green house gases arising from energy use. Given the uncertainty about the ready availability of oil beyond the next five decades or so, it is important to chart out an energy strategy for the long-term that would reduce as far as possible the reliance of the country on oil for electricity production and transportation. In this regard, the strategy is multi-pronged, in keeping with the constraints of the country in terms of its geographical location, availability of other less volatile and better distributed reserves of fossil fuel such as coal, energy resources available locally and the availability and competitiveness of technologies in the marketplace for their conversion into electricity and for use in transportation and industry.
+
+4.2.3 In formulating the energy strategy, the following essential criteria have been taken into account:-
+
+(i) demand for energy;
+
+(ii) economic reforms;
+
+(iii) the need to attract foreign direct investment in the energy sector;
+
+(iv) environmental considerations and carbon financing within the Clean Development Mechanism Framework and the voluntary market ;
+
+(v) sugar sector reforms and linkage to electricity generation; and
+
+(vi) transportation and industrial development policies links to energy use.
+
+4.3 Share of Renewables in Electricity Mix
+
+4.3.1 In line with the MID vision, the target is to achieve by 2025 about 35% self-sufficiency in terms of electricity supply through a progressive increase in the use of renewable energies, depending on breakthrough in technologies such as sea-wave energy, geothermal, OTEC and others. The above targets are ambitious and will pose a number of challenges to decision makers in their future strategic choices.
+
+4.5.1 In terms of electricity, the strategy is also to meet demand in a consistent manner, assuring security and reliability of supply at affordable prices. The key economic pillars, in particular the ICT and tourism sectors would require a constant and high quality supply of electricity.
+
+5.1.1 Energy is the key driver for economic growth and, therefore, energy strategies should promote sectoral economic growth. The energy strategy of Government forms part of an integrated multi-sectoral programme with regard to:-
+
+• Energy supply - use of fossil fuels such as oil, coal and LPG, as well as renewable energy sources such as bagasse, wind and solar energy;
+
+• Energy conversion- technologies and fuels for electricity generation;
+
+• Energy demand - promotion of energy efficiency at all levels including design of buildings and public awareness campaign; and
+
+• Energy security - ensuring essential storage facilities to prevent shortages for all services at all times.
+
+5.1.2 National responsibility for energy currently rests with the Ministry of Renewable Energy and Public Utilities, which is also the parent Ministry for the electricity utility. Other stakeholders include the Ministry of Finance and Economic Empowerment, the Ministry of Public Infrastructure, Land Transport and Shipping, the Ministry of Environment and National Development Unit, the Ministry of Agro-Industry and Fisheries, the Ministry of Industry, Science and Research, the Ministry of Local Government, Outer Islands and Rodrigues, the Central Electricity Board, the Maurice Ile Durable Fund and the Mauritius Sugar Authority.
+
+5.1.3 In the context of a globalised economy, Mauritius has to encourage greater competition in the energy sector. Government strategy is to avoid any monopolistic situation, be it public or private. To encourage competitiveness in the energy sector, Government will put in place appropriate market regulations for the utility sector with a view to enhancing operational efficiency. To that effect, Government has proclaimed the Utility Regulatory Act in September 2008 and the Board of the Regulatory Authority would be operational by the end of 2009.
+
+5.1.4 Once the multi-sectoral Regulatory Authority is operational, Government will proclaim the Electricity Act 2005 to regulate, in the first instance, electricity services.
+
+The latter Act provides, inter-alia, for reform of the electricity sector, including improvements in the standards of customer service and consumer protection.
+
+5.1.5 Government will set up the necessary institutional structure for the implementation of this strategy.
+
+5.1.6 A Sustainable Development legislation will be introduced to provide the necessary frame work for the promotion and implementation of sustainable development.
+
+5.1.7 Appropriate training and capacity building programmes will be established in collaboration with tertiary institutions and development partners to develop skills in the field of renewable energy and energy efficiency and encourage research and
+
+Efficiency Act to promote energy efficiency programmes at the levels.
+
+5.2.2 An Energy Efficiency Management Office will be set up as a nodal agency for a systematic and comprehensive development and implementation of energy efficiency measures including assessment of energy consumption, formulation of strategy and enforcement of regulations for product labelling and new building codes.
+
+5.2.3 With a view further promoting the development of renewable sources of energy, including small decentralized systems, a grid-code has already been prepared. Government will introduce appropriate feed-in tariffs and incentive schemes for sale of surplus electricity to the national grid.
+
+5.3 Power Sector Reform
+
+5.3.1 The long-term strategies for the power sector are to create:-
+
+a financially sound and self-sustainable electricity sector a transparent and fair regulatory environment that appropriately balances the interests of consumers, shareholders and suppliers conditions that provide efficient supply of electricity to consumers and improvement in customer services a modern power sector with up-to-date organisational and management practices
+
+5.3.2 However, given the small size of the electricity market, complete unbundling of the power system is not envisaged at this stage. The long-term objective is to encourage further private sector participation in the generation side within the framework of a single buyer model. The Electricity Act 2005 sets the path for the implementation of the long-term power sector reform strategies.
+
+economy. In order to promote energy efficiency in the country, Government's strategy is to remove all current barriers, namely, institutional, technical, economic and financial, to allow for the development of an energy efficient economy.
+
+6.1.2 Government will introduce an Energy Efficiency Act with the objective of reducing energy use and costs, protecting the environment, improving productivity and contributing to the mitigation of the effects of climate change.
+
+6.1.3 An Energy Efficiency Management Office would be created within the Ministry of Renewable Energy and Public Utilities. In addition to assuming the role of "Observatoire de L'Energie" the Energy Efficiency Management Office (EEMO) will become a centre of excellence in the fields of:
+
+Creation of a national data base on energy usage Renewable energy technologies and techniques Tapping clean development mechanism funding with regard to renewable and energy conservation
+
+Energy efficiency program management Promotion and awareness-raising on energy supply/demand
+
+6.1.4 All sectors in the country would be targeted for improving the efficiency of energy use. These would, inter-alia, include new morcellements, new cybercity development, new cities such as the one to be built in Highlands, major building complexes, public open space and transportation systems. The concept of energy management and use of energy savings devices would be promoted in all projects.
+
+6.2 Energy Audits
+
+6.2.1 The new Energy Efficiency legislation will, inter alia, make energy auditing for designated consumers/sectors mandatory, regulate the standards of energy auditing, allow for the imports of energy efficient appliances, improve standards of energy utilization in buildings and promote awareness and education of the public.
+
+6.2.2 In order to pursue its energy efficiency and conservation strategy, Government will also create a pool of qualified and certified energy auditors in the country. To ensure that the auditors are of required standard, Government will also develop an appropriate Energy Auditor Certification Scheme.
+
+6.2.3 SME's and other economic operators may be provided with technical support to allow them to secure favourable funding terms with banks for putting in place appropriate measures for optimum energy use. Where necessary, complementary incentive shemes may be considered.
+
+6.2.4 The EEMO with the collaboration of other stakeholders and development partners would develop a model factory concept for demonstrating how energy can be utilized efficiently. The model would, inter-alia, comprise architectural design of industrial buildings and use of renewable energy and cleaner processes.
+
+including practical engineering skills in areas such as energy efficiency and renewable energy technologies.
+
+6.3.2 Relevant educational materials on sustainable energy will be developed by the EEMO for use at all levels in schools. The target groups would include primary and pre-primary children.
+
+6.3.3 Moreover, in the context of MID concept, emphasis will be laid on appropriate training to build capacity to develop a culture of sustainable development including energy efficiency and energy conservation.
+
+6.4 Demand Side Management
+
+6.4.1 On the demand management front, Government has, with the collaboration of the electricity utility, implemented a Compact Fluorescent Lamps project whereby one million lamps have been sold at a concessionary price. The main objective of the project was to promote the use of Compact Fluorescent Lamps in households and to lower the evening peak demand comprising a significant component of domestic load. Moreover, a real time peak display on the national television will be introduced to encourage savings during the evening peak period.
+
+6.4.2 The technical and economic potential for lowering energy intensity of the industrial sectors, through energy efficiency, measures will also be addressed. Demand Side Management strategy will target energy intensive industries, which will be required to hire a Certified Energy Auditor and to develop energy management plans. On the other hand, the smaller industries will be required to carry out energy audits at prescribed intervals. In this respect, classification of companies by their energy consumption will be carried out and the EEMO will be responsible to prepare realistic targets and monitor energy savings in the sector.
+
+6.4.3 It is reckoned that there is presently an absence/shortage of energy service companies and energy efficiency specialists in the country. Accordingly, industries will be given a reasonable moratorium to comply with the above policies. Meanwhile, Government will continue to encourage industries to carry out energy audits and implement such measures as may be required for efficient energy use. The EEMO will run awareness campaigns on energy efficiency and energy audits for all the economic sectors. to facilitate this transition phase.
+
+6.4.4 As part of the demand side management strategy, efficient street lighting system using CFL and traffic lighting using LED would be promoted with a view to reducing Government energy bills.
+
+6.4.5 Government will promote use of energy efficient appliances in public buildings, including hospitals, health care centres, schools and public offices.
+
+6.5 Sustainable Buildings designing energy efficient buildings.
+
+6.5.3 Government is committed to retrofitting existing state-owned public buildings, in a phased manner, to bring their energy performance up to best practice standards.
+
+6.5.4 A new Building Control Act will be passed to improve building design and choice of building plant and equipment to attain high efficiency in term of energy use. Henceforth, new buildings, both public and private, will have to be energy efficient in terms of the building design and plant and equipment to be used, as per the provisions of the new Act.
+
+6.5.5 Issues of sustainable building designs and low energy consumption would be addressed in specific Planning Policy Guidelines, which would be prepared in consultation with stakeholders, including architects, engineers and environmentalists.
+
+6.5.6 Government will also introduce best working practices and engineering based solutions to address public sector energy efficiency. In this respect, the EEMO will launch appropriate campaigns with the objective of changing behaviour at work and promoting practices aimed at rationalization of energy use in all large buildings. Necessary technical support and guidance will be provided by the EEMO for the implementation of energy saving measures in all public bodies.
+
+6.5.7 The public sector will also play its part in demand management. In hospitals, the demand for hot water is very high and this is generally met from electric and gas water heaters, though there is good potential for the use of solar water heaters. To ensure optimal use of renewable sources of energy, solar water heaters will be installed.
+
+6.5.8 The EEMO will work in close collaboration with hospitals and private clinics with a view to promoting efficient use of energy in the health sector.
+
+6.5.9 The overall strategy is to reduce energy consumption in the public sector by half of its current level by the year 2015 and to sustain the energy efficiency objectives with the support of new technologies.
+
+6.6 Energy Efficiency in the Tourism Industry
+
+6.6.1 Tourism contributes significantly to economic growth and has been a key factor in the overall development of Mauritius. In the past two decades, tourist arrivals increased at an average annual rate of 9% with a corresponding increase of about 21% in tourism receipts. In 2008, gross tourism receipts were 41.2 billion rupees and contributed to about 11% of our GDP.
+
+6.6.2 Worldwide developments in the energy sector are likely to adversely impact the tourism sector of Mauritius. Higher fuel prices and a growing awareness of the
+
+• retrofitting of existing hotels with the latest energy efficient technologies and mandatory sustainable building design for new hotels
+
+• mandatory use of solar hot water systems in hotels as far as practicable
+
+• introduction of low-energy lighting/appliances/air-conditioning and cooling devices throughout the hotel industry
+
+• promotion of low-energy and eco-friendly airport transfer policies
+
+• encouraging hotels to provide facilities on optional basis to allow tourists to offset the carbon impact of their flights by investing in sustainable energy schemes in Mauritius
+
+• incentive schemes to promote and develop an eco-friendly tourism industry.
+
+6.6.5 In the long-term, the strategic objective is to promote zero-carbon-footprint holidays, thereby enhancing the competitiveness of our tourism sector.
+
+6.7 Product Labelling & Efficiency Standards
+
+6.7.1 At present, price has been the main decisive factor in the purchase of equipment in the public sector. But as far as electrical appliances are concerned, such a criterion may ultimately prove to be costly to Government, especially when such equipment are not energy efficient and do not provide for stand-by or energy saving modes. Henceforth, besides the price element, life-cycle costs and efficiency will be key determinants in the selection of electrical equipment including lamps, computers, scanners, printers, photocopying machines, air-conditioners, refrigerators and freezers.
+
+6.7.2 With the introduction of energy efficiency product labelling under the proposed Energy Efficiency Act, customers' rights would be safeguarded in terms of:
+
+(i) awareness on the importance of using energy-efficient products;
+
+(ii) access to readily available pre-purchase information on product rating, efficiency data and energy consumption so as to enable them to purchase more energy-efficient products; and
+
+(iii) obligations of manufacturers to develop and provide products that meet or exceed designated minimum energy efficiency standards.
+
+6.7.3 Government strategy is also to set the minimum energy performance standards for household and non-household electrical energy-consuming appliances/equipment in addition to labelling of such appliances/equipment according to their energy efficiency levels. The appliances/equipment targeted for energy efficiency product labelling and minimum standards will, in the first instance, be limited to:
+
+(viii) room air conditioners; (ix) dishwashers; (x) refrigerators, freezers and their combinations;
+
+Year 2010 2015 2020 2025
+
+Target in % 2 4 6 10
+
+sector away from fossil fuels as far as possible. To date, Mauritius produces about 22% of its electricity from renewable resources namely hydro and sugar cane bagasse, and as such is among one of the world leaders in renewable energy use.
+
+7.1.2 Mauritius has a very valuable asset in the form of cane biomass. Of all cash crops, sugar cane best absorbs solar energy with 55 tonnes of carbon dioxide fixed per 100 tonnes of cane produced per hectare. In this way, each year 5 million tons of environment friendly biomass are produced in the form of sugar cane. Cane tops and leaves can add another 20% of biomass to that amount.
+
+7.1.3 The biomass from sugarcane used for generating electricity consists essentially of bagasse. The latter is the most plentiful primary energy resource used by the sugar industry to meet all its energy requirements in terms of heat and electricity generation. In addition, surplus power from bagasse is fed into the national grid as a result of major investment and factory closures to be undertaken at the level of sugar industry.
+
+7.1.4 Besides sugar production, energy generation from bagasse complemented by coal has been a major activity of the sugar industry since the mid-1980's through factory modernization and centralization. About 50% of investments in a typical sugar factory are linked to the boiler and the turbo-alternator. The IPPs in the industry have been making such investments through power generation projects for supply of electricity into the national grid. Such IPPs include Central Thermique de Belle Vue (CTBV), Flacq United Estates Ltd (FUEL), Consolidated Energy Ltd (CEL) and Central Thermique de Savannah (CTSav).
+
+7.1.5 In such an arrangement, the sugar factory obtains steam and electricity required for its operation, and in return the power plant obtains the bagasse produced after the milling of canes and condensed water from the sugar factory free of charge. This has been the strategy of the sugar industry to optimize the use of bagasse for power generation complemented with coal and to segregate milling and energy activities into separate and distinct legal entities in line with the Bagasse Energy Development Programme initiated in 1991. At the same time, the sugar factories had the opportunity to modernize their milling infrastructure, in addition to diversifying their revenue from the sale of electricity to the CEB for onward sale to consumers. In environmental terms, it may be noted that another key positive aspect of bagasse is that its ash content is less than that of coal and the concept of 'carbon burn out' is being considered.
+
+7.1.6 Government strategy is to use bagasse more efficiently with a view to increasing the contribution of bagasse based electricity in the medium-term from the present level of 350 GWh to 600 GWh annually. Additional electricity from the same amount of bagasse currently available from the 5 million tonnes of cane can be generated by the sugar industry through investment in power plants operating at higher pressure. However, benefits from the use of additional bagasse should be reaped by all stakeholders of the sugar industry, particularly the corporate sector, of coal. Within this framework, the target of 600 GWh of electricity from bagasse will be achieved in medium term.
+
+7.1.8 It is to be noted that research and development in the sector is being accelerated at ACP level where Mauritius is playing a leading role to develop new varieties of sugar cane with higher biomass production. A new variety of sugar cane which can produce between 15-25% more fibre than current ones was developed by the Mauritius Sugar Industry Research Institute in 2007. Development and use of such variety of sugarcane can help to increase the amount of electricity produced from bagasse. The long-term strategy of Government is to encourage the use of new varieties of sugar cane with higher biomass content and any other technology that would be commercialised so as to increase the amount of energy generated from bagasse.
+
+7.2 Master Plan for Renewable Energy
+
+7.2.1 A Master Plan for Renewable Energy will be prepared with the aim of establishing our long term objectives. With the assistance of the World Bank, a consultant is being hired to develop the Master Plan in consultation with all the stakeholders.
+
+7.3 Solar Energy Strategy
+
+7.3.1 Mauritius is situated in the tropics and as such benefits from more than 2900 hours of sunlight per year. Yet, the present cost of generating PV electricity is relatively high when compared to other conventional and renewable sources, despite the progressive reduction in the cost of the technology in the last decade. In order to encourage use of solar energy, whether for water heating or electricity production, incentive schemes would be implemented to enable long-term strategic goals to be achieved.
+
+7.4 Solar Water Heating
+
+7.4.1 Solar water heating is the most common form of solar energy conversion, used in Mauritius. However, it is not sufficiently tapped, though the potential is very high.
+
+7.4.2 Since 1992, the Development Bank of Mauritius has been providing a concessionary rate of interest on loans for the purchase of solar water heaters. However, it was estimated in 2008 that only some 25,000 households, out of a total of about 330,000, used solar water heaters for domestic water heating.
+
+7.4.3 With the setting up of the MID Fund in July 2008, the solar water heater loan scheme operated by the Development Bank of Mauritius has been revisited with an outright grant of Rs 10,000 from the MID Fund given for every solar water heater purchased so as to double the number of solar water for domestic use by end 2009. Loan facilities are also provided by the Development Bank of Mauritius, but the grant is not contingent to a loan being taken from the Bank.
+
+7.5 Solar Photovoltaic
+
+7.5.1 The photovoltaic technology is fast evolving and it will have an impact on the country's energy mix in the long-term. In 2008, the world production of photovoltaic modules increased to some 170 MW as compared to some 100 MW ten years earlier. Over the same period, the average module price has decreased from 5 €/Watt to 3€/ Watt. With new technological advancement, the price of PV modules are expected to drop in the long-term making PV a viable option. The average daily sunshine intensity of Mauritius adds to this advantage.
+
+7.5.2 Government strategy is to adopt the technology when the costs are reasonably competitive with other technologies. Moreover, Government will design appropriate schemes to allow for the progressive market penetration of photovoltaic systems in terms of:
+
+• Investment subsidies, whereby part of the cost of installation of PV systems could be refunded; and
+
+• Feed-in Tariffs/net metering, whereby the CEB would purchase PV electricity from the producer at a guaranteed rate.
+
+7.6 Wind Energy Strategy
+
+7.6.1 Wind is the most commercially viable renewable source of energy for electricity generation. Technological progress in the wind energy technology has enabled a hundred fold increase in unit capacity of wind turbines from 50 kW to above 5 MW units in 20 years with reduction in costs by some 50%. With the adoption of worldwide green policy in energy production, major technological breakthroughs in wind energy with greater cost reductions are expected in the coming years.
+
+7.6.2 The main islands of Mauritius and Rodrigues are for the major part of the year exposed to the South East Trade Winds and which are, therefore, conducive for wind energy exploitation. A Wind Energy Resource Assessment Study financed by the UNDP was carried out in the mid 1980s. The study confirmed that there are potential sites on the two islands for the setting up of wind farms, with some areas having an annual average speed of 8.0 m/s at 30 m above ground level.
+
+7.6.3 However, pilot projects in Mauritius and Rodrigues in the mid 1980's were not successful as the wind turbines were damaged by cyclones after about two years of operation. As gust of 280 km/hr can occur during the passage of cyclones, the wind turbine technology to be used should be able to withstand such severe cyclonic conditions.
+
+7.6.4 In the quest to promote wind energy development, the strategy is to develop a wind atlas to facilitate the implementation of wind power projects.
+
+national grid is limited to 30% of the night load. In view of this constraint, wind generation capacity can be limited to some 60 MW at current level of night load. Taking into consideration future growth in the night load demand, some 2-3 MW of wind power may be accommodated annually.
+
+7.7.2 The strategy of Government is to resort to the Build Operate Own (BOO) model for the implementation of any future wind farm in Mauritius. Moreover, the wind farm would comprise wind turbines which have established record to resist cyclonic gusts of the order of 280 km/h.
+
+7.7.3 In line with this strategy for wind energy development, a wind farm of 25-40 MW will be set-up at Curepipe Point on a BOO scheme. The wind farm is expected to be operational by end 2010.
+
+7.7.4 Besides the PPP Project, two private sector operators have expressed interest to set up wind farms at Plaines des Roches and Britannia with a minimum of 10 MW installed capacity.
+
+7.8 Hydro Power Strategy
+
+7.8.1 CEB operates eight hydroelectric stations having a total installed capacity of 59 MW. The full installed capacity can only be exploited in wet periods with heavy rainfall. The power stations at Champagne, Tamarind, Magenta, and Le Val are run with dam storage facilities. The remaining stations at Ferney, Réduit, Cascade Cécile, and La Ferme are of the run-of-river type. The amount of energy that can be generated from the hydro power stations varies significantly over the year, from less than 5 GWh in the driest month to some 20 GWh in the wet season. For an average year, some 100 GWh is generated from the eight hydro power plants.
+
+7.8.2 The hydropower potential in the country has been almost fully tapped with the eight hydro power plants, and there are very competitive uses of the existing water resources. Nevertheless, Government strategy is to encourage the setting up of mini and micro hydro plants, at potential sites wherever economically viable.
+
+7.8.3 In this respect, a 375 kW micro hydro power plant will be commissioned in early 2010 on La Nicolière Feeder Canal, at Trente Chutes. The plant is expected to generate some 2 GWh/year. Other potentials sites, such as Midlands dam, where the basic infrastructure was already provided when the dam was constructed will be developed.
+
+7.9 Waste-to-Energy Strategy
+
+7.9.1 Waste-to-energy generation is part of the solid waste management strategy of Government to relieve the existing landfill site at Mare Chicose. The solid waste management policy has been designed on the basis of a feasibility study prepared in 2005.
+
+waste management and treatment, such as environmental costs. Government, through the MID Fund, will financially support efforts to protect the environment through the incineration and recycling of waste.
+
+7.9.4 A 3 MW Gas-to-Energy unit with an annual electricity generation of 20 GWh will be installed at the landfill site at Mare Chicose.
+
+7.10 Other Technologies
+
+7.10.1 Geothermal energy technology is well established and commercially available but its application is site dependent. As Mauritius is of volcanic origin, there is the probability that geothermal sites are available. However, exploration costs are exorbitant as deep drilling is required to access the thermal source. The strategy is to allow private operators to take the exploratory risks.
+
+7.10.2 As regards the Ocean Thermal Energy Conversion (OTEC) technology, it has not yet been commercialised and Government's strategy will depend on its adoption by other countries in the medium to long term.
+
+7.10.3 Government will also encourage innovative strategies for technology transfer through reliance on special programmes under global funds, such as the Global Environmental Facility (GEF) and funds from other bilateral and multi-lateral cooperation agencies. Technologies such as hydrogen-based electricity, gasification and fuel cells could be explored on a pilot basis subject to appropriate funding from donor agencies.
+
+7.10.4 A Land Based Oceanic Industry is one of the innovative projects which will be developed with the participation of private sector operators for the exploitation of deep sea water for air conditioning of green data centres at Flic en Flac.
+
+basis of renewable and non-renewable sources of energy are given in the Table below.
+
+Note: Forecasted energy mix 2010-2025
+
+Assumptions
+
+The above targeted energy mix is based on the assumptions that the coal and waste energy projects approved by Government would be operational by 2013 and new and more affordable PV technology would be available. Moreover, the above table would be subject to regular review and update, depending on changes and development in technology, including outcomes of local energy resource assessment and affordability.
+
+Fuel Source Percentage of Total Electricity Generation
+
+2010 2015 2020 2025
+
+Renewable Bagasse 16% 13% 14% 17%
+
+Hydro 4% 3% 3% 2%
+
+Waste to energy 0 5% 4% 4%
+
+Wind 0 2% 6% 8%
+
+Solar PV 0 1% 1% 2%
+
+Geothermal 0 0 0 2%
+
+Sub-total 20% 24% 28% 35%
+
+Non-Renewable Fuel Oil 37% 31% 28% 25%
+
+Coal 43% 45% 44% 40%
+
+Sub-total 80% 76% 72% 65%
+
+Total 100% 100% 100% 100%
+
+constantly growing needs of the country, Government will take action for the timely commissioning of additional power generating plants. The CEB would be encouraged to increase its own production capacity and to ensure security and reliability of supply, at the lowest possible costs".
+
+8.1.2 Three key principles underpin Government strategy in electricity generation and supply. Firstly, availability, security and diversity of supply with particular focus on renewable energy; secondly, affordability with a view to ensuring socio-economic development of the country taking into account the financial sustainability of the utility and thirdly, energy efficiency and conservation, given the high volatility of the prices of fossil fuels, in particular oil. Thus, the triple targets are the financial, environmental and social sustainability of the sector within which framework the strategic objectives will have to be achieved.
+
+8.1.3 Over the next 25 years, Mauritius will need massive investment in new electricity generation plants. Government priority will be to secure adequate investment by putting in place the proper market conditions for such investment. Demand and supply balance will be closely monitored to allow for timely implementation of power sector projects.
+
+8.1.4 To meet the growing electricity demand, Government will encourage the emergence of new producers/suppliers while fully integrating the role of the sugar sector on the basis of economic, financial and environmental analyses. Moreover, Government will provide the necessary incentives for the development of the renewable energy sector and will promote energy savings and energy efficiency at all levels in the country.
+
+8.2 Electricity Market Share
+
+8.2.1 CEB currently produces around 40% of the country's total power requirements, the remaining 60% being purchased from Independent Power Producers (IPP). Presently, the CEB is solely responsible for the transmission, distribution and supply of electricity in Mauritius and Rodrigues. Whilst IPPs would continue to be accommodated, the CEB would be allowed to also participate in providing new generation capacity. Accordingly, for strategic reasons, the CEB will continue to generate electricity in line with the policy outlined in the 2005 Presidential Address. However, the Regulator will have to ensure level playing in relation to electricity generation.
+
+8.3 Small Scale Distributed Generators/SIPPs
+
+8.3.1 A comprehensive Renewable Energy Master Plan will be prepared to sustain and further promote the use of renewable energy in the country while allowing IPPs to be a major player in electricity generation. Government strategy is to allow consumers from the domestic, industrial and commercial sectors to also join the electricity supply market by the setting-up of small renewable generating units, mainly using wind and photovoltaic systems.
+
+and legal parameters, will be considered under a separate grid code and pricing policy.
+
+8.4 Strategy for Electricity from Coal
+
+8.4.1 It is well established that coal is the only other fossil fuel available with proven reserves that can last much longer than oil, in addition to its even distribution around the globe, making it less prone to geopolitical and other associated risks and therefore less volatile in terms of prices.
+
+8.4.2 To further diversify the country's electricity production and given that there is a range of technologies already available in the marketplace for the efficient conversion of coal into electricity, the preferred strategy is to increase the share of clean coal in the country's energy mix.
+
+8.4.3 However, to limit carbon dioxide emissions, modern coal power plants using the clean coal would be encouraged at improved efficiency of 40 to 45%. This option would substitute oil to the extent possible in the country's energy mix to ensure security and diversity of supply. Moreover, the higher efficiency of dedicated clean coal plants would also allow the cost of electricity generation to be less than from bagasse-coal plants. However, the issue of ash disposal and particulate emissions are pertinent and would be addressed in an integrated environment strategy. Ash disposal would be in accordance with the recommendation of the Technical Advisory Committee on management of coal/bagasse ashes.
+
+8.4.4 In the context of the above strategy, a coal plant of 110 MW with all the mandatory environmental safeguards, will be implemented at Pointe aux Caves. An appropriately designed ash pond would cater for ash disposal from the plant. As regards particulate emissions, the project will include an electrostatic precipitator which is known for its high performance efficiency in terms of pollution control.
+
+8.5 Replacement of Old Diesel Engines
+
+8.5.1 In the short-term, there is a need to replace the old and inefficient diesel engines at the St Louis and Fort Victoria Power Stations for semi-base load generation. Such a replacement is also warranted to minimize environmental impacts in terms of emissions and noise. In the context of this replacement policy, six new engines, each of 15 MW capacity, will be installed at Fort Victoria and are expected to be commissioned in a phased basis in 2010 and 2011.
+
+situation has worsened over the years with the significant increase in the number of vehicles on our roads. During the past years, the fleet of vehicle has increased from some 190,000 in the 1990's to around 351,406 vehicles in 2008. At the end of December 2007, 39% were less than 5 years, 25% between 5 and 9 years and the remaining 36% were 10 years and above. 37% of the buses were under 5 years, 23% between 5 and 9 years and 40%, between 10 and 18 years. Heavy vehicular traffic is one of the causes of pollution problems, in terms of vehicular emission whereas traffic congestion which entails heavy costs for businesses, has also a negative impact on the economy and on the health and productivity of the nation.
+
+9.1.2 In its programme for 2005 - 2010, Government took the firm commitment to adopt appropriate short, medium and long-term policy measures to address the long standing problem of road congestion. In 2006, Government decided to undertake a review of the Urban Transport Strategy to find affordable solutions that could be quickly implemented. The strategy was formulated after taking into consideration all the previous studies and reports and it is based on the premises that -
+
+(i) investment in infrastructure specially roads do not necessarily reduce congestion ;
+
+(ii) traffic congestion can be managed by making public transport more reliable, faster and more comfortable ; and
+
+(iii) managing congestion will involve both increasing the speed of public transport and control the access of private cars particularly with single occupancy to Port Louis during peak hours.
+
+9.2 Main Elements of Strategy
+
+The main elements of the strategy are -
+
+Institutional Measures
+
+9.2.1 Setting up of a new Land Transport Authority with the mandate to plan, implement and manage the nation's land transport with improved coordination and efficiency. It will take over the activities of the Road Development Authority, the National Transport Authority and the Traffic Management and Road Safety Unit. It will primarily remove duplication and bureaucracy and improve cost efficiency through capacity building specially transport and management professional skills and competencies.
+
+Public Transport Development
+
+9.2.2 Government has embarked on a Bus Modernisation Programme. At the heart of the programme is the implementation of a 25 km busway using a disused rail right of way and 12 km bus-only lane to be placed along an existing motorway and to be
+
+Road Construction and Management
+
+9.2.4 Government is implementing a major infrastructure development programme which includes:
+
+(xv) New access road for Jing-Fei at Riche Terre and developments at
+
+Reduit; (xvi) Construction of Goodlands Bypass Road; (xvii) Construction of Triolet Bypass; (xviii) Construction of Gros Bois/Mare D'Albert Road; (xix) Construction of Camp Thorel - L'Esperance Link Road; (xx) Upgrading of Quartier Militaire Road; (xxi) Widening of Motorway M1 by providing 3 lanes from Phoenix to
+
+Caudan; (xxii) Replacement of Caudan Roundabout by a grade-separated junction; (xxiii) Construction of Terre Rouge-Verdun -Trianon Link Road; (xxiv) Construction of Harbour Bridge; (xxv) Construction of Ring Road to Port Louis; (xxvi) Construction of Phoenix Beau Songes Link Road; (xxvii) East West Connection Road; (xxviii) East Coast Trunk Road;and (xxix) Bus Modernisation Project.
+
+9.2.5 The Port Louis Ring Road and Harbour Bridge will not only relieve congestion at Port Louis but also facilitate entry into Port Louis and the Terre Rouge Verdun road will deviate 15% to 25% of traffic from the motorway and through the city. The road will also provide the link with the Administrative City in Highlands as well as connect the North to the Central part of Mauritius and the East. Government has also decided that the new roads will include a congestion pricing element.
+
+9.2.6 Other projects to address traffic congestion problem are the construction of the administrative city in Highlands in order to decentralize services from Port Louis, a review of the parking policy and integrating land planning with transport strategies.
+
+9.3 Strategic Objective of the Transport Sector
+
+9.3.1 In the Transport Sector, the energy strategies are to -
+
+(i) encourage the use of more efficient and lower emission vehicles and fuels; (ii) encourage the use of biofuels; (iii) improve the efficiency of transport provision and use; (iv) reduce the level and types of vehicle and fuel supply chain emissions; and (v) provide a degree of security against supply discontinuities.
+
+9.3.2 Government will take the following short and medium term measures -
+
+(iv) Introduce the mix of ethanol -gasoline at the pump by using E10 and moving to E20 at a later stage around 150,000 tonne of molasses are available on an annually renewable basis and up to 120,000 tonne can serve as feedstock in production of some 25 million litres of ethanol; (v) Set up strategic reserves of transport fuels to be in line with oil consumption and demand patterns. The State Trading Corporation should ensure storage capacity of at least 30 days on arrival of vessels as compared to the existing 5-10 days storage;
+
+(vi) Promote fuel saving techniques in driving through education and information programme and including such techniques into the driving test ; (vii) Carry out campaigns to encourage car owners to make more efficient use of fuel ;
+
+(viii) Conduct fleet reviews in companies, government and parastatal bodies having over 50 vehicles, and advising them on cutting fuel costs and emissions;
+
+(ix) Encourage the use of information technology to avoid travelling by the public for different services and payments; (x) Integrate long term transport planning with land development and in infrastructure investment decisions; (xi) Restructure operations within organizations and decentralize services from the city to other locations in order to avoid congestion; (xii) Encourage the use of information technology to avoid travelling by the public for different services and their payments; (xiii) Introduce congestion pricing in order to reduce demand and alleviate traffic congestion.
+
+(xiv) Promote the use of hybrid and electric vehicles through fiscal incentives and concessions and introduce fiscal policies to encourage transport fuel efficiency technologies;
+
+(xv) Encourage vehicle users to reduce the distance travelled by single occupancy vehicles in urban areas during peak hours by 10 per cent; (xvi) Encourage private and public sector organizations to improve energy efficiency of heavy duty vehicles with energy efficiency technologies and tyre standards.
+
+10.1.1 The financial, incentive and tax regimes with respect to the long-term energy strategy is to allow for sustainable energy financing so that there is a shift in energy usage pattern that would favour efficiency at the sectoral level, which would be mirrored at the macro-economic level. This would require a paradigm shift from the traditional practice of putting in place measures on the supply side to having a functional fiscal framework that promotes efficient energy use, affordability and opportunity to lower the cost of energy to the user through the use of sustainable energy techniques.
+
+10.1.2 The long-term fiscal framework would aim at helping the population at large to use energy efficiently and generate their own energy using renewable sources. For vulnerable households, targeted low-income subsidies, energy efficiency schemes and household renewable schemes to lower the energy need would be designed and implemented in the medium-to-long term.
+
+10.1.3 With respect to the industrial sector, the fiscal framework would be designed such that affordability of energy is enhanced that would allow the local industry to remain or become more competitive. Furthermore, programmes will be designed to help industries identify and act upon energy efficiency investment opportunities.
+
+10.2 Sources of Investment
+
+10.2.1 The strategy underpinning the energy sector reform is a change from a small number of very large supply-side investments, public or private, generally with sovereign guarantees, to supply-side investments by households and a larger number of private sector investors, including large numbers of medium-sized demand-side investments by industry and commerce. Large numbers of small investments in simple energy efficient products will be promoted on the one hand.
+
+10.2.2 On the other hand, large-scale wind energy projects on PPP basis would be encouraged at sites that have good potential, while reckoning with the constraint of penetration of wind in the network, typically limited to about 30% of night load demand.
+
+10.3 Framework for Banking Sector to support Energy Strategy Reform
+
+10.3.1 In order to implement Government's strategy to promote a sustainable energy sector, the support of the banking sector is vital. To that effect, local banks would be encouraged to provide credit to industries which invest in energy efficiency and renewable technologies.
+
+10.3.2 At present, the banking sector of Mauritius is not particularly attractive for small consumers. Interest rates are high, which makes a significant impact on the financial return of making an energy efficiency or renewable energy investment using borrowed funds. The ongoing economic and banking reforms would improve the availability of credit to small investors for energy efficiency and renewable energy investments.
+
+Energy Development Master Plan. It is envisaged to assess and quantify the CERs potential.
+
+10.4.2 The Energy Efficiency Management Office (EEMO) would develop expertise and run awareness programmes in carbon financing to help create as many CDM projects as possible in Mauritius in collaboration with the Designated National Authority for CDM.
+
+10.5 Energy Service Companies
+
+10.5.1 Another strategy for financing the transition to a sustainable energy economy is the promotion of the establishment of Energy Service Companies (ESCOs), which are specialist energy efficiency companies investing in their clients' energy facilities to reduce costs, and share the resulting savings. This is a highly specialized field of business that has not yet been developed in Mauritius. Use of ESCOs represents a 'win-win situation for the client, who achieves financial savings without making an investment, while the ESCO can reap dividends by investing in energy savings for third parties. The EEMO would assess and propose the policy and legislation options to stimulate the emergence of this sector.
+
+10.6 Environmental and Social Subsidies
+
+10.6.1 The word 'subsidy', for the purpose of the long-term energy strategy refers to any Government financial support, including 'incentives', 'grants', 'breaks', 'benefits', 'special tariffs' and 'allocations'. The approach to subsidies in the energy sector would be reformed in the medium-to-long term. Targeted social and environmental subsidies would be introduced, with most of the subsidies going directly to deserving consumers, rather than utilities or consumers across the board, so as to help only those in real need who cannot afford to pay market prices.
+
+10.6.2 A range of new support and incentives in the following areas would be considered:
+
+• Economic incentives for consumers who choose public transport over private transport
+
+• Targeted subsidies to help low-income households and social institutions to afford energy, through assistance in developing ways of permanently lowering their energy bill, by promoting access to the use of compact fluorescent lamps, low-energy refrigerators and other household appliances, and the use of solar hot water systems
+
+• Market incentives to promote the choice of sustainable energy products and services
+
+• Introduction of fiscal incentives for energy suppliers to promote the choice of renewable and carbon-neutral options over fossil fuels
+
+• Grants for targeted energy-efficiency or renewable energy initiatives through the MID fund based on well established criteria favour energy efficiency and the use of renewable energy are available in the marketplace.
+
+essential element for the attainment of the Millennium Development Goals (MDGs).
+
+It has an important role in women's lives as regards their domestic responsibilities as well as their entrepreneurship, social and community activities. However, the gender aspect is often overlooked or inadequately addressed in designing energy policies and strategies.
+
+11.1.2 For women, energy is a means of reducing their workload and their household expenditure and improving health and their quality of life. At the domestic level, women suffer heavy stress when there are increased fuel needs in households as they have to cope with less money for essential items. Exposure to smoke and particulates in households where women do not have access to electricity and use old cooking methods, affects women's health. Breakdown of electricity supply even for temporary periods means more work for women. Women's empowerment and political development also depend on their mobility, access to evening study and attending community meetings or attending work. Lighting in public places benefit women by increasing their safety.
+
+11.1.3 Women constitute the majority of operators in the informal sector focusing on activities such as textile, crafts, food processing, small scale farming and retail trading. Though these activities are small, they contribute to the household income and help to improve family life. Micro enterprises run by women are home based and their needs are often not taken into account in the overall energy policies. Energy costs represent a significant input for such enterprises, which may benefit from time and cost saving technologies and from mechanical applications to increase their profitability.
+
+11.1.4 A study by the Institute of Development Studies of the University of Sussex has pointed out that "attempts to introduce ad-hoc energy services, such as photovoltaic home systems, have often failed. This is partly a function of remoteness, but more fundamentally because the delivery of spare parts and maintenance is not embedded in a proper system of 'intermediation'. Energy services have numerous indirect impacts on poverty and gender." Women in vulnerable situation or living in poverty are most likely to be affected by disconnection of electricity for their incapacity to settle their electricity charges within the prescribed time.
+
+11.2 Energy and Gender Equity
+
+11.2.1 In Mauritius, as at end of 2008, the population stood at 1,272,040 comprising 628,105 males and 643,935 females. Housing, water, electricity, gas and other fuels' account for 9.8% of household expenditure. In 2007, the largest increases in CPI weights were registered in housing, water, electricity, gas and other fuels', up by 35 from 96 in 2001/02 to 131 in 2006/07 The two main sources of energy for households are electricity and LPG, representing 51% and 42% respectively of total energy consumed by households. A poverty analysis carried out by the Central Statistical Office in 2002 showed that poor households tend to use cheaper types of women needs energy usage and technologies which are reflected in the different energy needs;
+
+(ii) assessment of women access to energy through a comprehensive demand-side analysis on energy needs for the poor to support their livelihood, including the long-term basic energy needs of women; (iii) a proper assessment and integration of gender needs in the energy project cycle;
+
+(iv) capacity building programmes to enable women to participate in the energy sector through partnerships and networks among grassroots women, NGOs, and energy policymakers at the national and international levels; (v) to stagger payment of electricity charges or to facilitate access to electricity for vulnerable groups;
+
+(vi) new policies for connecting and disconnecting electricity supply including the modalities for payments to take into account the needs of women from the vulnerable groups, who have irregular income flows; (vii) participation of women to contribute significantly in the adoption of less polluting fuels and technologies, particularly renewable energy resources such as wind and solar power. Moreover, the decisive role of women in household and business, as consumers and energy entrepreneurs as well as managers, can to a greater extent achieve energy savings and energy efficiency objectives;
+
+(viii) electricity supply to public places to increase safety for women; and (ix) equal chances for women to participate actively in SIPP projects through information and awareness campaigns, access to technical information and incentive schemes.
+
+11.2.4 The Ministry of Women's Rights, Child Development and Family Welfare will carry out Information, Education and Communication programmes for women so that women are fully familiar with the efficient usage of energy.
+
+the strategies laid down in this document with a view to changing to an energy efficient economy in line with the Government declared vision to promote sustainable development. The actions are described as follows:
+
+Category - Actions are categorized, to the extent possible, as Regulatory, Institutional, Renewable Energy, Energy Efficiency, Transport, Power Sector, Fossil Fuels, Industry and Tourism, Public Sector and Gender.
+
+Action.  A short title for the action. Description. A short description on the important features of each action. Target. The year by which Action should be taken. A number of the measures are scheduled to be implemented in the early years of the Action Plan - 2010 to 2015. In fact, many actions have already been enunciated in the 2008 - 2009 budget speech to move towards a sustainable energy economy. However, many of the required institutions and practices are yet to be put in place and there are several practices embedded into the economy that would be progressively reformed.
+
+12.1.2 The Action Plan will be reviewed and updated on an annual basis to take into account new developments (technological or otherwise) and the setting up of new deadlines for actions brought forward or postponed.
+
+Sustainable energy legislation Introduce Energy Efficiency Bill End 2009/early 2010
+
+Proclaim Electricity Act, 2005 Early 2010
+
+Introduce Sustainable Development (MID) Bill Mid 2011
+
+B. Institutional
+
+Action Description Target
+
+Energy Efficiency Management Office Establish the Energy Efficiency Management Office as a specialized governmentally-funded Unit to become a centre of excellence in the fields of renewable energy, energy efficiency, clean energy financing, programme management, promotion and awareness raising. The overall task of the Unit should be to 'mainstream' sustainable energy. Early 2010
+
+Utility Regulatory Authority Operationalise the independent multi sectoral Utility Regulatory Authority. The regulator should curtail the ability of the utility to achieve 'monopoly prices'. End 2009/early 2010
+
+Land Transport Authority Set up a Land Transport Authority to implement reforms for the transport sector. 2009/2010
+
+Certify Energy Auditors Develop a certification systems for Energy Auditors and Energy Managers Mid 2011
+
+Energy management education Develop professional courses in Energy Auditing, Energy Management, Monitoring and Targeting and sustainable building design. Mid 2010
+
+Set up institutional mechanism to monitor implementati on of the Action Plan Reinforcement of technical and administrative capabilities to coordinate and monitor implementation of action plan Early 2010
+
+Capacity Building Develop training and capacity building programmes with the collaboration of tertiary institution and development partners. 2010/2011
+
+2015
+
+Sustainable energy budget Establish appropriate budget for the setting up of the Energy Efficiency Management Office to implement effective programmes to help building an energy efficient economy. End 2010
+
+Targeted, well-designed incentives Introduce a series of targeted incentives for energy efficiency or renewable energy initiatives. End 2010
+
+Incentives for energy suppliers Introduce fiscal incentives to encourage energy suppliers to use renewable and carbon-neutral energy sources in preference to fossil fuels. End 2010
+
+Incentives for product labelling Introduce financial incentives such as low-interest loans for consumers to purchase sustainable energy products and services. Mid 2010
+
+ESCOs Provide incentives to promote Energy Service Companies (ESCOs) to assist clients to save energy as an economically viable option. End 2011
+
+Clean Development Mechanism Attract financing to Mauritius for Clean Development Mechanism (CDM) projects, to release a potential 1.8 million tons of CO2 emissions savings per year from waste incineration, landfill gas, transport projects, solar hot water heaters, photovoltaics, wind energy, bagasse, ethanol and energy efficient lighting and appliances. 2010-2015
+
+Action Description Target
+
+Sustainable building design Introduce mandatory sustainable energy design standards for new buildings, including housing, hotels and offices, including natural ventilation; day lighting; appropriate orientation; solar hot water systems; time-of-day or smart metering; intelligent lighting systems that are suitable for low-energy lamps; and building energy management systems (BEMS). Mid 2012
+
+Low-energy consumption Incentive schemes so that existing hotels and rented spaces make use of solar water heating systems, low-energy lighting and appliances and rented houses/apartments to use low-energy lamps as well as appliances of the highest energy efficiency label be replaced gradually. 2010-2015
+
+Solar hot water Introduce a range of complementary policies, incentives to promote solar water heating systems to achieve in a short-to-
+
+End 2012 awareness the benefits of energy efficiency, renewable energy and sustainable living, including information on incentives/deterrents and rights/obligations for consumers. 2015
+
+Energy efficient public lighting Commission a specialised study on energy efficient, safe public lighting, leading to a short-term action programme to eliminate energy-inefficient lamps, reconfigure lighting patterns as appropriate and address issues such as over-lighting. 2009/2010
+
+D. Renewable Energy
+
+Action Description Target
+
+Renewable Energy Master Plan Finalise Master Plan for Development of Renewable Energy. End 2010
+
+Wind Energy Projects Construction of wind farms at Curepipe Point, Plaine des Roches and Britania Installation of new wind turbines in Rodrigues 2011/2013 Mid 2010
+
+Bagasse Based Power Plant Increase bagasse based energy from 350 to 600 Gwh 2013-2015
+
+Waste Management Construction of a 20 MW waste-to-energy plant at La Chaumière. Construction of 3 MW gas-to-energy plant . 2013 2012
+
+Hydro Power Construction of mini hydropower stations on La Nicoliere Feeder Canal Construction of mini hydro at Midlands dam Early 2010 End 2011
+
+E. Transport
+
+Action Description Target
+
+Lower average age of vehicles Regularly review and implement measures to lower the age and improve the composition of vehicle fleets. End 2011
+
+Public transport incentives Introduce economic incentives to choose public transport over private transport. End 2012
+
+regulations make them more attractive. 2012
+
+Optimise traffic flow Monitor traffic and travel demand patterns to improve traffic flow, which also lowers energy use. End 2015
+
+Congestion charge Introduce congestion charges in Port Louis, to encourage the use of public transport, discourage the use of private cars and reduce congestion. Mid 2012
+
+Curepipe-Port Louis Busway Construct of Bus way. End 2011
+
+Ethanol - E10 Introduce E10 Early 2012
+
+Ethanol - E20 Carry out studies to determine whether and when E20 should become mandatory, taking into account the experience of the introduction of E10. Mid 2014
+
+F. Power sector
+
+Action Description Target
+
+Electricity pricing Set cost-reflective electricity prices by the URA. Costs may also include support schemes for energy savings, for Demand Side Management and for renewables. Mid 2010
+
+Feed-in tariffs and net metering Introduce preferential feed-in tariffs for electricity generation from renewable energy sources. Introduce 'net metering' for SIPPs as an economic incentive to install solar photovoltaic panels or micro-wind turbines. Mid 2010
+
+Time-of-day metering Introduce time-of-day metering and tariffs that provide an economic incentive for customers to move daytime electricity loads to night time, hence increasing the overall efficiency of the power system. Early 2013
+
+Time-of-day metering awareness Create consumer awareness of day/night tariffs, for example, washing clothes at night represents a cheaper and more sustainable lifestyle option. Introduce sophisticated meters for larger customers to provide better information about electricity use and costs. 2012 2012
+
+Minimum stocks of petroleum products and coal Introduce minimum stocks for petroleum products and coal. 2012
+
+Low-sulphur diesel fuel Introduce a national standard of 500 ppm for the sulphur content automotive and industrial diesel oil, making a substantial, immediate and noticeable improvement to air quality, and allowing the latest generation of small-engine diesel vehicles to be used in Mauritius. End 2010
+
+H. Industry and Tourism
+
+Action Description Target
+
+Encourage sustainable programme for Industry and Tourism Sectors Create energy efficiency programmes such as voluntary agreements with industries; sub-sector technology and know-how transfer projects; training in specialist sustainable energy topics; awareness building, promotion and transfer of know-how; proposals for new financial and fiscal tools. End 2010
+
+Energy audits Carry out Energy Audits by licensed Energy Auditors for the largest companies and develop energy management plans. 2010/2011
+
+Sustainable tourism Develop close working relationships between the Tourism Industry, the Land Transport Authority and the Energy Efficiency Management Office, in the context that fuel security, environmental sensitivity and tourism goals are mutually reinforcing. 2010/2011
+
+I. Public Sector
+
+Action Description Target
+
+The Public Sector Leads the Way Introduce sustainable energy projects for public sector (ministries, local government, schools, hospitals, police, the state-owned bus company etc), adhering to the principle 'The Public Sector Leads the Way'. End 2010
+
+Sustainable procurement Introduce sustainable procurement as a mandatory practice for all public services, for example - lamps, computers, air-conditioning and fans, freezers, vehicles etc are energy efficient and have energy saving/stand-by modes and that all photocopiers and printers are equipped with a duplex mode to use both sides of the paper. The Energy Efficiency Management Office should develop expertise in these areas and advise all public sector institutions. 2011
+
+Gender and Energy Use Study on needs/assessment/capacity building for women, especially for the vulnerable groups.
+
+2012
+
+Information, Education and Communication programmes for women so that women are fully familiar with the efficient usage of energy. 2010/2011

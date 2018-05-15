@@ -1,0 +1,901 @@
+no title
+
+PNG National Water, Sanitation and Hygiene (WaSH) Policy 2015-2030
+
+FOREWORD Department of National Planning and Monitoring i
+
+Foreword
+
+The Papua New Guinea Water, Sanitation and Hygiene (WaSH) Policy 2015 embodies the commitment of the Government of the Independent State of Papua New Guinea to sustainably improve the quality of lives of people both in the rural and urban areas of the country.
+
+Papua New Guinea has a clear development agenda based on the Vision 2050 objective of being in the top 50 in terms of the UN Human Development Index by 2050.
+
+This objective is to be couched within a development paradigm as directed by The Constitution and the National Strategy for Responsible Sustainable Development (RSD). Our development objectives must be founded on principles of responsible development which is self-perpetuating and does not compromise environment capital and put our children's future at risks. Such a sustainable development approach to development is based on our strategic strengthens and assets which can actually contribute solutions to global food and water security, sustainable energy and mitigate the effects of climate change.
+
+The Strategy (RSD) identifies our country's abundant water asset as strategic in the sense of the potential solutions it provides for export, particularly into Northern Australia for irrigation purposes, but also hydroelectricity. These solutions in terms of cheaper, clean energy within country are also evident.
+
+I want to thank the World Bank for their assistance in the development of this Policy and mention our desire to utilize WaSH funding from the EU to leverage funding from the World Bank to support the implementation of our Government's Policy in conjunction with the District Development Authorities to fill the gap below provincial and regional town level. I acknowledge also our other Development Partners, including civil society partners in this sector and express our Government's desire to continue to work with them in a similar fashion.
+
+This policy focuses on improved service delivery of drinking water, sanitation and promoting long term hygiene behaviour change (collectively known as WaSH). Improved access is essential for human development and therefore the sustainable development of our country. To date, PNG has never had a WaSH Policy and approaches to achieving national targets have been haphazard and uncoordinated. As a result, access to improved water sources and safe sanitation has been declining in recent years as services fail to keep up with population growth and demand. This has resulted in the increased incidence of diseases and hardship felt most acutely by the more vulnerable in our society.
+
+The Papua New Guinea WaSH Policy aims to reverse that trend and improve water, sanitation and hygiene service delivery for the benefit of the people of Papua New Guinea, and in doing so improve personal health, productivity and well-being. Access to these services is a vital component of sustainable development and the alleviation of poverty. This Policy identifies 7 particular strategies, including a revised institutional framework and improved monitoring. This provides for a focused, clear and strategic approach to improving access to water and sanitation, establishing an improved service delivery and performance monitoring framework that links the ambitions of existing Government Development Policies to actual improved services on the ground. It also supports proposed changes in existing government policies such as the Water and Sewerage Act 2015.
+
+Implementation of this Policy will ensure a more prioritised, structured approach to planning, linked to more accurate and transparent budgeting, implementation and monitoring, building on the strengths and capabilities of decentralised planning and drawing improved funding into the sector.
+
+The policy is to be used by all WaSH stakeholders who are involved in regulating, managing, planning, financing, implementing, facilitating or monitoring water supply, sanitation and hygiene improvement programs and activities. Through this collaborative approach, we will be working together to achieve the government's Development Strategic Plan target of 70% accessibility to water supply and sanitation by 2030.
+
+The successful implementation of this policy will contribute towards improving the lives of the majority of PNG's citizens, enhancing their productivity and participation in the sustainable development of our country through better water, sanitation and hygiene services in Papua New Guinea.
+
+_____________________________ Hon. Charles Abel, MP
+
+Minister for National Planning & Monitoring
+
+Preamble
+
+Having equitable access to safe, convenient and sustainable water supply and sanitation and improved hygiene practices with long term hygiene behaviour change by individuals and majority of Papua New Guineans living in rural areas and urban settlements, is crucial.
+
+This policy is an important tool which is aimed at translating our development pathway envisaged in the Vision 2050, DSP 2010-2030, the MTDP 2011-2015 and the bridging MTDP 2015-2020 in reaching our global tailored commitments to the Millennium Development Goals, and the Sustainable Development Goals.
+
+This policy aims to see a significant, sustainable and equitable increase in access to safe water and sanitation and improved hygiene practises, particularly in the poorly served rural and peri-urban areas. Improvements in Water, Sanitation and Hygiene will have considerable impact in elevating the health the lifestyles of individuals and communities to a higher quality of life; improve school attendance for children and save time to collect water.
+
+The expected outcome of this policy will usher and contribute significantly to:
+
+1. Reduce morbidity and mortality caused by water-related diseases;
+
+2. Improve livelihood opportunities and economic growth through improved health and reduce economic and financial losses; and
+
+3. Increase equity of services between rural, peri-urban and urban areas, and to disadvantaged groups.
+
+In a nutshell, this policy identifies access to water and sanitation to be a basic human right and the Government of Papua New Guinea is committed to ensuring that the responses to this policy address and deliver on these expectations.
+
+As the Head of the Department of National Planning and Monitoring, I congratulate the WaSH Taskforce for their collective efforts to guide the development of this policy, suitable to our country's development context and pathway. Much appreciation and gratitude is bestowed to our valued stakeholders (Development Partners, Private Sector, Civil Society Organizations, NonGovernment Organizations and expertise from professional individuals) for your contributions in the consultation process. Moreover, I appeal for continued support to fully implement and realise our targets that are mapped out over the medium term (2015-2020) and the life of this policy.
+
+_____________________ Hakaua Harry
+
+Acting Secretary Department of National Planning and Monitoring
+
+Acknowledgment
+
+A multi-agency Task Force, including government and non-governmental agencies, was established to prepare this policy document. The Task Force members included:
+
+ Department of National Planning & Monitoring (as Chair)  Department of Treasury  Independent Public Business Corporation  National Department of Health  Water PNG  Eda Ranu  Department of Implementation and Rural Development  Department of Environment and Conservation  Department of Provincial and Local Level Government Affairs  WaterAid (PNG)
+
+ Child Fund  World Vision  World Health Organization (WHO)
+
+Technical assistance to the Task Force was provided by the Water and Sanitation Programme (WSP) of the World Bank.
+
+The Task Force sought opinions from a broad range of sector stakeholders across the water, sanitation and hygiene sector.
+
+Thank you all.
+
+Table of Contents
+
+ACRONYMS AND ABBREVIATIONS ............................................................................................ 2
+
+EXECUTIVE SUMMARY ................................................................................................................... 3
+
+SECTION ONE - BACKGROUND ................................................................................................... 5
+
+1.1 Intent of Policy ................................................................................................................... 5
+
+1.2 Audience ............................................................................................................................. 5
+
+1.3 Policy Development Process ........................................................................................... 5
+
+SECTION TWO -DEFINITIONS AND MINIMUM STANDARDS ............................................. 6
+
+SECTION THREE - POLICY CONTEXT AND DIRECTIONS ................................................... 8
+
+3.1 Goal ..................................................................................................................................... 8
+
+3.2 Objectives ........................................................................................................................... 8
+
+3.3 Principles............................................................................................................................. 9
+
+3.4 Core Government Legislations and Policies ............................................................... 10
+
+SECTION FOUR - POLICIES AND STRATEGIES ..................................................................... 12
+
+4.1 Current Situation ............................................................................................................ 12
+
+4.2 Analysis of Issues ............................................................................................................. 13 4.2.1 Improve government priority for WaSH ............................................................................................. 13 4.2.2 Develop sector leadership .................................................................................................................... 14 4.2.3 Improve funding for infrastructure ....................................................................................................... 14 4.2.4 Increase human resource capacity within the sector ........................................................................... 14 4.2.5 Develop monitoring and evaluation systems for the sector ................................................................ 15
+
+4.3 Policy Response ............................................................................................................... 16 Strategy One: Improved Sector Coordination and Leadership .................................................................... 16 Strategy Two: Increased WaSH Sector Funding ........................................................................................... 18 Strategy Three: Develop and Implement an Effective Management Information System for the WaSH Sector………………………………………………………………………………………………………...18 Strategy Four: Improved and Consistent Approaches to WaSH Service Delivery ...................................... 19 Strategy Five: Appropriate Technology Promotion ...................................................................................... 21 Strategy Six: Enhanced Private Sector Participation and Partnerships ......................................................... 21 Strategy Seven: Increase Sector Capacity Building and Training ................................................................... 22
+
+4.4 Resourcing ..................................................................................................................................... 23
+
+SECTION FIVE - ORGANISATIONAL RESPONSIBILITES ..................................................... 25
+
+SECTION SIX - IMPLEMENTATION PLAN ............................................................................... 27
+
+SECTION SEVEN - MONITORING AND EVALUATION ........................................................ 30
+
+ANNEX ONE:NWSHA .................................................................................................................... 31
+
+Acronyms and Abbreviations
+
+ADB Asian Development Bank CACC Central Agencies Coordinating Committee CLTS Community Led Total Sanitation
+
+CSO Community Service Obligation DEC Department of Conservation DNPM Department of National Planning and Monitoring DoH Department of Health
+
+DSIP District Services Improvement Programme EU European Union
+
+GoPNG Government of Papua New Guinea ICCC Independent Consumer and Competition Commission IPBC Independent Public Business Corporation
+
+IWC International Water Centre JICA Japanese International Co-operation Agency JMP Joint Monitoring Programme
+
+K Papua New Guinea Kina LLG Local Level Government MDG Millennium Development Goals MIS Management Information System MTDF Medium Term Development Framework NCD National Capital District
+
+NEC National Executive Council NGO Non-Governmental Organisation NWSHA National Water, Sanitation and Hygiene Authority O&M Operation and Maintenance
+
+OBA Outputs Based Aid ODF Open Defecation Free PHAST Participatory Hygiene and Sanitation Transformation PPP Public Private Partnership
+
+PSIP Provincial Services Improvement Programme PSP Private Sector Participation.
+
+SIP Services Improvement Programme SOE State Owned Enterprise
+
+VIP Ventilated Improved Pit Latrine WASCOM Water and Sanitation Committee WaSH Water, Sanitation and Hygiene WASHCOM Water Sanitation and Hygiene Committee (formerly WASCOM) WHO World Health Organisation
+
+WSP Water and Sanitation Programme
+
+Executive Summary
+
+In urban areas, responsibility for providing piped water and sewerage services in the nation's capital, Port Moresby, lies with Eda Ranu, and for the remaining provincial and district towns with Water PNG (formerly the PNG Water Board). Service provision to these areas are estimated to be 89% access to safe water (little change from 87% in 1990), and 57% access to safe sanitation (down from 89% in 1990)1. Access to services in urban areas struggle to keep up in the face of rapid urban population expansion.
+
+Papua New Guinea's peri-urban and rural areas representing over 87% of the population, remain poorly served, with estimates of 33% access to safe water (up from 24% in 1990) and only 13% access to improved sanitation (unchanged from 1990). Water PNG has a mandate to 'promote access to water and sanitation in rural areas' but has been largely inactive due to its urban priorities. As a result, the Department of Health has taken on the responsibility but has had limited impact due to a shortage of government funds and the absence of a clear national strategy. A consequence of the government's limited investment and activities in the sector is that the majority of WaSH services in rural and peri-urban areas are provided by the nongovernment sector. These are mostly national and international NGOs as well as community and church based organisations. The total impact of such schemes, however, is limited due to a lack of both national and international funding and the absence of a clear government strategy that incorporates a coordinated and consolidated approach.
+
+As a result, PNG will miss it's MDG water and sanitation targets for 2015 and, unless considerable improvements are made, will also miss national targets identified in the government's Development Strategic Plan 2030.
+
+The consequences of low access to water and sanitation and poor hygiene practices are well documented and evident in terms of increased incidences of water borne diseases, most notably diarrhoea, typhoid and cholera leading to higher morbidity and death, poorer educational attainment and economic impacts at both the household and national level.
+
+The purpose of this Policy is to reverse the current decline and significantly accelerate access to water and sanitation services and to promote long term hygiene behaviour change.
+
+Water is a strategic asset for PNG and its effective management is an important component of PNGs long term sustainable development. To date, attempts to improve access to water and sanitation have been largely haphazard and uncoordinated. This policy aims to link existing development priorities as described in the Vision 2050, MTDP and the National Strategy for Responsible Sustainable Development directly to an improved service delivery structure and monitoring framework (The Strategy RSD) for the benefit of our people, linking sustainable development activities to clear budgets and monitoring progress against the government's key development objectives. It establishes clear disaggregated targets for 2030, as well as minimum standards and principles for implementation. To achieve these targets the policy identifies seven distinct strategies. Whilst supporting existing activities in urban areas, the policy's focus
+
+1Joint Monitoring Programme (JMP) 2013 Update... The JMP of the United Nations Children Fund (UNICEF) and the WHO collects data from PNG based sources to generate estimates of the population that have access to water and sanitation facilities. All JMP figures quoted in this policy are from the 2013 update
+
+is on providing services to the large unserved populations in rural and peri-urban environments.
+
+The principle among the proposed strategies is an improved Institutional framework for effective implementation. Initially, this will be led by a Programme Management Unit in DNPM, with the opportunity to work towards the establishment of a National Water, Sanitation and Hygiene Authority (NWSHA). This will drive forward implementation of the policy, providing leadership and coordination within the sector. These improved institutional arrangements support other government led initiatives such as the proposed changes to the Water and Sewerages Act, 2015.This initiative is supported by six additional strategies: improved funding to the sector; development of an effective management information system; improved and consistent approaches to WaSH; appropriate technology promotion; enhanced private sector participation and partnerships; and sector capacity building. Together, these strategies will seek to ensure that each year services are delivered to an additional 453,000 people in order to meet the policy targets.2
+
+To reach the 2030 water and sanitation targets, an estimated K302 million (US$ 120 million) annual investment in infrastructure, operations and maintenance is required3. This funding requirement is to be met from public government funds, the private sector, household contributions and international development contributions. In addition, there will be costs for additional human resources in the sector, the majority of which is most likely to be met by recruitment from the private sector.
+
+Establishing the NWSHA head office will cost approximately K1.8 million per annum with an additional K 2.6 million per annum for salaries. It is proposed to establish sub-national offices in each province. Each sub-national NWSHA office will cost approximately K500, 000 each, to establish with a further K260, 000 each, per annum in salaries.
+
+2This is an ambitious and aspirational target requiring delivery to an additional 6% of the population per year. It greatly exceeds the delivery achieved in other developing countries but reflects the government's commitment to providing services, as detailed in the Vision 2050 3Water Supply and Sanitation in Papua New Guinea. Turning Finance into Services for the Future. WSP-World Bank, July 2013
+
+Section One - BACKGROUND
+
+1.1 Intent of Policy
+
+The National Water, Sanitation and Hygiene (WaSH) Policy has been formulated to provide a framework to substantially improve access to water and sanitation services and to change hygiene behaviours, particularly to the currently underserved rural and peri-urban settlement areas. It aims to provide direction for planning, management, investments and activities for all sector stakeholders in order to achieve the policy objectives.
+
+1.2 Audience
+
+The policy is for the benefit of all people of Papua New Guinea - men, women and children. It serves to guide WaSH stakeholders, including national, provincial and local governments, state owned enterprises (SOEs), development partners, non-government organizations, private sector and community stakeholders that are involved in regulating, planning, financing, implementing, operating, facilitating or monitoring water supply, sanitation and hygiene improvement programs and activities.
+
+1.3 Policy Development Process
+
+In 2005, National Executive Council (NEC) Decision No. 72/2005 instructed PNG Water Board (now Water PNG) to develop a national water policy. However, the resulting output was never endorsed. A subsequent NEC Decision, No. 51/2008 established a specific Task Force for the purpose of establishing a WaSH policy.
+
+The importance of a national policy was further endorsed during the first National WaSH conference in November, 2011. Soon after, based on a request from government, the Water and Sanitation Program (WSP) of the World Bank provided technical assistance to support the work of the Task Force.
+
+An early decision made by the Task Force was that water, sanitation and hygiene issues should be addressed in a single policy and that this policy should apply to urban, urban settlement and rural areas. It was also decided that the policy would focus on issues relating to the delivery of water and sanitation services rather than water resources management.
+
+The Task Force met regularly during 2012 and 2013 and in close consultation with relevant stakeholders (including a number of regional workshops), produced this WaSH policy document.
+
+Section Two - DEFINITIONS AND MINIMUM STANDARDS
+
+Urban
+
+The urban environment includes areas within the legally gazetted town boundary as well as urban settlements and urban villages which may be part of the broader peri-urban environment but are economically and socially dependent of the gazetted urban area.
+
+Rural
+
+The rural environment includes all non-urban areas.
+
+Safe Drinking Water
+
+These must meet PNG standards as outlined in the Public Health (Drinking Water) Regulation 1984, adopted from the WHO International Standards for Drinking Water, 1971.In summary:  For chlorinated and otherwise disinfected supplies, the water entering the system must have a zero coliform count. Once in the system, 90% of samples taken shall not contain any coliform organisms in any sample of 100ml and no sample should contain more than 10 coliforms/100ml;
+
+ There should be no E.Coli in any sample;4  For non-disinfected supplies there should be no E.Coli in any sample and no sample shall contain more than three coliform organisms per 100ml; and  Additional toxic contaminant and aesthetic standards apply and are detailed in the Regulations.
+
+Where an emergency situation has been declared, WHO minimum standards will be temporarily replaced by the Sphere minimum standards for emergencies.
+
+Convenient and sustainable water supply
+
+This includes a number of elements:
+
+ For household piped water, the minimum service delivery norms are 150 litres per capita per day (l/c/d) continuous supply with a service pressure of 60 Kpa;  For standpipes and hand pumps, the designs should accommodate for 50 l/c/d with a maximum of 50 users per water point no further than 150m from the household; and  Where rain catchment is used, designs must accommodate for a minimum of 5 l/c/d for drinking water with a maximum of 50 users per water point no further than 150m.
+
+Designs for all schemes must ensure adequate water re-charge on a continuous basis.
+
+All water points should be constructed with suitable drainage to ensure no pooling of stagnant water.
+
+Appropriate operation and maintenance procedures and schedules for both rural and urban systems need to be developed during construction.
+
+4Coliforms are bacteria that live in the intestines of warm-blooded animals (humans, pets, farm animals, and wildlife). Fecal coliform bacteria are a kind of coliform associated with human or animal wastes. Escherichia coli (E. coli) is part of the group of fecal coliforms.
+
+Improved sanitation facilities
+
+An improved sanitation facility is one which is safe, convenient and sustainable.
+
+Safe: All sanitation facilities should hygienically separate human excreta from human contact and prevent faecal material from entering the wider environment. They should also be constructed in a manner that prevents polluting the environment, particularly existing ground water and surface water sources.
+
+Convenient: Latrines should be easily and safely accessible for all household members, particularly women and children and used by no more than 5 families or 30 persons, whichever is fewer.
+
+Sustainable: Sanitation facilities must be maintained to ensure they remain safe.
+
+Appropriately constructed ventilated improved pit latrines (VIP) are considered the minimum standard for an improved sanitation facility.
+
+Improved hygienic practices
+
+Long term behaviour change practices which as a minimum must include:  Safe handling, storing and use of drinking water. Water is treated where the water quality is untested or known to be contaminated by bacteriological agents;  All infant excreta is safely disposed in an improved sanitation facility followed by hand washing with water and soap;
+
+ Hand washing with soap is practiced by everybody at critical times: before cooking and eating, after defecation and post defecation cleaning of infants and children; and  All solid waste is disposed off safely and appropriately.
+
+Open Defecation Free (ODF)
+
+A community is open defecation free, when over a sustained period of time, all members of that community use an improved sanitation facility and there is no human excreta visible in the environment.
+
+Total Sanitation
+
+This means that all households have stopped open defecation and use improved sanitation facilities. In addition, all households adopt improved hygienic practices.
+
+Section Three - POLICY CONTEXT AND DIRECTIONS
+
+3.1 Goal
+
+The goal of the National WaSH policy is to contribute towards improving the quality of life,
+
+specifically:
+
+1. Reduction in morbidity and mortality caused by water-related diseases.
+
+2. Improved livelihood opportunities and economic growth through improved health
+
+and reduced economic and financial losses.
+
+3. Increased equity of services between rural, peri-urban and urban areas, and to
+
+disadvantaged groups.
+
+3.2 Objectives
+
+The objective of the WaSH policy is to provide equitable access to safe, convenient and sustainable water supply and sanitation and to promote improved hygiene practices and long term hygiene behaviour change at the personal, household, community and institutional level particular to rural and urban settlement areas that are currently under-served.
+
+This objective will be measured against the following targets to be achieved by 2030:5
+
+For Water Supply
+
+ In rural areas, 70% of the population has access to a safe, convenient and sustainable water supply.
+
+ In urban areas, 95% of the population has access to a safe, convenient and sustainable water supply.
+
+ 100% of educational institutions and medical centres6 across the country have access to a safe, convenient and sustainable water supply.
+
+For Sanitation
+
+ In rural areas, 70% of the population has access to safe, convenient and sustainable sanitation facilities.
+
+ In urban areas, 85% of the population has access to safe, convenient and sustainable sanitation facilities.
+
+ 100% of educational institutions and medical centres have access to safe, convenient and sustainable sanitation facilities.
+
+5These targets were developed by the policy Task Force considering existing targets included in the PNG Vision 2050, Development Strategic Plan 2010-2030, the Medium Term Development Plan 2011-2015, corporate plans of the SOEs and the Millennium Development Goals as well as the targets proposed in the WSP Service Delivery Assessment and stakeholder feedback. They are disaggregated and marginally more ambitious than existing government targets for the sector.
+
+6Medical centres include Hospitals as well as Health Centres and Aid Posts.
+
+For Hygiene
+
+ 100% of educational institutions and medical centres have hand washing facilities with running water and soap.
+
+ 100% of the households that have access to an improved water supply practice total sanitation.
+
+3.3 Principles
+
+The implementation of the National Water Sanitation and Hygiene policy is based on the following fundamental principles:
+
+1. Access to sufficient safe water and sanitation facilities is a human right. As such, the GoPNG has an obligation to ensure basic water and sanitation facilities are available for the benefit of all;
+
+2. The right to a basic safe water supply and sanitation does not imply a right to free services. With the exception of emergency situations, users will be expected to contribute in part or full to the cost of providing and maintaining services;
+
+3. Water supply should not be considered in isolation from improved sanitation and long term hygiene behaviour change as these are recognized as the most important factors to achieve the policy goals;
+
+4. The significant role that women and girls play in the provision and management of household water and in promoting improved hygiene and sanitation practices is recognized. The different gender roles and needs of men and women must be considered when planning, implementing and monitoring WaSH strategies, programmes and projects;
+
+5. WaSH activities will take into account the specific requirements of disadvantaged and marginalized groups, including the very poor, women, infants and children, the elderly and people with disabilities;
+
+6. Partnerships between service providers, both government and non-government are essential for effective and sustainable service delivery;
+
+7. Users are essential partners in planning, implementing and managing WaSH services. Active participation and responsibility for WaSH services by the users is important for long term WaSH benefits and sustainability;
+
+8. The delivery of WaSH services will follow the principles of decentralized planning, implementation and operation developed by the government and detailed in the Organic Law;
+
+9. Water is a finite, vulnerable resource and must be used sustainably;
+
+10. The delivery of services will adhere to strict minimum standards;
+
+11. Continuous hygiene and sanitation promotion and capacity building must be part of any WaSH intervention in order to promote long term behaviour change and realize the goals of the policy.
+
+12. The ability of shared water schemes to either promote harmony or to increase vulnerability and conflict, is recognised and should be considered for every intervention; and
+
+13. All existing laws, policies and regulations relating to water quality and quantity, sanitation and hygiene will be adhered to.
+
+3.4 Core Government Legislation and Policies
+
+Existing Relevant Policies
+
+1. Public Health Act 1973 Established water quality standards and delegated responsibility for monitoring and regulation is for the National Department of Health.
+
+2.
+
+National Water and Sewerage Act 1986
+
+Gives the PNG Water Board responsibility for providing water and sanitation services in urban areas and promotion in rural areas.
+
+3.
+
+NCD Water Supply and Sewerage Act 1996
+
+Gives the responsibility to NCDC for Port Moresby Water and Sewerage.
+
+4.
+
+National Health Administration Act 1997
+
+Gives the power to provincial governments to make laws on rural water supply and environmental hygiene.
+
+5.
+
+1998 Organic Law on Provincial Governments and LLGs
+
+It decentralises planning. Local Level Governments (LLGs) may now make laws on the provision of water supply.
+
+6.
+
+Environment Act 2000
+
+The management of the water resources in PNG is administered through this Act. This includes provision of water use in terms of water abstraction and discharge of waste into the receiving water bodies.
+
+7.
+
+PNG Development Strategic Plan 2010-2030
+
+Established development targets of 70% access for water and sanitation
+
+8.
+
+National Health Plan 2011-2020
+
+Identified the Department of Health's responsibility for promoting rural WaSH.
+
+9.
+
+Millennium Development Goals/post 2015 goals
+
+These detail the international development obligations.
+
+10.
+
+Community Service Obligation 2013
+
+Provides government subsidies to state owned enterprises for operations in non-profitable areas for the delivery of basic goods and services.
+
+11.
+
+On-lending policy
+
+PNG law states that state owned enterprises that receive government funding should do so on terms that do not give them an unfair advantage over private sector organisations, so as to help ensure a "level playing field".
+
+12.
+
+Public Private Partnership (PPP) Policy
+
+Passed by the Government in 2008, to facilitate the private sector role in delivering services.
+
+Required New Legislation
+
+For this policy to be implemented, new legislation is proposed to establish the National Water, Sanitation and Hygiene Authority (NWSHA). This will address the most significant barrier to effective service delivery caused by the current lack of an overall responsible agency, particularly for rural and peri-urban areas.
+
+Section Four - POLICIES AND STRATEGIES
+
+4.1 Current Situation
+
+Papua New Guinea is the largest and most populated Pacific island nation. In 2010, the population was 6.9 million with a growth rate of 2.8%. This figure is expected to double in the next 20 years. Six million people - 87% of the population - live in rural areas, many considered remote with poor access to roads and basic services.
+
+The responsibility for the provision of water and sewerage in urban areas is reasonably clearly defined. In the capital, Port Moresby, water and sewerage is the responsibility of Eda Ranu, with water and sanitation in other urban areas (88 district towns and 20 provincial towns) being the responsibility of Water PNG.7 Both are state owned enterprises (SOEs) mandated to operate on a commercial basis.
+
+This commercial responsibility means that (perceived) non-commercial peri-urban and settlement areas as well as many district towns remain unserved. Indeed Water PNG is currently operating in only 14 provincial and 6 district towns.
+
+The responsibility for delivering water and sanitation services in the rural areas is less clearly defined. Water PNG's mandate includes the promotion of water and sanitation on a self-help basis, though there is little evidence of any activity. The National Health Plan 2011-2020 designates the Department of Health (DoH) to plan and coordinate safe community water supplies and waste disposal systems in rural areas, though this is a departmental document rather than a national government mandate. Whilst the DoH has been active in hygiene and sanitation promotion through PHAST, CLTS and the Healthy Islands programme8, the DoH lacks resources to implement WaSH programmes on any scale. The majority of rural WaSH activities are implemented by non-governmental organisations and church groups but the scale of these is small in relation to the needs.
+
+In the past, multi departmental Water and Sanitation Committees (WASCOMs) chaired by the Department of Health were established at the provincial and national level, to help coordinate and deliver water and sanitation services. However, these are now largely inactive due to a lack of funding, clear purpose and coordination.9
+
+Papua New Guinea is not on track to meet the government's water and sanitation targets detailed in its Strategic Development Plan 2010-2030.This aims for 70% access to water and sanitation nationwide and 100% access in education establishments, by 2030. Joint Monitoring Programme (JMP) data indicate that access to improved water across the Nation improved only slightly between 1990 - 2011, from 33% to 40%. Access to sanitation during the same
+
+7 PNG has 22 provinces and 89 districts in total. Eda Ranu is responsible for 1 province, NCD, and its 1 district. Goroka Town manages its own water and sanitation.
+
+8PHAST, (Participatory Hygiene and Sanitation Transformation), CLTS, (Community Led Total Sanitation) and Healthy Islands are all participatory approaches that encourage communities to look at their current hygiene and sanitation behaviours and to develop a programme to improve them.
+
+9The national WASCOM still meets occasionally to share information between key implementing agencies. In 2013, WASCOM changed its name to WASHCOM (Water, Sanitation and Hygiene Committee).
+
+period actually declined slightly from 20% to 19%.10 Each year, access to water and sanitation services fails to keep pace with the increasing population, meaning that more people are without water supply and sanitation today than they were two decades ago.
+
+The disparity between rural and urban household access is significant, with 89% of the urban population having access to improved water sources compared to 33% in rural areas. For sanitation, 57% of the urban population has improved access compared with just 13% of the rural population.
+
+Low access to WaSH is reflected in the health of the nation. Papua New Guinea currently ranks at the bottom of Pacific countries for all WaSH related health statistics.11Diarrhoea is a major cause of morbidity in the country and WaSH related deaths are estimated at 6,164 per year.12 In 2009, cholera re-emerged in PNG after an absence of 50 years. At 44%, the early childhood height to age ratio (2005) is poor compared to the rest of the region.13
+
+Although no specific economic studies have been completed in PNG, studies in the region have shown that poor access to WaSH has a significant national economic impact, as well as causing considerable hardship for individual households and communities.14
+
+4.2 Analysis of Issues
+
+There are a number of core issues that need to be addressed, if the policy targets are to be met.
+
+4.2.1 Improve government priority for WaSH
+
+While government development plans do include targets (for 2030 and 2050) for water and sanitation there are currently no policies, strategies or plans as to how these could be achieved. Historically, WaSH has not had the attention from government that is required to help ensure that targets are met. Although the government is committed to a process of decentralised development through the Organic Law and subsequent decentralisation of funding through the Service Improvement Programme (SIP), there are currently no guidelines for using this to improve access to WaSH. Departments that could be more active in the sector, such as the Department of Health, lack directives and incentives.
+
+As a result, progress has largely been driven from outside government, by community based organisations, NGOs and foreign donors, particularly the ADB and the EU. Better coordination by government and commitment to the sector could potentially significantly increase financial support and improve the focus of WaSH implementing agencies.
+
+10.These figures are from JMP 2013 revised estimates 11Institute for Sustainable Futures Papua New Guinea WaSH sector brief. 12As above.
+
+13 De Onis, M., Bloessner, M. and Borghi, E. 2011. Prevalence and trends of stunting among pre-school children 1990-2020. Public Health Nutrition. World Health Organization.
+
+147.2% of annual GDP in Cambodia, 5.4% of annual GDP in Lao PDR, and 2.3% in Indonesia. Water Aid presentation to the National WaSH conference Port Moresby, November 2011
+
+4.2.2 Develop sector leadership
+
+The absence of a single body charged with overall responsibility for developing and implementing policy for the national water and sanitation sector is a major impediment to the development of the sector. The result is a lack of drive where strategic planning, sector investment planning, budget allocation and programme coordination are all neglected. Implementation responsibility remains vague and initiatives are largely reactive to available resources, largely uncoordinated, unmonitored and poorly reported.
+
+4.2.3 Improve funding for infrastructure
+
+Existing funding for the sector is insufficient to make any real progress and the new policy will need to attract additional funds to enable development to take place. Government investment to date, through the Development Budget has been modest - approximately K45m in 2011, K44m in 2012 and K35m in 201315. In addition, loans and grants from development partners (principally the EU, JICA and the ADB) increased the total budget allocation to the sector in recent years, to approximately K83m in 2011, K72m in 2012 and K71.6m in 2013.16 The majority of both GoPNG and development partner funding is allocated to a few urban WaSH initiatives, such as the Port Moresby sewerage upgrade and District Town Water Supply projects. Funding to the two SOEs, whether from the government Development Budget or from donor partners in the form of grants and loans, is insufficient to enable the SOEs to expand their services significantly and they struggle to maintain existing service levels through income received from tariffs.17 In rural areas, none of the recurrent or development budget allocated to the Department of Health is specifically earmarked for WaSH, except in relation to these services being made available in hospitals and clinics.
+
+Estimates suggest that in order to achieve government targets, an annual investment of K250m (US$100m) every year from now until 2030 is required for capital expenditure and a further K50m (US$20m) is needed per annum for operation and maintenance.18
+
+The government's (provincial, district and local level government) Services Improvement Programme comprises approximately K1.4 billion worth of funding per annum and therefore, represents a potential source of WaSH sector financing. However, as indicated above, to date, very little has been used to increase access to water and sanitation.
+
+4.2.4 Increase human resource capacity within the sector
+
+There are insufficient numbers of staff employed in the sector, across all relevant disciplines and a limited supply of new graduates from existing institutions.19 In addition, the lack of
+
+15Development Budget money is used for capital expenditure on specific projects. This encompasses activities such as acquiring fixed assets, purchasing land, etc. It does not include operational costs of government departments which are covered under the Recurrent Budget.
+
+16Water Sector Financial Review 2013. WSP. Stuart King 17Eda Ranu has estimated its non-revenue water from illegal connections and tariff collections for 2009 to 2011 to be about 50% of total water production.
+
+18Water Supply and Sanitation in Papua New Guinea. Turning Finance into Services for the Future. WSP July 2013. Penny Dutton.
+
+19A recent report, Meeting the Water and Sanitation targets. A study of the Hunan Resource requirements in Papua New Guinea. International Water Association (IWA) March 2013 estimated that in 2013, 1,215
+
+common established implementation guidelines results in a broad spectrum of implementation approaches and skills capacities. Uncoordinated activities means valuable knowledge sharing and skill transfer opportunities between agencies are missed. All of these issues impact on current effectiveness in the sector as well as its ability to absorb additional funds when they become available.
+
+There are no current estimates of the numbers of staff required to meet the government's 2030 targets but a substantial increase in staff will be required. As a guide, IWA has calculated that in order to meet the more ambitious 2015 MDGs, an additional 7,365 personnel would need to be recruited.20
+
+4.2.5 Develop monitoring and evaluation systems for the sector
+
+Access to safe water and sanitation is estimated through the demographic health surveys and the household income and expenditure surveys, both of which are used by the JMP to develop reports on estimated access to improved services. Access is not included in the national census data. Challenges in collecting information and providing accurate estimates are reflected in figures for sanitation which, for example, in 2012 recorded national access to improved sanitation at 45% but in 2013 put this figure at just 19%.
+
+Whilst accurate estimates are useful for national summaries they do not provide the depth of information required for accurate planning, progress monitoring impact assessment or operation/maintenance follow up.
+
+Water PNG and Eda Ranu have reasonably well established monitoring systems for service delivery to clients; however, very little is known about the situation in urban areas outside their area of operations. This includes a number of provincial towns, the vast majority of district towns, as well as unserved urban areas such as peri-urban and settlement areas around Port Moresby and other main urban centres.
+
+Very little monitoring takes place in rural areas, beyond the specific activities of individual service providers and there is no consolidation of data. There is no central record of WaSH schemes, implementing agencies, coverage, functionality or capacity within the rural sector. This has an impact on the ability for any kind of strategic planning, coordination or reporting against specific WaSH targets.
+
+personnel from various disciplines were employed in the WaSH sector, though this does not include technical capacity available from within the Department of Health.
+
+20Meeting the Water and Sanitation targets. A study of the Human Resource requirements in Papua New Guinea. International Water Association (IWA), March 2013
+
+4.3 Policy Response
+
+This policy document aims to significantly accelerate the delivery of services, particularly to rural, peri-urban and settlement areas to achieve the policy targets. It will achieve this through the following seven strategies:
+
+Improved sector coordination and leadership. 1. Increased WaSH sector funding. 2. Develop and manage an effective management information system. 3. Improved and consistent approaches to WaSH service delivery. 4. Appropriate technology promotion.
+
+5. Enhanced private sector participation and partnerships. 6. Sector capacity building and training.
+
+Strategy One: Improved Sector Coordination and Leadership
+
+Following endorsement of the policy, a Programme Management Unit in the Department of National Planning and Monitoring, led by a WaSH Coordinator, will be responsible for initial implementation during an Interim Period. This Interim Period will begin implementation of the policy and work towards the establishment of a more permanent solution to improved sector leadership and coordination - the establishment of a National Water, Sanitation and Hygiene Authority (NWSHA). The NWSHA will have a central headquarters, as well as offices in provinces and districts, established in accordance with the implementation of a Development Plan. (A NWSHA organisational diagram is included as annex 1).
+
+The NWSHA's role will encompass national, urban and rural endeavours, working together with existing sector institutions and organisations as summarized in Section Five. The Board of NWSHA - which shall comprise representatives from the public and private sector, as well as civil society - shall be responsible for developing and implementing policy for the WaSH sector. The Board may choose to do this by itself or it may set up special purpose working groups to deal with particular issues or concerns. The Board will replace the existing national WASHCOM.
+
+The NWSHA's role with respect to national coordination and leadership will include:
+
+1. Disaggregating national targets/goals for WaSH development. 2. Translating these targets / goals into a phased Development Plan that sets out in detail, how water and sanitation system development will be implemented and coordinated among relevant stakeholders. The Development Plan will contain a clear prioritisation strategy for how WaSH targets will be achieved and the budgetary requirements associated with Policy implementation.
+
+3. Ensuring adoption and mainstreaming of all WaSH policy principles. 4. Identifying and allocating funding support to WaSH development activities (including CSO mechanisms).
+
+5. Assuming responsibility for appropriate levels of regulation that are likely to include water quality regulation, other technical regulation and solely in relation to non-state-owned-enterprises, economic and competition regulation.
+
+6. Increasing private sector engagement in WaSH infrastructure development and service delivery.
+
+7. Maintaining the WaSH Monitoring Information System (MIS) to help monitor and evaluate WaSH sector development and the achievement of National WaSH policy objectives and targets.
+
+8. Developing alternative/innovative service provision programmes, such as franchising schemes, output based aid (OBA) schemes, etc.
+
+9. Conducting communication activities in support of WaSH sector development such as raising awareness of the role of the NWSHA, informing stakeholders of ongoing and planned WaSH sector investment activities and promoting understanding of the importance of WaSH service delivery.
+
+The NWSHA's role with respect to urban WaSH service delivery will include: 1. Providing support to existing and new operators to develop and implement plans to extend service provision to new urban areas by identifying potentially commercial locations and assisting with funding sources and appropriate service provision approaches. 2. Ensuring all new interventions in urban areas include clearly identified strategies for providing services to poor and urban settlement areas.
+
+3. Developing and assisting in implementing specifically targeted strategies, in partnership with service providers to ensure services are developed and improved to currently unserved customers in existing territories, particularly urban settlements. Developing strategies will involve:
+
+ Identifying opportunities for CSO funding and providing assistance with applications.
+
+ Identifying potentially commercially viable service delivery options.  Helping identify new and additional sources of financing.
+
+ Supporting the development of new approaches to better serve peri-urban settlements.
+
+ Assisting SOEs and other service providers to deal with issues of non-payment and non-revenue water reduction.
+
+4. Identifying and supporting new operators to provide water and sanitation services to urban customers.
+
+5. Providing support to all urban WaSH operators with respect to issues that have broad stakeholder or sector relevance.
+
+The NWSHA's role with respect to rural WaSH service delivery will include: 1. Providing assistance to rural WaSH facilitation and implementation organisations, including provincial, district and local level administrations, provincial health offices, NGOs and the private sector to support the planning and implementation of water, sanitation and health infrastructure at rural community level.
+
+2. Assisting in the development of water and sanitation investment and service support plans to be submitted to local and district level government authorities.
+
+3. Ensuring Service Improvement Program (SIP) support includes sustainable WaSH activities. 4. Providing funding support for rural WaSH development in the absence of sufficient SIP support.
+
+5. Working with development partners to increase finance and support rural WaSH development initiatives.
+
+6. Working with the SOEs and other operators to identify opportunities to extend existing urban service areas to surrounding communities and identify other support that utilities can provide to rural communities.
+
+Strategy Two: Increased WaSH Sector Funding
+
+Increased funding shall be allocated to support WaSH sector infrastructure development, service delivery and promotion through a number of mechanisms, including:
+
+1. The NWSHA will produce an annual business plan that will identify the money it requires to cover its operational expenses. The business plan shall also set out the NWSHA's proposed activities and associated goals for the following five years.
+
+2. The NWSHA shall identify, through its Development Plan, the funding required from the GoPNG to finance WaSH infrastructure and service development. This national budget funding shall be provided to the NWSHA, which will develop clear, transparent funding guidelines and determine how this money shall be spent in accordance with the implementation programme contained within the Development Plan.
+
+3. The NWSHA shall establish one (or more) WaSH Funds controlled by an independent board chaired by the NWSHA that is dedicated to financing the extension, rehabilitation and maintenance of WaSH service delivery, particularly in rural and peri-urban settlement areas. The GoPNG will be expected to contribute a minimum annual amount to this fund. 4. The NWSHA and its facilitation / implementation partners will work with provincial, district and local level government to ensure that funding dedicated to WaSH service delivery activities is included in the Service Improvement Program (SIP) funding process and that the money earmarked for WaSH investment is utilised efficiently and effectively. 5. NWSHA will coordinate development partner programme funding and synchronise with the Development Plan. This funding may be added to the WaSH Fund(s) or provided directly to facilitation / implementing agencies, utilities or communities.
+
+6. The NWSHA shall work with and assist state owned enterprises, as well as any other eligible organisations engaged in water and sanitation sector activities, to apply for and utilise funding provided through the Community Service Obligation (CSO) framework.
+
+Strategy Three: Develop and Implement an Effective Management Information System for the WaSH Sector
+
+1. The NWSHA Development Plan will establish a baseline of WaSH service access and need for the country that will include projections until 2030, associated with population growth and migration. From this, a prioritisation plan will be identified for WaSH service rollout. 2. The NWSHA will develop and maintain a WaSH Management Information System (MIS). Centralised information in the MIS will be used by NWSHA and other agencies for coordinating WaSH service delivery, as well as measuring progress against the goals set out in the Development Plan and policy targets.
+
+3. The NWSHA will support and coordinate existing data collection activities, both from implementing agencies such as the SOEs and the NGOs as well as the national census, household income and expenditure surveys, etc.to optimise data collection for the MIS and avoid duplication. Where suitable, data cannot be collected in this way, NWSHA will collect its own data.
+
+4. As a minimum, data required for the MIS will include:
+
+a. Existing water and sanitation infrastructure and functionality. b. Funding and sources assigned for WaSH sector development. c. A register of past, ongoing and planned activities targeted at water and sanitation development, together with details of the organisations and individuals involved in implementation.
+
+d. WaSH resource capacity within the sector, including human resources and skills and spare parts providers.
+
+e. Other relevant information, such as population, consolidated WaSH related morbidity /mortality patterns, needed to assist in prioritising areas and measuring the impact of WaSH interventions.
+
+5. Whilst the NWSHA shall be responsible for establishing and maintaining associated records and databases, it will be the responsibility of all service providers to ensure their activities are recorded. Service providers include:
+
+a. Provincial, district and local level government offices. b. Rural communities.
+
+c. Water PNG and Eda Ranu. d. NGOs, private sector organisations and other facilitation and implementation partners.
+
+e. Other public and private utilities. f. Other government departments, including the Department of Health and the Department of Education.
+
+6. The MIS shall be used to: a. Identify and prioritise locations and communities in high need of WaSH interventions.
+
+b. Measure progress towards the policy targets. c. Coordinate maintenance, particularly in relation to rural schemes. d. Provide information to assist the Department of Health in the monitoring of water quality in completed schemes.
+
+e. Advocate for scheme funding and better coordinate existing funding. f. Coordinate interventions between service providers.
+
+g. Assist in joint training and capacity building initiatives. h. Contribute to the Provincial Human Resource Plan.
+
+7. Data collected from the WaSH monitoring system will complement existing secondary data, for example the National Census, Household Income and Expenditure Survey and the Demographic Health Survey to evaluate impacts against the broader policy goals relating to improved health, livelihood opportunities and equity of access.
+
+Strategy Four: Improved and Consistent Approaches to WaSH Service Delivery
+
+1. All WaSH interventions should aim for 100% total sanitation. 2. In order to achieve this, WaSH services should be delivered in an integrated manner with the aim of changing hygiene behaviours through hygiene promotion, the provision of a convenient and sustainable water supply, use of improved drinking water sources and the promotion of safe sanitation facilities, leading to zero open defecation.
+
+3. NWSHA staff shall work with relevant agencies such as the Department of Health to design and deliver national, regional and local promotion and awareness raising activities to extend and improve understanding of the importance of WaSH. Attention will focus on the use of hygiene promotion and communication approaches rather than hygiene education, which has proved largely ineffective in changing adult behaviour.
+
+4. Hygiene promotion should be seen as a continuous process leading to long term behaviour change, rather than a one-off intervention and mechanisms for hygiene promotion and reinforcement through established institutions such as medical centres, schools and government offices should be explored.
+
+5. Participatory approaches should be adopted to promote appropriate planning, operation, management and maintenance. This is particularly important in areas where water and sanitation schemes are likely to be community managed.
+
+6. Participatory approaches should be fully inclusive to consider the involvement, priorities and needs of women and adolescent girls, people living with disabilities and HIV/AIDs, infants and children and the elderly.
+
+7. In order to maximise the potential of improved hygiene practices, individual household water supply connections should be promoted where possible, taking into consideration sustainability, community preferences, technical practicalities and affordability.
+
+8. All private, commercial and public institutions, including district and provincial markets, should be expected to provide hygienic toilets, with a water supply, soap and hand washing facilities. Toilet facilities should be sex segregated and have disabled access.
+
+9. All WaSH programmes should be accompanied by a sustainability plan. This should justify the proposed intervention in terms of:
+
+a. Environmental suitability and sustainability. b. The spare parts supply chain.
+
+c. Financial sustainability, tariffs and methods of collection. d. Operation, maintenance and management agreements. e. Long term hygiene promotion strategies.
+
+f. Relevant land use agreements and memorandums of understanding. g. The roles and responsibilities of community-based committees, whether existing (such as the water users groups and Ward Development Committees) or new, should be clearly outlined.
+
+10. All land use agreements must be clearly outlined and formally agreed. For rural community managed systems, compensation should not normally be considered.
+
+11. In order to promote and accelerate service delivery in rural communities and noncommercial urban areas, users will not be expected to pay for the total capital investment required for a water supply but should be expected to make a cash and in-kind contribution. Tariffs should be calculated to cover the expected operation and maintenance costs and these should be included, along with the proposed method of payment and management arrangements, in the sustainability plan.
+
+12. Subsidies for sanitation should be limited but can be considered if carefully targeted to promote access for the disabled, for improved menstrual hygiene, for innovation, for sanitation in challenging environments where VIP may not be feasible and for access for the very poorest.
+
+13. All institutions, such as government buildings, schools, health centres etc., should expect to pay the full cost of their water and sanitation schemes.
+
+14. Minimum standards detailed in this policy should be adhered to by all service providers.
+
+15. NWSHA will assist the DoH and other relevant partners in developing emergency response plans to react effectively to WaSH related emergencies, such as cholera and typhoid outbreaks.
+
+Strategy Five: Appropriate Technology Promotion
+
+The selection of appropriate technologies has important implications for affordability and sustainability.
+
+1. This policy promotes a "some for all", rather than "all for some" approach. Sustainable low cost options should be considered wherever possible in order to improve national coverage. Suitable alternatives to sewerage should be investigated and adopted wherever possible in urban areas.
+
+2. Technology choices must consider environmental sustainability and be robust to short and long term anticipated climate changes.
+
+3. Technology choices must be socially acceptable and affordable to the consumers, both in terms of capital investment and operating costs.
+
+4. Where water or sanitation schemes are designed that will depend on community management, the design must consider and reflect in the sustainability plan, the capacity and willingness of the community to operate, maintain and manage it successfully.
+
+5. The NWSHA will develop and promote technical standards and best practice implementation approaches for delivering water and sanitation services and promoting hygiene behaviour change to help ensure the quality and sustainability of system development and service delivery. Specifically, the NWSHA shall be responsible for:
+
+a. Production of a Technology Implementation Manual that contains: o Water, sanitation and hygiene promotion planning tools and associated implementation guidelines, in order to implement WaSH activities as described under Strategy Four.
+
+o Design and quality standards (for a range of technologies). o Service level expectations.
+
+b. Promotion, incentivisation and communication of appropriate innovative technology and approaches.
+
+c. Dissemination of relevant international good practice. d. Helping ensure that the water and sanitation supply chain is properly coordinated with the recommended system implementation approaches contained within the Technology Implementation Manual, and that any gaps in the supply chain are filled using public or private providers
+
+Strategy Six: Enhanced Private Sector Participation and Partnerships
+
+Partnerships with private sector organisations, which includes the NGO sector, will be encouraged to extend and improve the delivery of WaSH services to communities through improved programme implementation and the strengthening of supply chains for improved sanitation marketing and the sustainable provision of essential services. Specifically:
+
+1. Responsibility for promoting partnerships should rest with all implementing agencies including the NWSHA, state owned utilities, NGOs and faith based organisations, and provincial, district and local level government.
+
+2. Increasing the presence of the private sector in the WaSH sector will be encouraged. This could be at a number of different levels, including:
+
+ Asset construction. This may range from developing large scale treatment and network assets in urban areas to assisting in the building of small scale, community based water and sanitation systems.
+
+ System operation. This may range from operating major assets (such as treatment facilities or urban water and sanitation networks) through to running one or more small scale systems on a part time basis.
+
+ Outsourcing. Private sector organisations could be contracted to provide specific services, such as billing, meter reading, maintenance, etc.
+
+ Materials supply. The private sector will be expected to provide the majority of the supply chain resources and materials required to develop and operate WaSH assets.
+
+ Other services. There is potential for a wide range of other interventions by the private sector, such as offering system design services, building community awareness, delivering WaSH skills training, etc. The non-government sector (NGOs in particular) already perform an important role in this area, especially to rural communities and building and maintaining partnerships with these organisations will be critical for the GoPNG going forward.
+
+3. Private Sector Participation (PSP) and Public Private Partnership (PPP) models will be considered for enabling improved private sector engagement. This may include approaches such as Design-Build-Operate (DBO), Build-Own-Operate (BOO) and Build-Operate-Transfer (BOT) schemes for construction and operation activities, as well as concessions, leases and management contracts for systems operations only. Alternative approaches may also be sought, such as seeking to attract private investment in the domestic construction industry.
+
+Strategy Seven: Increase Sector Capacity Building and Training
+
+Significant strengthening of the human resource capacity of the sector will be achieved in order to improve service delivery. This will require ensuring all existing and new staff working in the sector have the necessary skills and encouraging new staff into the sector. Specifically:
+
+1. The key skills and competencies required for WaSH programme implementation shall be identified by the NWSHA, as part of its Technology Implementation Manual.
+
+2. The NWSHA shall conduct a provincial human resource assessment. This will detail existing staff and competencies working in the sector, along with additional staff and competencies required to achieve policy targets.
+
+3. A subsequent capacity building programme will be developed to improve the skills of existing staff and the development of new skilled human resources. This may include:
+
+a. Identifying how existing competencies can be shared successfully between organisations, for example through training, seminars, job secondments, joint implementation plans etc.
+
+b. Reviewing, and if necessary, improving the information and skills taught by academic and training institutes.
+
+c. Providing updates and sharing information between provinces.
+
+d. Establishing ties with international organisations and disseminating information on international best practice.
+
+e. Facilitating attendance at relevant international meetings and seminars. 4. Staff numbers in the sector need to be increased significantly to achieve the policy objectives.21 The NWSHA will try and close that gap through a number of mechanisms, including:
+
+a. Identifying relevant staff vacancies in government departments and advocating for their recruitment in prioritised provinces, based on completing WaSH plans.
+
+b. Increasing funding into the sector, increasing the number of WaSH interventions and developing organisational capacities, which together shall help draw staff into the public sector through increased NGO and private sector activity.
+
+5. The delivery of these capacity building, training and WaSH promotion activities will be carried out principally by government departments and both public and private agencies and training institutes, with the support of the NWSHA. However, where appropriate, NWSHA staff will also be expected to contribute to the delivery of capacity building initiatives.
+
+4.4 Resourcing
+
+Establishing the NWSHA
+
+The National Water, Sanitation and Hygiene Authority will have a head office in Port Moresby. This will employ approximately 26 staff. Establishing and running the office will cost approximately K1.8m p.a. with a salary expense of around K2.6m p.a. at current prices.22
+
+Provincial offices will then be established based on prioritisation criteria, developed by the Authority. It is expected that provincial offices will be established gradually, probably at a rate of 2/3 per year. In larger provinces, it may also be necessary to establish a number of district offices. Provincial and district offices are expected to have 3 staff each, with an establishment/running cost of approximately K500,000 p.a. each and an annual salary cost of approximately, K260,000 each.
+
+Additional WaSH sector staffing
+
+Significant additional human resources are required if the policy targets are to be achieved23. Personnel are required to implement water, sanitation and hygiene initiatives and to support operation and maintenance .
+
+21Meeting the Water and Sanitation targets. A study of the Human Resource requirements in Papua New Guinea. International Water Association (IWA), March 2013 22 The staffing of NWSHA is illustrative rather than prescriptive and will ultimately be decided once the NWSHA Board and Chairman has been appointed. Staff costs have been calculated based on existing payscale data. See Institutional Evaluation of PNG's Water and Sanitation Sector: Establishing a National Water, Sanitation & Hygiene Authority. Stuart King, September 2013.
+
+23A recent report by IWC, "Meeting the Water and Sanitation targets: A study of the Human Resource requirements in Papua New Guinea" March 2013, estimated the number of extra personnel, representing management, technical and community development that would be required for PNG to meet its more ambitious Millennium Development Goal targets for 2015.
+
+These will need to be recruited in both the public and the private sector through the methods identified under Policy Strategy Seven.
+
+Funding requirements for infrastructure development
+
+Achieving the policy targets will require significant investment in infrastructure construction. The WSP Service Delivery Assessment (SDA) estimates that the funding required in the sector is based on current approaches.24 The report uses targets that are similar to, but not exactly the same as the policy targets; nevertheless, they represent an indication of the level of investment required.
+
+The following required investments have been calculated:
+
+2030 targets from WSP report Annual Capital investments required (US$ million/year) Annual O&M investments required (US$ million/year)
+
+Rural water supply
+
+66% 22 3
+
+Urban water supply
+
+94% 8 2
+
+Water supply total 70% 30 5
+
+Rural sanitation 68% 12 1
+
+Urban sanitation
+
+84% 58 14
+
+Sanitation total 70% 70 15
+
+This translates as a total investment of US$ 2.09 billion (approximately K5.25 billion) between now and 2030. Significant savings are possible with the identification and implementation of more suitable and lower cost technology alternatives as described in the Policy Strategy Five.
+
+In line with the policy principles detailed in this document and regulations governing the state owned enterprises, users will be required to meet some of these costs, particularly for O&M. This would be in the form of tariff payments to the SOEs or in rural areas, from community based management arrangements. The majority of funding, however, will need to come from public funds, international donor support and private sector investment.
+
+24Water Supply and Sanitation in Papua New Guinea. Turning Finance into Services for the Future. WSP, July 2013.
+
+Section Five - ORGANISATIONAL RESPONSIBILITIES
+
+The table below summarises the roles and responsibilities that are expected to be carried out by the organisations and agencies, principally engaged in the WaSH sector service delivery.
+
+Organisation Role & Responsibility
+
+National Water, Sanitation and
+
+Hygiene Commission (NWSHA)  Responsible for sector policy development and implementation
+
+ Attracts and directs financing to support urban and rural WaSH delivery
+
+ Develops and implements technical regulation for the WaSH sector
+
+ Delivers economic regulation (except for SOEs) for the WaSH sector
+
+ Monitors and evaluates WaSH sector development  Establishes an information database on WaSH service delivery
+
+ Provides advisory and knowledge support to WaSH implementing bodies
+
+Department of National Planning & Monitoring (DNPM)
+
+ Chairs NWSHA's Board  Responsible for WaSH sector budgetary allocation  Sets national targets for WaSH development in consultation with the NWSHA
+
+National Department of Health (NDoH)
+
+ Sets water and sanitation quality standards in consultation with the NWSHA  Provincial, district and community environmental health officers assist with rural WaSH service delivery
+
+ Responsible for public health initiatives such as the Healthy Island Approach, which promotes safe drinking water, sanitation and hygiene Treasury  Allocates financing to support NWSHA's operational activities.
+
+ Allocates development budget to support WaSH sector development.
+
+ Allocates Provincial, District and Local Level Government Services Improvement Program (PSIP) funding.
+
+Department of Environment and Conservation (DEC)
+
+ Responsible for water resource management, licensing and fee collection.
+
+Organisation Role & Responsibility
+
+ Sets water quality standards for water bodies (including bulk water abstraction).
+
+Department of Provincial and Local Government Affairs.
+
+ Has statutory responsibilities over matters of local government pursuant to, in accordance with the Organic Law on Provincial Governments 1995 and Local-level Governments and the Local-level Governments Administration Act, 1997.
+
+ Responsible for the dissemination of policy.  Reports on performance of provinces and LLGs.  Links top down strategies with bottom up needs.
+
+Department of Implementation and Rural Development.
+
+ Responsible for disbursement and monitoring of SIP funding.
+
+ Maintains a database monitoring assets and services in local government.
+
+Independent Consumer and Competition Commission (ICCC)  Responsible for economic regulation (tariff setting) for SOEs - which includes Eda Ranu and Water PNG
+
+- as well as competition monitoring.
+
+Independent Public Business Corporation (IPBC)
+
+ An Eda Ranu and Water PNG shareholder.  Develops the Public-Private Partnership (PPP) policy framework.
+
+ Develops Community Service Obligation (CSO) policy.
+
+Eda Ranu  Responsible for water and sewerage service provision in the National Capital District (NCD).
+
+Water PNG  Responsible for water and sanitation service provision in provincial and district urban areas outside the NCD.
+
+ Promotes water and sanitation on a self-help basis in rural areas.
+
+Provincial and District Administrations
+
+ Responsible for planning and delivering WaSH infrastructure and services to communities. Development Partners  Provide funding support for the NWSHA.  Provide funding support for rural and urban WaSH programmes.
+
+NGOs  Implementers of rural and peri-urban WaSH programmes.
+
+Section Six - IMPLEMENTATION PLAN
+
+The Implementation Plan comprises three phases:
+
+1. The Interim Period 2015-2017. Raising awareness and understanding of the Policy. Piloting of Policy approaches and activities and tasks leading up to the legal establishment of the NWSHA, as presented in the Interim Period table 1.
+
+2. The 'operationalising' activities undertaken by the NWSHA, such as staff recruitment and the production of the Development Plan and Operations Manual that will equip the Authority to carry out its remit. The NWSHA may also be expected to establish a taskforce (the WaSH Sector Review Group in the Phase 2 table), to assist it in developing, reviewing and monitoring WaSH sector development. This group will include representatives from a broad selection of stakeholders, not just board member organisations.
+
+3. The NWSHA conducting its operational activities in accordance with its Development Plan. Detailed implementation activities comprising this last stage cannot at present be described, as they will be defined in the Development Plan. However, some key events (see Phase 3 table) can be identified including:
+
+o The NWSHA will produce an annual report detailing its activities over the past twelve months, its achievements in reaching its goals and targets and its priorities for the forthcoming year.
+
+o The NWSHA will be expected to contribute to the WaSH sections of future 5-year medium term development plans, prepared by the DNPM.
+
+o The entire WaSH policy will likely need to be reviewed, approximately five years after it has been implemented.
+
+Section 6 IMPLEMENTATION PLAN Department of National Planning and Monitoring 28
+
+Implementation Phase 1
+
+Implementation Activities 2015-2017 Responsible Agency
+
+2015 2016 2017 Finalise National Water, Sanitation and Hygiene Policy (NWSHP)  DNPM Recruit WaSH Coordinator DNPM Distribute copies of the WaSH policy Wash Coordinator National ,Regional launching workshops Wash Coordinator National Regional training workshops training workshop Wash Coordinator Implementation of pilot activities Wash Coordinator Submit NWSHA to NEC for clearance  DNPM Commence drafting of legislation for establishing NWSHA  DNPM Submit legislation to Central Agencies Coordinating Committee  DNPM CACC reviews draft legislation & consultation process  CACC CACC submits legislation to NEC for approval  NEC Legislative Council issues a Certificate of Compliance  Legislative Council Policy and legislation tabled at parliament  Parliament
+
+NEC adopts parliamentary approved NWSP  NEC Policy gazetted  NEC
+
+Section 6 IMPLEMENTATION PLAN Department of National Planning and Monitoring 29
+
+Implementation phase 2
+
+Implementation Activities Year 2 Responsible Agency
+
+1 2 3 4 5 6 7 8 9 10 11 12
+
+NWSHA Board appointed
+
+NWSHA Board appoints Chief Executive Officer (CEO) NWSHA
+
+CEO commences NWSHA staff recruitment NWSHA
+
+NWSHA produces Development Plan NWSHA
+
+NWSHA produces Operations Manual NWSHA
+
+NWSHA develops TNA Capacity Building Plan NWSHA
+
+NWSHA establishes Planning Database and M&E framework NWSHA
+
+WaSH Sector Review Group established and meeting NWSHA, Stakeholders
+
+NWSHA produces Annual Report NWSHA
+
+Implementation phase 3
+
+Years 3 - 12
+
+Implementation Activities 3 4 5 6 7 8 9 10 11 12 Responsible Agency
+
+NWSHA implements its Development Plan NWSHA, stakeholders
+
+NWSHA produces Annual Report NWSHA
+
+NWSHA contributes to MTDP 2016-2020 & 2021-2026 NWSHA, DNPM
+
+5-Year NWSP Review DNPM
+
+Section Seven - MONITORING AND EVALUATION
+
+The NWSHA will compile WaSH monitoring data and produce summary reports as part of its annual reporting process.
+
+This data will be used to measure progress against the Development Plan and WaSH policy targets. Achievements will be compared against additional development indicators, such as health to evaluate impact and progress towards the policy's broader goal.
+
+This information will be made available in a timely manner to contribute to the regular updating of the MTDF.
+
+This policy will be reviewed every 5 years following its approval.
+
+ANNEX ONE: NWSHA
+
+Organisational structure
+
+NWSHA Intervention points
+
+Inter-agency linkages

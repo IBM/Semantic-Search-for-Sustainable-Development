@@ -1,0 +1,2175 @@
+no title
+
+TABLE OF CONTENTS
+
+ABBREVIATIONS AND ACRONYMS .......................................................................................................................... 3 MESSAGE FROM THE MINISTER FOR EDUCATION .................................................................................................. 4 MESSAGE FROM THE SECRETARY FOR EDUCATION ............................................................................................... 5 EXECUTIVE SUMMARY ............................................................................................................................................ 6 SECTION ONE PAPUA NEW GUINEA CONTEXT ............................................................................................... 8 SECTION TWO EDUCATION IN PNG ............................................................................................................... 10 SECTION THREE PLANNING FRAMEWORK ....................................................................................................... 19 SECTION FOUR THE PLAN ............................................................................................................................... 22 SECTION FIVE MONITORING AND EVALUATION.......................................................................................... 40 SECTION SIX PROJECTIONS AND COSTING ................................................................................................ 53 SECTION SEVEN ANNEXES ................................................................................................................................ 57
+
+ABBREVIATIONS AND ACRONYMS
+
+AOFP Annual Operational Financial Plan NDoE National Department of Education BOG Board Of Governors NCD National Capital District
+
+BOM Board Of Management NEB National Education Board CDAD Curriculum Development & Assessment Division NIR Net Intake Rate
+
+CEA Church Education Agencies NZAID New Zealand Aid CDD Curriculum Development Division NQSSF National Qualification School Standard Framework COBE Certificate Of Basic Education NSLCF National School Leadership Competency Framework CRIP Curriculum Reform Implementation Project NTPSF National Teachers Professional Standards Framework CSMT Curriculum Standard Monitoring Tests (Grade 5) NEFC National Economic and Fiscal Commission DDP District Development Plan NEP National Education Plan
+
+DSG District Services Grant NER Net Enrolment Ratio DEA District Education Administrator NES National Education System DP District Plan NHS National High School
+
+DEP District Education Plan NEC National Executive Council DMT District Management Team NRI National Research Institute DOE Department of Education OBC Outcome Based Curriculum DNPM Department of National Planning and Monitoring OBE Outcome Based Education DSIP District Services Improvement Programme OLA Office of Library and Archives DSP Development Strategic Plan OOSCI Out of School Children Initiative ECE Early Childhood Education PABER Pacific Benchmarking for Education Results ECCE Early Childhood Care and Education PC Parents and Citizens
+
+ECBP Education Capacity Building Project PDoE Provincial Division of Education EFA Education For All PEA Provincial Education Advisor EU European Union PEB Provincial Education Board EGRA Early Child Reading and Assessment Program PQEP Parents for Quality Education Monitors Program EMIS Education Management Information System PEP Provincial Education Plan
+
+EL Electronic Learning PGAS Public Government Accounting System EQUITV Enhancing Quality In Teaching through Television PP Policy and Planning
+
+FODE Flexible Open and Distance Learning PILNA Pacific Islands Literacy and Numeracy Assessment GDP Gross Domestic Product PPRCD Policy, Planning, Research & Communication Division GES General Education Service PNGEI Papua New Guinea Education Institute
+
+GIR Gross Intake Rate PNG Papua New Guinea GER Gross Enrolment Rate PARI Papua New Guinea Accessibility Remote Index GoPNG Government of Papua New Guinea PSIP Provincial Service Improvement Program
+
+GPI Gender Parity Index RE Research and Evaluation HIV/AID
+
+S Human Immunodeficiency Virus /Acquired Immune Deficiency Syndrome
+
+SBC Standard Based Curriculum HROD Human Resource and Organisational Development SG Standards and Guidance HR Human Resource SBE Standard Based Education HT Head Teacher SSO Senior Standard Officer IGIS Integrated Government Information System SO Standard Officer
+
+ICT Information Communication Technology SBMP Student Behaviour Management Policy IMSF Integrated Management System of Finance SLIP School Learning Improvement Plan LLG Local-Level Government SERC Special Education Resource Centre KM Kina Million SEOC Senior Education Officers Conference LLGSIP Local Level Government Service Improvement
+
+Program TED Teacher Education Division MCU Media and Communication Unit TFF Tuition Fee Free MDG Millennium Development Goal TSC Teaching Service Commission MTDP Medium Term Development Plan TVET Technical Vocational Education and Training MP Member of Parliament TWT Technical Working Team
+
+MOE Ministry of Education UBE Universal Basic Education M and E Monitoring and Evaluation UOG University of Goroka MTEF Medium Term Expenditure Framework UN United Nation MSD Measurement Services Division UNHDI United Nation Human Development Index NATTB National Authority Trade Testing Board UPE Universal Primary Education
+
+NGO Non-Government Organisation WaSH Water Sanitation and Hygiene
+
+MESSAGE FROM THE MINISTER FOR EDUCATION
+
+The government's strong commitment to education did not end when the National Education Plan (NEP) 2005-14 expired. That continuing commitment is reflected in this follow-on National Education Plan, which builds on the many successes that we have achieved in education in recent years, as well as learning from our mistakes.
+
+This NEP sets the course for even more initiatives to ensure that the all the people of Papua New Guinea have the chance for the education and training that they are entitled to as citizens. All citizens must have a chance to share in the growth and development of our nation - and that requires a well-functioning education system.
+
+The focus of education is often seen as the formal school system, which children enter at a young age before progressing through the grades, preferably to complete a full school career. But the government recognises that the aim of education for all - and a thriving economy and a healthy society - requires as strong a focus on other sectors of education.
+
+In particular, this NEP provides the roadmap for implementing the government's commitment to providing education and training in the technical and vocational skills that are an essential requirement for a successful nation.
+
+The plan also points the way to ensuring that people are given the support needed to learn the basic literacy, numeracy and life skills that they may have never had the chance to acquire, for example. Such skills are a right for all Papua New Guineans.
+
+This plan is ambitious. It shows clearly how the right strategies can lead to the right educational outputs and outcomes and to the ultimate goal of Quality Learning for All.
+
+Yet a plan is just a plan, unless everyone involved in education acts to implement the strategies to ensure that their fellow citizens can have access to the education and training that they desire. The national government will play its part and will work with all other levels of government and educational institutions. It will also continue to put substantial funding into education, to support schools and other institutions.
+
+Yet the NEP also depends on collaboration at all levels. It sets out clear strategies and responsibilities, for the National Department of Education and for provincial and lower level governments. Our fellow citizens have a right to expect us all to work together to achieve Quality Learning For All.
+
+Honourable Nick Kuman, MP
+
+Minister for Education
+
+MESSAGE FROM THE SECRETARY FOR EDUCATION
+
+This strategic plan has been produced by the Department of Education, but it is not a plan just for the public servants working in the department's headquarters. It is a plan for everyone who has responsibilities for education in Papua New Guinea.
+
+The plan has been produced after consultations with people and organisations around the country and therefore reflects the reality on the ground. The strategies in the plan take account of the resources and capacities in all parts of the education system and are therefore strategies with deliverables that we know we can achieve. The government's commitment to education means that we have no excuse for any failure to produce those deliverables.
+
+The department will implement the strategies to ensure that we get the three outcomes that are detailed in the NEP: all children and youths having access to and completing a quality education; all students achieving learning standards and retention benchmarks; and education systems operating in a timely, proactive and coordinated manner. The three outcomes will result in Quality Learning for All.
+
+The plan recognises that education and training are essential for everyone. The plan therefore puts a strong emphasis on strategies for youths and on technical and vocational education, as well as looking towards the establishment of the country's first formal early childhood education sector.
+
+The department will also work closely with and support its education partners throughout the country, including the Teaching Service Commission, the Office of Libraries and Archives, provincial and other governments, teachers, schools and parents and communities. All of us must work together for the good of the children and youths of Papua New Guinea.
+
+We must measure our progress towards the quality learning goal and we must all be held to account for our work. An important part of the plan is therefore the monitoring and evaluation system that we will run in parallel with the strategies in the plan. Effective monitoring and evaluation will let us see what is working and what is not and will let us make corrections during the life of the NEP, as well as informing our decision-making.
+
+I urge you to work with us to make the plan a success by ensuring that we implement the strategies successfully, for the benefit of everyone.
+
+Dr Michael F. Tapo, EdD
+
+Secretary for Education
+
+EXECUTIVE SUMMARY
+
+Despite tangible progress in education over the past decade, much more remains to be done to improve access, retention, quality, equity and management, to address remaining challenges in education.
+
+The NEP 2015-19 is designed to give everyone in Papua New Guinea, regardless of their ability, gender, or socio-economic background, an opportunity to be educated and to transform their lives, using an holistic, inclusive and integrated approach.
+
+There have been many changes in the country's education system and policies since independence 40 years ago, and the plan is designed build on past successes and experience and to speed up progress towards universal and high-quality education and training.
+
+Following widespread consultation, the NEP is based on a logical planning framework that addresses the problems facing education in Papua New Guinea by establishing six focus areas:
+
+• access and equity
+
+• teachers and teaching
+
+• learning; alternate pathways
+
+• local management
+
+• system strengthening For each focus area there are clear strategies that will be detailed in operational plans to be written by the National Department of Education and all other education partners around the country. The strategies have associated deliverables which will result in clear outputs by 2019, such as more infrastructure and teachers in place and easier access to alternate pathways for the development of work and life skills.
+
+The outputs are designed to produce three outcomes related to access to education, achievement of learning and effective and efficient operation of the education system. Achieving those outcomes will result in attainment of the ultimate goal; Quality Learning for All.
+
+All the strategies are achievable and affordable and take account of existing and potential government policies and initiatives. The latter include: the Tuition Fee Free program to get more children into school; the emphasis on technical and vocational education and training (TVET); improved teacher training; an updated curriculum; infrastructure improvements; e-learning; and a push for 14 years of high-quality education from the age of five, through a proposed revision of the school system to establish a 2-6-6 structure of two years of elementary, six of primary and six of secondary and removal of examination barriers at grade eight and ten.
+
+The NEP outlines the responsibilities of different organisations, including divisions of the national Department of Education, for the strategies, as well as the associated timelines. It makes it clear that parents and local communities have important roles to play.
+
+To ensure that the strategies are carried out and to measure their success, the NEP includes a transparent monitoring and evaluation system based on international best-practice. There are realistic and achievable targets, to be measured against the situation at the start of the NEP's five-year period. The measurements will be based on simple indicators and will be verified using the systems indicated, such as the department's Education Management Information System.
+
+It will be important to be flexible over the lifetime of the plan. Therefore, strategies may be modified in the light of experience; including taking advantage of better-than-expected progress towards particular targets and outputs.
+
+Overall, the NEP is also consistent with:  The Papua New Guinea National Goals and Directive Principles  International goals, in particular the Millennium Development and Education For All  Recent government reforms to improve education service delivery  Community input from provincial consultations  Stakeholder inputs
+
+The NEP presents a clear and easily-understood path towards Quality Education For All.
+
+SECTION ONE PAPUA NEW GUINEA CONTEXT
+
+Papua New Guinea is one of the world's most ethnically diverse countries. Its population of an estimated 7.3 million speaks more than 850 indigenous languages and is spread across some of the world's most difficult terrain. An estimated 88 per cent of the population lives in rural areas, often isolated with poor communications. The overall literacy rate (literate in at least one language) is 68 per cent, an increase of 11 per cent since the 2000 Census. Tok Pisin shows the highest literacy rate of 57 per cent, followed by local languages Tok Ples at 56 per cent and English at 49 per cent (PNG Census, 2011)
+
+Papua New Guinea comprises the eastern half of New Guinea Island and nearby islands and is the largest country (461,690 km²) in the Pacific region. It has more than 600 islands and the mainland is mostly covered by tropical rain forest and has large mountain ranges. Transport links are poor or non-existent.
+
+Demographically, Papua New Guinea is a young country; 76 per cent of the population is under 35 years old and 35 per cent is under 15. Annual population growth is 3.1 per cent, with the population expected to reach 9 million by the end of the decade.
+
+Papua New Guinea gained independence from Australia in 1975 and is a constitutional monarchy with a parliamentary democracy. Many government functions are devolved to the country's 22 provinces and to lower-levels.
+
+The country is divided into four regions - Highlands, Momase, New Guinea Islands and Southern. The capital is Port Moresby, with a population of about 400,000. The main regional centres are Goroka and Mt. Hagen in the densely populated Highlands Region, the commercial port of Lae in the Momase region, and Kokopo/Rabaul in the New Guinea Islands region.
+
+Figure: The regions and provinces of Papua New Guinea
+
+Papua New Guinea is a lower- to middle-income country with a GDP of US$15.41 billion per capita income of US$2, 104.9. (World Bank, 2013). It has a formal, corporate sector and a large informal sector where subsistence farming accounts for the bulk of economic activity. The formal sector provides a narrow employment base, consisting of mineral production, some manufacturing, the public sector, and services including finance, construction, transportation, and utilities. It is estimated that 75 per cent of households depend on subsistence agriculture, with 40 per cent of the population living on less than $1 a day (United Nations Development Programme, 2014).
+
+Papua New Guinea is rich in natural resources (forests, fish, and minerals) and has vast ecosystems hosting a unique biodiversity. Oil and gas, mining and construction activities have allowed the economy to expand strongly in recent years.
+
+The economy was projected to grow by 15.5 per cent in 2015, compared with 8.4 per cent in 2014, driven mainly by a first full calendar year of liquefied natural gas production in the country and overall oil and gas growth of 156 per cent. However, the oil and gas sector was expected to return to negative growth by 2019 as the oil fields are depleted.
+
+The mining and quarrying sector was expected to grow by 12.0 per cent in 2015, but then slow down as the Ok Tedi mine undergoes life extension work, before rebounding towards 2019 as increased mine production begins.
+
+Growth in the non-mining sectors was expected to increase from 1.4 per cent in 2014 to 4 per cent in 2015, partly reflecting preparations for the 2015 Pacific Games and the 2018 Asia Pacific Economic Co-operation meeting. Agriculture was projected to expand by 3.6 per cent in 2015, based on improvements expected in coffee and cocoa growing and the elimination of copra oil production bottlenecks. Manufacturing, wholesaling and retailing and transport, storage and communications were expected to continue to grow in 2015, with electricity, gas and water slowing down.
+
+SECTION TWO EDUCATION IN PNG
+
+The national education system Under the Education Act (1983, Consolidated 1995, p9), administration of the national education system is vested in the following authorities:
+
+• The Minister for Education
+
+• The National Education Board (NEB)
+
+• The departmental head (Secretary for Education)
+
+• The Teaching Service Commission (TSC)
+
+• Provincial governments
+
+• Education boards
+
+• Local-Level Governments (LLGs)
+
+• Education agencies
+
+• The governing bodies of member schools Minister for Education
+
+The minister is the political head responsible for the overall management of education through the Ministry of Education, which comprises the National Department of Education (NDoE), the Office of Libraries and Archives (OLA) and the Teaching Service Commission (TSC).
+
+National Department of Education Under the Organic Law on Provincial Governments and Local-Level Governments, the NDoE determines national policies and standards and supports their implementation by the provinces with services such as planning, research, training and staff development.
+
+The NDoE is responsible for: teacher education, inspection and registration; the national curriculum; curriculum materials; and examinations. It is also responsible for national institutions, namely teachers colleges, technical colleges, national high schools, special education resource centres, Flexible Open Distance Education (FODE) and schools in the National Capital District.
+
+Office of Library and Archives The Office of Libraries and Archives (OLA) comprises three divisions: the National Library Service of Papua New Guinea; the National Archives; and Corporate Services. Its major role is to co-ordinate the planning and development of libraries and archives throughout the country. The National Library Service's primary objective is to preserve all documents on Papua New Guinea life and society in the national collection for all Papua New Guineans to enjoy and learn from.
+
+Teaching Service Commission
+
+The Teaching Service Commission (TSC), established by an Act of Parliament, acts as the agent of the state for the employment of teachers. It oversees teachers' terms and conditions of service, salaries, allowances and welfare. It supports the rights of teachers.
+
+The National Education Board
+
+The National Education Board (NEB) is the highest education decision-making body in Papua New Guinea, overseeing the development and functioning of the education system and the implementation of the NEP. It advises the minister, in consultation with provincial governments, the TSC and education boards and agencies. The Secretary for Education, as head of the education department
+
+Departmental head
+
+The head of the Department of Education is the Secretary for Education. The Secretary also chairs the National Education Board.
+
+Provincial governments
+
+Through the provincial and district administrations and provincial education boards, the provinces have responsibility for establishing, building and maintaining schools. The provinces deploy teachers and employ provincial and district education officers.
+
+A provincial education subsidy in the form of Education Function Grants must be spent on operating costs and maintenance, and at least half must be spent on the districts' minimum priority activities. Communities, through schools' governing bodies, share responsibility for infrastructure, including school buildings, teachers' houses and ancillary facilities.
+
+Education boards
+
+The Provincial Education Board (PEB) is the highest education decision-making body in a province. Most provincial boards are headed by a Chairman, who is the Provincial Education Advisor. Powers and functions of the PEBs vary from province to province depending on the powers devolved to them and subject to the capacity of the province.
+
+District Education Boards are an integral part of the administration of education in the districts. Members are stakeholders within the districts. The powers and functions of the boards vary from province to province depending on the powers devolved to them. The National Education Board can veto board decisions
+
+Local-Level Governments
+
+Local-Level Government is the third level of government. It plays a minimal role in education but its responsibilities include the funding and maintenance of elementary and primary schools and helping districts to develop district education plans consistent with provincial education plans.
+
+Education agencies
+
+Education agencies are key partners in the delivery of education services in Papua New Guinea. They include faith-based and private agencies with well-established networks of schools in the provinces in all education sectors.
+
+The agencies may have varied student entry criteria and teacher terms and conditions, but they are entitled to school subsidies from the government. Teachers are paid by the government except those employed by international education agencies.
+
+Governing boards of member schools
+
+Governing boards are Boards of Management (BOMs) in elementary and primary schools and Boards of Governors (BOGs) in secondary and other post-primary schools. They are the schools' highest decision-making bodies and have financial and management powers. They also have disciplinary powers but their decisions can be vetoed by the National Education Board.
+
+PROGRESS IN EDUCATION
+
+During Australia's administration, Papua New Guinea adopted that country's education system. Since independence in 1975, the system has undergone major reforms and has grown to more than 11,000 institutions and around 1.9 million pupils who are taught by almost 52,000 teachers in the elementary, primary and post primary sectors (EMIS, National Department of Education, 2014).
+
+Figure 2: Total enrolment growth, 2004-14
+
+Source: (EMIS, National Department of Education, 2015).
+
+An important step towards reforming education was the development of a new philosophy of education outlined in the Matane Report (1983), based on 'integral human development'. This philosophy has permeated and influenced education planning, policy development and practices ever since.
+
+The last 10 years have seen major programs and policies to improve access, retention, quality, equity and education management, although measured and sustained progress towards the desired outcomes has been mixed. Corresponding reforms in governance and the provision of critical financial resources were introduced, to enable efficient and effective delivery of basic education, resulting in improved education access, retention and quality.
+
+The first national education plan, the NEP 1995-2004, produced a restructuring of the education system and a reform of the curriculum. The NEP 2005-14 aimed to increase access and participation at all levels of education, supporting UNESCO's Education For All goal of universal primary education. It also aimed to make the curriculum more relevant to community life, through the introduction of vernacular education and a focus on life skills, and to allow students to pursue a range of post-Grade 8 educational pathways. Despite some successes, significant challenges remain to meet international and national targets.
+
+Development partners, including United Nations and overseas development agencies, supported numerous education programs during the 2005-14 NEP.
+
+The overall gross enrolment rate for basic education improved to 96 per cent in 2014, compared to 71 per cent in 2000. In the secondary sector, the rate improved by 10 percent from 2000 to 2013. Despite these achievements, significant disparities still exist across the country.
+
+In 2012 the government began to abolish school fees in basic education by the introduction of the Tuition Fee Free (TFF) policy, which also subsidised fees for post-basic education institutions, except the tertiary institutions. The aim of TFF is to increase access to education. Although participation rates in some sectors remain very low, TFF has contributed to increased enrolment, particularly in basic education, with almost 2 million children enrolled in 2014 compared with about 1 million a decade before. The successful increase in enrolment in basic education has led to considerable challenges to ensure continuing access to education for this significant rise in numbers.
+
+Figure 3: Enrolment growth by sector, 2004-14
+
+Source: (EMIS, National Department of Education, 2015).
+
+There is some evidence that girls' participation rates have generally improved over the last 10 years, yet significant barriers need removing to boost girls' access to and participation in education. The rates of children discontinuing school, between initial enrolment and the completion of 12 years of schooling are high, while transition rates following national examinations in Grades 8 and 10 are low. Girls' transition rates at certain points in their education continue to be a concern.
+
+Figure 4: Grade 8 to Grade 9 transition rates, 2004-14
+
+Source: (EMIS, National Department of Education, 2015).
+
+Despite successes, significant challenges remain in meeting international and national targets, including gross enrolment and retention targets. The challenges include the need to expand the system capacity in line with population growth, remoteness, lack of resources, poor coordination between national and sub-national
+
+Papua New Guinea made progress against the goals of the Education for All (EFA) movement of 2000
+
+Following is a summary progress :
+
+EFA Goal 1: Early childhood care and education
+
+Papua New Guinea has a desire to make education available to all children starting from the age of three, but there is currently no formal early childhood care and education (ECCE) sector; therefore, there are no data available for monitoring of progress in ECCE.
+
+EFA Goal 2: Universal basic education
+
+Papua New Guinea exceeded its 2014 targets with considerable increases in the numbers of teachers and schools since 2000.
+
+EFA Goal 3: Learning opportunities for youth and adults and life skills
+
+Access and participation rates improved in the secondary and vocational sectors, although these rates are still very low as a result of a decision to prioritise basic education. There are considerable disparities across provinces, which needs to be addressed. The secondary teacher:pupil ratio is an acceptable 1:31.
+
+EFA Goal 5: Gender parity and equality
+
+Although there is a strong indication that gender disparities are gradually falling, gender gaps still exist in some areas.
+
+In 2014 the PNG Higher Education (General Provisions) Act was formally gazetted (National Gazette G595 of 10th December 2014). This has resulted in the establishment of the Department of Higher Education, Science and Research, which replaces the former Commission for Higher Education and the Office of Higher Education. This new Department will have responsibility for regulating (quality assurance) post secondary institutions. Although full implications are yet to be finalised this may include the quality assurance processes in Teachers Colleges and Post Secondary TVET Colleges that currently fall under NDoE.
+
+FINANCING EDUCATION
+
+A 1995 revision of the Organic Law on Provincial and Local-Level Governments resulted in some education responsibilities being rolled out to provinces. Changes were also made in resource allocation, with provincial and local-level governments being the principle recipients of funds for the provision of education services, enabling them to play a greater role in the provision and management of education.
+
+From 2004 to 2013, education funding by all levels of government (GoPNG) more than tripled, from K653.3m to K2,242.1m1. The funding per student almost doubled, from K640 to K1,179. In the four years from 2010 to 2013 GoPNG funding of the national education system more than doubled in nominal terms.
+
+1 Funding data are a mixture of budget appropriations and expenditure , although expenditure data are used wherever practicable, including for the two largest costs: teachers' emoluments and subsidies/TFF.
+
+Figure 5: Total government funding of education, 2004-13
+
+80 130 180 230 280 330 380
+
+2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2
+
+0 0 4 =1 0 0
+
+Known Funding of the National Education System
+
+Inflation Enrolment Inflation + enrolment GoPNG funding
+
+Source: Budget Branch, DoE
+
+Teachers' emoluments (salaries, allowances and leave fares) is the largest single education cost. However, it fell from 79 per cent of total funding in 2004 to 42 per cent (K937m) in 2013, as money was allocated to the district, provincial and local-level government Service Improvement Programs (SIP), introduced in 2007, 2013 and 2013 respectively, and to the Tuition Fee Free (TFF) program. TFF increased the direct funding of education institutions, from K171.8m in 2011 to K582.7m in 2012 (the first year of TFF) and K648.6m in 2013. The SIPs were on top of District Support Grants (DSGs) given to Members of Parliament.
+
+Although the national government provides a large majority of education funding, it does not directly control or monitor every aspect of its spending. For example, TFF funds are disbursed to schools who manage its spending. The national government pays teachers directly, with the costs of these salaries included in provincial government's budgets. The provinces also control Education Function Grants and their own education budgets, in line with national guidelines. In the ten years to 2013, national government expenditure of NES funding only exceeded 25 per cent of the total in 2009 (31 per cent) and in 2011 (30 per cent).
+
+Figure 6: Total government funding of education by major costs, 2004-13 (Km)
+
+Source: Budget Branch, DoE
+
+CURRENT EDUCATION SNAPSHOT
+
+In 2014, 11,174 schools were operating in Papua New Guinea, approximately 53 per cent run by government and nearly 46 per cent by faith-based organisations. Student enrolments were just under 2 million. There were in excess of 51,000 teachers employed across all sectors of education, with almost 50 per cent in the primary sector and 38 per cent in the elementary sector. The elementary and primary sectors combined account for a majority of the education system with more males than females are accessing education. NGOs and private organisations operate some schools in PNG which exist outside the current national education system, this plan does not currently cover these schools.
+
+Currently the education structure consists of three years of elementary school, six year of primary and four years or secondary education. National exams exist at grade 8, 10 and 12
+
+Figure 7: Education Structure 2015
+
+Below is an overview of education statistics for 2014.
+
+Figure 8: Number of schools operating, 2014
+
+Sector/Level Government Church Education Agencies Permitted Private & Others Total Elementary 4,009 3,138 151  7,298 Primary 1,678 1,847 18  3,543 Secondary 133 82 4  219 Vocational 60 52 2  114 Total 5,880 5,119 175 11,174 Source: EMIS, Department of Education, 2015
+
+Figure 9: Number of students enrolled, 2014
+
+Elementary total 855,572
+
+Preparatory Elementary 1/Grade 1 Elementary 2/Grade 2 335,257 274,835 245,480
+
+Primary total 950,914
+
+Grade 3 194,695
+
+Grade 4 178,044 Grade 5 159,325 Grade 6 143,143 Grade 7 122,648 Grade 8 111,618
+
+Secondary total 155,348  Grade 9 61,932 Grade 10 51,031 Grade 11 23,732 Grade 12 18,653 Vocational 41,331
+
+FODE 11,893  Total 1,973,617  Source: EMIS, Department of Education, 2015
+
+Figure 10: Teacher numbers and teacher-pupil ratio, 2014
+
+Source: EMIS, Department of Education, 2015
+
+Grades Male Teachers Female Teachers Total Teacher-
+
+Pupil Ratio
+
+Preparatory
+
+3,598 3,377 6,975 1:48
+
+Elem 1/Grade 1
+
+3,539 2,890 6,429 1:43
+
+Elem 2/Grade 2
+
+3,590 2,479 6,069 1:40
+
+Total 10,727 8,746 19,473 Elementary
+
+Ratio 1:44 Grade 3 1,939 2,662 4,601 1:42
+
+Grade 4 2,023 2,359 4,382 1:41
+
+Grade 5 2,070 2,072 4,142 1:38
+
+Grade 6 2,196 1,857 4,053 1:35
+
+Grade 7 2,383 1,618 4,001 1:31
+
+Grade 8 2,647 1,511 4,158 1:27
+
+Total
+
+13,258 12,079 25,337 Primary
+
+Ratio 1:36
+
+Grade 9 3,074 1,993 5,067 Secondary
+
+Ratio 1:31 Grade 10 Grade 11 Grade 12
+
+Vocational 749 440 1,189 Vocational
+
+Ratio 1:35 TOTAL 27808 23258 51066
+
+Figure 11: Transition ratio, 2014 Grade
+
+Transition Rate Male Transition Rate Female Transition Rate Total Prep to Elem 1 87.1% 86.0% 86.5% Elem 1 to 2 90.5% 89.4% 90.0% Elem 2 to 3 82.3% 77.3% 80.0% Grade 3 to 4 88.2% 91.5% 89.7% Grade 4 to 5 90.0% 90.5% 90.2% Grade 5 to 6 90.8% 89.6% 90.3% Grade 6 to 7 88.0% 85.1% 86.7% Grade 7 to 8 93.5% 87.8% 91.0% Grade 8 to 9 61.1% 50.3% 56.3% Grade 9 to 10 84.6% 84.9% 84.7% Grade 10 to 11 46.8% 43.5% 45.5%
+
+Grade 11 to 12 84.2% 76.9% 81.3% Source: EMIS, Department of Education, 2015
+
+Figure 12: Gender of enrolled students, by sector, 2014
+
+Source: EMIS, Department of Education, 2015
+
+Policies announced in late 2014 and in this plan include a comprehensive strategy to provide access to complete education over a period of 14 years for any child entering the system from the age of five. One proposal is to restructure the education system to introduce the country's first formal early childhood sector. The current three years of elementary education starting at the age of six, six years of primary and four years of secondary (3-6-4) would be changed to two years of elementary starting at the age of five, six years of primary and six years of secondary (2-6-6).
+
+The new structure would include a new early learning year, in line with the country's UNICEF commitment, and would more closely match the internationally-recognised phases of children's educational development. The 2-6-6 system would ensure progression through a full 14 years of education by abolishing the current grade transition examinations at the ends of Grades 8 and 10. Students would instead be assessed to determine their progress in learning and would receive proof of education. See Annex A.
+
+SECTION THREE PLANNING FRAMEWORK
+
+Papua New Guinea was one of the first countries to ratify the Convention of the Rights on the Child, adopted in 1989, which recognises that education is a right that belongs to all children without any form of discrimination. In addition, the country is committed to achieving global education goals, which are due to be renewed early after the release of this plan. The National Education Plan 2015-2019 is in accordance to the Education Act (1983), the objects of the National Education System and its mandate of a National Education Plan.
+
+The NEP is based on the following national principles:  The constitution statement that basic education is a right for all citizens  The Vision 2050 aim for the country to become a 'smart, wise, fair, healthy and happy society by 2050', through improving the number and quantity of opportunities at all educational levels  The Medium Term Development Strategy identification of education as a priority for development 
+
+Figure 13: The National Education Plans connections in planning
+
+The plan is also underpinned by the PNG Public Service Ethics and Value-based Leadership Capability Framework:  Honesty The plan encourages openness and transparency  Integrity Policies and practices are clear, ethical and intended for educational progress  Accountability Staff will take responsibility for their actions and report transparently to the wider community
+
+ Respect Staff will work together with trust, while accepting differences, for mutual and national benefit
+
+ Wisdom Staff actions will be based on information and analysis  Responsibility Staff will be committed to the plan and its holistic goals for progress in education
+
+Source: PNG Department of Personnel Management (undated)
+
+The NEP provides strategic direction for an integrated approach to education. It focuses on improving the quality of education for all and takes account of widespread consultation. Gender equality is a cross-cutting issue reflected across the entire plan and its implementation.
+
+The NEP 2015-19 builds on the NEP 2005-14 and the Education Sector Strategic Plan 2010-30, while complementing the Universal Basic Education (UBE) Plan 2010-19.
+
+Education Sector Strategic Plan 2010-30
+
+ Access. All children complete nine years of basic education and have the opportunity for education or training beyond Grade 8
+
+ Teachers and teacher education. All teachers are well trained and resourced and are accepted by the community as professionals
+
+ Curriculum All curricula are sensitive to local needs and students' aspirations
+
+ System management and planning. All institutions are managed effectively and transparently and are accountable to their local communities
+
+ Technical and Vocational Education and Training. A national system of public and private institutions offer skills development courses, ranging from short to full-time, leading to diploma and technician qualifications
+
+PLAN IMPLEMENTATION
+
+The plan is aspirational and responsive to identified needs and challenges. To achieve the goal of Quality Leaning for All, a focus on the implementation of the strategies in this plan is essential to achieve improvement in educational outcomes for all students.
+
+To achieve optimal progress it is hoped that all implementing partners will collaborate towards achieving the same common direction as outlined in this plan. Cascading plans will be developed from the NEP 2015-19. The National Department of Education will provide technical assistance and advice to Provincial and District Education Offices to assist them to draft their own aligned plans based on local needs and priorities while working to achieve common outcomes. The NDoE will also collaborate with other government agencies and partners in education to achieve the common goal.
+
+It is anticipated that activity will be reported in the department's Annual Operational and Financial Plan under the NEP focus areas. This will enable the NDoE to collate progress and therefore measure its overall performance, for high-level informed decision-making.
+
+A monitoring and evaluation (M&E) system will track the progress towards mid-term outputs and outcomes contributing towards the final goal. NDoE divisions will produce Annual Operational Plans, based on the same logic framework for each of the NEP's six strategic focus areas and on the Corporate Plan, and monitor and report progress against these.
+
+Within the department, a coordinated approach is needed to achieve the overall goal, to ensure the best outcome for students. This is consistent with a focus on system strengthening within the Ministry of Education. Strategic planning is a continual process within an organisation, with broad strategies based on an outline of the desired future. Major initiatives may be modified during the five-years of this plan in response to feedback from monitoring and evaluation, but the overall goal and strategic direction will remain the same. Below is a summary of roles by the many stakeholders in education in the crucial implementation of the NEP 2015-2019.
+
+National Education Board  Provide advice and guidance, set student quotas and selection criteria, approve governing body
+
+membership, impose and set school fees, approve appointments (see the Education Act)
+
+Minister for Education  Set government's education vision and direction, develop policies and issue directives (see the
+
+Education Act)
+
+Secretary for Education  Provide leadership in the implementation of the NEP and government policy, through senior Department of Education management (see the Education Act and the Public Service Management Act)
+
+Department of Education  Create and implement operational plans for NEP strategies, with targets
+
+ Monitor and evaluate against targets
+
+ Conduct annual reviews of NEP progress
+
+Development partners and NGOs  Provide technical assistance and financial support, based on NEP
+
+Church education agencies  Align church school education with the NEP
+
+Provincial education administrations  Create provincial and district education plans to carry out NEP responsibilities, with NDoE support
+
+ Provinces with Provincial Education Acts will implement the NEP in accordance with the acts  Provinces without Provincial Education Acts will implement the NEP in accordance with the national Education Act
+
+District administrations  Ensure that districts meet the minimum education and infrastructure standards
+
+ Provide professional and administrative support for head teachers, to improve teaching and learning
+
+Local-Level Governments  Establish and develop schools
+
+Schools  Administrators and boards implement strategies that improve access
+
+Communities  Parents and communities support students in learning  Communities ensure security of school premises
+
+SECTION FOUR THE PLAN
+
+The NEP 2015-19 has six focus areas, which combined will contribute towards achieving seven outputs and three end outcomes over the next five years, as outlined below. The strategies are interrelated and progress together will contribute to quality learning for all in PNG.
+
+Figure 14: NEP 2015- 2019 Logic Framework
+
+Please refer to Section Five of this plan for detailed national targets of all Outputs and Outcomes. Subnational targets contributing to these will be calculated during subnational planning, using EMIS data to support this process.
+
+Section Six of this document contains projected enrolments, based on achieving targets for the period 2015-2019.
+
+Note: The term teacher that is used throughout the plan is inclusive of teachers, instructors, lecturers and all those implementing a teaching and learning program. The word school is used generically to cover schools, colleges, teachers colleges, centres and any other institution where a learning program is supplied. School Board includes governing councils, board of governors and boards of management.
+
+This plan refers to the post primary sector of schooling as secondary, however the proposed 2-6-6 structure renames the post primary sector high schooling. For clarity, the term secondary is used until such time as any proposed changes to the current structure commence.
+
+1.
+
+ACCESS AND EQUITY
+
+Output targets (see section five for FULL details)
+
+By 2019  25 % more schools will be operational  19,320/44 % more classrooms will be in place  18 % of schools will have library facilities  Toilet/ pupil ratio 1:25 girls 1:40 boys  70% of students access functional water facilities  70% of educational institutions have hand washing facilities ( running water and soap)  Increased number of special needs students enrolled in schools  Gross intake ratio 100% elementary and primary, 60% secondary
+
+Considerable effort is needed to provide access to education for all school age children and youth throughout the country.
+
+The Tuition Fee Free (TFF) strategy will continue to be the cornerstone of universally-accessible education by providing fees to schools. A comprehensive overhaul to many aspects of the education system is proposed to provide all children the ability to enter school at the age of five and will receive a relevant education for fourteen years, until they are reach grade 12 (18 years of age). Education will not be compulsory, rather, system barriers restricting students from remaining in education will be removed, enabling access by choice. Associated strategies are outlined in relevant focus areas of this plan with full details in Annex A
+
+The proposed 2-6-6 structure is one component of providing access to 14 years of schooling. Under this proposal current structure of elementary, primary and secondary school would be changed to better match recognised phases of learning and accommodate an extra year of school at entry level to ensure all students acquire important foundation skills from the age of five in readiness for further learning from the age of seven (Grade 1).
+
+A more innovative approach to providing access to a complete education should be more inclusive of the challenges facing rural and remote students. Considerable forward planning for building of schools will be required at provincial and district levels to ensure local context is reflected and community needs are understood.
+
+Although there is significant variation between provinces, many still have schools without enough suitable classrooms or clean water and sanitation facilities to provide students with a suitable learning environment that is inclusive, catering for all children's needs.As well as the need for additional classrooms, extra housing will be needed for the increased number of teachers required.
+
+The goal of Quality Learning for All considers a more inclusive approach to education. Some children and youths are currently being excluded from the system or are marginalised. These groups include girls, children with disabilities, those in remote villages and the very poor and are almost invisible in society. Part of the answer may be to ensure that learners are introduced into regular education while removing barriers hindering maximum participation in education. An in-depth gender analysis will identify trends and causes of inequalities in access to education. The elimination of barriers to education and the creation of inclusive, learning-enabling schools requires a multi-dimensional approach, with parallel interventions on different fronts. Schools need to become welcoming, child-centred, inclusive of all children, engaged with the community, sensitive to the psycho-social development needs of learners, aware of subtle gender biases, and generally more aware of a range of factors that facilitate or inhibit a child's learning process.
+
+A commitment under this NEP focus includes seeking out the children who are not in school; those who either have never
+
+attended or who have stopped attending school. The aim is to engage children in school as soon as they reach school age
+
+and keep them progressing through appropriate quality learning and suitable pathways to attain at least minimal literacy
+
+and numeracy skills. Strategies will attempt to re-engage children and youth who are currently not in education. Early
+
+learning programs address all aspects of children's development (social-emotional, language, cognitive and physical) and
+
+provide a solid foundation for the child's success in early primary school; it helps children in school readiness and prevents
+
+them from class repetition and dropping out. This is especially relevant for children from marginalized families and remote
+
+areas.
+
+In order to increase access for all infrastructure targets are provided to assist with planning. Sub national planning is encouraged to think innovatively, including the creation of combination schools if this is the best option to increase access and suit local contexts
+
+Output 1.1 Increased school infrastructure in place operating safe and inclusive learning
+
+ACCESS AND EQUITY
+
+Strategies Deliverables Responsibility/
+
+partners
+
+Timeline
+
+COMPLETE EDUCATION
+
+1. Remove barriers restricting access to 14 years of education for children from the age of five
+
+ Localize access o Creating different models of schools if suitable eg 3 in 1 schools (Prep to grade 12) or 2 in 1 schools (Prep & Primary) o Multi grade teaching
+
+ Create child friendly schools
+
+ Remove grade 8 & 10 examination
+
+ Early childhood education (See Appendix A for full details) Integrated plan for complete education
+
+o National Policy & Planning o Province o District o LLG o School
+
+CEA as partners 2017 commencement
+
+2. Develop the proposed policy of 2-6-6 system and implement as a result of feedback and recommendations
+
+ Plan options and consult widely
+
+ Inclusive of foundation learning in an Early Childhood setting
+
+ Survey existing schools and plan for the new system
+
+ Conduct community awareness program to precede changes
+
+Develop and implement innovative arrangements as interim measures to cater for increasing student enrolment and enable predicted secondary expansion, while ensuring quality learning
+
+ Supplementary classes
+
+ extra classes or (double) shift teaching 2-6-6 conversion plan using different models
+
+Places in schools o National Policy & Planning o Province o District o LLG o School Planning 2015 Implementation 2016 -2019
+
+INFRASTRUCTURE
+
+3. Develop and implement national infrastructure design standards for all building projects
+
+Standards will include
+
+ Classrooms
+
+ Teacher-student ratio
+
+ Catering for students with special needs
+
+ Water and sanitation
+
+ Specialised needs eg TVET, FODE National
+
+infrastructure standards o National Policy & Planning o Province o District o LLG
+
+CEA as partners 2015 2016 onwards
+
+2016
+
+4. Quality Assurance system to ensure all buildings meet design standards
+
+Implement national infrastructure standards at sub national level
+
+National Infrastructure Guideline o National Policy & Planning
+
+CEA as partners 2016
+
+5. Implement the School Infrastructure Partnership Program
+
+ Agreements as detailed in the SIPP o Province
+
+o LLG
+
+6. Build classrooms, schools, colleges, centers to cater for student projections in each sector
+
+ New building to adhere to Infrastructure Policy
+
+ Combination schools eg 3 in 1 or 2 in 1
+
+ Plan based on teacher-student ratio
+
+ Building or adapted classrooms meet the needs of children with special needs (Refer to Focus Alternate Pathways for TVET specific strategies) Classrooms
+
+(see indicator 2 targets) Schools (see table x) Water and sanitation facilities at schools Teachers Quarters Libraries o National o Province o District
+
+CEA as partners Ongoing partners
+
+7. Access to e-learning through facilities adapted to suit e-learning design as new program is piloted and planned E Learning Infrastructure o National E -Learning o Province o Districts o LLG o School 2016 -2019
+
+8. Water, sanitation and hygiene  Ensure existing water and sanitation facilities which meet standards are in all schools  Water and sanitation must be suitable for local conditions  Inclusive to cater for children with special needs and girls  Encourage WaSH practices Clean water supplies Toilets for all  Including catering for girls needs o National Guidance & Counseling CEA as partners 2015-2019
+
+9. Teachers are provided with reasonable and affordable accommodation corresponding to positions per school Teachers Houses o National Policy & Planning Standards o Province o District o LLG o School Ongoing
+
+10. Continue to implement and enhance TFF system  Use the PARI index to incorporate funding formula in TFF  Devolve TFF responsibility to provinces where possible  Monitor TFF usage TFF for every enrolled student o National GES, Policy & Planning o Province Ongoing
+
+EQUITY
+
+11. Include awareness of equity in all programs and initiatives and review the existing policies  From in-depth gender analysis, develop and implement strategies  HIV and AIDS awareness and policy implementation  Implementation of special needs strategies  Activities to address issues affecting most vulnerable children Gender analysis and strategy paper o National Media & Communications, Guidance & Counseling o Province o District o LLG o School Ongoing
+
+12. Get out-of-school children into school and keep those at risk in school  Out of School Initiative o Investigate profiles o Implement strategies  Support students at risk of dropping out of education to access learning and support their families. Focus on addressing issues such as o Gender based violence o School age pregnancy o Distance from school o Prohibitive expenses in schools Out Of School Awareness and strategy o National Research & Evaluation o National Guidance & Counseling CEA as partners 2015 planning 2016-2019 implementation
+
+13. Disaster risk reduction and climate change adaption  Enhance governance mechanism for emergency  Strengthen preparedness. Train teachers on emergency preparedness and response. School children practice earthquake mock drill  Effective and Timely response, recovery and Schools ready to reduce risk o National Policy & Planning Standards, Guidance & Counseling o Province o School Ongoing
+
+SCHOOL FEES partners
+
+reconstruction  Incorporate DRR and climate change adaptation in the curriculum (Refer to Emergency in Education and Disaster Risk Management Policy) CEA as partners
+
+Table x: Strategy 6 Deliverable targets of infrastructure
+
+School Type Target Planning
+
+Pre School Primary School Junior High School (to grade 10) Senior High School (to grade 12) Vocational Centre TVET Technical or Business College 1 Polytechnic Primary Teacher Education College 1 per ward 1 for each ward cluster (maximum of 3 wards) 1 per LLG 1 per district 1 per district 1 per province 1 per region 1 per province
+
+2.
+
+TEACHERS AND TEACHING
+
+Output targets (see section five for details)
+
+By 2019 Increased numbers of teachers with target academic qualification required by sector 22,600 (44%) more teachers employed 100% of teachers use approved curricula 100% of teachers have satisfactory access to learning materials 100% of schools adequately resourced with school materials
+
+Well-trained and qualified teachers who are resourced and supported are critical to achieving quality learning outcomes. As the student population increases with increased access to learning there is a need to ensure there are sufficient quality teachers, who are trained in the relevant sector pedagogy, wherever required to meet student needs. Teachers contribution to a more child friendly learning environment is critical to achieve improved learning.
+
+Increased numbers undertaking pre-service training to meet anticipated growing student numbers must be accompanied by high-quality programs meeting standards required. There is also a need for current teachers to undergo professional development to upgrade their knowledge and skills. A system of professional learning will be needed to ensure that teachers continue to ensure continuation of up-skilling of teachers.
+
+To cater for the complete education strategy, secondary teachers must be able to teach multiple subjects while primary teachers should be equipped to teach multi grade classes.
+
+Accompanying improvement in the quality of teachers, factors such as the provision of suitable housing and the better administration of teacher registration, appointments, pay and leave fares will all significantly contribute towards supporting teachers professionalism leading to improved learning environment for students
+
+Output 1.2 An increased number of teachers are recruited to meet student demand and trained to meet qualification standards
+
+Output 1.3 Teachers have access to, and are implementing, improved curricula and teaching materials
+
+TEACHERS AND TEACHING
+
+Strategies Deliverables Responsibility Timeline
+
+PRE SERVICE
+
+14. Increase the number of teachers trained to meet increased student demand, while meeting quality standards.
+
+ Forward planning to meet anticipated student numbers across each sector.
+
+ All teachers must have qualifications relevant to the sector and area of specialization of position.
+
+Qualified teachers o National Teacher Education, TSC Province 2019
+
+15. Improve quality of pre-service teacher training
+
+ Select quality candidates for teacher training
+
+ Train elementary teachers in registered colleges
+
+ Establish national quality assurance system for teacher training
+
+ Register teachers colleges that meet national standards
+
+ Multi grade teaching skills National Standards of Teachers Colleges o National Teacher Education, Standards o Province o District o School
+
+2019
+
+2017
+
+IN SERVICE
+
+16. Improve quality of all teachers by implementing a National Teacher's Professional Standards Framework
+
+ to improve teachers competence
+
+ as basis for teacher training
+
+ to assess school teacher performance
+
+ teacher quality standards awareness program for all National Teacher's
+
+Professional Standards Framework o National Teacher Education, Standards, Guidance & Counseling o Province Development (2015)
+
+Pilot (2016) Phase One (2017) Phase Two (2018) Phase Three (2019) o School
+
+17. Enhance the quality of teachers by providing support and professional learning  Conduct needs analysis  Develop formal and semi-formal opportunities for in-service learning  Upgrade teachers' qualifications  Upgrade skills and knowledge to meet standards (NTPSF)  Provide training opportunities for use of ICT and e-learning  Monitor and support teachers in areas of need  Local strategies to reduce teacher absenteeism where an issue Teacher professional development o National Teacher Education, Curriculum Development, Human Resources, Standards Guidance & Counseling o Province o District o School 2015 Ongoing 2016 onwards Ongoing
+
+18. Provide specialised in-service training, for  Specialist subjects  ECCE  TVET  Special needs (inclusive education)  FODE  ICT and e-learning  Librarianship OLA  Guidance counselling and behaviour management Qualified specialist Teachers o National Teacher Education, TVET, FODE, General Education , OLA, Guidance Counseling Standards E-Learning o Province o District o School Ongoing
+
+19. Train and support teachers for Standards-Based Curriculum  Provide approved teaching and learning materials to teachers  Ensure liaison between teachers, education institutions and curriculum developers for a cohesive approach Teachers familiar with SBC content, pedagogy, content and assessment o National Curriculum Development, Standards, Teacher Education o Province o District o School Timeline to align to SBC implementation timeline
+
+20. Improve management of libraries and records  Capacity building for school librarians  Train teachers to manage records and classroom libraries Functioning and improved library services o National OLA o Province o District o School 2015-2019
+
+3.
+
+LEARNING
+
+Output targets (see section five for details)
+
+By 2019  100 % of schools using approved curricula (SBC)  100% teachers using approved curricula (SBC) or National Qualification Framework materials  100% of Pre-service Colleges using approved curricula (SBC)  1:1 Pupil : text book ratio
+
+Improving learning requires a focus on the learner. There will be a greater emphasis on considering students holistically and appreciating the differences between individuals and understanding learning both inside and outside of school. Strategies employed under the learner focus will combine with those to improve access, to provide relevant teaching and learning experiences.
+
+Character and values education will be introduced as part of the curriculum so that students will develop a sense of respect for nature and for others. They will learn to promote and preserve their culture, will manage conflict resolution, become caring, conscientious and responsible citizens. The schools will become safe areas free from gender based violence and bullying. Gender equity will remain a cross cutting issue and should be considered across all activity to ensure girls outcomes are equal to boys.
+
+Disasters have detrimental effects on the fulfillment of children's right to education. climate change adaptation and disaster risk reduction including earthquake mock drills will be part of the curriculum that will help children.
+
+As a major component of learning, the curriculum will provide a coherent pathway for learners to acquire skills and knowledge seen as essential for life by policymakers in Papua New Guinea. To overcome past curriculum problems, all stakeholders have embraced a new Standards-Based Curriculum (SBC) for elementary, primary and high school learners. SBC will continue to be developed, with associated resources and learning materials distributed to all schools.
+
+Libraries will remain an important component of education in PNG, by providing books to supplement reading and learning. There will be an aim to move towards e-library over time and as is relevant.
+
+There will be an associated review and changes to examinations with a new assessment system developed to ensure that the assessment process does not prevent students from progressing through education, rather it will becomes an important tool to measure progress and engage students in appropriate quality learning. The work will involve curriculum developers to ensure assessment aligns with and supports the new curriculum while reflecting good international practice.
+
+An attempt will be made to harness the power of the digital age with an approach that is practical and viable for Papua New Guinea and that may enhance traditional learning.
+
+Output 2.1 All schools have access to, and are using, the latest approved curriculum (SBC)
+
+LEARNING
+
+Strategies Deliverables Responsibility Timeline
+
+CURRICULUM
+
+21. Develop and implement SBC, inclusive of gender sensitivity, for all school levels
+
+ Develop and distribute SBC National Curriculum
+
+Standards Framework o Develop materials o Publish materials o Distribute materials o Gather feedback on effectiveness of SBC, revise aspects needing improvement o Ensure relevant curriculum options for work related, life skills for non- tertiary bound students in year 11 and 12
+
+SBC Framework for all year levels Materials; textbooks, teacher and student resources o National Curriculum Development o Province o District o LLG o School SBC-National Curriculum Standards Framework written 2015 Elementary 2016 Primary 2017 Grade 9,10 2018 Grade 11,12
+
+Distribute all guides to schools teacher guides at schools Curriculum Development o Provincial o District o LLG o School childhood 2015 Elementary 2015 primary written 2017 secondary written 2017 FODE use SBC primary & secondary
+
+23. Set up SBC quality assurance system, providing feedback of new curriculum and to inform curriculum revisions A system to monitor and revise SBC o National Curriculum Development, Standards Ongoing
+
+24. SBC supplementary learning materials  Teacher and student resource books for all students across all grades  Distribute learning materials to schools  Distribute additional learning materials to schools and through libraries Supplementary material to support SBC learning o National Curriculum Development OLA Ongoing quality assurance
+
+25. Develop a clear policy and agreed direction for National High Schools National High Schools Policy o National GES, Teacher Education
+
+26. TVET curriculum to be realigned to meet industry standards and needs TVET learning programs only to utilize approved curriculum Curriculum aligned to National Qualification Framework o National TVET
+
+27. Character and Values Education  teach children to appreciate nature and diversity; cultural, regional differences, religion and different denominations, socio-economic and gender with a sense of respect for themselves and their environment  build capacity of teachers in this area  develop and implement school code of conduct  Ensure classroom practice encourages respect and care School code of conduct o Schools 2016-2019
+
+E LEARNING
+
+28. Implement e-learning suitable for Papua New Guinea  Research and develop e-learning program and resources, considering all possible digital solutions  Carry out consultation, readiness  Coordinate and advise schools on ICT infrastructure to suit e-learning program  Train teachers  Trial each phase and resources  Implement successful strategies from trials  Develop E Learning Policy A system of E learning o National E-learning, ICT, 2015-2016 2017 2016-2019 Phase per trial and implementation plan 2016-2018 2019
+
+29. Use ICT to enhance access and delivery of learning  E-learning division to collaborate with all of Ministry of Education o National E-Learning, ICT 2016 onwards
+
+EARLY CHILDHOOD
+
+30. Ensure a quality pre-school program (Early Childhood Care and Education) is operational providing socialization, foundation skills in literacy and numeracy for students as a readiness to enter primary school.  Linked to proposed system restructure and meeting requirements of the revised Education Act  Utilise existing good practice eg early learning teaching Elementary schools using quality curriculum and standards o National Teacher Education, Curriculum Development 2015- 2016
+
+standards, teacher training, appropriate curriculum, teacher employment/deployment)  As an interim measure, to reduce class sizes re-introduce shift-teachings for preparatory year. Double shift teachers to be given an enhanced salary o Schools
+
+ASSESSMENT
+
+31. A sustainable national learning assessment system established with two purposes; o To measure and use individual student learning progress to assist further learning o To provide aggregated (and system wide) progress data for decision making  Remove grade 8 and 10 examination #  Provide relevant completion certificates for students  Implement easy to use diagnostic assessment for teachers to improve learning program  Assessment aligned to the current curriculum  Literacy and Numeracy Assessment monitored by Pacific Literacy and Numeracy Assessment (PILNA)- regional benchmarking and proposed National Standardised Assessments A national learning assessment system reporting student learning and system wide progress (data available electronically) Compatibility with international requirements Literacy and numeracy progress benchmarked  Nationally (new)  Regionally (PILNA) o National Measurement Services, Curriculum Development, PaBER Coordinator 2016 pilot 2017 Primary complete 2017 Grade 8 and 10 exams removed PILNA conducted 2015 and 2018
+
+32. Increase awareness of inclusion of children with special needs in mainstream classes where appropriate  All special needs students gain support and are registered with Special Education Resource Centre  Children with special needs in mainstream classes  Schools providing inclusive education o National Teacher Education
+
+4.
+
+ALTERNATE PATHWAYS
+
+Output targets (see section five for details)
+
+By 2019  52,750 students enrolled in vocational programs  16,800 students enrolled in FODE  1 Vocational centre per district  1 Technical (or business) college per province  1 Polytechnic per region
+
+The focus on the traditional education pathway remains important, yet evidence suggests that there are also significant learning needs outside the traditional elementary, primary and high school sectors.
+
+The country has a growing shortage of skilled technical workers and a growing population of young people (55 per cent of the population is aged 0-24). In response, Technical and Vocational Education and Training (TVET) will improve and expand its coverage while Flexible Open Distance Education (FODE) will provide an alternative learning mode.
+
+TVET will provide a more seamless system with easier-to-access and understand TVET options and pathways. The aim is to develop and promote a less complex system to allow parents and students to readily understand the certification pathways while seeing the direct links to work skills. The entire system will be underpinned by the National Qualification Framework, with all institutions offering TVET courses becoming registered training organisations. TVET will work to implement its Strategic Management Plan (2011-2020)
+
+For various reasons, children may not be able to attend traditional school. FODE offers the potential for following the same curriculum, the same examinations and the same selection process as for the mainstream high school curriculum. FODE will continue to be improved to give access to learning in a more flexible manner than by traditional methods. Strategies will also focus on youths and adults who have not attained basic literacy, numeracy or life skills. When the need exists, FODE centres will register and enrol students, supply materials and mark assignments.
+
+Output 2.2 Students have access to alternate pathways for employment and life skills development
+
+ALTERNATE PATHWAYS
+
+Strategies Deliverables Responsibility Timeline
+
+33. Develop and promote an understanding of educational pathways, purpose and expectations for children and youth. Ensure parents and students understand TVET pathways and benefits as a pathway to employment
+
+ Simplify TVET institution naming
+
+ Integrate existing organizations into one system, seamless to the community
+
+ Simplify course naming using certificate levels as under the National Qualifications Framework
+
+ Clarity of TVET options and pre-requisite for short and long courses
+
+ A public awareness campaign targeting parents and students
+
+ Promote vocational studies in schools One unified
+
+technical and vocational education system
+
+Public awareness of TVET options o National TVET 2018
+
+34. Develop TVET as a viable pathway from the mainstream education system for any student at Grade 8, 10 and 12 (vocational studies in schools and /or dedicated vocational schools)
+
+#
+
+Simplified pathway courses, based on National Qualification Framework o National TVET 2015-2017
+
+35. Introduce a regulatory framework for TVET by passing a Skills
+
+Training Act TVET Regulatory Framework enacted o National TVET
+
+2015
+
+36. Deliver all TVET under the National Qualifications Framework National o National 2015 - 2019 using Nationally Certified Courses Qualifications
+
+Framework TVET
+
+37. Register institutions which deliver TVET Certificate courses and meet quality and industry standards as 'Registered Training Organisations'  Awareness program for all current and potential institutions to register  Ensure industry-TVET consultation guides course development based on real industry/workforce needs Registered Training Organizations o National TVET By 2017
+
+38. Ensure TVET becomes flexible and open, enabling any person to enter and leave with technical and vocational/job skills Public Awareness program o National TVET Ongoing
+
+39. Ensure that post-secondary TVET provides access to industry and sector-based applied education for adults Strengthen dialogue and links Provincial District 2016 - 2019
+
+40. Support Provinces to plan for increased TVET provision, to meet local need. Consolidate arrangements between current institutions to be able to offer greater services to potential students eg one technical college per province with branches in all districts. Consider alternatives to increase opportunity, including offering TVET in secondary schools. TVET enrolments o National TVET o Provincial o District 2016 - 2019
+
+41. Strengthen links between FODE, traditional schooling and TVET to provide viable options for student movement between systems.  All Vocational schools to offer grade 8 and 9 FODE Links between systems visually represented and advertised o National TVET, GES, FODE o Provincial 2015-2017
+
+42. Raise public awareness of availability of FODE as an option for study outside a conventional school Public Awareness program o National Media & Communications, FODE o Provincial 2015-2016
+
+43. National Literacy Program to operate  Identify needs of non-literate population  Provide programs for over aged students in schools  Carry out advocacy of value of literacy for the population  Coordinate literacy projects to address identified needs National Literacy Program o National Literacy Awareness Secretariat 2015 onwards
+
+FLEXIBLE OPEN and DISTANCE EDUCATION (FODE)
+
+COMMUNITY PROGRAMS
+
+5.
+
+LOCAL MANAGEMENT
+
+Output targets (see section five for details)
+
+By 2019  100% of principals have financial management training  100% schools have governance boards established  100% of schools have School Learning Improvement Plans in place  100% of school boards hold at least 4 meetings each year  95% of schools hold minimum of four P & C meetings per year  100% schools hold parent / teacher meetings  75% of schools increased their National Quality Standards Index
+
+Evidence has shown that where schools and colleges are well led and managed, funding is more effectively focused on areas of need, teachers are better supported and, as a result, student learning is improved.
+
+Successful programs focusing on improving skills and capacity of school management boards, including Governing Councils, will be continued. The introduction of the National Quality School Standards Framework (NQSSF) will provide a means to measure schools against agreed standards and will provide a roadmap to focus on aspects requiring improvement. Financial management training for school leaders and school boards will be provided, to ensure that funds are appropriately acquitted and that the delivery of quality learning is better focused.
+
+This focus includes improving the competence of Principals and Head Teachers so that they become more effective instructional leaders and managers in schools. The introduction of the National School Leadership Competencies Framework (NSLCF) will be an important tool to begin the journey to improve competency by measuring the performance of school leaders and providing analysis of requiring improvement.
+
+School boards will be supported by sub-national support mechanisms, all focused on improving the standards of teaching and learning. The importance of having an engaged school community is highlighted with schools encouraged to have parents and the community involved in their children's education and supporting improvements to the quality of schools.
+
+NEP Output 3.1 School governance boards are in place and functioning
+
+LOCAL MANAGEMENT
+
+Strategies Deliverables Responsibility Timeline
+
+SCHOOL LEADERSHIP
+
+44. Build leadership in schools #
+
+ Principals to improve skills and knowledge through professional learning
+
+ Principals or Head Teachers leading new 2 or 3 in 1 schools must have undertaken Leadership PD #
+
+ Implement National School Leadership Competency Framework (NSLCF) to assess school leadership performance. This should include self-assessment o NSLCF to guide areas of need to improve school leadership competency and capacity o Develop and implement leadership training program for current and possible future leaders to enable recruit of school leaders based on merit o NSLCF to assess school leadership performance
+
+ Future leaders programs, focusing on women in leadership roles
+
+Trained and competent Principals o National GES, Policy & Planning
+
+o National Standards
+
+o Provincial
+
+2015 Pilot 2016 Phase 1 2017 Phase 2 2018 Phase 3 2019 Review
+
+2016-2019
+
+SCHOOL PLANNING AND MANAGEMENT
+
+45. Improve financial management of education institutions Train Head Teachers/Principals and Governing Bodies in administration, finance and leadership
+
+ Quality Education and TFF Policy Training Program Providing head teachers & management board chairs with training on policy on how to manage and acquit TFF funds, Improved TFF
+
+management with funds acquitted
+
+School with transparent o National GES, Policy & Planning, HROD o Provincial
+
+2015-2018
+
+2015-2018
+
+ National Quality Schools Standards Framework to replace the Whole School Quality and Financial Management Assessment Program
+
+o Providing schools with a comprehensive picture on their performance in terms of providing quality education to students and financial management of school income.
+
+ Financial Management and Acquittal Reporting Training Program
+
+o Providing capacity building training to head teachers and board of management treasurers on financial management and acquittal reporting
+
+Standards Division
+
+Standards
+
+GES, Finance Division
+
+o Provincial
+
+2015-2017
+
+46. Develop and implement School Learning Improvement Plans  Support provided to schools where no previous plans have been produced  Review and update current SLIP SLIPS o National Standards Division o School School Board, Community 2015-2019
+
+47. Improve standard of schools operation and management  Implement National Quality School Standards Framework to identify standard of each school and use results to develop strategies to address areas requiring improvement  Schools to adhere to standards, inclusive of recommended teacher:student ratios Schools recorded on National Quality Schools Framework o National Standards Division 2015 Pilot 2016 Phase 1 2017 Phase 2 2018 Phase 3 2019 Review
+
+48. Strengthen and support behaviour management systems in schools  School Boards and communities work with staff to support positive behavior of students, using Behavior Management Policy and Guidelines Behaviour management systems in schools o National Guidance & Counseling o School Principals, School Board, Community Ongoing
+
+COMMUNITY AND PARENTAL SUPPORT
+
+49. Improve community and stakeholder participation #  School Boards and Principals to conduct parent and community consultation and education awareness  Parents for Quality Education Program Training and empowering parents to monitor how school income is used to provide quality education and improve student learning  Community input into planning of 3 in 1 schools # Community consultation meetings Reports to School Boards o National Policy & Planning o School School Board, Community (CEA as partners)
+
+50. School Libraries built and maintained and managed locally  School libraries remain open after school hours for student and community use School libraries o School School Board Ongoing
+
+6.
+
+SYSTEM STRENGTHENING
+
+Output targets (see section five for details) By 2019
+
+ 100 % of operational schools receive TFF  100% of schools submitting school census data  90% of schools inspected at least once annually  100% quarterly operational and financial reports covering all budget activity submitted on time  100% advances and allowances fully acquitted (annually)  Annual report on departmental operations submitted to Department of Finance  NEP evaluation completed by June 2019  All PABER ratings improve one level  60% of provinces submitting EMIS electronically
+
+To achieve the best possible learning for students, all supporting functions and governance at national, provincial and district levels should work together to achieve the common goal of quality learning for all.
+
+There will be significant work streamline and improve administrative systems, with capacity building to give staff the competence to assume tasks effectively, efficiently and accountably while ensuring that maximum funds reach schools to support teaching and learning. Improved systems to store and access quality information will be essential to enhance services.
+
+Improved planning, budgeting and accountability will lay the foundation for securing funding from the government and from development partners and for effective project implementation and monitoring. The department will adhere to Public Financial Management act and implement the new Integrated Financial Management System to improve financial management and accountability.
+
+During the previous NEP, donor agencies provided essential support in capacity building. It is expected that much of this work will continue, to provide much-needed technical support and funding, for capacity development leading to system strengthening. Education Sector Improvement Program will provide oversight and coordination in this area.
+
+The Department of Education will roll-out integrated information and communications technology (ICT) for all sectors of education, to improve services. Provinces and schools will be encouraged to take responsibility for the decentralised ICT programs and facilities.
+
+The Teaching Service Commission will continue to improve its operations. It will establish provincial offices to put services closer to teachers, to deal with professional matters and terms and conditions.
+
+NEP Output 3.2 Education service delivery is improved through effective planning and management
+
+SYSTEM STRENGTHENING
+
+Strategies Deliverables Responsibility Timeline
+
+COMMUNICATION, CONNECTIVITY AND DATA ACCESS
+
+51. Improve access, speed and reliability of information across DoE
+
+ ICT to link DoE to regional, provincial and district education offices and post-primary schools
+
+ Upgrade regional and provincial ICT infrastructure
+
+ Implement a DoE integrated records management system to store and provide ease of access to all DoE information o Improve information management and archiving o Phase out paper records as electronic records management system is introduced
+
+Integrated ICT system across NDoE connected to Provinces
+
+Electronic Records Management System
+
+Connected database for administration (DoE) o National ICT, Policy and Planning, EMIS, Research & Evaluation, Measurement Services, TSC, GES, OLA, All other affected Divisions o National HROD,ICT
+
+Ongoing
+
+2015
+
+2016
+
+2017
+
+Communications
+
+PLANNING AND COORDINATION
+
+53. Planning  Timely consultation with partners to contribute towards relevant planning and policy activities. Use innovative ways to gain partner input  Provide consistent advice and coordination to MoE, based on achieving NEP goals  Provide planning advice based on reliable data with educational, costing and policy implications  Support development of consistent and clear approach to improvement using planning, monitoring and reporting cycle  Annual divisional operational and management plans, aligned to NEP to include risk management plan  Support Subnational planning for NEP goals, especially introduction of Complete Education # National Education Plan Planning and reporting cycle Provincial education plans o National Policy & Planning, Research & Evaluation o National All DoE Divisions Ongoing 2015-2019 2015-2017
+
+54. Policy  Develop a National Education Policy Standards Framework  Identify and audit all NDoE policies  Implement a DoE policy register, with all policies available on an integrated electronic records management system  Set up policy development process and template  Extend the application of PaBER to assess quality and functionality of existing education policies  Conduct institutional policy capacity analysis to identify areas of need  Train NDoE officers in areas identified in policy development National Education Policy Framework Quality assured policies in place and available o National Policy and Planning 2015 Identification/ audit 2016 Develop framework Initial assessment 2015-2016 2015-2016 Policy Process/template
+
+55. Coordination All education strategies to be coordinated to align with NEP direction o Donors assistance and project proposals o NGOs and community-based agencies  Monitoring and reporting of all of above Strategies and activities linked to NEP o National Policy & Planning Research & Evaluation Ongoing
+
+56. Monitor, evaluate, report and ensure accountability
+
+ Develop coordinated monitoring and evaluation framework for DoE
+
+ Develop and use results based monitoring system to track achievement attained in educational goals
+
+ Develop and strengthen results based monitoring and accountability measures for management o Staff performance appraisals and institutional performance reviews
+
+ Enhance collection, analysis and use of National education data by digitize all records o Use technology to increase promptness of collection and analysis
+
+o Develop a NES research register with all research available on DoE integrated electronic records management system o EMIS data collection at provinces, pilot innovative data collection techniques
+
+ Improve access to education (learning) data by implementing integrated system of national learning assessment with results stored electronically, to allow progress monitoring
+
+M and E Framework M and E system
+
+EMIS electronic data collection
+
+Digital Records management system
+
+Electronic learning data o National Research & Evaluation
+
+o National Research & Evaluation, ICT
+
+o National Measurement Services
+
+By 2016
+
+Ongoing
+
+2015-2016
+
+FINANCIAL MANAGEMENT
+
+57. Financial Management Establish government-wide Integrated Financial Management System (IFMS) with reporting requirements and timelines  National, provincial and district agencies work towards aligning budgets to cater for teacher salaries using realistic costing  Improve internal auditing IMSF operating o National Finance , GES, Policy & Planning o National Internal audit
+
+58. Asset Management Manage national department assets  Asset management system in Integrated Financial Management System  Carry out annual stocktaking  Assets usage, storage and disposal complying with GoPNG requirements Asset management module operating Ongoing record of stock o National Procurement 2016 2015
+
+59. Accounts Processing  Compliance with Public Finances (Management) Act for all claims and payments  Training for all requisition and accounts officers Training programs o National Accounts 2015-2019
+
+60. Procurement Create transparent centralised, streamline and simplified procurement Central procurement system o National Procurement 2016
+
+61. Payroll  An improved single payroll system, inclusive of subsidies, with decentralised operational processes, quality assurance at National level  Maintenance of accurate payroll data and streamline procedures  Contribute towards implementation of one connected database to improve efficiency and removal of duplication across other MoE sections  Ensure accuracy of DoE payroll o Remove ghost names Single payroll o National Payroll o Provincial o National TSC, HROD 2017 2016
+
+HUMAN RESOURCES
+
+62. Staffing  Review and update human resource management policy , processes and procedures to align with NEP  Review manpower establishment to match changing organization needs  Coordinate and recruit expatriate teaching staff as needs are identified  Improve all aspects of staffing; teaching and public service o National HROD 2015
+
+63. Teachers employment  Improve teacher registration process and timeliness o Consider creation of single authority to manage all aspects of teacher registration, licensing and admission  Ensure efficiency of teacher appointments  Based on new Education Act, establish TSC offices in all provinces to manage as many functions as possible at provincial level  Investigate teacher incentives to retain teachers o Reward teachers for after-hours teaching o Incentives for rural and remote postings  Consideration of duties of teachers in 3 in 1 schools # Appointed teachers all registered TSC in provinces Teacher incentives o National TSC, Payroll o Provincial 2015-2019 2018 2018
+
+succession planning
+
+o Outsource recruitment
+
+ Raise professional standards and ethics by o Improving staff appraisal system to ensure staff are aware of their roles, responsibilities and accountability o Improving staff discipline and grievance procedures
+
+ Train public servants to provide educational leadership and meet school needs
+
+o Develop professional development plan
+
+ Investigate system of housing for public servants
+
+Staff appraisal system
+
+Staff training Administration
+
+2016
+
+2019
+
+65. School Services  Improve efficiency of establishment and registration of schools  All schools to be registered with one agency (dependent on Education Act Review) All operating schools registered o National GES, Teacher Education 2017
+
+66. Create accessible libraries, records and documents  Encourage schools to access digitised collections for learning o Use Integrated Government Information System (IGIS) to connect to provinces and districts o Computer based records Digital library collections OLA By 2019
+
+SECTION FIVE MONITORING AND EVALUATION
+
+Recognizing the fundamental importance of quality information for decision-making and programme design, the NEP 2015-2019 includes a strong emphasis on monitoring and measuring the performance and achievement of outputs, outcomes and, ultimately, impacts (intended or unintended, positive or negative). The DoE will monitor progress against outputs and outcomes, based on indicators as detailed below and as identified in the NEP logical framework. Indicators will be tracked bi-annually and annually from national and subnational monitoring and data collection systems (e.g. EMIS) where possible, as well as through other data collection means (e.g. surveys, field visits, School Census). Where data is missing or unavailable, baseline surveys will be conducted. The assessment and utility of data and indicators will be assessed regularly to ensure relevance.
+
+Effective monitoring and evaluation activities should be part of the institutional arrangements of the Department of Education multi-stakeholder partnerships for education, to ensure proper budgeting and resourcing, appropriate capacity building and management, including the identification of clear roles and responsibilities for planning and conducting monitoring and evaluation activities.
+
+The main purpose of M&E under this Plan are for the Department to track NEP performance and measure results against the expected targets and outcomes; identify successes and replicate; identify issues, problems and challenges and take corrective measures where appropriate and improve on past performance. Performance results will be used to support Department's senior management to make informed, evidence based decisions. Annual monitoring will report progress towards achieving outputs.
+
+A mid-term review will be conducted in 2017 to assess progress against the plan. An independent evaluation will be undertaken during the first quarter of 2019 to assess results and inform the development of the next NEP (to be concluded by June 2019). To ensure its credibility, the evaluation process should be independent and impartial, to ensure objectivity, in particular in judging the achievements and the contribution of interventions to the achievement of the Plan.
+
+The monitoring and evaluation system will be developed around the six focus areas of the logical framework. Analysis of data from the outputs will inform the Department on the effective delivery NEP outcomes. The data analysis and reporting process will also assist the Department of Education to determine where research and evaluation studies may be required. Annually, the DOE will provide feedback on the performance of NEP to relevant divisions to be included in their divisional plans.
+
+Designing, building and operating a reporting system that can produce trust-worthy, timely and relevant information for education performance requires capacity. At a minimum this includes the ability to construct indicators, the means to collect, aggregate, analyse and report on performance data in relation to indicators and baselines; and the skills and understanding to effectively use information. A monitoring and evaluation readiness assessment will be conducted prior to the implementation of the Plan to identify what capacity and infrastructure is available, and what new capacity and infrastructure is required.
+
+OUTPUTS
+
+Figure 12: National Education Plan Outputs in the logic framework
+
+The following section outline how the expected outputs will be monitored, with baseline data and targets detailed. All data is 2014 unless otherwise stated. The figure above demonstrates the contribution to outputs of strategies listed under the six focus areas.
+
+ACCESS AND EQUITY
+
+Output 1.1 Increased school infrastructure in place to operate safe and inclusive learning Risk Budgets are insufficient or are disbursed late, thus delaying the construction of schools and infrastructure needed to improve physical access to education. Assumptions 1. Sufficient budget is in place, and disbursed, to enable timely construction of schools and related infrastructure 2. There is political support to advance ECCE 3. Access barriers (physical, income, gender) are adequately addressed.
+
+Indicator Baseline Target (2019) Means of Verification
+
+1 Number of schools operational Elementary 7,298 Primary 3,543 Secondary 219 Vocational 114 Total 11,174 82% of registered schools Elementary 8,900 Primary 4,500 Secondary 355 Vocational: 191 Total: 13,946 (25% increase) EMIS
+
+2 Number and percentage of classrooms by sector and type Permanent Elementary 6,116 Primary 16,784 Secondary 2,441 Vocational 432 Semi- Permanent Elementary 474 Primary 3,790 Secondary 102 Vocational 75 Bush materials Elementary 6,353 Primary 2,639 Secondary 41 Vocational 15 TOTAL PreSchool 4,800 Permanent Elementary 9,043 Primary 23,719 Secondary 4,412 Vocational 827 TOTAL (% increase since 2012) Elementary 21,277 24% Primary 30,900 33% Secondary 4,850 EMIS
+
+OUTPUTS 1.1 Increased school infrastructure in place to operate safe and inclusive learning
+
+1.2 An increased number of teachers are recruited and trained that meet qualification standards 1.3 Teachers have access to, and are implementing, improved curricula and teaching materials
+
+OUTCOME 1 All children and youth in PNG will have access to complete and quality education
+
+ACCESS AND EQUITY
+
+Output 1.1 Increased school infrastructure in place to operate safe and inclusive learning Risk Budgets are insufficient or are disbursed late, thus delaying the construction of schools and infrastructure needed to improve physical access to education. Assumptions 1. Sufficient budget is in place, and disbursed, to enable timely construction of schools and related infrastructure 2. There is political support to advance ECCE 3. Access barriers (physical, income, gender) are adequately addressed.
+
+Indicator Baseline Target (2019) Means of Verification
+
+Elementary 17,216 Primary 23,213 Secondary 2,584 Vocational 522 43,535 (2012 data) 88% Vocational 988 (89%) TOTAL 62,855 (Inc Pre School 44% increase )
+
+3 Number and percentage of schools with libraries Elementary 364 Primary 1,132 Secondary 165 Vocational 15 Total 1,676 (15%) (2012 data) Elementary 370 Primary 1,900 (80% of Level 4-8) Secondary 220 (100%) Vocational 18 Total 2,528 (18%) RapidPro survey (UNICEF )
+
+4 Number and percentage of schools with functional* toilets ** Indicator and data to change in 2015 to fit global standards. Indicator to include: % of functional toilets in schools. (Measured by functional toilets divided by toilet number of toilets, including broken and defunct toilets.) Elementary 11,622 Primary 14,861 Secondary 2,031 Vocational 461 2012 data ( standard toilets as no record of functional) 50% of students access functional toilets by 2017 and 70% by 2019 EMIS School Census to be modified.
+
+5 Toilet / pupil ratio (disaggregated by gender) Ratio 1:32 (2012 data) 1:25 girls 1.40 Fully functional* EMIS
+
+6 Percentage of schools with functional water facilities Baseline to be established in 2015 50% of students access water facilities by 2017 and 70% by 2019 EMIS
+
+7 Percentage of schools that have hand washing facilities with running water & soap Baseline to be established in 2015 50% of educational institutions with hand washing facilities, running water and soap by 2017 70% by 2019 RapidPro
+
+8 Early Childhood Care and Education policy in place No Yes NEC
+
+9 Gross intake ratio by sector (GIR) Total number of new entrants in the first grade sector, regardless of age, expressed as a percentage of the population at official entrance age Elementary 143% Primary 98% Secondary 34% (2013) Elementary 100% Primary 100% Secondary 60% EMIS (2014 baseline to be provided in 2015)
+
+10 Percentage of ECCE enrolment Baseline to be established in 2015 World Bank data
+
+11 Special needs students in mainstream Numbers and percentage not enrolled with SREC Elementary 9,441 Male 40% Female 32% Primary 9,712 Male 43% Female 36% Secondary 1,228 Male 32 % Female 31% Vocational 552 Male 2% Female 37% Percentage reduced to less than 10% EMIS
+
+ACCESS AND EQUITY
+
+Output 1.1 Increased school infrastructure in place to operate safe and inclusive learning Risk Budgets are insufficient or are disbursed late, thus delaying the construction of schools and infrastructure needed to improve physical access to education. Assumptions 1. Sufficient budget is in place, and disbursed, to enable timely construction of schools and related infrastructure 2. There is political support to advance ECCE 3. Access barriers (physical, income, gender) are adequately addressed.
+
+Indicator Baseline Target (2019) Means of Verification
+
+12 Difference in Prep to Grade 8 NER between highest and the lowest provinces 58% (UBE data) (2013) 10% (UBE target) EMIS
+
+13 Difference in Prep to Grade 8 NER between highest and the lowest districts 57% (2013) 25% EMIS
+
+TEACHERS AND TEACHING
+
+Output 1.2 An increased number of teachers are recruited and trained that meet qualification standards
+
+Risks: 1. There is not enough interest by the general population to become teachers 2. Bureaucratic processes prevent the timely recruitment of qualified teachers 3. Facilities and instructors are not in place to be able train a sufficient number of new teachers. Assumptions: 1. Policy frameworks and incentive structures are in pace that make teaching a viable career option 2. Sufficient budget is in place, and disbursed, to enable the timely hiring of qualified teachers.
+
+Indicator
+
+Baseline
+
+Target (2019)
+
+Means of
+
+Verification
+
+14 Number and percentage of teachers with teaching qualification (by grade, sector)
+
+Elementary Certificate 19,386 (99.6%) Diploma 78 (0.40%) Degree 9 (0.05%) Total 19,473
+
+Primary Certificate 6,084 (23.4%) Diploma 19631 (75.4%) Degree 313 (1.2%) Master NA (0%) TOTAL 26,029
+
+Secondary Certificate 502 (9.9%) Diploma 1,757 (34.7%) Degree 2,798 (55.2%) Master 10 (0.20%) TOTAL 5,067
+
+Vocational Certificate 253 (21.3%) Degree 70 (5.9%) Diploma 864 (72.7%) Master 1 (0.10%) TOTAL 1,189 (2013 data) Pre school
+
+Certificate 4,800 Elementary Certificate 23,697 TOTAL 23,784
+
+Primary Diploma 28,750 TOTAL 34,972
+
+Secondary Degree 5,730 TOTAL 8,000
+
+Vocational Diploma 1,800 TOTAL 2,110
+
+EMIS
+
+15 Number and percentage of teachers accessing in-service training 100% by 2019 TED
+
+OUTPUTS 1.1 Increased school infrastructure in place to operate safe and inclusive learning
+
+1.2 An increased number of teachers are recruited and trained that meet qualification standards 1.3 Teachers have access to, and are implementing, improved curricula and teaching materials
+
+OUTCOME 1. All children and youth in PNG will have access to a complete and quality education
+
+TEACHERS AND TEACHING
+
+Output 1.2 An increased number of teachers are recruited and trained that meet qualification standards
+
+Risks: 1. There is not enough interest by the general population to become teachers 2. Bureaucratic processes prevent the timely recruitment of qualified teachers 3. Facilities and instructors are not in place to be able train a sufficient number of new teachers. Assumptions: 1. Policy frameworks and incentive structures are in pace that make teaching a viable career option 2. Sufficient budget is in place, and disbursed, to enable the timely hiring of qualified teachers.
+
+Indicator
+
+Baseline
+
+Target (2019)
+
+Means of
+
+Verification
+
+opportunities
+
+16 Number and percentage of teachers meeting minimum teacher standards (by level)
+
+Teacher Quality Standards Framework to establish baseline
+
+Increase of 25% By the end of 2015
+
+ Standards in Professional (pre service )
+
+ Teacher Quality Standards Framework
+
+17 Teachers with teacher housing provided 66% (2012) 75% Standards officer reports
+
+18 Number of teachers employed
+
+Elementary 19,473 Primary 25,337 Secondary 5,067 Vocation 1,189 TOTAL 51,066 Numbers and percent increase
+
+Pre School 4,800 Elementary 23,784 22% Primary 34,972 38% Secondary 8,000 58% Vocational 2,110 77% TOTAL 73,665 44% increase
+
+EMIS
+
+TEACHERS AND TEACHING
+
+Output 1.3: Teachers have access to, and are implementing, improved curricula and teaching materials Risks 1. There is insufficient budget to produce and distribute necessary learning materials to schools and teachers 2. Teachers are not aware of the shift to SBC and therefore do not use appropriate curricula Assumption Budget is in place to support the development and distribution of quality learning materials
+
+Indicator Baseline Target (2019) Means of Verification
+
+19 Number & percentage of teachers reporting use of approved curricula (SBC) 0% 100% Standards
+
+20 Number & percentage of schools adequately resourced with school materials (SBC) 0% 100% Standards
+
+21 Number & percentage of teachers reporting satisfactory access to learning materials (SBC) 0% 100% Standards
+
+OUTPUTS 1.1 Increased school infrastructure in place to operate safe and inclusive learning
+
+1.2 An increased number of teachers are recruited and trained that meet qualification standards
+
+1.3 Teachers have access to, and are implementing, improved curricula and teaching materials
+
+OUTCOME 1. All children and youth in PNG will have access to a complete and quality education
+
+LEARNING
+
+Output 2.1 All schools have access to, and are using latest and approved (Standard Based) Curriculum Risk Poor understanding by administrators of the shift to SBC may hinder the mainstreaming of SBC Assumption Administrators are aware of the shift to SBC and are empowered to mainstream SBC
+
+Indicator Baseline Target (2019) Means of Verification
+
+22 Percent of schools using SBC -National Curriculum Statement 0% 50% by 2016 and 100% by 2019 Standards
+
+23 Percent of Pre-service Colleges using SBC-National Curriculum Statement 0% 50% by 2016 and 100% by 2019 Standards
+
+24 Percent of schools using SBC - Syllabuses & Teacher Guides (by level) 0% 50% by 2017 and 100% by 2019 (by level) Standards
+
+25 Percent of Pre-service Colleges using SBC-Syllabuses and Teachers Guides 0% 50% by 2017 and 100% by 2019 (by level) Standards
+
+26 Percent of all schools using SBC - supplementary materials 0% 50% by 2017 and 100% by 2019 (by level) Standards
+
+27 Percent of Pre-service Colleges using SBC-supplementary materials 0% 50% 2017 and 100% by 2019 (by level) Standards
+
+28 Percent of schools using SBC materials 0% 50% by 2017 and 100% by 2019 (by level) Standards
+
+29 Pupil Text Book Ratio 0 New SBC materials 1:1 (UBE) Standards
+
+ALTERNATE PATHWAYS
+
+Output2.2 Students have access to alternate pathways for employment and life skill development Risks 1. Budgets are insufficient, or are disbursed late, thus delaying the construction of Vocational Centers, NTFOLs and other relevant institutions
+
+2. There is political support to advance alternative pathways for life skill development 3. Access barriers (physical, income, gender) are adequately addressed Assumption Relevant quality facilities are in place, staffed and functioning
+
+Indicator  Baseline  Target (2019) Means of Verification
+
+30 Number /Percent of students enrolled in vocational programmes (by gender)
+
+Male, 28,999 (70%) Female 12,332 (30%) TOTAL 41,331 Male 60% Female 40% TOTAL 52,750
+
+EMIS
+
+31 Number /Percent of students enrolled in FODE
+
+Male 5,403 (45.4%) Female 6,490 (54.6%) TOTAL 11,893
+
+TOTAL 16,826 FODE
+
+32 Number of Vocational 119 Vocational Centres (17 Districts without centres) 1 Vocational Centre per district 1 Technical or Business College
+
+EMIS OUTPUTS 2.1 All schools have access to, and are using latest and approved (Standard Based) Curriculum 2.2 Students have access to alternate pathways for employment and life skills development
+
+OUTCOME 2. All students will achieve learning standards and retention benchmarks
+
+OUTPUTS 2.1 All schools have access to, and are using latest and approved (Standard Based) Curriculum
+
+2.2 Students have access to alternate pathways for employment and life skills development
+
+OUTCOME 2 All students will achieve learning standards and retention benchmarks
+
+Polytechnic institutions, NTFOL institutions and TFOL centres operational 1 Technical High School 4 Community Colleges 8 Technical and Business Colleges 1 Polytechnic per Province (22) 1 Polytechnic per Region (4)
+
+LOCAL MANAGEMENT
+
+Output 3.1 Local governance boards are in place and functioning Risk Low interest and/pr involvement leads to poor school governance, limiting overall quality and effectiveness. Assumption Teachers, principals and community members are interested and committed to supporting and improving school management.
+
+Indicator Baseline Target (2019) Means of Verification
+
+33 Percent of principals with financial management training 5% 100%  Program reports;  Standards officer reports (provincial)
+
+34 Number /Percent of school governance boards established Baseline to be provided during 2015 100% Whole School Quality & Financial Assessment Or National Quality Standards Index (Implementation 2015)
+
+35 Number /Percent of school governance board meetings held Baseline to be provided during 2015 100% Whole School Quality and Financial Assessment Or National Quality Standards Index
+
+36 Percent schools with SLIPs plans 85% (2013 SLIPP Impact Study) 100% Whole School Quality and Financial Assessment Or National Quality Standards Index
+
+37 Percent of P & C meetings held Baseline to be provided during 2015 95% hold 4 meetings annually Whole School Quality and Financial Assessment Or National Quality Standards Index
+
+38 Percent of parent / teacher meetings held (by school) 100% by 2019 Whole School Quality and Financial Assessment Or National Quality Standards Index
+
+39 National Quality Standards Index A baseline standard established for schools in 2015 Index increased 20% by 2019 National Quality Standards Index (Implementation 2015)
+
+OUTPUTS 3.1 Local governance boards are in place and functioning  3.2 Education service delivery is improved through effective planning and management
+
+OUTCOME 3 Education systems are operate in a timely, proactive and coordinated manner
+
+OUTPUTS 3.1 Local governance boards are in place and functioning 3.2 Education service delivery is improved through effective planning and management
+
+SYSTEM STRENGTHENING
+
+Output 3.2 Education service delivery is improved through effective planning and management Risk Poor data and accounting systems limit the ability to report accurate data leading to skewed reporting Assumption There is a common understanding of the importance of public financial management and reporting, and a willingness to monitor and report data
+
+Indicator Baseline Target Means of Verification
+
+40 Number /Percent of operational schools that receive TFF 10,109 93% of schools that are operational 100% Standards officer reports
+
+41 Percent of schools submitting school census data 88% 100% EMIS
+
+42 National school leadership competency framework in place No Fully in place by 2018 Standards
+
+43 Percent of schools inspected at least once (annually) by level Primary & Elementary 50% Secondary 100% 90% Standards officer reports DPLGA
+
+44 Percentage quarterly operation and financial reports submitted on time and reporting on all budget activity 100% Department reports
+
+45 Percent of the national education system total appropriations allocated to personal emoluments 43% (2015) 40% Finance division
+
+46 Percent of the Teachers salaries' appropriation expended (through provincial budgets) 135% (2013) 100% Finance division
+
+47 Percentage of advances and allowances fully acquitted Total acquitted 71% 100% acquitted annually Accounts Department
+
+48 Annual Financial Report on departmental operations submitted to Dept of Finance annually 2012 and 2013 Submitted in 2014 Annually, in first 6 months of year Accounts Department
+
+49 Quality assessment of Education Policies (PaBER)  Curriculum and Materials  Teacher Quality  School governance and management  Student assessment  EMIS Quality level rated as  'Emerging'  'Emerging'  'Emerging'  'Emerging'  EMIS Result during 2015 By 2019 all areas achieve a rating of Established EMIS: A one level improvement from baseline Research and Evaluation (PaBER National Coordinator ) World Bank assessment tool
+
+OUTCOME 3 Education systems are operate in a timely, proactive and coordinated manner
+
+50 NEP Review and Evaluation No baseline Mid term review by end 2017 Final evaluation completed by June 2019 Policy and Planning
+
+51 Number and percentage of provinces submitting EMIS data electronically 0% 60% ICT
+
+OUTCOMES
+
+The following section outline how the expected outcomes will be monitored, with baseline data and targets detailed. All data is 2014 unless otherwise stated. The figure below demonstrates the contribution of outputs to outcomes.
+
+Figure 13: National Education Plans Outcomes in the logic framework
+
+Outcome 1 All children and youth in PNG have access to a complete and quality education
+
+Risk There is inadequate political support and financial resources to develop the infrastructure and human resource base needed to meet demand
+
+Assumption Adequate infrastructure and teachers are in place to ensure access
+
+Indicator Baseline Target (By 2019) Means of
+
+Verification
+
+1.1. Transition rate by Elem to Prima
+
+1.2. Gender parity index by Elementary &
+
+level Secondary
+
+level/gender
+
+ry 80% male 82.3% female 77.3% Grade 8 to 9 56% male 61.1% female 50.3% Grade 10 to 11 45.5% male 46.8% female 43.5% Elem to Primary 85%
+
+Grade 8 to 9 65%
+
+Grade 10 to 11 55%
+
+EMIS
+
+Primary 0.92
+
+0.71 (2013)
+
+Elem 1 .00 Primary 0.95  Sec 0.95  EMIS (2014 data to be included in 2015)
+
+1.3. Pupil-teacher ratio by level Elementary 1:44 Primary 1:36
+
+Secondary 1:31 Vocational 1:35 Elementary 1:35 Primary 1:35 Secondary less than 1:35 Vocational 1:31
+
+EMIS OUTPUTS 1.1 Increased school infrastructure in place to operate safe and inclusive learning
+
+1.2 An increased number of teachers are recruited and trained that meet qualification standards 1.3 Teachers have access to, and are implementing, improved curricula and teaching materials
+
+OUTCOME 1
+
+All children and youth in PNG will
+
+have access to a complete and
+
+quality education
+
+Outcome 1 All children and youth in PNG have access to a complete and quality education
+
+1.4. Gross enrolment ratio (GER)
+
+Total enrolment in a specific level of education, regardless of age, expressed as a percentage of the eligible official school-age population corresponding to the same level of education in a given school year
+
+Elementary Male 131.03% Female 127.28% TOTAL 129.23% Primary
+
+Male 85.79% Female 74.81% TOTAL 80.52% Secondary
+
+Male 26.12% Female 18.56% TOTAL 22.50%  2013 Data Elementary 120%
+
+Primary 95%
+
+Secondary 34%
+
+EMIS
+
+1.5. Net Enrolment Ratio (NER) Enrolment of the official age group for a given level of education expressed as a percentage of the corresponding population
+
+Elementary Male 62.98% Female 61.25% TOTAL 62.15% Primary
+
+Male 50.08% Female 43.67% TOTAL 47.01%
+
+Secondary Male 8.54% Female 6.12% TOTAL 7.38% 2013 Data Elementary 79.3%
+
+Primary 65.9%
+
+Secondary 10%
+
+EMIS
+
+1.6. Completion rate by level
+
+(This takes no account of repeaters and uses enrolment data not graduates) Elementary 128% Primary 77% Secondary
+
+Grade 10 36% Grade 12 11% Elementary 128 % Primary 80% Secondary
+
+Grade 10 44% Grade 12 16%
+
+EMIS
+
+1.7. Gross enrolment ratio for
+
+ECCE Baseline to be established in 2015
+
+15% increase ECCE facility survey conducted in 2015.
+
+1.8. Public expenditure on education as % of GDP / total government expenditure 4.9%
+
+2015 Data 6.0% National budget report
+
+1.9. Number of out of school children
+
+Baseline will be established in 2015
+
+50% of OOSC will receive education
+
+OOSCI baseline survey to be undertaken in 2015
+
+1.10. Number and percentage of teachers meeting national performance standards Baseline will be established in 2015.
+
+25% increase National Quality framework
+
+Outcome 2 All students achieve learning standards and retention benchmarks
+
+Risks 1. Inadequate resources and low political will delay the implementation of SBC Assumptions 1. Schools and learning institutions implement SBC as per national policy 2. Qualified teachers are in place and are able to provide quality education that meet national standards 3. Students have access to, and utilize, alternate pathways for employment and life skills development
+
+Indicator Baseline Target (2019) Means of
+
+Verification
+
+2.1 Percentage of students reaching satisfactory regional literacy and numeracy benchmarks  36% Numeracy
+
+ 51% Reading
+
+ 8% writing (2012 assessment data) Numeracy 55% Reading 65% Writing 25%
+
+PILNA conducted 2012, 2015 and 2018 OUTPUTS 2.1 All schools have access to, and are using latest and approved (Standard Based) Curriculum 2.2 Students have access to alternate pathways for employment and life skills development
+
+OUTCOME 2
+
+All students will achieve learning
+
+standards and retention
+
+benchmarks
+
+Outcome 2 All students achieve learning standards and retention benchmarks
+
+Risks 1. Inadequate resources and low political will delay the implementation of SBC Assumptions 1. Schools and learning institutions implement SBC as per national policy 2. Qualified teachers are in place and are able to provide quality education that meet national standards 3. Students have access to, and utilize, alternate pathways for employment and life skills development
+
+2.2 Percentage of students attaining national standards in literacy and numeracy assessment
+
+Proposed that baseline will be established in 2016
+
+An improvement of 20% from baseline by 2019 New literacy and numeracy assessment survey being developed 2015
+
+2.3 Survival Rate by level and gender
+
+Percentage of a cohort of pupils (or students) enrolled in the first grade of a given level or cycle of education in a given school year who are expected to reach successive grades
+
+Elementary Prep to Elem 2 Male 85% Female 82%
+
+TOTAL 83% Primary Grade 3 to 8 Male 75% Female 68% TOTAL 72% Secondary Grade 9 to 12 Male 42% Female 40% TOTAL 41% Elementary 85%
+
+Primary 76%
+
+Secondary 46%
+
+EMIS
+
+2.4 Graduates by level
+
+Grade 10 53,414 Grade 12 19,871 Grade 10 70,000 Grade 12 28,000
+
+MSD, USB
+
+OUTPUTS 3.1 Local governance boards are in place and functioning 3.2 Education service delivery is improved through effective planning and management
+
+Outcome 3 Education systems operate in a timely, proactive and coordinated manner
+
+Risks 1.Poorly functioning systems slow the delivery of funds to schools, and timely payment of staff, leading to ineffective service delivery.
+
+Assumptions 1. Governance systems (payroll, school budgets, quality assurance mechanisms, etc.) are in place and functioning to support the successful management of the education system.
+
+Indicator Baseline Target (2019) Means of Verification
+
+3.1 Teacher Resumption. Number of teachers and school officials put back on payroll by end of April annually compared with March payroll
+
+9,685 off pay in April 2015 81.04% returned to payroll
+
+TBC Alesco
+
+3.2 Vacancies in teaching positions
+
+Baseline to be provided during 2015
+
+TBC Alesco , GES
+
+3.3 % of schools expending TFF on approved items
+
+Baseline to be provided during 2015 90% of schools spend TFF on approved items
+
+Whole School Quality and Financial Assessment Or National Quality Standards Index
+
+SLIP , Standards Officers
+
+3.4 Schools using accounting system or combined cash book or
+
+31% no cash book 100% schools use an accounting system or cash book
+
+National Quality Standards Index
+
+3.5 Percent of schools submitting acquittals Baseline to be provided during 2015
+
+TBC Standards Officers
+
+3.6 Percent of education system budgets expended annually Baseline to be provided during 2015 100%
+
+AOFP
+
+3.7 Annual Report tabled in Parliament on time with 100% coverage of budget activity
+
+Baseline to be provided during 2015 100%
+
+Parliamentary reports
+
+OUTCOME 3
+
+Education systems are operate in a
+
+timely, proactive and coordinated
+
+manner
+
+Definitions
+
+Toilets Functional Toilet facilities are not physically broken and can be used. Partially functional Toilets can be used, but there are at least some problems with the physical infrastructure and some repair is necessary eg some deterioration in concrete, doors/locks coming loose, roof deteriorating etc
+
+Non-Functional The toilets exist, but are so badly damaged or deteriorated it is no longer reasonably possible to use them eg squatting plate broken, door missing, roof has holes etc
+
+SECTION SIX PROJECTIONS AND COSTING
+
+The following data has been provided by the Statistics Branch of NDoE, based on verified 2014 statistics.
+
+Enrolments projections 2015 to 2019
+
+Figure 15: Projected Student Enrolments
+
+2015 2016 2017 2018 2019
+
+Pre School No pre school 64,155 132,357 204,798
+
+Prep  331,186 329,110 327,033 324,956 322,879
+
+E1 and G1 328,038 322,512 318,819 315,126 311,433
+
+E2 and G2  252,454 301,403 296,354 292,993 289,631
+
+Elementary Total 911,679 953,025 942,206 933,075 923,943
+
+G3  196,384 204,487 247,151 245,974 249,044
+
+G4 183,324 185,740 194,263 234,793 233,675
+
+G5  167,645 173,387 176,453 184,550 223,054
+
+G6 150,020 158,559 164,718 167,630 175,322
+
+G7  134,783 141,888 150,631 156,482 159,248
+
+G8 115,485 127,477 134,794 143,099 148,658
+
+Primary Total 947,641 991,539 1,068,009 1,132,529 1,189,002
+
+G9 62,506 66,750 75,976 82,763 93,015
+
+G10  58,835 59,381 63,413 72,178 78,625
+
+G11 23,732 28,123 29,453 32,594 39,698
+
+G12  22,545 22,545 26,717 27,980 30,964
+
+Secondary Total 167,619 176,800 195,559 215,516 242,302
+
+Vocational  43,398 45,567 47,846 50,238 52,750
+
+FODE 13,104 14,035 14,965 15,896 16,826
+
+Total 2,083,440 2,180,965 2,332,740 2,479,610 2,629,621
+
+Financial projections for 2015 to 2019
+
+Following is a breakdown of the projected Costs and revenues in the period by Medium Term Expenditure Framework category and sector. These figures are indicative costings that emanate from the projection of Department of Education enrolments combined with targets, using a costing projection model. The Medium Term Expenditure Framework was developed by the National Department of Education to allow officials to project budgetary needs in two ways: by school level and expenditure categories.
+
+TFF is the biggest component of the institutional funding MTEF category. Projections of donor input by category and sector is included. The probable shortfalls in the budget are included as Gaps for funding.
+
+Estimated Expenditure 2015 2016 2017 2018 2019
+
+(Kina '000s)
+
+Elementary
+
+Teacher Education 54,998 25,199 18,790 16,418 14,983
+
+Education Materials 26,963 0 0 11,130 11,613
+
+Institutional Infrastructure 34,032 47,133 39,526 41,707 34,437
+
+Education Standards 35,383 38,576 39,763 41,060 42,415
+
+Institutional Funding 114,416 126,294 131,535 137,239 143,186
+
+Management and Administration 47,062 51,907 54,024 56,311 58,685
+
+Personal emoluments 466,221 532,162 575,228 609,200 644,519
+
+Totals 779,076 821,271 858,865 913,065 949,837
+
+Primary
+
+Teacher Education 89,041 142,084 128,959 162,767 171,260
+
+Education Materials 23,894 233,630 66,593 72,272 157,964
+
+Institutional Infrastructure 460,970 468,382 478,949 498,049 529,056
+
+Education Standards 50,346 55,181 61,347 67,501 73,408
+
+Institutional Funding 324,761 355,003 399,280 442,542 485,912
+
+Management and Administration 66,191 71,671 79,909 87,496 95,192
+
+Personal emoluments 895,317 1,026,399 1,149,745 1,267,466 1,381,075
+
+Totals 1,910,521 2,352,350 2,364,783 2,598,092 2,893,865
+
+Secondary
+
+Teacher Education 1,003 1,109 15,497 1,492 1,758
+
+Education Materials 22,817 23,903 96,541 26,076 27,163
+
+Institutional Infrastructure 306,425 333,407 451,284 457,324 374,313
+
+Education Standards 12,368 13,327 15,430 17,940 20,854
+
+Institutional Funding 254,892 282,893 328,597 379,765 449,267
+
+Management and Administration 30,792 33,909 37,713 41,774 46,574
+
+Personal emoluments 215,528 244,747 282,258 324,116 378,134
+
+Totals 843,824 933,295 1,227,320 1,248,487 1,298,063
+
+Vocational
+
+Teacher Education 2,433 1,091 1,164 1,242 1,326
+
+Education Materials 4,557 5,012 5,502 6,029 6,594
+
+Institutional Infrastructure 73,938 79,147 84,771 90,848 97,417
+
+Education Standards 1,146 1,263 1,393 1,535 1,693
+
+Institutional Funding 86,557 95,429 105,210 115,994 127,884
+
+Management and Administration 2,324 2,560 2,819 3,104 3,418
+
+Personal emoluments 67,469 76,392 83,640 91,421 99,771
+
+Totals 238,422 260,894 284,499 310,173 338,102
+
+Technical (post grade 12)
+
+Estimated Expenditure (Kina '000s)  2015 2016 2017 2018 2019
+
+Teacher Education 259 259 259 259 259 Education Materials 7,509 442 477 515 556 Institutional Infrastructure 5,217 13,810 14,461 15,180 15,975 Education Standards
+
+Institutional Funding 3,446 3,722 4,220 4,786 5,427 Management and Administration 5,420 5,962 6,233 6,504 6,776 Personal emoluments 17,233 18,485 18,706 19,443 20,179 Totals 39,085 42,680 44,357 46,687 49,172 Teacher Colleges
+
+Teacher Education Education Materials Institutional Infrastructure Education Standards Institutional Funding Management and Administration 80,374 85,463 81,764 86,008 90,523 Personal emoluments 45,522 48,757 52,062 55,443 59,044 Totals 125,896 134,220 133,826 141,451 149,567 Other (Management & administration)
+
+Teacher Education 147,733 172,282 167,504 185,339 189,882 Education Materials 85,739 262,987 171,038 119,992 210,033 Institutional Infrastructure 885,025 1,013,059 1,144,314 1,153,323 1,055,676 Education Standards 99,243 108,347 121,141 134,654 148,609 Institutional Funding 790,914 870,513 987,623 1,112,487 1,256,987 Management and Administration 235,495 254,970 270,122 293,673 319,065 Personal emoluments 1,724,945 1,976,078 2,242,694 2,487,092 2,710,144 Totals 3,969,094 4,658,237 5,104,436 5,486,560 5,890,396  Totals by category
+
+Teacher Education 147,733 172,282 167,504 185,339 189,882 Education Materials 85,739 262,987 171,038 119,992 210,033 Institutional Infrastructure 885,025 1,013,059 1,144,314 1,153,323 1,055,676 Education Standards 99,243 108,347 121,141 134,654 148,609 Institutional Funding 790,914 870,513 987,623 1,112,487 1,256,987 Management and Administration 235,495 254,970 270,122 293,673 319,065 Personal emoluments 1,724,945 1,976,078 2,242,694 2,487,092 2,710,144 Totals 3,969,094 4,658,237 5,104,436 5,486,560 5,890,396  Totals by sector
+
+Pre School 0 56,998 133,171 197,151 179,987 Elementary 779,076 821,271 858,865 913,065 949,837 Primary 1,910,521 2,352,350 2,364,783 2,598,092 2,893,865 Secondary 843,824 933,295 1,227,320 1,248,487 1,298,063 Vocational 238,422 260,894 284,499 310,173 338,102 Technical (post grade 12) 39,085 42,680 44,357 46,687 49,172 Teacher Colleges 32,272 56,530 57,615 31,453 31,802 Other (Management & Administration) 125,896 134,220 133,826 141,451 149,567  Totals 3,969,094 4,658,237 5,104,436 5,486,560 5,890,396
+
+Estimated Revenue 2015 2016 2017 2018 2019
+
+GoPNG - National Government 2,841,327 3,203,903 3,564,576 3,929,762 4,332,771
+
+GoPNG - Provinces - EFGs and internal revenues 133,000 118,800 126,200 134,700 143,800
+
+GoPNG - DSIP / DSG 294,700 294,700 294,700 294,700 294,700
+
+Parents - project fees 0 315,929 352,303 389,643 430,595
+
+Donor Partners 255,930 253,725 253,725 253,725 253,725
+
+Estimate revenues from other stakeholders 101,347 111,372 124,846 138,775 153,603
+
+Total 3,626,304 4,298,429 4,716,351 5,141,305 5,609,194
+
+Gap 342,790 359,808 388,085 345,255 281,202
+
+Total GoPNG as % GDP 6.4% 6.5% 6.8% 7.0% 7.2%
+
+SECTION SEVEN ANNEXES
+
+ANNEX A
+
+Complete Education (14 years of education)
+
+A comprehensive overhaul to many aspects of the education system is proposed to provide all children the ability to enter school at the age of five and receive a relevant education for fourteen years, until they are reach grade 12 (18 years of age). Education will not be compulsory, rather, system barriers restricting students from remaining in education will be removed, enabling access by choice. Considerable consultation and planning within the DoE and with partners and stakeholders is required to ensure all components are viable and planned implementation occurs.
+
+There are a number of interrelated components to complete education, with strategies found in different focus areas of this plan. They are summarized below.
+
+Access and Equity I. The proposed 2-6-6 structure is one component of providing access to 14 years of schooling. Under this proposal current structure of elementary, primary and secondary school would be changed to better match recognised phases of learning and accommodate an extra year of school (Early Childhood Education) at entry level to ensure all students acquire important foundation skills from the age of five in readiness for further learning from the age of seven (Grade 1).
+
+II. A significant increase in student's places in schools is required. To achieve this a more innovative approach to planning should include consideration of combination schools. These may include o 3 in 1 schools, catering for elementary, primary and secondary students all on the one campus o 2 in 1 schools, catering for elementary and primary or Primary and secondary students o Junior high schools
+
+o Or any combination to suit the needs and the local context.
+
+Teachers and Teaching III. Increased numbers of teachers required Elementary and Secondary teachers to cater for the additional pre school year and increased enrolments once grade 8 and 10 exams are removed .
+
+IV. Teachers to be more flexible o Secondary teachers to teach multiple subjects in smaller secondary schools o Primary teachers to teach multi grade classes if required o Elementary teachers to cater for foundations skills, school readiness o Double shift teaching if demand requires. Teachers to receive o Supplementary classes if demand requires
+
+Learning V. Grade 8 and 10 exams would be removed, replacing these with a system of recognizing the level of schooling attained. Significant work will result in a more suitable system of assessment provides students and teachers with a better way to understand and use the achievement results. It will also create an improved measure of tracking system wide progress and achievement.
+
+VI. Teachers provided with a more informative (standards based) assessment report to improve teaching and learning process
+
+Alternate Pathways VII. Access to TVET or FODE to complete 14 years of education if this option is most suitable
+
+System Strengthening VIII. More innovative planning to cater for increasing student number o Support for subnational planning
+
+IX. Improved data available for TFF and planning X. Improved teacher employment
+
+XI. Improved monitoring of process
+
+Education System Restructure
+
+Under a proposed school system restructuring to improve the quality of education and access, students would receive 14
+
+years of schooling; two years in Elementary, six in primary education and six in high school. A child would begin education
+
+at the age of five, rather than the current age six, and be expected to complete secondary schooling at the age of 18. The
+
+first two years would develop the foundations literacy and numeracy skills to enable students to successfully enter more
+
+formal learning in Grade 1 (Table x and Figure x). A period of planning and consultation would be undertaken during 2015
+
+with options for implementation developed. Implementation of the 2-6-6 system is expected to begin in 2016.
+
+Table x: Proposed 2-6-6 school structure
+
+Age Years Sector Grades
+
+5-6 2 Elementary Pre-school, Preparatory, Elementary 7-12 6 Primary 1-6 13-18 6 High School/TVET/FODE 7-12
+
+Total 14
+
+The aim would be to introduce the country's first formal early childhood sector, with a new early learning year, in line with the country's UNESCO commitment. 2-6-6 would more closely match the internationally-recognised phases of children's educational development and ensure that quality foundation skills are learnt in an early childhood environment to provide foundations for more formal learning.
+
+Progression through 14 years of education would be achieved by gradually abolishing the national grade transition examinations at the ends of Grades 8 and 10. Students would instead be assessed at the ends of Grades 3, 8 and 10 using standard tests. There would be one national examination at the end of Grade 12, to control access to higher education.
+
+The proposed structure would not discriminate against, categorise or classify students. It would provide various learning pathways, through streaming at the ends of Grade 6 and Grade 10.
+
+As there are 3,543 primary schools and only 219 secondary schools, 2-6-6 could not be implemented directly in existing elementary, primary and secondary schools. Secondary schools could not be expanded to cater for all primary school students transitioning to the new Grade 7 under 2-6-6. Existing primary schools have the land and infrastructure (teacher houses, classrooms, toilets, libraries, etc.) to expand access to secondary education in Grades 7-9 under 2-6-6. However, primary schools could not handle Grades 1 to 6 plus lower secondary (Grades 7-9), so the 7,298 elementary schools, which have land and infrastructure, would add one additional year.
+
+It is proposed that the 219 existing secondary schools would be named high schools.
+
+Figure 16: Proposed 2-6-6 education system structure
+
+NON FORMAL
+
+……………………………………………………………………………………
+
+Basic Ed
+
+Grade EP E1 Elementary
+
+ucation
+
+Age 5/6 7
+
+8 9 10 11 12
+
+Flexible Open and Distance Learning
+
+13 14 15 16 17 18 19 20 +
+
+6 7 8 9 10 11 12
+
+S econdary High
+
+1 2 3 4 5
+
+Primary
+
+FORMAL PATHWAY
+
+…………………………………………………………………………………………………
+
+ALTERNATE PATHWAY
+
+Tertiary Institutions
+
+Technical
+
+Community and Vocational Schools
+
+Community and Employment
+
+Flexible Open and Distance Learning
+
+13 14 15 16 17 18 19 20 +
+
+6 7 8 9 10 11 12
+
+S econdary High
+
+ANNEX B
+
+ADDITIONAL DATA
+
+I. Figure 17 Number of operating schools, per sector and by province 2014 (Department of Education, EMIS)
+
+Elementary Primary Secondary Vocational Grand
+
+Total Province name AUTONOMOUS REGION OF BOUGANVILLE 318 220 11 3 552
+
+CENTRAL PROVINCE 304 188 12 3 507 EAST NEW BRITAIN PROVINCE 360 158 12 8 538 EAST SEPIK PROVINCE 401 240 16 8 665 EASTERN HIGHLANDS PROVINCE 432 220 14 5 671 ENGA PROVINCE 409 146 12 10 577 GULF PROVINCE 129 83 6 3 221 KIUNGA LAKE MURRAY 173 76 4 1 254 MADANG PROVINCE 520 252 9 7 788 MANUS PROVINCE 117 90 4 1 212 MILNE BAY PROVINCE 441 193 9 8 651 MOROBE PROVINCE 738 333 17 7 1,095 NATIONAL CAPITAL DISTRICT 42 38 11 5 96 NEW IRELAND PROVINCE 343 141 9 5 498 NORTHERN PROVINCE 276 111 4 4 395 SANDAUN PROVINCE 316 212 10 8 546 SIMBU PROVINCE 349 143 17 8 517 SOUTHERN HIGHLANDS PROVINCE 686 255 17 8 966 WEST NEW BRITAIN PROVINCE 292 149 5 3 449 WESTERN HIGHLANDS PROVINCE 436 194 17 7 654 WESTERN PROVINCE 216 101 3 2 322
+
+Grand Total 7,298 3,543 219 114 11,174
+
+II. Figure 18 Student: Teacher ratio and teachers per schools, per sector and by province 2014 (Department of Education, EMIS)
+
+Teachers/school
+
+Gross Student/teacher Elementary Primary Secondary
+
+Vocational AUTONOMOUS REGION OF BOUGANVILLE 28.6 2.6 6.8 19.6 10.7 CENTRAL PROVINCE 32.6 2.5 6.0 20.8 9.0 EAST NEW BRITAIN PROVINCE 31.5 2.1 10.3 28.6 17.5 EAST SEPIK PROVINCE 46.9 1.9 7.2 17.8 7.0 EASTERN HIGHLANDS PROVINCE 45.5 2.4 9.7 28.4 14.0 ENGA PROVINCE 50.0 2.3 9.9 24.2 6.2 GULF PROVINCE 47.1 1.8 4.1 11.5 5.3 KIUNGA LAKE MURRAY 29.4 1.9 5.7 28.3 22.0 MADANG PROVINCE 40.6 1.9 9.1 26.1 7.4 MANUS PROVINCE 19.3 2.3 4.9 25.5 12.0 MILNE BAY PROVINCE 34.2 1.8 5.9 22.6 6.8 MOROBE PROVINCE 32.9 2.5 9.6 28.6 14.3 NATIONAL CAPITAL DISTRICT 38.7 12.4 30.5 34.5 23.8 NEW IRELAND PROVINCE 27.7 1.8 6.6 16.3 8.6 NORTHERN PROVINCE 50.5 1.4 5.1 21.8 8.5 SANDAUN PROVINCE 36.2 1.7 5.0 14.1 4.5 SIMBU PROVINCE 33.9 2.6 9.3 18.0 12.8 SOUTHERN HIGHLANDS PROVINCE 38.1 2.3 9.7 21.5 8.0 WEST NEW BRITAIN PROVINCE 34.7 2.2 8.4 24.2 16.0 WESTERN HIGHLANDS PROVINCE 44.2 2.8 13.4 28.3 11.6 WESTERN PROVINCE 40.7 1.6 4.1 17.3 9.5
+
+III. Figure 19 Student: Enrolments by gender and province 2014 (Department of Education, EMIS)
+
+Province name Male Female Total
+
+AUTONOMOUS REGION OF BOUGANVILLE
+
+38,265 52%
+
+35,236 48%
+
+73,501
+
+CENTRAL PROVINCE
+
+38,216 54%
+
+32,440 46%
+
+70,656
+
+EAST NEW BRITAIN PROVINCE
+
+48,310 54%
+
+41,644 46%
+
+89,954
+
+EAST SEPIK PROVINCE
+
+72,647 54%
+
+60,931 46%
+
+133,578
+
+EASTERN HIGHLANDS PROVINCE
+
+94,375 56%
+
+73,091 44%
+
+167,466
+
+ENGA PROVINCE
+
+78,714 57%
+
+58,301 43%
+
+137,015
+
+GULF PROVINCE
+
+17,505 57%
+
+13,341 43%
+
+30,846
+
+KIUNGA LAKE MURRAY
+
+14,765 56%
+
+11,725 44%
+
+26,490
+
+MADANG PROVINCE
+
+80,458 56%
+
+64,389 44%
+
+144,847
+
+MANUS PROVINCE
+
+8,380 53%
+
+7,457 47%
+
+15,837
+
+MILNE BAY PROVINCE
+
+38,374 51%
+
+36,147 49%
+
+74,521
+
+MOROBE PROVINCE
+
+102,296 55%
+
+82,780 45%
+
+185,076
+
+NATIONAL CAPITAL DISTRICT
+
+44,667 53%
+
+39,947 47%
+
+84,614
+
+NEW IRELAND PROVINCE
+
+25,391 53%
+
+22,820 47%
+
+48,211
+
+NORTHERN PROVINCE
+
+29,551 54%
+
+24,946 46%
+
+54,497
+
+SANDAUN PROVINCE
+
+36,879 57%
+
+27,802 43%
+
+64,681
+
+SIMBU PROVINCE
+
+50,853 57%
+
+38,625 43%
+
+89,478
+
+SOUTHERN HIGHLANDS PROVINCE
+
+97,931 57%
+
+73,809 43%
+
+171,740
+
+WEST NEW BRITAIN PROVINCE
+
+38,400 53%
+
+33,725 47%
+
+72,125
+
+WESTERN HIGHLANDS PROVINCE
+
+105,752 55%
+
+86,803 45%
+
+192,555
+
+WESTERN PROVINCE
+
+18,640 55%
+
+15,432 45%
+
+34,072
+
+Grand Total
+
+1,080,369 55%  881,391 45%
+
+1,961,760
+
+IV. Figure 20 : Student population by grade, gender indicating overage 2014 (Department of Education,
+
+EMIS)
+
+V. Technical Vocational Education and Training
+
+Figure 21 Districts without Vocational Centres 2014 (Department of Education, TVET)
+
+PROVINCES DISTRICTS DISRICT NAME
+
+East New Britain 1 Rabaul
+
+Eastern Highlands Province 3 Daulo, Henganofai, Ungai-Bena
+
+Southern Highlands Province 1 Imbongu
+
+Central 2 Goilala, Kairuku-Hiri
+
+National Capital District 5 Gerehu, Boroko-Korobosea, Hanuabada, Laloki-Napanapa, Bomana
+
+East Sepik 2 Wosera Gawi, Yanoru Sausia
+
+Madang 2 Raicoast, Usine Bundi
+
+Morobe 1 Kabwum
+
+TOTAL 17
+
+Sources:
+
+Inspection reports - 2014, TFFE subsidy listing - 2014, Regional/Provincial Coordinators reports - Southern/Highlands
+
+Contact with managers/teachers (various) - 2014/15
+
+VI. Students Toilets
+
+Figure 22 : Toilets per sector, gender, 2013 (Department of Education, EMIS)
+
+Permanent Semi Permanent Bush material TOTAL
+
+Grand Total
+
+11,622
+
+14,861
+
+2,031
+
+461
+
+28,975
+
+Male Female Male Female Male Female Male Female
+
+Elementary 647 659 621 592 4,604 4,499 5,872 5,750
+
+Primary 2,028 2,045 1,361 1,325 4,177 3,925 7,566 7,295
+
+Secondary 724 660 134 88 246 179 1,104 927
+
+Vocational 121 133 33 37 82 55 236 225
+
+Grand Total 3,520
+
+3,497
+
+2,149
+
+2,042 9,109 8,658
+
+14,778
+
+14,197
+
+VII. Students with special needs
+
+Figure 23: Students with special needs per year level, 2013 (Department of Education, EMIS) Grades Total Enrolled
+
+Students Students with Special Needs % of Students with Special Needs Preparatory 312,551 3,661 1.17% Elementary 1 244,710 2,926 1.20% Elementary 2 216,546 2,614 1.21% Grade 1 23,544 133 0.56% Grade 2 24,577 107 0.44% Grade 3 196,362 1,813 0.92% Grade 4 174,757 1,758 1.01% Grade 5 156,963 1,798 1.15% Grade 6 139,863 1,593 1.14% Grade 7 118,969 1,425 1.20% Grade 8 107,964 1,325 1.23% Grade 9 55,879 388 0.69% Grade 10 48,197 403 0.84% Grade 11 21,470 224 1.04% Grade 12 16,766 213 1.27% Vocational 31,546 552 1.75% Total 1,890,664 20,933 1.11%
+
+Figure 24 : Students with special needs Registration with SERC per year level, 2013 (Department of Education, EMIS)
+
+Registered with SERC Not registered with SERC
+
+Sector Male Female Male Female TOTAL Elementary 1,376 1,223 3,788 3,054 9,441 Grade 3-8 1,074 908 4,186 3,544 9,712 Grade 9-12 187 255 399 387 1,228 Vocational 137 198 11 206 552 TOTALS 2,774 2,584 8,384 7,191 20,933
+
+Reference Materials
+
+Department of Education, (2015) Papua New Guinea EFA 2015 Review Department of Education, Kukari, A (2014) Situational Analysis of Education in Papua New Guinea Department of Education (2012). Education Sector Plan 2011-2030, A Roadmap to the Future Department of Education (2012). National Education Plan 2005-2014 Mid Term Review October 2012 Department of Education (2011) TVET Strategic Management Plan 2011- 2020
+
+Department of National Planning & Monitoring (2010) PNG Development Strategic Plan 2010 - 2030 Department of National Planning & Monitoring (2010)  PNG Medium Term Development Plan 2011 - 2015 Department of Personnel Management (undated) PNG Public Service Ethics and Value-based Leadership Capability Framework
+
+Government of Papua New Guinea National Strategic Taskforce (2009) Papua New Guinea Vision 2050 National Executive Council, (December 2009).Universal Basic Education Plan 2010-2019
+
+Task Force for the Review of Outcomes Based Education (May 2013) Report of the Task Force for the Review of Outcomes Based Education
+
+World Bank PNG Country Report (2015) retrieved from http://data.worldbank.org/country/papua-new-guinea

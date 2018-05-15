@@ -1,0 +1,895 @@
+Cambodia Climate Change Strategic Plan
+
+KINGDOM OF CAMBODIA
+
+Nation, Religion, King
+
+3
+
+ROYAL GOVERNMENT OF CAMBODIA
+
+CAMBODIA CLIMATE CHANGE STRATEGIC PLAN 2014 - 2023
+
+2013 National Climate Change Committee
+
+Samdech Akka Moha Sena Padei Techo HUN SEN Prime Minister of the Kingdom of Cambodia
+
+MESSAGE
+
+Climate change has become one of the greatest risks facing humanity and a high priority of global concern in the 21st Century. As the earth continues to heat up, the severity of climate change impacts on global socio-economic development and environmental sustainability continue to intensify and amplify, prompting the need to seek urgent solutions.
+
+Southeast Asia continues to face increasing threats from climate change, with increasing loss of human lives and significant damage to economic development and natural resources. We have all observed the alarming trends of more frequent and intensified floods, droughts, saline intrusion and extreme weather events, especially over the last decade. Research and study have indicated this trend is projected to further increase by the end of this century. Therefore, climate change has become a primary issue, requiring urgent attention in designing appropriate climate change policies, strategies and actions as responses at the global, regional, national and sub-national levels.
+
+Having ratified the United Nations Framework Convention on Climate Change (UNFCCC) in 1996, Cambodia has actively participated with the international community in the effort to address climate-related issues. However, the country remains highly vulnerable to the impacts of climate change due to its high dependency on climate-sensitive sectors such as agriculture, water resources, forestry, fisheries, tourism, etc., which form the critical foundation of its economic growth and support the livelihoods of a great majority of its population. It is
+
+important to note that Cambodia has enjoyed stable macro-economic performance for the last several years, as indicated by the steady growth in GDP, rising household income, and reduced poverty rate. Retaining this robust growth performance under a changing climate will be a real challenge in the years to come. Response efforts to address climate change cannot be separated from economic development and poverty alleviation, which are vital in a transition towards a green economy and low-carbon, climate-resilient development.
+
+In this regard, it is my great honour and pleasure on behalf of the Royal Government of Cambodia to announce the official promulgation of the Cambodia Climate Change Strategic Plan 2014 - 2023 (CCCSP). This is the first ever comprehensive national policy document responding to the climate change issues our nation is facing. The CCCSP has reflected our political will, our firm commitment and readiness for reducing climate change impacts on national development, and contributing, with the international community, to global efforts for mitigating GHG emissions under the UNFCCC.
+
+Integration of climate change into national and sub-national level planning, and the development of climate change strategies, action plans and financing frameworks are among the priority actions undertaken as defined in the National Strategic Development Plan Update 2009 - 2013. The development of the CCCSP is a significant step towards embedding climate change in the NSDP 2014 - 2018 and in sector development plans of all relevant ministries. The CCCSP will guide national entities and assist non-governmental organizations and development partners in developing concrete and appropriate measures and actions related to adaptation and GHG mitigation, which are the supportive pillars for the achievement of the Rectangular Strategy and Cambodia Millennium Development Goals.
+
+I must stress that the CCCSP captures the main strategic objectives and directions, leveraging sustainable development goals for us to pursue for the next 10 years. As a dynamic policy instrument, it will be periodically evaluated, revised and improved in order for it to be able to respond effectively to evolving situations in the future. I strongly believe that more practical solutions and best practices will be learned to guide national capacity building during the
+
+course of its implementation. It is our goal to promote Cambodian society towards a green, low carbon and climate resilient economy.
+
+I would like to express my sincere gratitude and appreciation to the National Climate Change Committee (NCCC) and its members, all the participating line ministries, development partners, non-governmental organizations, and all of you who have contributed to making this CCCSP possible.
+
+Our ability to address climate impacts on national development processes will be enhanced by coordinated efforts to reduce the vulnerability of people and natural systems that support livelihoods and drive national economic growth and prosperity. The National Climate Change Committee and its Secretariat have a very important role to play in coordinating Cambodia's climate change responses, strengthening partnerships with various stakeholders, and monitoring the implementation of this strategic plan.
+
+Once again, I urge all stakeholders from the Government, private sector, national and international non-governmental organizations and development partners to continue their close cooperation with the NCCC in the implementation of climate change responses, in particular the CCCSP, which would contribute to the development of Cambodia towards a green, low carbon, climate resilient, equitable and sustainable society.
+
+Phnom Penh, 31 October 2013
+
+HUN SEN
+
+Preface
+
+On behalf of the National Climate Change Committee and the Ministry of Environment, I would like to express my profound respect and sincere gratitude to Samdech Akka Moha Sena Padei Techo HUN SEN, Prime Minister of the Kingdom of Cambodia, for his full support and strong commitment to addressing climate change, which is faced by the country in the national development process. The National Strategic Development Plan (NSDP) Update 2009 - 2013 identified key priority actions to be undertaken in response to climate change impacts that have negative implications on national development efforts. On this basis, climate change is considered as a cross-cutting issue in the planning process of the NSDP 2014 - 2018. In this context, I am proud to see the CCCSP developed under the auspices of the NCCC. The CCCSP is the first comprehensive strategic document ever developed under the charismatic leadership of Samdech Akka Moha Sena Padei Techo HUN SEN, the Prime Minister of the Kingdom of Cambodia.
+
+I would like to express gratitude and appreciation to Excellencies, ladies and gentlemen from line ministries and agencies, non-governmental organizations, the private sector and development partners, for the good cooperation in the development and materialization of the CCCSP.
+
+Recent findings presented in the Second National Communication to the United Nations Convention on Climate Change (UNFCCC) have concluded that changes in temperature and rainfall in Cambodia have already started since the second half of the 20th Century. The projection for the next eighty years further concludes that future temperatures in Cambodia will continue to rise, with potential declines in dry season rainfall, and delayed arrival of the wet season regardless of the potential increase in wet season rainfall. The change may vary in accordance with greenhouse gas (GHG) emission scenarios.
+
+Climate change is a real challenge for our country, as we all have witnessed more frequent and intense extreme climate events such as floods, droughts, increased storm surges, etc., and the
+
+significant physical and monetary damage they cause to the country's economy and livelihoods. In order to ensure sustainable development in the context of climate change Cambodia has worked out practical solutions to cope with the rapidly changing climate by putting in place new policies, strategies and plans. The CCCSP is prepared following the guidelines of the Council of Ministers and is consistent with the planning cycle of the NSDP. Line ministries have provided inputs to the development of the CCCSP and also have developed Sectoral Climate Change Action Plans, which would become policy programmes for integration of climate change at national and sub-national levels.
+
+The development of the CCCSP is based on a broad and inclusive consultation process to ensure consensus, comprehensiveness and ownership of the product by relevant stakeholders. Building synergy with existing government policy documents such as the NSDP, Rectangular Strategy, National Policy on Green Growth and sectoral development plans, the CCCSP is designed to ensure its strategic cohesion to address a wide range of climate change issues concerning adaptation, GHG mitigation, and low-carbon development. Much emphasis is put on building institutional capacity and science-based knowledge for projection of climate change impacts, adaptation and disaster risk reduction, as these would have immediate far-reaching implications on vulnerable sectors such as agriculture, water resources, forestry, fisheries and tourism. The CCCSP also envisages building resilience capacity and production skills, especially at the community level, to effectively overcome climate change impacts.
+
+Cambodia is rich in water and renewable energy resources where much of it remains untapped. Improved access to food, water and energy, together with the promotion of low-carbon development through a combination of technology transfer, legal reform and fiscal incentives, are regarded as appropriate solutions to sustainable development in the context of climate change. The Second National Communication provides a good analysis of renewable energy options, energy efficiency and GHG mitigation potential, which will inform specific actions and viable investments.
+
+Mobilization of funding resources for the implementation of climate-related programmes and projects in specific locations of high climate risks is also critical to achieve the goals and objectives of the CCCSP. Integration of the CCCSP into the NSDP and sectoral plans would bring about multiple benefits in terms of knowledge and capacity enhancement for climate change planning, improved stakeholder participation, coordination of funding flow, and systematic monitoring and evaluation of climate change related policy responses. The CCCSP will create an enabling environment conducive to success.
+
+I would like to take this opportunity to express my deep appreciation to line ministries and agencies, development partners and experts for their valuable inputs, assistance and active participation in the development process of the CCCSP in a timely and effective manner.
+
+Phnom Penh, 30 October 2013
+
+Say Samal
+
+Acknowledgement
+
+The Royal Government of Cambodia expresses its deep gratitude to national ministries and agencies, development partners, non-governmental organizations, academia, the private sector and all stakeholders for their contribution to the development of the Cambodia Climate Change Strategic Plan (CCCSP).
+
+The CCCSP was developed under the overall coordination of the Ministry of Environment, with the active participation of the Climate Change Technical Team (CCTT) and invaluable guidance from the National Climate Change Committee (NCCC). Their participation made the strategic plan more coherent and aligned to other existing sectoral plans of the line ministries and agencies. The suggestions and comments received from peer reviews and all stakeholders provided strategic guidance for development of the CCCSP. A wide range of technical support was provided by several national and international experts for the development of the CCCSP.
+
+The development of the CCCSP was made possible with financial support from development partners, namely the European Union, the Swedish International Development Cooperation Agency (Sida), the Danish International Development Agency (DANIDA), and the United Nations Development Programme (UNDP), through the Cambodia Climate Change Alliance (CCCA).
+
+Contents
+
+Message by Samdech Akka Moha Sena Padei Techo HUN SEN .................................................................... i Preface .......................................................................................................................................................... v Acknowledgement ....................................................................................................................................... ix Contents ....................................................................................................................................................... xi List of Abbreviations and Acronyms ...........................................................................................................xiii Executive Summary ..................................................................................................................................... xv 1. INTRODUCTION ..................................................................................................................................... 1 2. VISION ................................................................................................................................................... 3 3. MISSION ................................................................................................................................................ 3 4. GOALS.................................................................................................................................................... 3 5. STRATEGIC FRAMEWORK ...................................................................................................................... 3 5.1. Guiding Principles ......................................................................................................................... 3 5.2. Strategic Analysis .......................................................................................................................... 4 National Development Baselines .......................................................................................................... 5 National Development Projections ....................................................................................................... 6 Climate Change Implications as Recognized in the NSDP Update 2009 - 2013 ................................... 7 Climate Projections and their Implications ........................................................................................... 8 Climate Change Response Capacity .................................................................................................... 10 Institutional Arrangements for the Coordination of Climate Change Response ................................ 11 Gender and Climate Change ............................................................................................................... 12 Education, Awareness and Communication ....................................................................................... 12 5.3. Strategic Objectives and Strategies ............................................................................................ 13 Strategic Objective 1 ........................................................................................................................... 13 Strategic Objective 2 ........................................................................................................................... 14 Strategic Objective 3 ........................................................................................................................... 15 Strategic Objective 4 ........................................................................................................................... 15 Strategic Objective 5 ........................................................................................................................... 16 Strategic Objective 6 ........................................................................................................................... 17 Strategic Objective 7 ........................................................................................................................... 18 Strategic Objective 8 ........................................................................................................................... 18
+
+6. ACTIVITIES ........................................................................................................................................... 19 6.1. Phases for the Implementation of the CCCSP ............................................................................. 19 Institutional Arrangements ................................................................................................................. 20 Developing Action Plans ..................................................................................................................... 21 Developing Climate Change Financing Framework ............................................................................ 21 Developing M&E Framework .............................................................................................................. 22 Developing Climate Change Legal Framework ................................................................................... 22 6.2. Programming and Development of Action Plans ........................................................................ 22 Timeframe ........................................................................................................................................... 22 Building on the Strategies of Line Ministries ...................................................................................... 23 Cross-Cutting Issues ............................................................................................................................ 23 Integrated Programming ..................................................................................................................... 23 Partnerships ........................................................................................................................................ 23 7. FINANCING RESOURCES ...................................................................................................................... 24 7.1. Principles ..................................................................................................................................... 24 7.2. Approach ..................................................................................................................................... 25 7.3. Management and Institutional Arrangements for Implementation ........................................... 26 8. MONITORING AND EVALUATION ........................................................................................................ 27 8.1. Principles ..................................................................................................................................... 28 8.2. Approach ..................................................................................................................................... 29 8.3. Management and Institutional Arrangements for Implementation ........................................... 30 9. CONCLUSION ....................................................................................................................................... 31 ANNEX ......................................................................................................................................................... 33 Annex 1. Mapping the Objectives of SCCSP to the Strategic Objectives of the CCCSP .......................... 33 Annex 2. Mapping the Priorities of NSDP Update 2009 - 2013 to the Strategic Objectives of the CCCSP ................................................................................................................................................................ 41
+
+List of Abbreviations and Acronyms
+
+AF Adaptation Fund ASEAN Association of Southeast Asian Nations CBO Community-based Organization CCCA Cambodia Climate Change Alliance CCCSP Cambodia Climate Change Strategic Plan CCD Climate Change Department
+
+CCTT Climate Change Technical Team CDC Council for the Development of Cambodia CDM Clean Development Mechanism
+
+CPEIR Climate Public Expenditure and Institutional Review CRDB Cambodia Rehabilitation and Development Board CSO Civil Society Organization
+
+DANIDA Danish International Development Agency EM-DAT The International Disaster Database
+
+EU European Union GCF Green Climate Fund GDP Gross Domestic Product GHG Greenhouse Gas
+
+INC Initial National Communication IPCC Intergovernmental Panel on Climate Change LDC Least-developed Country
+
+M&E Monitoring and Evaluation MAFF Ministry of Agriculture, Forestry and Fisheries Mekong ARCC Mekong Adaptation and Resilience to Climate Change MIME Ministry of Industry, Mines and Energy
+
+MoE Ministry of Environment MoEYS Ministry of Education, Youth and Sport
+
+MoH Ministry of Health MoWA Ministry of Women's Affairs MoWRAM Ministry of Water Resources and Meteorology MPWT Ministry of Public Works and Transport MRD Ministry of Rural Development NAPA National Adaptation Programme of Action on Climate Change NCCC National Climate Change Committee
+
+NCDD National Committee for Sub-National Democratic Development NCDM National Committee for Disaster Management
+
+NGO Non-governmental Organization NSDP National Strategic Development Plan NSPS National Social Protection Strategy PBA Programme-based Approach REDD+ Reducing Emissions from Deforestation and Forest Degradation RGC Royal Government of Cambodia
+
+RS Rectangular Strategy Sectoral CCSP Sectoral Climate Change Strategic Plan SNC Second National Communication (Draft) SRES A1B Special Report on Emission Scenario A1B SRES A2 Special Report on Emission Scenario A2 SRES B1 Special Report on Emission Scenario B1 Sida Swedish International Development Cooperation Agency SWOT Strengths, Weaknesses, Opportunities and Threats UNDP United Nations Development Programme UNFCCC United Nations Framework Convention on Climate Change
+
+Executive Summary
+
+The complexity and many uncertainties of climate change risks and threats to Cambodia's economic growth, livelihoods and ecosystem functions point to the need for integrated approaches to planning climate change policy interventions in harmony with a relevant sustainable economic policy agenda geared towards poverty reduction and environmental sustainability. The Cambodia Climate Change Strategic Plan 2014 - 2023 (CCCSP) is well designed to fill the policy gap, complement on-going efforts and meet the emerging challenges of development, environment and climate change issues.
+
+Following the guidelines of the Council of Ministers, the CCCSP was prepared following logical steps including the analysis of current and future national development and climate change risks; the formulation of a vision, mission and goals; the development of a strategic framework consisting of strategic objectives and strategies; the identification of a set of actions, institutional arrangements and implementation roadmaps; the analysis of financial resources; and the development of a Monitoring and Evaluation framework.
+
+Cambodia's real GDP had a growth rate of 7.1% in 2011 and is forecast to stabilize around 7 - 8% in 2013. The economy is narrowly based and driven by four main sectors: garment, tourism, construction and agriculture. Agriculture continues to be the dominant employment sector for the rural population, accounting for 57.6% of the 8.8 million-strong labour force, and contributing about 32.1% of GDP in 2011. The Government has an export target of one million tonnes of rice per annum by 2015, which would benefit the rice processing industry. Agro-industrial crops such as rubber and cassava have enjoyed speedy growth, where rubber production had a growth rate of 10.1% in 2011. The tourism sector has an annual growth rate of 20%, with a GDP share of 4.3%. Electricity production relies mainly on combustion of fossil fuel which accounts for 95.2% of the total energy mix, while hydropower and other renewable energy represent only 3.3% and 1.5% respectively. Oil, gas and mineral extraction industries will come to play a significant role in contributing to GDP growth in the near future.
+
+The result of modelling studies in the Initial National Communication (INC) and the Second National Communication (SNC) indicates that Cambodia's mean surface temperature has increased by 0.8°C since 1960. The mean monthly temperature is projected to increase between 0.013°C to 0.036°C per year by 2099, depending on location. The rate of temperature increase is higher in low altitude areas than in high altitude areas. Under elevated CO2 with low rate of emission scenarios (SRESB1), it is likely that wet season rainfall will continue to increase in future, and then might decrease again after 2050. But under high emission scenarios (SRESA2), the direction of change will reverse. The Fourth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC) shows that the global sea level rise is projected to increase between 18 cm and 50 cm by 2100 based on the SRESB1 and SRESA2 respectively.
+
+An increase in the temperature is likely to affect agricultural productivity. According to the International Rice Research Institute, rice grain yields decline by 10% for each 1oC increase in minimum (night) temperatures during the growing period in the dry season. Cambodia's coastline of 435 km would be affected by sea-level rises, while low-lying farming areas would be exposed to saline intrusion causing damage to crops.
+
+The vision, mission and goals of the CCCSP were formulated based on the analysis of institutional capacity, observed climate change impacts and climate change projections.
+
+Vision: Cambodia develops towards a green, low-carbon, climate-resilient, equitable, sustainable and knowledge-based society.
+
+Mission: Creating a national framework for engaging the public, private sector, civil society organizations and development partners in a participatory process for responding to climate change to support sustainable development.
+
+Goals
+
+:
+
+ Reducing vulnerability to climate change impacts of people, in particular the most vulnerable, and critical systems (natural and societal);
+
+ Shifting towards a green development path by promoting low-carbon development and technologies;
+
+ Promoting public awareness and participation in climate change response actions.
+
+To achieve the vision, mission and goals, the Royal Government of Cambodia (RGC) has identified eight strategic objectives:
+
+1. Promote climate resilience through improving food, water and energy security; 2. Reduce sectoral, regional, gender vulnerability and health risks to climate change impacts;
+
+3. Ensure climate resilience of critical ecosystems (Tonle Sap Lake, Mekong River, coastal ecosystems, highlands, etc.), biodiversity, protected areas and cultural heritage sites; 4. Promote low-carbon planning and technologies to support sustainable development; 5. Improve capacities, knowledge and awareness for climate change responses; 6. Promote adaptive social protection and participatory approaches in reducing loss and damage due to climate change;
+
+7. Strengthen institutions and coordination frameworks for national climate change responses; and
+
+8. Strengthen collaboration and active participation in regional and global climate change processes.
+
+The CCCSP 2014 - 2023 has set out a number of actions structured into three phases of implementation.
+
+In the immediate term (2013 - 2014): The focus of this phase is on putting in place institutional and financial arrangements for the implementation of the CCCSP, development of national monitoring and evaluation (M&E) frameworks and indicators, and development of climate change action plans (2014 - 2018) by line ministries.
+
+In the medium term (2014 - 2018): This phase will continue to support the implementation of what was planned in Phase 1, with expansion to cover other activities such as accreditation of the Adaptation Fund and Green Climate Fund, research and knowledge management, capacity
+
+development, mainstreaming of climate change across sectors at different levels, operation of M&E and data management systems, and launching some high priority projects/programmes in key sectors identified in the Climate Change Action Plans. Initial priority would be given to adaptation activities but gradually GHG mitigation activities will be included. The RGC may undertake a review and revision of the CCCSP 2014 - 2023 building on the lessons learned in Phases 1 and 2.
+
+In the long term (2019 - 2023): The focus of this phase will be on research and learning, but its main objective will be to scale up success cases and to continue mainstreaming climate change into national and sub-national programmes. This will involve an increased use of budget support for national programmes, including funding climate change responses through subnational administrations.
+
+1.
+
+INTRODUCTION
+
+The Royal Government of Cambodia (RGC) is committed to pursuing national sustainable development that ensures a better quality of life and improves the living standards of its people.
+
+One of the main national development priorities is to reduce poverty. Thus, efforts in addressing climate change cannot be separated from economic development and poverty alleviation of the people. Addressing economic and social development by taking into consideration climate change will assist the RGC in reducing vulnerability to potential climate risks, improving air quality and participating with the international community to mitigate GHG emission-the root cause of climate change. Climate change has a critical implication for the people, especially rural households who depend strongly on natural resources that are projected to be highly impacted by climate change. Households engaged in agricultural activities currently have the highest incidence of poverty and as such they are also highly vulnerable to climate change.
+
+The National Strategic Development Plan (NSDP) Update 2009 - 2013 emphasizes that 'to effectively deal with the implications of climate change, the capacity of RGC institutions needs to be strengthened to identify and develop a strategy to deal with the anticipated impact of the climate change, and strengthen disaster management capabilities'. This requires focusing on the following priorities as listed in the NSDP:
+
+ Strengthen the capacity of the Secretariat of the National Climate Change Committee;
+
+ Promote and coordinate the mainstreaming of climate change in concerned sectors;  Continue preparing the Second National Communication under the United Nations Framework Convention on Climate Change (UNFCCC);  Prepare a National Strategy and Action Plan for Climate Change;  Promote the establishment of a national fund for climate change;
+
+Action on climate change (NAPA);
+
+ Further identify and foster the implementation of the Clean Development Mechanism and GHG reduction projects;  Educate and inform the public on climate change;  Mobilize resources and support to address climate change;  Decentralize the preparation of a GHG inventory and set up a database management system.
+
+Meeting the projected national development targets envisaged in the revised NSDP will require measures to respond to climate change impacts. The development of the CCCSP provides the entry point for a structured and coherent approach to integrate climate change into national development processes.
+
+The CCCSP was developed following the guidelines of the Council of Ministers. The CCCSP outlines the vision, mission, goals and objectives, as well as the strategic framework analysis in defining the strategic objectives and strategies. Climate Change Action Plans will be prepared as separate documents, which detail the identification and prioritization of the actions for achieving the strategic objectives of the CCCSP.
+
+Alongside the CCCSP, line ministries have developed their Sectoral Climate Change Strategic Plans (SCCSP) to guide the integration of climate change into their sectoral planning. While the CCCSP provides a national perspective and framework for addressing climate change, the SCCSPs of the line ministries focus on sector-specific responses to climate change. The line ministries are now developing their Sectoral Climate Change Action Plans (SCCAP) to operationalize their SCCSPs. Good coordination of the national and sub-national responses is very important to effectively address climate change. To that end, a guideline for mainstreaming climate change into sub-national planning is being prepared under the auspices of the Secretariat of the National Committee for Sub-national Democratic Development (NCDD).
+
+2.
+
+VISION
+
+Cambodia develops towards a green, low-carbon, climate-resilient, equitable, sustainable and knowledge-based society.
+
+3.
+
+MISSION
+
+Creating a national framework for engaging the public, the private sector, civil society organizations and development partners in a participatory process for responding to climate change to support sustainable development.
+
+4.
+
+GOALS
+
+ Reducing vulnerability to climate change impacts of people, in particular the most vulnerable, and critical systems (natural and societal);  Shifting towards a green development path by promoting low-carbon development and technologies;
+
+ Promoting public awareness and participation in climate change response actions.
+
+5.
+
+STRATEGIC FRAMEWORK
+
+Cambodia is highly vulnerable to climate change and the RGC recognizes the need for mainstreaming climate change into the NSDP and national policies at all levels based on selected key guiding principles.
+
+5.1.
+
+Guiding Principles
+
+1. Adhere to the values of sustainable development; 2. Ensure that national development priorities can be achieved under a changing climate;
+
+3. Focus on the threats as well as opportunities of climate change and capitalize on synergies between adaptation and mitigation;
+
+4. Recognize the complex and interconnected nature of climate change and the need to use interdisciplinary, cross-sectoral and multi-scale approaches in addressing it; 5. Recognize the uncertainty of future climate change, build flexibility in the management of key systems to address unforeseen changes and use risk-based and phased approaches in planning responses; 6. Address both extreme events and critical changes (e.g. shift in seasons) induced by climate change;
+
+7. Use a combination of science-based, ecosystem-based and community-based approaches;
+
+8. Ensure that a climate change response is equitable, gender sensitive, transparent, accountable and culturally appropriate; 9. Leverage on knowledge, innovation and behavioural change in developing solutions for adaptation and mitigation; and 10. Engage actively with international and regional processes for addressing climate change.
+
+5.2.
+
+Strategic Analysis
+
+To ensure alignment with national development goals and priorities, several key documents were considered when conducting the strategic analysis. These include:
+
+ The Rectangular Strategy Phase II;  Cambodia Vision 2030 (Draft);  Cambodia Human Development Report 2011;  Cambodia Millennium Development Goals;  The Cambodian Government's Achievements and Future Directions in Sustainable Development (National Report for Rio+20);  National Strategic Development Plan Update 2009 - 2013;  Cambodia's Initial National Communication under the United Nations Framework Convention on Climate Change;
+
+Framework Convention on Climate Change;  National Adaptation Programme of Action to Climate Change;  Draft National Environmental Policy 2012;  National and sectoral strategies, policies and plans;  National Policy on Green Growth and National Green Growth Strategic Plan 2013 - 2030; and
+
+ Policy Paper on the Promotion of Paddy Production and Rice Export.
+
+National Development Baselines
+
+Cambodia has achieved a long-term macro-economic growth (1994 - 2011) of 6 - 7% in its GDP annually. The stable and steady economic growth is largely attributed to the continued good performance of the agriculture, garment, construction and tourism sectors. A project-based planning approach is steadily giving way to programme-based planning in consolidating sustainable development. Better data collection and management are contributing to improving planning systems, and the effective allocation of resources. However, economic diversification is limited and there is still a considerable percentage of the population who are unskilled.
+
+Forest cover as a percentage of total land area in 2010 was 57.07%, of which more than 3 million ha of protected areas is under the jurisdiction of the Ministry of Environment (MoE).
+
+Agriculture continues to be the dominant employment sector absorbing the majority of the population and accounting for 57.6% of the labour force.
+
+According to the NSDP Update 2009 - 2013, as of 2008 the total arable land area was in the range of 3.31 million ha, and rice farming constituted 2.61 million ha, 0.59 million ha of permanent crops, and 0.11 million ha of rubber plantation. The Strategy for Agriculture and Water (2006 - 2010) indicates that only 7 - 8% of arable land area is fully irrigated, 10% is supplementary irrigated, and the remaining 80% relies on rainfall.
+
+Fish provides up to 80% of all animal protein intake in the Cambodian diet and fish production contributes about 10% of Cambodia's GDP, creating six million full-time and part-time jobs nationwide. The main inland fisheries are predominantly found along the rivers, lakes and wetlands such as the Tonle Sap Lake and the Mekong River.
+
+Tourism is the third largest sector after agriculture and the garment industry. National revenue from tourism has increased 17-fold from USD 100 million in 1995 to USD 1,786 million in 2010, generating 315,000 jobs in the same year.
+
+The National Report for Rio+20 indicates insufficient supply of electricity, with only 17.2% of the total population, including about 6% of the rural population, having access to electricity in 2012. The per capita electricity consumption is 199KWh per annum (estimated in 2013).
+
+Fossil fuel-based electricity production accounts for 95.2% of total energy production, while hydropower and other renewable resources represent only 3.3% and 1.5% respectively. More than 80% of the population still depends on fuel-wood and charcoal for household cooking.
+
+Based on statistics from the Ministry of Public Works and Transport, the total number of vehicles registered in 2009, including motorcycles, family cars, vans and buses, and small and big trucks, was 307,000, with a 19% annual growth rate.
+
+National Development Projections
+
+ Cambodia's economic growth rate is projected at 7 - 8% for 2014;  The agricultural sector is expected to have a 5% growth rate annually in order to meet the national economic growth target;  The agricultural sector contributed 32.1% to GDP in 2011 and is considered an important engine of growth in the next NSDP;  The target for the tourism sector (in number of tourist arrivals) is 4.5 million and 6.1 million international tourists by 2015 and 2018 respectively, while the target for domestic tourists is 10.5 million, which all together would create 700,000 jobs; towards a low and high middle-income developing country by 2018 and 2030 respectively;
+
+ With 57.07% of land area (2010) under forest cover, Cambodia has an opportunity to benefit from carbon market mechanisms such as REDD+;  With a 5.72% annual growth rate in rice production, Cambodia expects to export 1 million tonnes of milled rice per annum by 2015; and  The Ministry of Environment projects GHG emissions from the transport sector to increase from 785 GgCO2 equivalent in 2000 to 11,376 GgCO2 by 2050, representing a 27% increase annually.
+
+Climate Change Implications as recognized in the NSDP Update 2009 - 2013
+
+The NSDP outlines the importance of addressing climate change in national development planning and identifies response measures as follows:
+
+ Flood implications on infrastructure o The road structure needs strengthening, especially rural roads, so that floods do not affect the movement of people and transportation of goods; and o Additional dykes and drainage systems should be constructed in vulnerable areas to control excessive overflow of water from swollen rivers and creeks.  Cambodia is short of energy, which is one of the reasons for its low level of industrial development. Consideration should be given to more eco-friendly energy sources such as hydropower;
+
+ Poverty alleviation is the RGC's long-standing goal. However, as more than 80% of the population depends largely on subsistence agriculture, floods and droughts could push large numbers of people below the poverty line;  Management of water and fisheries is the lifeline of the Cambodian people. Change in hydrology as a result of climate change may have adverse effects on fisheries;  Preservation of Cambodia's rich and diverse flora and fauna; and  Expansion of capacity for provision of water and sanitation, particularly to rural areas.
+
+Besides protection of water and forest resources, the Royal Government is promoting tree planting, rehabilitation of degraded forests and investment in production of biofuels.
+
+Climate Projections and their Implications
+
+Climate Projections  Historically, temperatures in Cambodia have increased and this trend is projected to continue with mean monthly temperatures increasing between 0.013oC and 0.036oC per year by 2099, depending on location, with higher rates at low latitudes.
+
+ Although there is inconclusive evidence of climate impact on rainfall, projections of the mean annual rainfall indicate an increase in rainfall for Cambodia. There is an increasing trend in seasonal rainfall between June and August in the northwest, and a decreasing trend in the northeast of the country.
+
+ According to the Fourth Assessment Report of the IPCC, sea levels in the region are projected to rise under various scenarios: by 2090 relative to 1980 - 1999, the sea level will rise 0.18 - 0.43m under low emission scenarios (SRES B1), 0.21 - 0.52m under medium emission scenarios (SRES A1B), and 0.23 - 0.56m under high emission scenarios (SRES A2). This corresponds to a 0.56m rise under the high emissions scenario (A2), which at this rate would cause permanent inundation of about 25,000 ha of coastal Cambodia within 90 years.
+
+Implications  Increase in temperature is likely to affect agricultural productivity. According to the International Rice Research Institute, rice grain yield will decline by 10% for each 1oC increase in growing-season minimum (night) temperature in the dry season.
+
+ The Mekong Adaptation and Resilience to Climate Change (Mekong ARCC) demonstrated that rainfall will get higher in the provinces of higher elevation during the wet season, but will get drier during the dry season, which could hamper the production of coffee and rubber in Cambodia.
+
+ The 435 km Cambodia coastline is vulnerable to sea-level rises and the severe impacts of more frequent typhoons under future climate projections. This could affect tourism
+
+potential and cause coastal erosion, while strong winds could damage settlements in coastal areas.
+
+ Given only 7 - 8% of total production land area is under full irrigation, it is difficult for Cambodia to achieve 5% annual agricultural growth in order to meet the target of agricultural production export by 2030 under climate change impacts (e.g. drought), especially for some cash crops such as rice, without further investment in the expansion of irrigation schemes.
+
+ According to the International Disaster Database (EM-DAT), the natural disaster in 2011 resulted in economic losses to Cambodia of about 4.3% of its GDP. Climate-related flooding is projected to increase in its frequency and intensity especially in the central plains. While the coastal zones would be affected by tropical cyclones from the Pacific, the central plains would experience seasonal flooding caused by increased rainfall. Both regions are of significant economic importance due to their fiscal revenue contributions generated from tourism, services, navigation, fishing and agricultural production. Therefore, it is crucial that measures are put in place to minimize the impacts of climate change risks and disasters in order for Cambodia to achieve the desirable economic growth and development expected in the national development programmes.
+
+ GHG emissions in Cambodia are currently extremely low compared to regional and global averages. According to the Second National Communication under the UNFCCC, in 2000 Cambodia emitted 47.6 million tonnes of CO2 equivalent, but the forestry sector absorbed 48 million tonnes of CO2equivalent. Over the same period, energy consumption by sector was highest in the transport sector, followed by electricity production, residential and the industrial sectors. Cambodia needs to increase energy production to boost industrial activities, while improving energy efficiency in the transport and residential sectors in order to reduce GHG emissions. During this stage of increasing energy supply, it is important that integration of renewable energy sources be considered in future energy production.
+
+Climate Change Response Capacity
+
+According to the Climate Change Vulnerability Mapping for Southeast Asia, carried out by the Economy and Environment Programme for Southeast Asia, Cambodia is among the most vulnerable countries to climate change in Southeast Asia because of low adaptive capacity.
+
+An analysis of the 'Strengths, Weaknesses, Opportunities and Threats' (SWOT) of Cambodia's response to climate change was conducted with many stakeholders, such as government agencies, civil society, development partners and the private sector. The results of the SWOT Analysis (presented below) were considered in the development of the CCCSP.
+
+Strengths
+
+• The Kingdom of Cambodia has high economic growth;
+
+• Interest in knowledge and information related to climate change;
+
+• High interest in sustainable development;
+
+• Rich natural resource base;
+
+• Presence of government policies on economic development;
+
+• Relevant ministries have developed their Sectoral Climate Change Strategic Plans;
+
+• Stakeholder support to climate change response including government agencies, international community and civil society;
+
+• Increased awareness on climate change;
+
+• Policy on environment and health;
+
+• Gradual improvement of infrastructure.
+
+Weaknesses
+
+• Weak knowledge and science-based decision making;
+
+• Lack of clear procedure for integration of climate change in the national development plans;
+
+• Limited capacity of the national institutions responsible for climate change and limited participation of stakeholders;
+
+• Out-dated information to address climate impacts;
+
+• Limited human resources;
+
+• Climate change planning is not a common practice;
+
+• Limited knowledge, research and technology;
+
+• Limited financial resources;
+
+• Low adaptive capacity among citizens.
+
+Opportunities
+
+• Increasing global climate change funds;
+
+• Establishment of national knowledge and information structure;
+
+• Development of the national sustainable development plan;
+
+• Political commitment and support to climate change;
+
+• Improved livelihoods;
+
+• Global efforts in addressing climate change;
+
+• Existing programmes such as Cambodia Climate Change Alliance and Strategic
+
+Program for Climate Resilience;
+
+• Development partners' support to the RGC in addressing climate change;
+
+• Skills and vocational development programmes.
+
+Threats
+
+• 43% of total communes are highly vulnerable;
+
+• Low understanding of climate change and response options;
+
+• Other policies and priorities are competing with policy on climate change;
+
+• Key economic sectors faced with the risks of climate change impacts;
+
+• Limited capacity for climate change responses;
+
+• More frequent climate extreme events;
+
+• Lack of resilience to natural disasters.
+
+Institutional Arrangements for the Coordination of Climate Change Response
+
+The National Climate Change Committee (NCCC) was established in 2006 with the mandate to coordinate and monitor the implementation of the Government's policies, strategies, regulations, plans and programmes in response to climate change issues. Samdech Akka Moha Sena Padei Techo Hun Sen, the Prime Minister of Cambodia, is the Honorary Chair of the NCCC,
+
+while the Minister of Environment serves as its Chair. A Climate Change Technical Team (CCTT) was established as an inter-ministerial body to provide technical support to the NCCC in fulfilling its mandate. The Climate Change Department (CCD) within MoE serves as the Secretariat for the NCCC and coordinates the activities of the CCTT. There are climate change focal points and working groups appointed by key line ministries to oversee climate change related activities, such as the development of Sectoral Climate Change Strategic Plans, action plans and projects.
+
+There is a need for review of the climate change institutional structure aiming to set out appropriate recommendations for its improvement in order to promote inter-ministerial coordination and implementation of CCCSP, as well as climate change response measures.
+
+Gender and Climate Change
+
+The RGC recognizes that the rural poor of Cambodia, the majority of whom are women, are most vulnerable to climate change impacts because of their high dependence on agriculture and natural resources. This vulnerable group is very susceptible to diseases because of their limited resources and capacity to adapt to climate change impacts, including the lack of preparedness to cope with climate risks and hazards. Therefore, there is a need to mainstream gender into climate change response measures, such as into existing policies and laws, SCCSPs, in order for this cross-cutting issue to be supported by all government agencies especially at national and sub-national levels, development partners, NGOs, civil society organizations (CSOs), research and academia and the private sector.
+
+Education, Awareness and Communication
+
+Mainstreaming climate change knowledge and information into formal and non-formal education is the key principle to sustaining climate change awareness for a green, equitable and climate-resilient society. It is important to create an enabling environment for climate change education and awareness by developing and enhancing communication structures, systems and tools.
+
+5.3. Strategic Objectives and Strategies
+
+Strategic Objective 1: Promote climate resilience through improving food, water and energy security
+
+Strategies:
+
+a. Map sectoral contributions to the security of key systems; b. Engage relevant sectors and stakeholders in identifying response measures; c. Enhance institutional coordination mechanisms for coherent policy responses to climate change;
+
+d. Increase capacity to identify climate-induced opportunities in agricultural production systems, ecosystems and nature protected areas:
+
+ Agricultural diversification (e.g. crops, livestock, etc.)  Increase in productivity (e.g. crops, fisheries, livestock, forestry, etc.)  Opportunity for new crop varieties  Watershed and ecosystem management e. Facilitate businesses and industries which respond to carbon market opportunities for green trade and investment;
+
+f. Promote renewable energy and energy efficiency to reduce GHG emissions and impacts on health:
+
+ Renewable energy  Energy efficiency  Appropriate technology transfer  Solid waste and wastewater management through integrated measures in the capital, towns and populated areas, and animal waste management g. Develop decentralized energy production systems integrating the application of renewable energy, especially solar energy; h. Rehabilitate and build water infrastructures including small-, medium- and large-scale irrigation schemes;
+
+i. Build and rehabilitate climate-resilient rural road infrastructures and connect production areas to the market;
+
+j. Integrate climate change into Environmental Impact Assessment processes.
+
+Strategic Objective 2: Reduce sectoral, regional, gender vulnerability and health risks to climate change impacts
+
+Strategies:
+
+a. Use existing vulnerability and risk assessments, and conduct new ones where necessary, to prioritize adaptation measures for key regions of Cambodia, such as coastal zones, highlands, rural and urban areas; b. Implement key actions identified in the SCCSPs of the line ministries for addressing climate change impacts;
+
+c. Promote integration of the CCCSP into other national strategies such as the National Strategic Development Plan (NSDP) and the National Social Protection Strategy (NSPS);
+
+d. Promote community-based adaptation approaches and strengthen partnerships between development partners, civil society, the private sector and the Government;
+
+e. Promote the use of appropriate technologies on livestock and crop production for vulnerable farmers;
+
+f. Improve the efficiency of the fisheries sector management; g. Improve water and forest ecology, mangrove ecosystems, coastal zones and protected areas;
+
+h. Promote natural rubber production in a sustainable way by focusing on both adaptation and mitigation measures; i. Promote livestock production and protection of animal health in sustainable ways; j. Improve healthcare infrastructure and capacity of health personnel to cope with vector-borne and water-borne diseases in the context of climate change;
+
+k. Introduce technologies in water work development and rehabilitation in response to the negative impacts of climate change; l. Promote capital-intensive urban transport infrastructure planning and development; m. Enhance the quality of rural infrastructure (roads, irrigation, wells and culverts) to be resilient to flood and drought;
+
+n. Promote early warning systems; o. Prioritize women's needs in climate change adaptation and mitigation actions.
+
+Strategic Objective 3: Ensure climate resilience of critical ecosystems (Tonle Sap Lake, Mekong River, coastal ecosystems, highlands, etc.), biodiversity, protected areas and cultural heritage sites
+
+Strategies:
+
+a. Strengthen biodiversity conservation and restore ecosystems threatened by climate change;
+
+b. Promote and encourage community-based, ecosystem-based approaches and ecotourism as cost-effective ways of addressing climate change; c. Promote payment for ecosystem services including REDD+; d. Promote participatory land-use planning.
+
+Strategic Objective 4: Promote low-carbon planning and technologies to support sustainable development
+
+Strategies:
+
+a. Conduct sectoral analyses on low emission options and sources of emission (in agriculture, energy, transportation, industrial, land-use and forest management, and waste management);
+
+b. Prepare low-carbon development policies, legal frameworks and action plans in conformity with national development priorities; c. Promote appropriate technology transfer for low-carbon development (e.g. improving energy efficiency, renewable energy, etc.) and facilitate their diffusion through:
+
+ Guidelines, technical assistance and establishment of partnerships  Financial and fiscal incentives  Carbon market mechanisms  Mobilizing public-private partnerships; d. Promote low-carbon, climate-resilient city development planning and develop city-level coordination mechanisms (e.g. capital and provincial effective mass transport, modernization of wastewater treatment facility and landfill); e. Establish a system of registration for GHG mitigation projects and programmes; f. Establish a high quality national system for GHG inventory.
+
+Strategic Objective 5: Improve capacities, knowledge and awareness for climate change responses
+
+Strategies:
+
+a. Enhance the implementation of Article 6 of the UNFCCC on education, training, awareness, participation and access to information by the people, and international cooperation for climate change response; b. Strengthen existing channels for promoting awareness on climate change through government service providers, teachers, journalists, extension services, religious leaders and community elders;
+
+c. Develop targeted awareness programmes aimed at key audiences such as most-vulnerable groups, women, children, youths and minorities; d. Facilitate public access to information on climate change through radio, television, newspapers, mobile and web technologies and targeted outreach materials; e. Sensitize the private sector on threats and opportunities of climate change (technical support, financing and technology transfer), and develop public-private partnerships for communication; f. Integrate climate change into curricula for all levels of education; g. Strengthen education quality of teachers and build capacity of planning officers on teaching and learning methodologies of climate change;
+
+h. Strengthen the capacity for collection, analysis, modelling and interpretation of climate data and information dissemination to various end-users, including seasonal forecasting for adaptation and community early-warning facilities for disaster risk management;
+
+i. Improve the national weather monitoring and forecasting systems and develop partnerships for creating downscaled models of future climate; j. Develop early-warning systems and programmes for climate-related disaster management and recovery;
+
+k. Strengthen the role of universities in training, research and technology development by building international partnerships for climate research; l. Capitalize on lessons learned, local knowledge and good practices for development of policies and actions for adaptation and mitigation; m. Develop a 'knowledge management centre' for facilitating access to up-to-date information for climate change responses.
+
+Strategic Objective 6: Promote adaptive social protection and participatory approaches in reducing loss and damage due to climate change
+
+Strategies:
+
+a. Promote micro-financing to improve access to credits by local communities for climate change responses;
+
+b. Promote and encourage insurance schemes for reducing climate-risk and disaster burdens on society;
+
+c. Integrate gender into climate change response planning; d. Leverage the decentralization process to strengthen financial and institutional processes for local adaptation;
+
+e. Institute public engagement, participation and consultations as primary entry points for adaptation planning, promoting the involvement of multiple stakeholders including NGOs, community-based organizations (CBOs), youths, indigenous communities and the private sector;
+
+f. Promote public-private partnerships, including corporate social responsibility.
+
+Strategic Objective 7: Strengthen institutions and coordination frameworks for national climate change responses
+
+Strategies:
+
+a. Mainstream climate change into national and sub-national development plans and the NSPS;
+
+b. Reinforce the national institutional framework and inter-ministerial coordination in policy development;
+
+c. Strengthen roles and capacities of the NCCC Secretariat for coordination of climate financing and as a national implementing entity for global climate funds; d. Develop a national monitoring and evaluation framework for climate change responses and integrate it into the NSDP and the NSPS; e. Encourage all ministries to develop Sectoral Climate Change Strategic Plans and action plans, and to engage in the CCCSP process;
+
+Strategic Objective 8: Strengthen collaboration and active participation in regional and global climate change processes
+
+Strategies:
+
+a. Promote regional cooperation on climate change within inter-governmental and non-governmental mechanisms:
+
+ Implementation of commitments under the UNFCCC  Cooperation under ASEAN framework  South-South and North-South collaboration  Trans-boundary initiatives, e.g. within the Mekong River Basin framework  Cooperation through the Clean Development Mechanism (CDM), carbon market mechanisms and other relevant carbon credit schemes.
+
+b. Strengthen the national institutional platform for coordinating consultation on national positions and responses to current and future issues for international negotiations on climate change;
+
+c. Reinforce negotiation skills to effectively represent Cambodia in international climate change processes, and improve capacity for implementation of international obligations;
+
+d. Actively engage with regional and global initiatives and programmes for cross-learning and sharing Cambodia's experience on climate change with the international community;
+
+e. Secure climate funds from international funding mechanisms.
+
+6.
+
+ACTIVITIES
+
+The present strategic plan provides a broad framework for the implementation of climate change responses in Cambodia. There is a need for the development of action plans and relevant mechanisms, such as financing mechanisms, monitoring and evaluation frameworks, and legal frameworks to implement the CCCSP and to provide a solid foundation for mobilizing resources.
+
+6.1.
+
+Phases for the Implementation of the CCCSP
+
+Operationalization of the CCCSP will follow the phases below:
+
+ In the immediate term (2013 - 2014): Institutional and financial arrangements for the implementation of the CCCSP will be put in place, together with the establishment of a national M&E framework. During this phase, detailed and prioritized action plans (2014
+
+- 2018) will be developed by concerned line ministries and agencies, including a specific action plan for strategic knowledge management and coordination functions;  In the medium term (2014 - 2018): This phase will continue to support planned actions in Phase 1 but will be expanded to include activities such as the establishment of a nationally accredited mechanism for the Adaptation Fund and Green Climate Fund,
+
+research and knowledge-management activities, capacity development and climate change mainstreaming at various sectoral levels, operationalization of the M&E and data management systems, and launching a few high-priority projects/programmes in each key sector as specified in their Climate Change Action Plans. Initially, more emphasis will be put on adaptation activities, but preparatory assistance will be provided to gradually scale up the mitigation component. During this phase, climate change finance for national and sub-national planning, budgeting and implementation modalities will begin and gradually increase. In addition, Cambodia will establish appropriate institutions with sufficient capacity and full credibility for direct access to the Adaptation Fund and Green Climate Fund;  In the long term (2019 - 2023): This Phase will continue to focus on research and learning. The main objectives of this phase will be to scale-up successful pilots and carry on with the mainstreaming of climate change at national and sub-national levels. This will involve an increased use of budget support for national programmes, including implementation of climate change response measures through sub-national administrations.
+
+More information is provided below on activities to be implemented in the immediate term phase.
+
+Institutional Arrangements
+
+At a national level, the NCCC will have overall responsibility for the management and monitoring of CCCSP implementation with technical support from the CCTT and administrative support from the NCCC Secretariat.
+
+It is necessary to review and refine the mandate, roles and functions of the climate change institutions to reflect their specific responsibilities in the management and monitoring of the CCCSP. The NCCC Secretariat shall legally function as an inter-ministerial body under the NCCC, which has a full mandate and authority to play its cross-cutting coordination role, and it should also have the capacity and full eligibility of accreditation for global climate funds. The required
+
+legal processes will be detailed in the action plan for strategic, knowledge-management and coordination functions.
+
+At line-ministry level, climate change focal points and/or working groups have already been established. The responsibilities of these focal points and working groups will be clarified in the near future, in particular their relationship with other line ministry departments, to ensure that the planning of sectoral policies, programmes and investments fully takes into account climate change risks and opportunities.
+
+At the sub-national administration level, guidelines on development planning in the context of climate change will be put in place by June 2014 under the leadership of the NCCC-Secretariat. These guidelines will build on the wealth of experience generated in recent years through pilot projects, mostly at commune level. To the extent possible, these guidelines will include recommendations on collaboration between the various levels of sub-national administration (province, district/municipality and commune/sangkat), and in particular the modalities for communes to access climate change technical expertise from line departments located at the district or provincial level.
+
+Developing Action Plans
+
+All relevant ministries will develop prioritized action plans and estimate the cost to implement their SCCSPs with technical and financial support from the NCCC Secretariat. These action plans will be closely aligned with the relevant sector strategies. A specific action plan will also be developed for coordination functions, including the roles of NCCC, CCTT and the NCCC Secretariat. Guiding principles for the development of these action plans are included in Section 6.2 below.
+
+Developing Climate Change Financing Framework
+
+The financing of the CCCSP will involve a number of different funding modalities, with a mix of traditional instruments and new instruments related to climate finance. There is a need to ensure that these various modalities are properly coordinated, and that potential funding partners have a clear overview of the costs and prioritization of activities under the CCCSP. The
+
+NCCC and the CCTT will lead the formulation of a Climate Change Financing Framework, which will support a programme-based approach for climate change responses in Cambodia.
+
+Developing M&E Framework
+
+A national M&E framework is under development and will be finalized by mid-2014. It will be compatible and integrated with the national M&E system. Further details on the M&E framework for this strategic plan are presented under Section 8 below.
+
+Developing Climate Change Legal Framework
+
+A climate change legal framework is important to support the implementation of the CCCSP by mainstreaming climate change issues into related policies and core legislation. This will allow for enforcement and compliance with key policy recommendations related to climate change responses.
+
+6.2.
+
+Programming and Development of Action Plans
+
+The implementation of the CCCSP will require a programme-based approach to ensure the strategic coordination and prioritization of activities. Besides using risk-based programming, activities which promote or support capitalizing on opportunities and expanded benefits and co-benefits to society and systems will be encouraged. Details of the action plan are provided in a separate document as required by the Council of Ministers. The following principles will be followed in the development of the programme, which will be based on sectoral action plans.
+
+Timeframe
+
+The CCCSP has a 10-year timeframe (2014 - 2023), with a mid-term review scheduled for 2018. The sectoral action plans (and the corresponding overall programme) will be developed for an initial phase of five years (2014 - 2018), in line with the national planning and M&E timeframe (NSDP 2014 - 2018). Action plans will use appropriate methods for prioritization and phasing, including, but not limited to, vulnerability analysis and mapping, and cost-benefit analysis.
+
+Building on the Strategies of Line Ministries
+
+The action plans to be included in the CCCSP programme will not be developed as stand-alone 'silos' within the respective ministries. Some dedicated climate change actions will be required, but most actions will be related to existing public investment portfolios within the ministries. In all cases, the action plans will be closely integrated within the standard planning and management arrangements of concerned ministries. This will include the reflection of climate change related actions in the budget process and the development of climate sensitive indicators in sectoral M&E frameworks.
+
+Cross-Cutting Issues
+
+Programming under the CCCSP will also target common issues shared by all sectors such as gender, social protection, research, education, awareness and communication, M&E, climate financing and knowledge management.
+
+Integrated Programming
+
+Due to the cross-cutting nature of climate change, integrated programming is critical to capitalize on interdisciplinary, multi-sectoral, multi-stakeholder and multi-dimensional approaches in programming response actions. All concerned ministries and agencies will be asked to consider links with other sectors when developing their action plans, and the NCCC Secretariat will provide dedicated support to review these links.
+
+Partnerships
+
+It is important to recognize that development partners, NGOs (both national and international), the private sector and local communities and organizations are important actors in the downstream implementation of climate change activities, as well as in research and development and learning associated with climate change. While this strategic plan is a government document focusing on the use of public resources, it is essential that these resources are used to catalyse broader action and responses to climate change by other actors. Government agencies will be encouraged to engage all relevant partners in the development of their action plans, and to identify partnerships in their action plans.
+
+7.
+
+FINANCING RESOURCES
+
+7.1.
+
+Principles
+
+The CCCSP, together with the related action plans, will provide a strategic framework for the programming of climate change interventions in Cambodia. National climate change financing mechanisms shall support this strategic approach through the application of the following principles:
+
+ Alignment with national priorities: The use of financial resources shall respond to national priorities through funding programmes and projects identified in action plans under the CCCSP. All proposed climate change financing shall be subject to NCCC review and approval.
+
+ Pooling resources: In order to minimize transaction costs, climate change finance shall be provided whenever possible through pooled funding mechanisms. These include any existing pooled funding mechanisms in relevant sectors, and the possibility of a dedicated climate change fund.
+
+ Use of national systems and procedures: The RGC's preferred modality for climate change financing over the medium to long term is direct budget support. However, as climate change is a relatively new field, a transitional period will be required to put in place adequate monitoring, evaluation and financial tracking systems to effectively assess the impact and efficiency of climate change budget support. A national climate fund may be set up to receive domestic and external financial support and allocate it to high priority climate change projects.
+
+ Subsidiarity: While climate change financing will need to be coordinated by the NCCC to ensure alignment with national priorities, financing mechanisms shall ensure that the resources are managed by the most qualified line ministries or local governments. The NCCC Secretariat shall act as an implementer only for strategic or cross-cutting projects, which do not naturally fit within the mandate of another line ministry or sub-national administrations.
+
+7.2.
+
+Approach
+
+The development of a climate change financing framework for Cambodia will require a number of steps. A Climate Public Expenditure and Institutional Review (CPEIR) was conducted in 2012 and provided initial information on the current status of climate change expenditures in Cambodia, and associated capacity challenges.
+
+The CPEIR estimated that over the period 2009 - 2011, an average 15.8% of public expenditures were relevant to climate change. This is a fairly high level compared to other countries in the region. Climate financing should aim not only at attracting new resources, but also at improving the efficiency and effectiveness of these already significant climate-related expenditures. These existing funds are not always well coordinated, as they come mostly through sector-specific projects (60%), and their interventions are not systematically assessed from a climate change perspective. Dedicated climate change funding, either from bilateral/multilateral donors or through global climate funds, represents only 40% of the total. Within the coming years, it is expected that the share of dedicated climate change financing will grow. This is an opportunity for Cambodia as these funds can, in principle, be allocated to priority sectors and programmes, as defined in this CCCSP. Some projects will continue to be funded through traditional channels, but pooling mechanisms could be put in place to fund high relevance projects (including institutional capacity development on climate change), top-up existing projects which require climate-proofing, and continue to pilot innovative approaches to climate change adaptation and mitigation.
+
+Public expenditure through sub-national administrations is still relatively small at the moment (5 - 6% of total state expenditure), but very important for climate change adaptation initiatives, which need to provide support for better climate resilience at the community level. Future financing mechanisms should include appropriate procedures and instruments to mainstream climate change in sub-national planning and budgets.
+
+It will be important to regularly monitor the evolution of climate change expenditures and their alignment with CCCSP and NSDP priorities, as well as their efficiency and effectiveness. Regular
+
+reviews will be conducted to update information obtained from the initial CPEIR, and mechanisms to mainstream climate change in the national budget process will be established.
+
+In 2014, the following actions will be taken to put in place a credible, attractive and effective climate change financing framework for Cambodia:
+
+ An analysis of resource mobilization opportunities (domestic and external), both at the national level and in prioritized sectors;  A costing of the CCCSP and SCCSPs, with prioritization of high relevance projects;  A costing of the socio-economic impacts of non-action and net benefits of various response scenarios in order to provide a basis for prioritization of expenditures per sector/sub-sector;
+
+ An analysis of best national practices and relevant international practices in the management of pooled funding arrangements, and recommendations on proposed arrangements for national and sub-national climate financing mechanisms;  An analysis of capacity gaps and recommendations to develop national and sub-national capacities to manage the proposed climate change finance mechanisms. This should also include recommendations for further work on possibilities to mobilize private finance for adaptation and mitigation activities.
+
+This will lead to the establishment of a programmatic framework, based on action plans in priority sectors and aligned with the NSDP 2014 - 2018.
+
+7.3.
+
+Management and Institutional Arrangements for Implementation
+
+The Climate Finance Sub-group of the CCTT is composed of the Ministry of Economy and Finance (MEF), MoE, Ministry of Planning, Council for the Development of Cambodia / Cambodia Rehabilitation and Development Board (CDC/CRDB) and the National Committee for Sub-National Democratic Development Secretariat (NCDD-S). This group shall lead the development of a national climate change financing framework, to be submitted to the NCCC by 2014.
+
+While the exact financing mechanisms remain to be determined, it is clear that domestic finance and the three main external sources of climate finance (global climate funds, bilateral climate funds and climate change related activities integrated in traditional sector projects) will need to be coordinated and aligned with the CCCSP. Coordination between 'vertical' projects and pooled funding mechanisms will also be required.
+
+As per CDC/CRDB policy, the RGC's preferred approach to manage these various modalities is the adoption of a Programme-based Approach (PBA). The NCCC will put in place appropriate structures for the management of a climate change PBA, including a structure for dialogue and coordination with donors. This PBA will accommodate various modalities of financing, but it will provide a single engagement point and framework for coordinated planning and M&E of climate change related interventions in Cambodia. The NCCC Secretariat shall act as the secretariat for this PBA. Coordinated capacity development support will be required to establish these mechanisms.
+
+8.
+
+MONITORING AND EVALUATION
+
+The impacts of climate change on ecosystems and society are complex; addressing them through adaptation requires a coordinated response across multiple sectors and scales. Establishing a low-carbon development path and contributing to mitigation efforts requires new technologies and cross-cutting policies. Given the complexity of these actions and the technical issues associated with evaluating their effectiveness and impacts, M&E of mitigation and adaptation responses poses a new set of challenges. The CCCSP recognizes the importance of addressing these challenges by establishing a national framework for M&E of climate change, with the vision of integrating the framework into national and sub-national development planning processes. Developing and mainstreaming the M&E framework will be a long-term effort of strategic relevance, as it will create an enabling environment based on accountability and learning. Improved accountability will facilitate access to new international climate finance, and learning from investments will generate new knowledge critical for future policy development. The aim of the national framework for M&E of climate change is to:
+
+ Measure to what extent adaptation efforts have been effective in keeping development on track in a changing climate;
+
+ Monitor climate change mitigation actions and low-carbon development policies;  Generate evidence and lessons as a basis for future policy development;  Facilitate the coherent integration of M&E of climate change in national development planning and key sectors;
+
+ Provide the information required to fulfil the reporting obligations towards the UNFCCC and development partners.
+
+8.1.
+
+Principles
+
+The principles that underpin the framework are:
+
+ Using national systems and procedures: The framework will be integrated with the National M&E System. Indicators and monitoring procedures will rely as much as possible on data currently monitored by relevant line ministries. They will also be compatible with the guidelines of the Ministry of Planning for the National M&E System. The framework will systematize and build on the on-going initiatives for monitoring and reporting of GHG emissions.
+
+ Mainstreaming M&E of climate change into national, sectoral and sub-national development planning: Climate change can potentially undermine the achievement of the development targets set in the NSDP and sectoral development strategies. Procedures and indicators for tracking climate change responses will be integrated in the National M&E System and will constitute the reference for tracking the effectiveness of climate change sectoral strategic and action plans at national and sub-national levels.  Strengthening accountability, equity and transparency: The framework will provide a way for measuring to what extent resources have been efficiently and effectively used to achieve the targets set in policies and action plans, thus improving accountability towards the public, state institutions, civil society and international donors.
+
+ Promoting participatory learning: Developing climate change response policies and measures is a relatively new endeavour in Cambodia and globally. Generating a solid evidence base of what policies and measures have proven to be effective is therefore essential to informing future policymaking. The framework will hence focus on generating knowledge through participatory approaches and will support identification and sharing of lessons learned.
+
+ Addressing gender issues: Women and disadvantaged groups are often among those more severely affected by climate change impacts. The framework will address gender equality, gender-sensitive performance in climate change responses and gender mainstreaming in climate change responses.
+
+8.2.
+
+Approach
+
+The national framework for M&E of climate change responses will be developed referring to international best practices. A concept note will be prepared to quantify and mobilize the resources required for fast-starting the development of the framework. The framework will be developed by 2014 and will include: a theory of change, an indicators framework with baseline and targets for tracking CCCSP and the related action plans, procedures for data collection, guidelines for analysis and reporting, guidelines for integration of knowledge management, learning and sharing of results, guidelines for integration within M&E systems of line ministries and agencies, and detailed institutional arrangements and coordination mechanisms.
+
+The indicators framework will include two categories measuring institutional response for climate change management and development performance in a changing climate:
+
+ Upstream indicators, tracking effectiveness of climate risk management: This will include indicators related to the institutional framework, mainstreaming of climate change in policies and planning processes, climate financing, capacities of institutions, equity and transparency, and engagement of stakeholders and the private sector.
+
+ Downstream indicators, tracking changes in the development situation, emissions and climate vulnerability of communities and ecosystems: The indicators will include
+
+national development statistics, indicators aggregated from sectors and individual adaptation and mitigation projects. Results will have to be assessed alongside climate trends and incidence of climate extremes.
+
+A set of indicators for inclusion in the NSDP will also be identified. A plan outlining activities, capacity development and costing for long-term implementation and mainstreaming of the framework within line ministries will be prepared.
+
+In the medium term (2014 - 2018) the framework will be operationalized at sectoral level by priority line ministries and projects, selected depending on capacities and resources available. Integration of M&E into local planning will be pilot tested. Adequate resources will be front-loaded in the selected projects to cover additional costs for specialized technical capacities in M&E of climate change, collection of baselines, and development of theories of change, learning and knowledge management.
+
+During this phase, a network of sites for long-term monitoring will be established for assessing the effectiveness and sustainability of adaptation and mitigation measures tested through pilot projects. The sites will be identified in vulnerability hotspots, such as critical ecosystems, and in areas where pilot interventions have shown promising results. This system will generate evidence that will be stored in a national database of approaches and technologies, which will be managed by the NCCC Secretariat in coordination with line ministries and development partners.
+
+In the long term (2019 - 2024) the framework will be revised based on the lessons emerging during the piloting phase, and mainstreamed in the remaining line ministries and in subnational and local planning.
+
+8.3.
+
+Management and Institutional Arrangements for Implementation
+
+The NCCC Secretariat shall act as the secretariat for coordinating the development and implementation of the framework. The Secretariat will also be responsible for producing the CCCSP annual progress report, in coordination with the NSDP annual progress review. A unit in
+
+charge of M&E will be established within the Secretariat. A coordination mechanism within the Ministry of Planning will be established for the integration of the framework within the M&E system of NSDP.
+
+M&E sub-group of the CCTT shall be established to coordinate data exchange and the mainstreaming of the framework within line ministries. Indicators, procedures and responsibilities for data collection will be agreed with the concerned line ministries, the National Institute of Statistics, and other parties interested in actively engaging in the process.
+
+A partnership with research institutions and academia for managing the network of sites for long-term monitoring will be explored. This arrangement could also be used for organizing ad hoc evaluation studies of adaptation and mitigation effectiveness based on the data generated by the network.
+
+9.
+
+CONCLUSION
+
+The RGC has launched the CCCSP as a continuation of national policy response, in providing a framework for climate change responses and guiding the transition to low-carbon and climate resilient development. The CCCSP supports national preparedness in responding to climate risks and disaster management, and in capitalizing on emerging opportunities such as green growth, mobilizing climate funds from bilateral and multilateral sources, and enhancing effective participation in international dialogues and negotiations on climate change, both at regional and global levels.
+
+The CCCSP will enhance the capacity to address climate impacts on national development processes through a coordination of efforts to reduce the vulnerability of people and natural systems that support livelihoods and drive national economic growth and prosperity. The implementation of the CCCSP will strengthen national capacity, raise awareness and inform decision-making processes using actionable knowledge developed through the implementation of priority actions, in providing evidence-based information and learning pathways for sustainable solutions. Partnership building and public-private sector engagement will constitute the platform for active participation and mobilization of resources for the implementation of the strategy.
+
+ANNEX
+
+Annex 1.
+
+Mapping the Objectives of SCCSP to the Strategic Objectives of the CCCSP
+
+Alongside the development of CCCSP, relevant ministries and agencies developed their Sectoral
+
+Climate Change Strategic Plans (SCCSPs). Measures were taken for alignment between the
+
+CCCSP at the national level and the sectoral strategic plan during the development process, and
+
+establishing the relationship between the strategies in avoiding duplication, as they target
+
+different levels of application. The strategic objectives of the CCCSP were formulated in part
+
+based on the strategic objectives of the SCCSP of the line ministries. The line ministries
+
+included: the Ministry of Environment (MoE); Ministry of Agriculture, Forestry and Fisheries
+
+(MAFF); Ministry of Industry, Mines and Energy (MIME); Ministry of Education, Youth and Sport
+
+(MoEYS); Ministry of Health (MoH); Ministry of Women's Affairs (MoWA); Ministry of Water
+
+Resources and Meteorology (MoWRAM); Ministry of Public Works and Transport (MPWT);
+
+Ministry of Rural Development (MRD); and the National Committee for Disaster Management
+
+(NCDM).
+
+Table 1: Mapping the objectives of SCCSP to the strategic objectives of the CCCSP
+
+1. Promote climate resilience through improving food, water and energy security
+
+MoE  Promote and engage participation of stakeholders and sectors in identification of climate change response measures.  Strengthen coordination mechanisms for coherent policy response to climate change.  Increase capacity for identification of opportunities resulting from climate change in the agricultural production system, ecosystems and protected areas.  Facilitate businesses and industries that respond to carbon market opportunity for green trade and investment.  Management of solid waste and waste water through integrated approach in the capital, towns, populated areas, and management of animal waste.  Integrate climate change into Environmental Impact Assessment processes.
+
+MAFF  Enhance GHG emission reduction from deforestation and forest degradation, livestock and crop production.
+
+proper agriculture technology usage.
+
+MIME  Resource mobilization through technical and finance support.
+
+MoH  Improve health care infrastructure and capacity of health personnel to cope with vector-borne and water-borne diseases in the context of climate change.
+
+MPWT  Improve petroleum-based fuel.
+
+MRD  Support adaptation to climate change through creating local business opportunities that focus on micro-credit provision for socio-economic development.
+
+MoE  Use results of the existing vulnerability and risk assessment, and conduct new study and assessment as necessary.  Promote implementation of adaptation measures at the community level, including strengthening partnerships among the Government, development partners, civil society and the private sector.  Enhance forest ecosystems, flooded forest ecosystems, coastal ecosystems and natural protected areas.
+
+MAFF  Improve the use of new technologies on livestock and crop production by vulnerable farmers.  Improve the effectiveness of interventions on rescue and damage restoration.  Improve the efficiency of fisheries management.  Enhance community fisheries management.  Promote natural rubber production in a sustainable way by focusing on adaptive measures, and mitigate climate change.  Promote livestock production development and protect animal health in sustainable ways.
+
+MIME  Integrate the gender concept into SCCSP.
+
+MoEYS  Strengthen the quality of teacher education and training of education planners for teaching and learning methodologies on climate change.  Build schools that respond to climate change adaptation and disaster risk management.
+
+2. Reduce sectoral, regional, gender vulnerability and health risks to climate change impacts
+
+MoWA for prioritizing women's needs for climate change adaptation and mitigation actions.
+
+MoWRAM  Introduce technologies in water work development and rehabilitation in order to respond to the negative impacts of climate change.
+
+MPWT  Promote capital-intensive urban transport infrastructure development and planning.
+
+MRD  Strengthen the quality of rural infrastructure (roads, irrigation systems, wells and culverts) to be resilient to flood and drought.  Create policies and study profiles to make rural infrastructure development (roads, irrigation systems, wells, ponds and bridges) resilient to climate change.
+
+NCDM  Increase attention on risks.  Promote the early warning system.
+
+3. Ensure climate resilience of critical ecosystems (Tonle Sap Lake, Mekong River, coastal ecosystems, highlands, etc.), biodiversity, protected areas and cultural heritage sites
+
+MoE  Strengthen biodiversity conservation and rehabilitation of ecosystems affected by climate change.  Encourage and promote community-based solutions, ecosystem-based solutions and ecotourism as effective ways to respond to climate change.  Promote Payment for Ecosystem Services (PES), including REDD+.
+
+MAFF  Encourage conservation and management of forest resources in a sustainable manner.  Promote the development and improved efficiency of fisheries sector management.  Improve forest ecology and flooded forest protection.  Promote forest conservation and management in a sustainable way.  Promote conservation and management of fisheries and aquaculture in a sustainable way.
+
+MoWRAM  Develop long-term water resource integrated planning, providing the best chance of minimizing the negative effects of sea-level rises.
+
+MoE  Develop policy, legal framework and action plan for low-carbon development to be consistent with national development priorities.
+
+ Promote transfer of appropriate technologies for low-carbon development.
+
+MAFF  Enhance GHG emission reduction from deforestation and forest degradation, livestock and crop production and primary production.
+
+MIME  Support and establish laws, policies, technical guidelines and technical manuals regarding climate change impacts on manufacturing, industrial and energy sectors.
+
+MPWT  Enhance inspection and maintenance of vehicles.  Promote public transport in major cities.  Efficient and proven transport technology for mitigation and low-carbon development.  Promote efficient driving.
+
+MoE  Strengthen implementation of Article 6 of the UNFCCC.  Strengthen existing channels for promoting awareness on climate change.  Sensitize the private sector on threats and opportunities of climate change, and develop public-private partnerships for communication.  Strengthen the capacity for collection, analysis, modelling and interpretation of climate data and information dissemination to various end-users.  Capitalize on lessons learned, local knowledge and good practices for development of policies and actions for adaptation and mitigation.  Develop a 'knowledge management centre' for facilitating access to up-to-date information for climate change response.
+
+MAFF  Improve human and institutional capacity on new technology on crops, rubber, livestock production, forestry and fisheries that have adaptive capability to drought, flood, temperature rise, saline intrusion and destruction from insects and disease.
+
+5. Improve capacities, knowledge and awareness for climate change responses
+
+ Promote human resource development essential to contribute to adaptation and the reduction of impacts on crop production, rubber, livestock, forests and fisheries resources.
+
+ Provide educational training on information dissemination, transfer and sharing.
+
+ Develop capacity on using appropriate technologies that do not affect public health.
+
+ Develop capacity on using appropriate technologies that do not affect public health (livestock production).
+
+ Enhance capacity on climate change understanding (fisheries sector).
+
+MIME  Strengthen human resource capacity, skills, experiences and institutional development.  Develop and promote communication, information-sharing and strategies that are environmentally sound and green, regarding manufacturing, industry and energy.  Encourage the establishment of research and technology development.
+
+MoEYS  Improve education policies, analyses, research and planning for climate change.  Strengthen the quality of teacher education and training of education planners for teaching and learning methodologies on climate change.  Conduct curriculum training on adaptation, disaster risk management and resilience to climate change.  Raise awareness on climate change and enhance non-formal education programmes through media, networking and partnerships.
+
+MoH  Improve healthcare infrastructure and capacity of health personnel to cope with vector-borne and water-borne diseases in the context of climate change.  Improve knowledge and research capacity on health impacts and vulnerability to climate change as an information base for mainstreaming climate change into the health strategic planning of MoH, and other sectoral planning.
+
+MoWA  Increase the level of awareness of public policymakers on the importance of gender equality in climate change adaptation and mitigation, to achieve sectoral goals in climate change.  Enhance national capacities to plan, implement and monitor gender-
+
+MoWRAM resources management and development to all water-related sectors' development aspects at local, provincial and national levels through TV spots, radio and media campaigns.
+
+ Build staff capacity on water resources and climate change through long-term studies, short-course trainings and exchange study tours in and out of the country and the region.
+
+ Strengthen the capacity of local farmers, especially farmer water user community (FWUC) members, on the selection of less-water crop varieties, and the planning of a less-water crop system for climate change adaptation.  Establish a data management system for collecting and sharing data and information on water resources-related climate change issues and adaptation/mitigation capacity to related stakeholders.
+
+ Establish and/or improve networks for meteorology and hydrology to manage and control, for example, the impacts of temperature, rainfall, flood, drought and weather.
+
+ Build a reliable and predictable meteorological service.  Improve human resource capacity at national and provincial levels to meet the requirements of a high-quality meteorological information service provider.
+
+ Set up a national early warning system, and provide information related to air pollution.
+
+MPWT  Raise public awareness about climate change caused by GHG emissions from the transport sector.
+
+MRD  Support adaptation to climate change through increasing rural awareness about the concepts of climate change and response options.  Provide capacity development to village development committee members on climate change adaptation and mitigation options, and use other scientific knowledge which can be adapted for use by local people (primary health care, water sanitation, research results dissemination and community development).
+
+NCDM  Build disaster resilience and climate change adaptation capacity at all levels through education.
+
+6. Promote adaptive social protection and participatory approaches in reducing loss and damage due to climate change
+
+MoE  Leverage the decentralization process to strengthen financial and institutional processes for local adaptation.  Institute public engagement, participation and consultations as primary entry points for adaptation planning, promoting the involvement of multiple stakeholders including NGOs, community-based organizations (CBOs), youths, indigenous communities and the private sector.  Enhance public-private sector partnerships including corporate social responsibility.
+
+MIME  Encourage and motivate the private sector's participation into SCCSP.  Integrate the gender concept into SCCSP.
+
+MoWA  Increase women's participation in climate change policy making.  Establish funding rules for gender and climate change initiatives and make operational through gender-responsive budget in the current and upcoming projects/programmes/policies (both external and national sources).  Identify effective mechanisms for scaling up the proven experiences on gender and climate change.  Elicit and analyse lessons and best practices of gender and climate change for sharing and learning in national, regional and global forums.
+
+MoWRAM  Strengthen the capacity of local farmers, especially FWUC members, on the selection of less-water crop varieties, and the planning of a less-water crop system for climate change adaptation
+
+MRD  Support adaptation to climate change through creating local business opportunities that focus on micro-credit provision for socio-economic development.
+
+NCDM  Link climate change adaptation and disaster risk reduction.
+
+7. Strengthen institutions and coordination frameworks for national climate change responses
+
+MoE  Reinforce the national institutional framework and inter-ministerial coordination in policy development.  Strengthen the role and capacity of NCCC-Secretariat.  Develop a national monitoring and evaluation framework for climate change.  Encourage line ministries to develop a sectoral climate change strategy and plan.
+
+MIME development.
+
+ Mobilize resources through technical and financial support.
+
+MoEYS  Improve education policy, analyses, research and planning for climate change.
+
+MoWA  Enhance national capacity to plan, implement and monitor gender-integrated climate change adaptation and mitigation initiatives.
+
+MoWRAM  Mobilize and secure financial resources for programmes/projects, research and development on water resources-climate change adaptation or mitigation, from both government agencies and development partners.  Strengthen cooperation and coordination mechanisms among different sector agencies at local, national, regional and international levels, applying Integrated Water Resources Management (IWRM) aspects to the climate change adaptation and mitigation response.
+
+MPWT  Shift long-distance freight movement from truck to train.
+
+8. Strengthen collaboration and active participation in regional and global climate change processes
+
+MoE  Promote regional cooperation on climate change within inter-governmental and non-governmental mechanisms.  Strengthen the national institutional platform for coordinating consultation on national positions and responses to current and future issues for international negotiations on climate change.  Reinforce negotiation skills to effectively represent Cambodia in the international climate change processes, and improve capacity for implementation of international obligations.  Actively participate in regional and global initiatives and programmes for cross-learning and sharing Cambodia's experience on climate change with the international community.  Secure climate funds from international funding mechanisms.
+
+MoWRAM  Strengthen cooperation and coordination mechanisms among different sector agencies at local, national, regional and international levels, applying IWRM aspects to the climate change adaptation and mitigation response.  Extend climate networking nationally and internationally.
+
+MPWT  Enhance traffic management.
+
+Annex 2. Mapping the Priorities of NSDP Update 2009 - 2013 to the Strategic
+
+Objectives of the CCCSP
+
+Climate Change Priorities in NSDP Update 2009 - 2013
+
+Strategic Objectives of CCCSP
+
+ Prepare a National Strategy and Action Plan for Climate Change
+
+ Promote and coordinate the mainstreaming of climate change in concerned sectors 1. Promote climate resilience through improving food, water and energy security
+
+ Promote the implementation of and update the National Adaptation Programme of Action on climate change (NAPA)
+
+2. Reduce sectoral, regional, gender vulnerability and health risks to climate change impacts
+
+3. Ensure climate resilience of critical ecosystems (Tonle Sap Lake, Mekong River, coastal ecosystems, highlands, etc.), biodiversity, protected areas and cultural heritage sites
+
+ Further identify and foster the implementation of the Clean Development Mechanism and GHG reduction projects 4. Promote low-carbon planning and technologies to support sustainable development  Decentralize the preparation of GHG inventory and set up a database management system
+
+ Educate and inform the public on climate change 5. Improve capacities, knowledge and awareness for climate change responses
+
+6. Promote adaptive social protection and participatory approaches in reducing loss and damage due to climate change
+
+Secretariat of the National Climate Change Committee 7. Strengthen institutions and coordination frameworks for national climate change
+
+ Promote the establishment of a national fund for climate change responses
+
+ Continue preparing the Second National Communication under the United Nations Framework Convention on Climate Change 8. Strengthen collaboration and active participation in regional and global climate change processes
+
+ Mobilize resources and support to address climate change

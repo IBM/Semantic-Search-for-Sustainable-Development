@@ -1,0 +1,2433 @@
+no title
+
+PAPUA NEW GUINEA
+
+MEDIUM TERM DEVELOPMENT PLAN 2
+
+2016-2017
+
+"Pathway to a Responsible Sustainable Future"
+
+Department of National Planning and Monitoring
+
+A smarter approach to development...
+
+((c)) David Kirkland
+
+PAPUA NEW GUINEA
+
+MEDIUM TERM DEVELOPMENT PLAN 2
+
+2016-2017
+
+"Pathway to a Responsible Sustainable Future"
+
+Department of National Planning and Monitoring
+
+For more information contact:
+
+Department of National Planning and Monitoring
+
+PO Box 631
+
+Waigani National Capital District Papua New Guinea
+
+Telephone: +675 3288302/3288324 Facsimile: +675 3235504/3288384
+
+Published by:
+
+Department of National Planning and Monitoring
+
+Port Moresby
+
+Papua New Guinea
+
+March 2015
+
+ISBN: 978-9980-86-261-7
+
+Copyright
+
+Cover Photo: Courtesy of Papua New Guinea Tourism Authority ((c)) David Kirkland
+
+Contents
+
+Acronyms and Abbreviations _________________________________________________ 06 Introduction by The Prime Minister___________________________________________ 07 Foreword by The Minister For Planning and Monitoring________________________ 08 Acknowledgements by The Secretary For DNPM_______________________________ 11 Executive Summary__________________________________________________________ 13
+
+Chapter 1: Planning, Implementation and Monitoring______________________ 17 1.1 Introduction________________________________________________________ 17 1.2 The National Planning Framework___________________________________ 20 1.3 The Medium Term Development Plan2 2016-2017___________________ 26 1.4 National Planning Legislation_______________________________________ 27 1.5 The National Service Delivery Framework____________________________ 27 1.6 The National Monitoring and Evaluation Framework_________________ 29
+
+Chapter 2: Resourcing and Implementation ________________________________ 33 2.1 Introduction________________________________________________________ 33 2.2 Resourcing_________________________________________________________ 34 2.3 Implementation_____________________________________________________ 39
+
+Chapter 3: Priority Sectors_________________________________________________ 47 3.1 Introduction________________________________________________________ 47 3.2 Education__________________________________________________________ 48 3.3 Health _____________________________________________________________ 49 3.4 Infrastructure ______________________________________________________ 51 3.5 Law and Justice____________________________________________________ 59 3.6 Land and Housing__________________________________________________ 60
+
+Chapter 4: The Economy ___________________________________________________ 63 4.1 Introduction _______________________________________________________ 63 4.2 Small and Medium Enterprises______________________________________ 65 4.3 Strategic Assets ____________________________________________________ 66 4.4 Forestry and Biodiversity___________________________________________ 66 4.5 Fisheries and Marine Resources ____________________________________ 67 4.6 Agriculture and Livestock __________________________________________ 68 4.7 Water Resources ___________________________________________________ 70 4.8 Clean and Renewable Energy _______________________________________ 70 4.9 Minerals and Petroleum Resources _________________________________ 73 4.10 Cultural and Eco-Tourism __________________________________________ 76
+
+Chapter 5: Monitoring and Evaluation______________________________________ 79 5.1 Introduction _______________________________________________________ 79 5.2 Reforming the National Statistical Office and Civil Registry __________ 82 5.3 The National Identity Program ______________________________________ 83 5.4 Monitoring and Evaluation within DNPM ____________________________ 83 5.5 Key Government Targets and Indicators ____________________________ 84
+
+Acronyms and Abbreviations
+
+ALH Affordable Land and Housing BPNG Bank of Papua New Guinea CAM Critical Activity Matrix CAR Civil Aviation Rules CODEX The the organisation for international food standards CRS Civil Registration System CSTB Central Supplies & Tenders Board
+
+CYP Couple Years of Protection DDA District Development Authority DHS Demographic and Health Survey
+
+DHQ District Headquarters DNPM Department of National Planning and Monitoring
+
+DSIP District Service Improvement Program
+
+DoH Department of Health DSP Development Strategic Plan 2010-2030
+
+EEZ Exclusive Economic Zone GDP Gross Domestic Product HDI Human Development Index ICAO International Civil Aviation Organization
+
+ICT Information Communication Technology
+
+LNG Liquefied Natural Gas LLGSIP Local Level Government Services Improvement Program MDG Millennium Development Goals MTDP1 Medium Term Development Plan1
+
+MTDP2 Medium Term Development Plan2
+
+MTFS Medium Term Fiscal Strategy NSO National Statistical Office NMEF National Monitoring and Evaluation Framework
+
+NSDF National Service Delivery Framework
+
+PIM Planning, Implementation and Monitoring
+
+PIP Public Investment Programs PIS Population Information System PNG Papua New Guinea
+
+PNGFA Papua New Guinea Forest Authority
+
+PSIP Provincial Services Improvement Program SMEs Small and Medium Enterprises SOE State Owned Enterprise
+
+SWF Sovereign Wealth Fund StaRS Strategy for Responsible
+
+Sustainable Development WaSH Water, Sanitation and Hygiene
+
+Introduction by The Prime Minister
+
+Our Coalition Government has been very bold since taking office in 2012 in terms of focusing on the fundamentals for empowering our people and providing record budgets against this. I believe our country is making significant progress but much work remains to be done.
+
+One of the directions from the Alotau Accord was to make sure our plans were being truly strategic in a long-term perspective and were relevant to the times and being actually applied and reported against.
+
+I was proud to launch the National Strategy for Responsible Sustainable Development, or StaRS, in Alotau on the 31st of March 2014, and now the Medium Term Development Plan2 2016-2017 (MTDP2). Parliament will consider shortly the National Planning Act.
+
+Our Government is determined to have a clear long-term path for Papua New Guinea and everybody working as a coordinated team to building a modern and successful country for today and tomorrow.
+
+This MTDP2 attempts to capture the intentions, priorities and activities of our Government. It aligns the planning process to the five-year political cycle, giving the opportunity for incoming governments of the future to establish their own five-year plans through the Department of Planning and Monitoring. It elevates the principles of responsible development and prescribes a planning act to link MTDPs and the underlying development principles to national budgets.
+
+It has been a massive undertaking and I congratulate the Minister for National Planning and Monitoring and the Department for the hard work in bringing this MTDP2. Thanks to the other agencies of Government who have supported the development of this document. Thanks to all our development partners. We are committed to this process and this plan and I commend it to you all.
+
+May God continue to bless Papua New Guinea.
+
+Hon. Peter O'Neill
+
+Prime Minister
+
+Foreword by the Minister for National Planning and Monitoring
+
+No amount of development planning will work unless we are committed to them individually and collectively. To really engage us, these plans must be based on principles in terms of who we identify with as Papua New Guineans. Our Constitution, through the National Goals and Directive Principles, speak of integral human development, equality and participation, self-reliance, responsible management of the environment and Christian principles.
+
+As Papua New Guineans we must contribute individually to development by living such principles in terms of how we look after our own health, our family, the community and the environment.
+
+As leaders at all levels we have an extra responsibility to live these PNG WAYS.
+
+As Planning Minister in the O'Neill/Dion Government I am very pleased to present, on behalf of our Government, the MTDP2.
+
+The MTDP2 follows on from the Medium Term Development Plan1 2011-2015 (MTDP1). These are the Government's five year operational plans published by the Department of National Planning and Monitoring.
+
+You will note the MTDP2 will be for two-year period only as we move to align the MTDPs with the five-year parliamentary cycle. The Medium Term Development Plan3 will cover 2018-2022. Aligning development plans with the political term of office gives an incoming government the opportunity to write its own plan to underwrite its strategic direction and political support. This MTDP is also written in a partially retrospective manner, describing the priorities and actions of the current Government so it is effectively a five-year plan.
+
+These MTDPs will sit within the broader planning context and framework as described under the proposed planning legislation (Papua New Guinea Planning Act).
+
+In 2012, the Alotau Accord established the priorities of the incoming People's National Congress led Coalition Government, which the Department has captured in a Critical Activities Matrix and in the MTDP2. The Alotau Accord also called for a review of existing government plans to ensure they were truly strategic, given the rapidly changing global circumstances; and truly aligned to the Guiding and Directive Principles of the Constitution.
+
+This review, undertaken by the Department of National Planning and Monitoring, has led to the development of the National Strategy for Responsible Sustainable Development (StaRS), launched by the Prime Minister in 2014, this MTDP2, and the drafting of the legislative framework for planning and monitoring.
+
+Vision 2050 is the aspiration for PNG in terms of progressing towards the top 50 countries in the world, as measured by the Human Development Index.
+
+The StaRS clarifies the guiding principles in terms of the development paradigm (the way) to achieve Vision 2050.
+
+The proposed Papua New Guinea Planning Act, which we are presenting with this MTDP2, links the planning process to annual National Budgets through progressive MTDPs.
+
+The Bill establishes the National Planning Framework, the National Service Delivery Framework (NSDF) and the Monitoring and Evaluation Framework.
+
+The Government has followed a basic planning, implementation and monitoring cycle to:
+
+• Get the plans right;
+
+• Resource those plans;
+
+• Implement the plans; and
+
+• Monitor the outputs and report on them.
+
+The Government's priority from the outset has been to create an enabling environment through:
+
+• Education;
+
+• Health;
+
+• Infrastructure;
+
+• Law and Justice;
+
+• Growing the Economy.
+
+These and other major undertakings of the Government are captured in the Critical Activity Matrix and form the basis of the MTDP2.
+
+In this year (2015), as we celebrate 40 years of independence, let us collectively and individually commit to learning from our mistakes and to actually live the words of our National Pledge because I am PNG and YOU are PNG - "PNG... Em Mi Yah!"
+
+Hon. Charles Abel
+
+Minister for National Planning & Monitoring March 2015
+
+Acknowledgements by the Secretary For The Department Of National Planning And Monitoring
+
+In response to the needs of our stakeholders, the Department of Planning and Monitoring is undergoing a series of cultural and institutional reforms, which are reflected in the way this MTDP2 has been framed.
+
+We have two important goals that must be achieved in this MTDP. These are:
+
+• Embed the StaRS principles into Sector and Provincial plans and ensure that they inform all other development planning; and
+
+• Enhance our linkages with our partners to improve implementation, monitoring and reporting.
+
+In order to do that we recognize our core clients, whose needs we must serve. They are:
+
+• Our leaders who represent the views of our people;
+
+• The implementation agencies of the State, the community and non-state partners; and
+
+• Our donor and development partners.
+
+All of us together are tasked with providing services to the people of Papua New Guinea. These services will enable them to enjoy the best quality of life possible in an environment that is safe and secure not only for themselves but for their children and their grandchildren.
+
+Under our system of public service delivery, it is critical that someone measures the impact of government decision-making and actions. This is part of our duty to our people. Such measurements will provide us feedback on whether the country is truly pursuing our intended targets and if not, indicate whether to increase our efforts and/ or change our approach.
+
+We acknowledge that our efforts in the past have not always been successful, but we assure our people that we are much more focused on improving the quality of their life than ever before.
+
+We submit to the belief that we are Papua New Guinea and Papua New Guinea is us. Hence we commit ourselves to this new paradigm of principle centred sustainable development, as set out in the MTDP2.
+
+Lastly, we are grateful to all the agencies and sectors that provided information to assist us to produce the MTDP2. This is your plan.
+
+Ms Hakaua Harry
+
+Acting Secretary
+
+Our Pledge
+
+We, the people of Papua New Guinea, pledge ourselves united in one nation.
+
+We pay homage to our cultural heritage, the source of our strength.
+
+We pledge to build a democratic society based on justice, equality, respect and prosperity for our people. We pledge to stand together as One People, One Nation, One Country.
+
+God bless Papua New Guinea.
+
+Executive Summary
+
+MTDP2 will be in place for two years only but is effectively describing the priorities and actions of the O'Neill/Dion Government with a five-year outlook from 2013. This will allow the development planning process to begin to align with the five-year parliamentary cycle. The over arching goals stemming from Vision 2050 and StaRS are: - Increasing the countries Human Development Index (HDI) rating in 2016-2017 towards PNG becoming one of the top 50 countries on the HDI by 2050; and - Achieving this by and through becoming a world leader in responsible, sustainable development.
+
+PNG is turning 40 years old as an independent nation in 2015 and it is important to review its development progress and the objectives and path it has chosen to achieve these objectives. Despite an abundance of natural resources and a relatively low population PNG finds itself off track on all the Millennium Development Goals and ranking poorly on global indicators relating to corruption and human development.
+
+Global circumstances have changed particularly in terms of the consciousness around sustainable development and how it relates to population, the environment and climate change.
+
+The O'Neill/Dion Government has posed these questions with its coalition partners through the Alotau Accord.
+
+- Are we pursuing development plans that are truly strategic in the long term?
+
+- How can we improve on our development performance, position PNG for the long term, and deliver broad based socioeconomic improvements to the lives of our people at a faster rate?
+
+- What are our guiding principles as a people and are we being true to them?
+
+- Given our natural environmental and cultural assets how can we build a modern economy that sustains us, provides solutions to the world and is responsible?
+
+The Vision 2050 establishes an ambitious aspiration - to be in the top 50 countries in the world in terms of the Human Development Index by 2050.
+
+The subsequent development plans, the Development Strategic Plan 2010-2030, MTDP1 2011-2015, and the body language of successive governments through annual budgets has indicated a heavy reliance on maximizing economic growth based on extractive industries and primary resource exportation.
+
+The MTDP1 is heavily reliant on the PNG LNG project. Recent budgets have been based on aggressive fiscal borrowing on the back of the impending PNG LNG project proceeds.
+
+Against this background and the directions from the Alotau Accord, the Department of National Planning and Monitoring (DNPM) developed the National Strategy for
+
+Responsible Sustainable Development (StaRS) which prescribes new guiding principles for development planning. These principles recognize and elevate the National Goals and Directive Principles of the National Constitution and attempt to align our development actions with them, rather than pay them lip service.
+
+These development actions must be individual and collective to succeed. They must be based on the new development paradigm and "PNG ways". StaRS places PNG in a much better position in a long term economic sense.
+
+This will be achieved by continuing to focus on the Government's sixteen critical activities identified under its Critical Activity Matrix. These activities will deliver expenditure and revenue reforms; and innovate implementation and procurement practices. This allows the Government to maximize investment in critical nation building activities and grow the future of PNG.
+
+The MTDP2 will begin the move toward a more sustainable economy. It will introduce the necessary indicators and targets that create the enabling environment to grow the economy while ensuring proper management and use of PNGs strategic assets.
+
+Under the current operational strategy natural assets such as forestry, biodiversity & eco-cultural tourism, fisheries & tuna, agriculture, water resources and clean renewal energy were generally considered to have an 'exploitation' value only.
+
+These assets, in particular forestry, tuna, water and biodiversity are considered strategic because they are globally significant. Under the MTDP2 government investment will focus on developing and strategically positioning these assets to meet the needs of current as well as future generations of Papua New Guineans.
+
+In the new economy, these strategic assets will act as the pillars of equitable and sustainable growth, together with the current growth drivers such as minerals, petroleum (under a new fiscal regime and sovereign wealth fund) and agriculture. Their increasing market value will help to sustain the strength of the PNG economy going forward through the creation of employment and income, generated from these environmentally significant sectors.
+
+Population is also a priority area for the MTDP2. The population growth rate of a country is a critical development variable. The annual growth rate for PNG is too high (3.1%). There is also a significant impact at the individual level, as large families can fall into the vicious circle of poverty. The MTDP2 has identified the reduction of the country's fertility rate (3.8 births per female) as an important 'across government' policy issue requiring support.
+
+One example of the Government addressing this issue will be investing in programs and activities during 2016-2017 that increases the availability of modern contraceptives to PNG couples.
+
+For the first time, the MTDP2 will sit within the broader planning framework described under proposed legislation. The Papua New Guinea Planning Bill will give effect to planning and monitoring processes. It will establish the National Planning Framework, the NSDF, the National Monitoring and Evaluation Framework (NMEF), and links the National Budget to the MTDPs through an Annual Budget Framework Paper.
+
+The National Services Delivery Framework will establish minimum basic core services requirements for all levels of government and introduce a Service Delivery Centre network that will be based on population distribution and geography.
+
+This framework is a big step forward in the delivery of front line services. It provides the vehicle for greater access to goods and services for our people, delivered in an efficient and transparent way. It also aligns our planning processes with the Government's sub-national empowerment policy of devolved responsibility for service delivery, from national departments to provincial, district and local governments and administrators.
+
+For this medium term planning approach to yield the desired results it must be properly resourced and effectively implemented. The MTDP2 will be supported by important reforms in public resourcing, implementation and procurement, which are already contributing to the necessary enabling environment.
+
+The key government reforms supporting this new development paradigm include:
+
+• Setting debt and deficit targets under the Medium Term Fiscal Strategy to provide ongoing private sector confidence in the Government's fiscal position and return the National Budget to balance by 2017;
+
+• Moving forward with the sub-national empowerment policy and increasing Province, District and Local Government funding under the PSIP, DSIP and LLGSIP;
+
+• Aligning donor partner funding to the Government's operational strategy and development planning;
+
+• Facilitating innovative procurement strategies, including public/private partnerships, to improve access to goods and services at the local level;
+
+• Reforming State Owned Enterprises to improve revenue returns and enhance competition;
+
+• Increasing transparency and accountability of the National Budget processes to provide 'better value' budget allocations for operational and capital projects; and
+
+• Establishing the Sovereign Wealth Fund to manage mineral sector revenue and to insulate the PNG economy and the National Budget from commodity volatility.
+
+The MTDP2 will be a useful tool for Governments and administrations preparing development plans and budgets. It identifies the strategic directions (priority sectors) for Government investment and the main indicators and targets needed to meet development objectives. It also provides agencies with assistance in meeting the new service delivery standards and establishing the NSDF.
+
+Under the NMEF lead agencies will continue to be responsible for monitoring and reporting on the progress of their program and activities.
+
+Agencies should note that; under the MTDP2, they need to monitor their inputs/budgets and outputs/outcomes on a quarterly and annual basis and submit them to DNPM for consolidation and reporting to Government.
+
+This MTDP2 will be the road map for a sustainable future towards Vision 2050. It will take effect from the 2016 Budget process. Further advice and assistance on any element of the MTDP2 should be directed to the DNPM.
+
+Chapter 1: Planning, Implementation and Monitoring
+
+1.1 Introduction
+
+This cycle establishes the simple rationale behind the process of organizing a series of activities to achieve desired outcomes.
+
+The Department of National Planning and Monitoring (DNPM) is formalizing the national planning and monitoring activities of the Government through the introduction of the Planning, Implementation and Monitoring (PIM) Cycle. This is a continuous story of planning, resourcing, implementing and monitoring & review.
+
+FU TU RE
+
+NO W - 2 01 6-20 17
+
+Integral Human Development Equality and Participation National Sovereignty and Self Reliance Natural Resources & Environment Papua New Guinean Ways
+
+PLANNING ACT
+
+ANNUAL BUDGETS
+
+FIVE (5) YEAR MTDP
+
+Vision 2050 Target Healthy, Empowered, Educated, Happy Population
+
+Top 50 in United Nations HDI Ranking
+
+VISION 2050
+
+DSP 2030
+
+Development Paradigm STaRS
+
+CONSTITUTION & DIRECTIVE PRINCIPLES
+
+RESPONSIBLE SUSTAINABLE DEVELOPMENT (RSD) PRINCIPLES
+
+20 Year Plan
+
+5 Year Plan
+
+Annual Plan
+
+SECTOR PLANS
+
+Diagram 4A: The Planning Framework
+
+1.2 The National Planning Framework
+
+The Planning Framework is the first step in the PIM Cycle. It establishes the long-term objectives, the development paradigm and principles, and then the operational strategy of the Government.
+
+The National Constitution and the National Strategy for Responsible Sustainable Development (StaRS) establish the 'way' to the target of Vision 2050 through the Medium Term Development Plans and the annual National Budgets. The Annual Budget Framework Paper provides the link between the long and medium term plans to the annual budgets. The National Planning Framework is captured in and includes the proposed Planning Act.
+
+The Alotau Accord
+
+The Alotau Accord outlined the 78 key national priorities of the O'Neill/Dion Coalition Government.
+
+One of the Government's directions from the Alotau Accord priorities was the review of the MTDP1 and DSP 2010-2030 to ensure the country's long and medium term plans were truly strategic, given our development experience and changing global circumstances.
+
+This review was undertaken by the DNPM and has led to the development of the National Strategy for Responsible Sustainable Development (StaRS), the MTDP2 and the National Planning Act.
+
+National Strategy for Responsible Sustainable Development (StaRS)
+
+StaRS revisits the National Goals and Directive Principles of the National Constitution, global development experience and PNGs development experience and outcomes and determines that we have not been pursuing a development path based on principles but rather one based on emulating a growth based paradigm that presumes that an overriding emphasis on wealth generation and endless economic growth will solve development objectives.
+
+The National Constitution quite clearly states that there are other important considerations that are found in the National Goals and Directive Principles and at the heart of our Christian heritage. Development comprises more than the pursuit of wealth and economic prosperity for this leads to the neglect of other important considerations for human development and well being.
+
+StaRS states that development activities must be based on principles that guide our individual and collective responsibility. Responsible behaviour begins with individual actions towards self, family, community and country. Responsible behaviour extends to all levels of society including the national actions of government to provide the best conditions for human well being for individual citizens now and into the future, but also as a global citizen in the family of nations.
+
+With this in mind, StaRS advocates that PNG chooses a development strategy that recognizes the changing global circumstances that highlight the fragility of the global ecosystem and the additional value being placed on the environment, climate security, food and water security. This approach is smarter even from a pure economic sense.
+
+PNG has certain Strategic Assets of global significance that need to be cultivated and 'commercialized' to develop the basis of a new economy of the future. Current development activities are compromising this future and remain short term and symptom driven.
+
+These new development principles identify the issues specific to the needs of the country, external as well as internal. It shifts the development strategy towards a pathway that promotes cost-effective and resource efficient ways of guiding sustainable production and consumption choices (that is, responsible sustainable development). The objective is to ensure that the country stays on the path of long term sustained and equitable economic growth. However, to succeed in this approach the Government understands that it must also engage its citizen and change mind sets and attitudes.
+
+The Government's model for responsible sustainable development has been formulated around 21 guiding principles that emanated from the Rio+20 Summit. They align with the Five National Goals and Directive Principles of the Constitution which are:
+
+1. Integral Human Development;
+
+2. Equality and Participation;
+
+3. National Sovereignty and Self Reliance;
+
+4. Natural Resources and Environment; and
+
+5. Papua New Guinean Ways.
+
+These goals and principles are the core themes embedded in the development policy of The StaRS. They will underpin the design of all development plans, programs and projects identified under future MTDPs and the allocation of government resources.
+
+Strategic Assets
+
+StaRS elevates the significance of certain natural assets of PNG due to their global significance in magnitude and in respect of the new consciousness around sustainable development.
+
+It prescribes a responsible and sustainable growth pathway for the use of PNG's natural resources. It also presents the opportunity for PNG to take the lead in offering the rest of the world solutions and products which are sustainably developed.
+
+This natural capital provides the country with strategic assets that have the potential to become the growth drivers in the future. These resources are significant in their abundance, and in some cases unique to PNG. They are:
+
+• Forests and biodiversity;
+
+• Tuna and marine resources;
+
+• Fresh water reserves;
+
+• Rich cultural and eco-tourism offered by the authentic rural communities of the country;
+
+• Rich mineral deposits;
+
+• Rich organic agriculture of the country; and
+
+• Clean renewable energy potential of the country.
+
+The guiding tenet for investing in these strategic assets is exemplified by the fable; 'the Goose and the Golden Egg'. Translated in terms of wealth creation gained from export earnings of natural resources, the fable shows that it is only by responsibly caring for this abundant natural capital (the goose) as it is being extracted and exported will we ensure that the export earnings (the golden eggs) endures inter-generationally.
+
+The Government's focus on investing in the development of these assets will enable it to strategically position them in the global marketplace. Their enhanced market value will help to sustain the strength of the PNG economy through the creation of employment and wealth generation without adversely impacting on the environment. This investment strategy will begin with the MTDP2.
+
+Human Development & Population
+
+Human development and population must be elevated to a central position as a development variable in a macro and micro sense.
+
+The consideration of the human population in its totality of numbers, and as individuals with fundamental human rights must be elevated as a development priority. It is the sheer numbers of people on a global scale that is driving global issues based on environmental impacts, and it is numbers of people in a national sense that drive issues of poverty and lack of access to basic rights and services. In an individual sense population responsibility and choice affects the health of women and children and the family unit.
+
+StaRS elevates in development strategy the importance of human development and population. These two public policies are inextricably linked. Improved outcomes for health, education, income and stable population are needed for PNG to achieve its HDI targets.
+
+Human Development
+
+Human development is one of the five guiding and directive principles of the National Constitution. The three key components of human development are health, education and income. As previously stated the aim of Vision 2050 is for PNG to be in the top 50 countries as measured by the HDI.
+
+Tables below set out the position of PNG on the HDI relative to Fiji and Australia in 2013 and the targets for MTDP2 and 2050. Table 1.1 shows Fiji and Australia are doing much better than PNG.
+
+Table 1.1: The HDI and the three determinants for PNG, Fiji and Australia
+
+Indicators Countries
+
+PNG Fiji Australia
+
+HDI in 2013 0.491 0.724 0.933
+
+Ranking on HDI (187 countries) 157 88 2
+
+Health Life expectancy 62.4 69.8 82.5
+
+Education Mean years of schooling (in 2012) 3.9 9.9 12.8
+
+Expected years of schooling (in 2012) 8.9 15.7 19.9
+
+Income Gross national income per capita (US$ PPP) (in 2011) 2,453 7,214 41,524
+
+Source: UNDP Human Development Report 2014.
+
+Table 1.2: The MTDP2 targets for HDI for 2017 and 2050
+
+Indicator Baseline (2013) Targets
+
+2017 2050
+
+Human development index 0.491 0.531 0.861
+
+Rank on the HDI (among 187 countries) 157 About 150th Within top 50 countries
+
+Note: The top countries generally have HDI value of 0.8 or more. In PNG, if the value of HDI is increased by 0.01 point per year, it will reach 0.861 in 2050 and PNG will become one of the top 50 countries on human development index.
+
+Population
+
+The population of PNG has increased from 5.2 million in 2000 to 7.3 million in 2011 (a growth rate of 3.1% per year). If this rate of growth were to continue the population of PNG would double over the next 22 years.
+
+The high rate of population growth rate is the result of high levels of fertility.
+
+Table 1.3 below shows that the total fertility rate (births per women) in PNG is much higher than other countries of the region such as Indonesia and People's Republic of China.
+
+Table 1.3: Fertility and family planning rates for PNG, Indonesia and China
+
+Indicators Countries
+
+PNG Indonesia China
+
+Total fertility rate (no of births per women) 3.8 2.4 1.7
+
+Teenage birth rate (per 1,000) for women 15-19 years
+
+65.0 47.0 6.2
+
+Contraceptive prevalence rate (% married women 15-49 years) 32.2 61.9 84.6
+
+(% married women 15-49 years) 32.2 61.9 84.6
+
+Unmet need for family planning (% women aged 15-49 years who are married or in consensual union) 27.4 11.4 2.3
+
+Source: Asian Development Bank, Key Indicators 2014.
+
+Higher levels of fertility is the result of lower levels of contraceptive use, unmet demand for family planning methods and a high teenage birth rate. Other contributing factors include low levels of female education and employment.  
+
+Table 1.4: Key indicators and targets on population, fertility and family planning for MTDP2
+
+Indicators Baseline* Targets 2017
+
+Value Year
+
+Population growth rate per year 3.1 2000-2011 3.0
+
+Total fertility rate (births per women) 3.8 2012 3.6
+
+Adolescent fertility rate (per 1000 women 15-19 years) 65 2004 50
+
+Contraceptive prevalence rate (% married women aged 15-49 years using modern contraceptives) 32.7 2007 40
+
+Unmet need for family planning (% of women aged 15-49 years who are married or in consensual union) 27.4 2007 15
+
+Couple Years of Protection (CYP) per 1000 women of reproductive age (15-44 years)** 70 2012 400
+
+*Sources: NSO Population and Housing Census of PNG 2011; Asian Development Bank Key Indicators 2014; Department of Health 2014 Sector Performance Annual Review.
+
+**Note: Couple Years of Protection (CYP) refers to the amount of contraception necessary to protect one couple (15-44 years) per year.
+
+The Government's National Population Policy (2015-2024) continues to recognize the Department of Health (DoH) as the lead agency for meeting government targets. However, there is lack of appropriate service delivery mechanism at the grassroots level, such as Community Health Posts and Aid Posts, limiting the effectiveness of DoH.
+
+This will be addressed under the MTDP2 with the implementation of the NSDF. Details are provided in Chapter 2.
+
+In several countries, Non-Governmental Organisations/International Non-Governmental Organisations are highly effective in providing family planning services. Under the MTDP2 the Government will expand its public/private partnerships to further improve access to family planning services, specifically targeted at improving the length of time couples use contraception.
+
+A key indicator for population is to empower women by reducing teenage fertility rates. Girls who become pregnant at a young age are not able to go to school and so secure a better income and/or better paying opportunities throughout their life. This has a long-term impact on the individual as well as the country.
+
+Under the MTDP2, relevant agencies and organizations in the health, education and law & justice sectors will be required to take on the important role of promoting family planning and reducing the overall birth rate.
+
+1.3 The Medium Term Development Plan2 2016-2017
+
+The primary drivers for developing the MTDP2 have been to incorporate StaRS into the Government's medium term planning and to align MTDPs with the five year parliamentary cycle.
+
+The MTDP2 will focus on the sixteen critical activities contained in the Government's Critical Activity Matrix as the blueprint for the O'Neill/Dion Governments development actions. It will continue its fiscal strategy of ensuring the Government's fiscal plans are adequately resourced and implemented in a manner that is innovative, practical and efficient.
+
+It will also capture and progress the new responsible sustainable pathway to development for the next two years (2016-2017) by providing the 'how to' road map (indicators and targets) for achieving government priorities and objectives.
+
+This MTDP2 will also address the findings of the MTDP1 review, which identified disconnect between key elements of the planning and monitoring cycle.
+
+For the first time, the MTDP2 will sit within the broader planning framework described under the proposed legislation. This will give legislative effect to our planning and monitoring processes and link it to the National Budget through the Annual Budget Framework Paper.
+
+The MTDP2 will be an important tool for agencies preparing development plans and annual budgets. Chapter one sets out the overall rationale to the planning, implementation and monitoring process, focusing more on the planning aspect.
+
+Chapter two concentrates on the resourcing and implementation of the plans. It sets out how the Government is undertaking the critical activities of maximizing resources and improving and innovating implementation and procurement. It also provides advice and support in meeting new service delivery standards and establishing the NSDF.
+
+Chapter three provides guidance on the Government's strategic direction for investment in its nation building activities (priority sectors), including the indicators and targets needed to meet MTDP2 goals.
+
+Chapter four sets out the strategic direction for growing the economy - focused on the critical activities of investing in small and medium enterprises and re-positioning PNGs strategic assets.
+
+Under Chapter five agencies are supported to undertake monitoring and evaluation activities - an important component of the MTDP2.
+
+1.4 National Planning Legislation
+
+The proposed National Planning Act will link the long and medium term plans to the annual budget and establish the NSDF and Monitoring and Evaluation Framework. It is the last element of the National Planning Framework.
+
+The proposed National Planning Act will put in place the legislative framework needed to support the new national planning and monitoring structure. This is the first of its kind for PNG.
+
+The proposed legislation will clarify and embed the development principles, establish the Planning, Implementation and Monitoring Cycle with respective supporting frameworks and connect the MTDPs to the annual budgets.
+
+It will also provide a legislative basis for the Government's national service delivery requirements and set the minimum level of service delivery and outputs needed from agencies and development partners to roll out its operational strategy.
+
+The operational strategy identified under this legislation also guides the Government's fiscal strategy and the allocation of annual national budgets, through the Annual Budget Framework Paper. These are linked through the Organic Law on Provincial Governments and Local-level Governments, the Local-level Governments Administration Act 1995 and the Fiscal Responsibility Act 2006.
+
+1.5 The National Service Delivery Framework
+
+The DNPM has developed a framework for delivering services across the nation. This is based on a spatial distribution of service delivery centres beginning with the National level linking down to the Provincial level, and then down to the District and Ward level.
+
+The NSDF supports the Implementation step of the PIM Cycle. It is based on the existing political and administrative structure in the country and existing logic that requires clarification.
+
+The NSDF sets out the 'where' and 'what' infrastructure is needed to allow our people to access services when they need them; and in locations where they are easily accessible. It also identifies the 'who' (which administration) is responsible for establishing the service delivery infrastructure and the funding source.
+
+The NSDF also aligns with the Government's policy of sub-national empowerment with reduced national government involvement in the provision of goods and services. Under the new Service Delivery Framework:
+
+• The National Government will be responsible for the provision and maintenance of national services and infrastructure (for example, education and health infrastructure, and national roads);
+
+• Provinces, Districts and Wards will be responsible for the delivery of goods and services at their respective levels (for example, rural class rooms, Aid Posts and local roads);
+
+• Regional Service Centres will be linked to Provincial Headquarters and District Headquarters will be linked to LLG Headquarters, Ward Zone Headquarters and Ward Headquarters;
+
+• Minimum basic core service requirements will be introduced (for example, clean running water in health facilities); and
+
+• New Service Delivery Centres will be established based on spatial distribution (population and other demographic features of an area) and connected by transport and communication links.
+
+The proposed National Planning Act will provide the legal basis for the framework. All levels of government will be required to contribute to its implementation.
+
+1.6 The National Monitoring & Evaluation Framework
+
+The Monitoring and Evaluation Framework is being finalized through an M&E policy and a National Strategy for Statistics at the DNPM. The proposed Planning Act establishes the MTDP Tracking Pocketbook to report on an annual basis on the MTDP indicators, the Critical Activity Matrix (CAM) to identify and track the top sixteen program activities of Government and the Public Investment Program reports to track all investment activities of government, supported by all other reporting requirements of government. The Pocketbook, CAM and PIP Budget Book are to be tabled annually with the national budgets.
+
+The development of a population information system through the National Identification Program under the Civil Registry and reforms at the National Statistical Office are described in Chapter 5.
+
+The NMEF supports the Monitoring and Evaluation step in the PIM Cycle. All agencies,
+
+Why change?
+
+Copycat Corruption Poverty Conflict and violence Environmental destruction Inequality Over population Leadership Good governance Shared prosperity Peace and harmony Environmental protection Equality Stable population
+
+particularly those involved in the health, education, infrastructure, strategic assets, law & justice, data production and National ID development will be required to monitor the inputs, outputs and outcomes of their development programs. Agencies will need to adjust their inputs if the outputs and outcomes are not being achieved. Under this MTDP2 agencies will now be required to submit their quarterly and annual progress reports on inputs/budgets, outputs and outcomes to the DNPM for consolidation and reporting to the Government.
+
+Several indicators used in the MTDP2, especially in the health, education and strategic assets sectors are the Millennium Development Goals (MDG) outcome indicators. Agencies should note that in addition to providing quarterly monitoring reports, periodic evaluations should also be undertaken to better understand the benefits of the outcomes and impacts. These reviews should be submitted in budget submission to support agencies bids for further budget allocation.
+
+Data generated through surveys such as the Demographic and Health Survey, Multiple Indicators Surveys, Censuses, monitoring reports and rapid assessments will become the basis for mid-term reviews and final evaluations of development program. The National Statistical Office (NSO) is responsible for conducting the census and surveys.
+
+Diagram 9 shows the relationship between Monitoring & Evaluation and Planning & Implementation - using an example of a doctor checking the health of a person. Further information on "how" to monitor and evaluate development programs provided under Chapter 5.
+
+Major river systems
+
+((c)) David Kirkland
+
+((c)) David Kirkland
+
+Third largest Rainforest in the world
+
+15% of the world's tuna stock
+
+7% of the world's biodiversity
+
+M
+
+ineral and Petroleum resources
+
+800 tribes and languagesLow population
+
+We can be world leaders...
+
+In responsible development.
+
+We are in a unique position to choose a future that is responsible and sustainable.
+
+Chapter 2: Resourcing and Implementation
+
+2.1 Introduction
+
+The second and third steps in the PIM Cycle are Resourcing and then Implementing. Once objectives, development principles and operational plans are determined, they then need to be costed, resourced and implemented in the most efficient manner possible.
+
+Since assuming office in 2012, the Government's budget strategy has been focused on delivering the Alotau Accord priorities and growing the future. This chapter sets out how the Government went about reforming critical areas of fiscal policy and public administration, identified under the Critical Activity Matrix, to put in place the budget strategy needed to grow the future for PNG.
+
+This approach, to developing the budget strategy, is taken against the background of future LNG revenue, and seen the Government put together record National Budgets, reaching a total expenditure of over K16 billion in 2015 Budget. The Government complemented this approach with a policy switch in capital expenditure focus towards building service delivery enablers in education, health and law & order.
+
+To support this step up in expenditure, the Government has put in place a program of policy and legislative reforms to maximize government resources. This included taking a multi pronged approach to improving revenue, financial borrowings to address any revenue shortfalls, and introducing innovative implementation and procurement pathways.
+
+The Government also recognizes the need to strike a balance between driving economic growth, to ensure service delivery, and to be responsible and maintain sustainable fiscal policy. To promote macroeconomic stability and investor confidence the Government introduced the Medium Term Fiscal Strategy 2013-2017 that set out its budget strategy and pathway to sustainable fiscal management.
+
+The following graph sets out the Government's budget strategy since coming to Government in 2012.
+
+Source: 2015 Budget, Volume 1, page 29.
+
+2.2 Resourcing
+
+There remains a funding deficit between what is required to provide and maintain the necessary human and physical capital and what is available.
+
+The Government has attempted to maximize the impact of what revenue is available by focusing on the underlying enablers of infrastructure, education, health, law and order, land and housing and growing the economy, within a Critical Activities Matrix of 16 activities.
+
+The Government has deliberately gone about maximizing its resource envelope within prudent guidelines by determining a five year outlook and fiscal regime to utilize borrowings on the back of the PNG LNG Project to fund these activities at record allocations.
+
+Revenue
+
+The Government's budget strategy is supported by a program of legislative and policy interventions that maximize government resourcing. This is a multi-pronged policy approach focused on increasing revenue opportunities and a deliberate strategy of government borrowing to offset any revenue shortfalls.
+
+Reforms introduced by the Government from 2013 Budget focused on:
+
+• A greater emphasis on revenue generation and collection in the budgetary process, including greater scrutiny over Statutory Authorities and Government Corporations dividend policy;
+
+• Improving the capacity of IRC and Customs to better collect government revenues;
+
+• Establishing the Tax Review to improve tax collection systems and processes with the aim of broadening the tax base;
+
+• Increasing the number of taxpayers by introducing series of measures that required participants to submit tax file numbers;
+
+• Amending the Fiscal Responsibility Act 2006 to increase the allowable budget deficit and debt to GDP ratios;
+
+• Supporting the early delivery of the PNG LNG Gas Project and subsequent additional trains, and a second major gas project and other projects.
+
+• Amending legislation to improve State Owned Enterprise competition and enhance its privatization policy; and
+
+• Conducting a five-year micro economic reform exercise to ensure the economic environment encourages the private sector to flourish (details of this reform is set out in 2014 Budget Book volume one, page 93).
+
+Debt
+
+The Medium Term Fiscal Strategy (MTFS) allows the Government to maintain macroeconomic stability and investor confidence, while supporting government's high levels of capital expenditure directed at creating the enabling environment for private sector led growth.
+
+The MTFS has set a ceiling on the level of debt for public spending to "maintain a gross Government debt to GDP ratio of less than 30 per cent, apart from in 2013 and 2014, when it will not exceed 35 per cent."
+
+The MTFS also anticipates the inflows from revenue from the PNG LNG project (a major activity within CAM), within the framework of maintaining the macroeconomic stability that Papua New Guinea had experienced since 2003. It has also enabled a substantial increase in government deficit driven by financial borrowing.
+
+To maintain macroeconomic stability and avoid a repeat of the crises of the 1990's and early 2000's, the Government will monitor its expenditure program to ensure it is consistent with the evolving economic and fiscal situation. In this way, the Government will achieve the required fiscal discipline, improve the efficiency and effectiveness of its budget strategy and focus its spending on identified targets within Priority Sectors (set out in chapter 3).
+
+Table 2.1 shows budget forecasts of deficit of 4.44% in 2015, 2.5% in 2016 and moving to a balanced budget in 2017.
+
+Table 2.1: Budget forecasts for 2014-2019
+
+Budgets (2015-2017) 2014 2015 2016 2017 2018 2019
+
+2015 Budget - estimated deficit (K billion) 2.4 2.3 1.4 0.0 0.0 0.0
+
+2015 Budget* - deficit to GDP ratio 5.95 4.44 2.5 0.0 0.0 0.0
+
+2015 Budget^ - debt to GDP ratio 35.5 27.8 28.0 26.6 25.2 23.6
+
+MTFS 2013-2017 Budget balance (per cent of GDP)
+
+-5.9 -1.6 -0.6 0.1 0.0 0.0
+
+MTFS 2013-2017 implied debt to GDP 34.6 28.9 27.5 25.4 23.1 23.1
+
+*The forecast deficit as per MTFS ^The forecast debt as per MTFS
+
+Fiscal Strategy
+
+The Government's budget strategy has been set out in its Medium Term Fiscal Strategy 2013-2017. This strategy sets out the principles under which the Government implements its operational plan and allocates its annual budget. These guiding principles are designed to ensure ongoing business confidence in the Government's fiscal position and the country's economy.
+
+For expenditure the principles are:
+
+• Increasing spending on key economic enablers (identified under MTDP2) to two thirds of the total Budget expenditure by 2017;
+
+• Improving agencies' public administration and governance arrangement by focusing on expenditure efficiencies, transparency of activity reporting and better public accountability; and
+
+• Funding new infrastructure projects only after the proposal has been properly designed and fully costed.
+
+For revenue side the principles are:
+
+• Maintaining an equitable taxation regime, with a focus on taxpayer compliance; and
+
+• Limiting the categories of taxation exemptions and special taxation arrangements.
+
+For debt management the principles are:
+
+• Maintaining a gross government debt to GDP ratio of less than 30% apart from in 2013, 2014 and 2015 (when it will not exceed 35%);
+
+• Limiting gross government liabilities to less than 60% of GDP; and
+
+• Greatly increasing the Government's average debt maturity profile.
+
+For deficit management the guiding principle is to return the Budget to expenditure/ revenue balance by 2017.
+
+PNG LNG Venture and Sovereign Wealth Fund
+
+The PNG LNG project and the Sovereign Wealth Fund (SWF) make up one of the Governments 16 Critical Activities. This world-class project has led to an expansion in the domestic economy through the broadening of skills and services, increasing investor confidence and demonstrating that large projects can be successfully rolled out in PNG, encouraging future investment in the country, and underpinning increased revenue flows for the Government over the next three decades. This project was delivered on time and ahead of schedule.
+
+The SWF is being established to manage the revenue from the LNG and mineral sector with a view to insulating the PNG economy and the budget from volatility and to provide intergenerational equity. The design is consistent with international best practices associated with Sovereign Wealth Funds. Generally, this best practice includes: Accepted
+
+Practice & Principles (Santiago Principles); the Extractive Industry Transparency Initiatives; and the PNG domestic requirements.
+
+PNGs mineral and petroleum assets are one of the Strategic Assets under the StaRS and the SWF is set up to convert nonrenewable assets into a sustainable and perpetual income stream into the future.
+
+There will be a single governance framework for the PNG SWF, but it incorporates two funds - a Stabilization Fund and a Savings Fund. The Stabilization Fund will reduce the impact of fluctuating mineral and petroleum revenues on the PNG economy and on the budget, and the Savings Fund will provide a means of preserving the real value of extracted mineral and petroleum resources through long-term investment for the benefit of future generations of PNG.
+
+The overall objectives of the PNG SWF are to:
+
+• Support macroeconomic stability;
+
+• Promote intergenerational equity; and
+
+• Support asset management in relation to financial assets accrued from natural resources revenue.
+
+PNG's offshore Sovereign Wealth Fund (SWF) is expected to commence operations by 2016. The projected operations of the SWF's Stabilization and Savings Funds are based on Treasury's revenue forecasts.
+
+Financial details for the SWF are available in 2015 Budget papers, Volume 1, Tables 8, 14 and 15; Appendix 3.
+
+Financial Sector Reforms
+
+The development of the financial sector is a key enabler for government. Under the MTDP2 the Government's financial services sector policy will be responsive to the need of the public and private sector and individuals at all levels of society.
+
+Key areas of focus for financial sector development will include:
+
+• Utilizing the financial services sector to improve transparency, security and accountability of revenue transfers between levels of government and to other beneficiaries;
+
+• Providing low income citizens, micro and small businesses access to a diverse range of financial products and services; and
+
+• Developing policies that encourage greater access to capital markets for public and private sector investors.
+
+The Bank of PNG (BPNG) has supervisory and regulatory responsibility for the financial and banking sector and oversees the payments and settlements system in PNG. (The BPNG will, therefore, be an important partner as the Government works to achieve its MTDP priorities.
+
+Key strategies for the MTDP2 include:
+
+• A monetary policy stance that targets a low and stable rate of inflation;
+
+• Expanding the private sector's access to capital, especially for investment in the construction, agriculture, extractive, and manufacturing industries;
+
+• Developing new financial products that meet the demands of small enterprises and start-up companies that struggle to secure investment funds from commercial banks;
+
+• Encouraging innovation from the banking sector to reduce transaction and overhead costs; and
+
+• Continuing support for the development of financial services to private individuals through micro finance and other facilities.
+
+Development Partners: Loans and Grants
+
+The support provided by our development partners is highly valued by the Government. Currently, this assistance (in grant funding and concessional loans) comprises 33 percent of public sector capital expenditure. The Government is committed to maximizing the benefits of this support by ensuring it aligns with PNGs development plans, is better coordinated and visible.
+
+This has required the Government to examine different modalities of service delivery. This work will continue in 2015 by advancing the targets agreed in the PNG Commitment on Aid Effectiveness, signed in July 2008.
+
+This will also see the Government finalize its new Aid Policy and allow DNPM to review existing donor partners' assistance to ensure alignment with the new policy approach. The screening by DNPM of all new donor supported programs, which began in 2014 with the re-institutionalization and strengthening of the PIP guidelines, will continue.
+
+This work will be supported by the Government's re-introduction of the Annual Aid Report, which will further improve transparency and accountability of donor grants into the future.
+
+As detailed in the Government's Consolidated Budget Operating Rules, particular attention is also being paid to the strategic use of consultants/advisors in long-term management and capacity development programs, with the view to reducing the level of assistance as a percentage of foreign aid over time.
+
+Over the next five years, the Government intends to reduce the total value of these advisors in real terms to less than 20% of total aid budget. Consultants/Advisors will be strategically placed in appropriate locations. All placements will undergo appropriate screening and consultation processes through greater use of the Government's recruitment practices.
+
+The Government will continue to strengthen national and sector dialogue with its development partners through its biannual donor forums and ongoing funding of the Development Assistance Database.
+
+All development partners are being encouraged to understand and co-ordinate efforts towards building the NSDF.
+
+2.3 Implementation
+
+Improvements to the implementation and procurement of Government programs, projects and services is the third stage of the PIM Cycle and one of the 16 activities under the Critical Activities Matrix.
+
+The Government recognizes the difficulties around implementing programs and projects and is exploring a range of innovative modalities for efficient delivery of goods and services in urban and rural areas at reduced costs.
+
+A major initiative is the introduction through the proposed National Planning Act of the NSDF. Against this framework of minimum services delivered at strategic service delivery centres, attempts are being made to better co-ordinate and focus the efforts of all stakeholders to improve outcomes.
+
+Focus is also being given to emphasizing focal activities for particular regions and cities. For example, Port Moresby is the administrative and commercial headquarters; Lae is the industrial headquarters; Hagen the agricultural regional headquarters; and Kokopo the tourism regional headquarters.
+
+The Sepik Plains, Baiyer/Madang valley, Karamui Plains, Whagi Valley, Central Plains and West New Britain are identified as major agricultural focal points, and the provinces of Milne Bay, East New Britain and New Ireland as tourism focal points.
+
+Subnational Government empowerment is a major theme with record funding being provided through the Service Improvement Program and increased functional grants, together with supporting financial delegate powers and ceilings.
+
+To strengthen district administration and streamline processes and practices to improve rollout of services at the district and ward level, the Government has also recently established the District Development Authorities (DDAs). These Authorities are critical to sub-national empowerment.
+
+The DDAs commenced in January 2015 and will replace the Joint District Planning and Budget Priority Committees. They will be responsible for a wide range of activities including delivering services, maintaining infrastructure, disbursing grants, managing budgets and local level development plans. This will allow more services to be delivered where most people live.
+
+The new Service Delivery Framework will identify the infrastructure needed for ensuring citizens have access to the minimum level of services needed to improve quality of life.
+
+National Service Delivery Framework
+
+Basic services cannot be delivered everywhere but must be strategically located because of resource limitations.
+
+Eighty percent of Papua New Guineans are socially organized in clans and live in rural areas on communally owned land. This is across 6,131 Wards, 313 Local Level Governments (LLGs), and 89 Districts within 22 Provinces. Effective service delivery must reflect these physical geographic and social demographic contours to ensure maximum accessibility.
+
+The proposed National Planning legislation provides a way forward for achieving this outcome by establishing minimum basic core service requirements for all levels of Government.
+
+There is an existing political and administrative system that lends itself to a logical hub and spoke spatial delivery framework. PNG is comprised of households, hamlets, villages, stations, towns and cities. Interventions can take place commencing at household level (roofing iron, water tanks, solar lights). The NSDF however commences at Council Ward Headquarter level. From practical experience common services like education and heath are delivered at central locations and facilities such as Elementary School and Aid Post/ Community Health Posts.
+
+A Ward may have more than one of these facilities but as a starting requirement and objective under health for example, each Council Ward must have at least one Community Health Post or Aid Post. Continuing with the health example, the Aid Post links (by transport and communication) to a Health Centre at Zone Level Headquarters, to an Urban Health Centre at Local Level Government Headquarters, to District Hospital at District Headquarters Level, to a Provincial Hospital at Provincial Headquarters Level, and to a Regional Referral Hospital at Regional Headquarters Level.
+
+Details on the minimum basic core services required from the national level down to the ward level are set out in table 2.2 for indicative purposes only.
+
+Table 2.2: National Service Delivery Framework - the minimum basic core services
+
+Service Delivery Agents Minimum Basic Core Service Requirements Funding Sources
+
+National
+
+Central Agencies and Statutory Bodies Public institutions, National functions, national infrastructure and networks. GoPNG and Development Partners
+
+State Owned Enterprises Public utilities (electricity, water and sanitation), Communications & network, postal services. GoPNG and Development Partners
+
+Regional Headquarters (NGI, Southern, Momase & Highlands) • Public institutions, National functions, national infrastructure and networks located at each regional HQ for instance regional IRC and Tax offices, supreme courts, regional referral hospitals with specialized services, etc. GoPNG and Development Partners
+
+Service Delivery Agents Minimum Basic Core Service Requirements Funding Sources
+
+Sub-National
+
+Provincial Headquarters (22 Provinces including NCD) • Provincial Administration • Provincial Works Unit • Provincial Hospital • Open University • Teachers College • Nursing College • Secondary School • National Court • Major Airport/ seaport • Treated water & sanitation PSIP and Development Partners
+
+District Headquarters (89 districts) • District Admin & Treasury • Secondary school • Vocational School • District Hospital • Electricity • Treated Water & Sanitation • District Court • Postal & Banking Service • Police x 10 • Rural Lock Up • Transport & Communication link to PHQ DSIP and Development Partners through the District Development Authorities
+
+LLG headquarters (313 LLGs) • LLG Administration • High School • Primary School • Urban Health Centre • Sea jetty/airstrip and/or road link to DHQ • Communication link to DHQ • Police LLGSIP, DSIP PSIP and Development Partners
+
+Zone HQ (central Service Centres within a cluster of Wards) • Primary School • Health Centre • Transport & Communication link to LLG HQ DSIP and Development Partners
+
+Council Ward HQ (6,131 wards) • Elementary School • Community Health Post • Ward Development Committee • Peace Officer • Village Court Magistrate • Water & Sanitation LLGSIP, DSIP PSIP and Development Partners
+
+Procurement - Reforming Processes & Creating Innovative Solutions
+
+The efficient procurement of public goods and services has been a serious impediment over recent years. As a result, significant amounts of public funds have been wasted or misappropriated.
+
+The initial task is the required reforms to the Public Finance Management Act to improve the effectiveness and transparency of the Central Supplies & Tenders Board (CSTB).
+
+The CSTB has so far been ineffective for higher-level procurement and reforms are required to improve transparency and independence of the Board and to separate functions such as that of the State Solicitor.
+
+Special Supplies and Tenders Board are required for major procurements at sector levels such as medical drugs that may require specialist knowledge, and should not be subject to unnecessary delays due to their importance (drugs and medical equipment). The Government has mooted the Independent Health Procurement Authority and this should be progressed more rapidly.
+
+Provincial Governments must have functioning Provincial Supply and Tenders Boards and Provincial Works Units. District Development Authorities should have District Tenders Boards and District Works Units. These have been empowered with additional procurement powers.
+
+The Government understands that streamlined and efficient public sector procurement processes are needed to effectively implement its policies and programs. The Government will amend the legislation and issue non-financial instructions to improve and speed up procurement at both the national and sub national government level.
+
+As outlined in the 2015 Budget Non-Financial Instructions, the Government has commissioned the CSTB to draft a set of clear guidelines on the tender approval process, including the length of time required for each stage of the process. The Government expects the guidelines to be in place by mid-2015.
+
+The Government has now reviewed procurement modalities and limitation to determine how to better procure public goods and services for PNG citizens. As a result, the Government is moving to forge partnerships with the private sector and other non-state partners who can demonstrate a strong commitment and a proven record of providing goods and services at "value for money" prices.
+
+One example of this approach is the financial support provided to faith based organizations through the Church Partnership Program to deliver health and education services. Currently, church based programs deliver around 50% of the services across the country, especially in rural and remote areas where the Government is unable to reach. Providing these organizations financial support eliminates the need for the Government to duplicate infrastructure and maximizes access to goods and services.
+
+A further example is the floating hospital program in conjunction with Youth With A Mission and the private sector.
+
+The maintenance of remote airstrips by third level airlines through the newly established Rural Airstrips Authority is also an example of utilizing government funding to deliver services through established and committed partners.
+
+Under the MTDP2 work will continue to review and improve the procurement system so that public goods and services can reach PNG citizens in a timely and cost effective manner.
+
+Public Sector Reforms
+
+The Government is undertaking an extensive legislative program to introduce more transparent and accountable public sector and reduce service delivery costs.
+
+In 2014 Budget, the Government announced a public sector reform program that included a range of legislative and policy reforms.
+
+Some examples include, amendments to the Public Service Management Act 2014; introducing the Rightsizing Initiative and the Service Improvement Program to restructure the public sector and improve administrative processes; and roll-out of manpower and payroll audits to remove discrepancies and salary over-runs.
+
+Other major initiatives include the review of the Constitutional Law Reform Commission and the Internal Revenue Commission and changes to the structure of the National Budget. A full list of the Government's reform agenda is provided in the 2014 Budget Book, volume one, page 90.
+
+In the 2015 Budget the Government announced the reform of the Budget Management Framework with the introduction of the Consolidated Budget Operating Rules to assist agencies to manage their budget expenditure, during the year and in the preparation of Budget submissions.
+
+As part of its commitment to an efficient public sector the Government has announced an efficiency review of the public sector. The Efficiency Review will report on whether the cost, efficiency and functions of National Government and Sub-national Governments are value for money. This important review will help to control public sector expenditure and provide savings, which will contribute to our revenue stream and the economy.
+
+Under MTDP2, the Government will continue to initiate its legislative and administrative reforms to improve public sector efficiencies during 2016-2017 and beyond.
+
+Service Delivery and State Owned Enterprise Reform
+
+The Government's policy objectives in relation to State Owned Enterprises (SOEs) is to reform them to operate as commercial entities and as a principle, not to become operators of business unless the conditions for the provision of an essential good or service cannot be delivered by the private sector in a competitive, commercial space.
+
+The key strategies under MTDP2 for SOEs are:
+
+• For the Government to create the best environment for service delivery and infrastructure development through increasing the efficiency of SOEs, privatization in appropriate cases and constructive partnerships with the private sector. This includes:
+
+»» Supporting competition, to encourage SOEs to become more efficient and identify when the private sector can provide quality services at a lower cost; and
+
+»» Encouraging private sector partnerships to gain access to the skills, technology and finance that are needed to improve performance and expand infrastructure.
+
+Where service delivery is not commercially viable, the Government will continue to subsidize investments to fulfil Community Service Obligations.
+
+Parliamentary Legislation Supporting the Enabling Environment
+
+A program of policy reviews and legislative reforms underpins the Government's development strategy, including its resourcing and implementation reform agenda.
+
+This policy and legislative support has contributed to the success of the fiscal strategy through political stability and enhanced governance. It is also contributing to Government efforts to address existing institutional and legislative inefficiencies.
+
+A range of legislative amendments and reviews has supported the Governments policy of macroeconomic stability. These included:
+
+• Amending the Integrity of Political Parties and Candidates Act to improve political stability and accountability of the Parliament;
+
+• Introducing the Independent Commission Against Corruption Bill to improve the integrity of public administration among public sector organizations in the country by exposing corruption and corrupt practices; and
+
+• Amending the Public Service Management Act to streamline government appointments.
+
+Amendments to the Fiscal Responsibility Act have also been undertaken to enable major investment and improve service delivery. These amendments included:
+
+• Introducing the Medium Term Fiscal Strategy to enable the Government to properly plan, resource and implement its intervention Programs;
+
+• Establishing the Organic Law on the Sovereign Wealth Fund to manage the revenue from the LNG and mineral sector with a view to insulating the PNG economy and the budget from volatility and to provide intergenerational equity;
+
+• Amending the Public Financial Management Act to improve the management of public finances - revenue and expenditures;
+
+• Converting the IRC to a Statutory Authority to improve the operational efficiency of the organization and its tax collection role; and
+
+• Conducting the Tax Review to improve the collection systems and processes and to broaden the tax base.
+
+To improve strategic planning and the service delivery framework, the Government undertook a range of legislative and policy reviews. These included:
+
+• Reviewing public Procurement policies and practices to improve and speed up procurement at both the national and sub national levels of government so that services can get to the people in a timely and cost effective manner;
+
+• Amending the Public Private Partnership Legislation Act to create an enabling platform for effective partnership between Government and the private sector to improve service delivery;
+
+• Establishing the District Development Authority Act to enable effective and efficient service delivery at sub national government level;
+
+• Reviewing the Independent Consumer & Competition Commission Act to ensure competition, fair trading and consumer protection;
+
+• Adopting the Responsible Sustainable Development Strategy (StaRS) to reinforce the National Goals and Directives Principles of the constitution in guiding all development activities towards a more sustainable pathway;
+
+• Drafting the National Planning legislation to underpin the Government's national planning and monitoring framework;
+
+• Reintroducing the National Population Policy to stabilize population growth; and
+
+• Developing the Water and Sanitation Health Policy in addition to the PNG Aid Policy to increase access to reliable and affordable water and sanitation services.  
+
+Every child has the right to access quality education
+
+Chapter 3: Priority Sectors
+
+3.1 Introduction
+
+People are at the centre of the Government's development efforts and reflected in all of its priorities. This is underscored by the elevation of population in StaRS and MTDP2 and the use of Human Development Index as the primary indicator. The Government has recently launched the Population Policy 2015-2024.
+
+Under the MTDP2, the focus will be on the Government's sixteen critical policy and program areas identified in the Critical Activity Matrix. These activities have general headings with specific programs and outcomes to deliver the MTDP objectives:
+
+1. Planning and Monitoring 2. Resourcing/ Financing 3. Implementation and Procurement 4. Priority Infrastructure 5. Education 6. Health 7. Law and Order 8. Land and Housing 9. Small and Medium Enterprises 10. Agriculture 11. Subnational Empowerment 12. Public Sector Reform 13. State Owned Enterprises Reform 14. PNG LNG & Sovereign Wealth Fund 15. Legislative Agenda 16. Strategic Assets
+
+Chapters 1 and 2 cover critical activities 1 and 3. This chapter provides guidance and strategic direction for agencies to meet the Government's investment targets and legislative requirements for its critical activities 4 - 8; education, health, infrastructure, law & justice and land & housing.
+
+In setting this strategic direction, the Government is also conscious of its role to facilitate responsible sustainable development. The indicators and targets set out in this chapter will create the policy and governance environment that allows for this kind of development, in particular at the sub-national level.
+
+3.2 Education
+
+MTDP2 Goal: To improve access to and quality of education.
+
+School Education
+
+Education is the primary foundation for the development of the country. It enhances human capacity, improves productivity and helps to raise the standard of living and quality of life. The Government notes that the objectives of Vision 2050 will not be achieved if the average period of schooling (the mean) per child is not increased.
+
+To achieve this target the Government has made a considerable commitment to education through the introduction of the Tuition Fee-Free Education policy for students at elementary, primary and secondary school levels. This has increased enrolment and retention in schools across the country.
+
+The Government also recognizes the flow-on implications of this policy regarding quality education and meeting infrastructure needs. The Government is providing financial support to recruit new teachers and improve teacher training, improve the national curriculum and examinations standards and provide school curriculum materials and equipment. At the sub-national level the new District Education Infrastructure funding model (2015 Budget) is allowing District administrators to address the backlog of school infrastructure needs.
+
+Table 3.1: Key indicators and targets for School Education
+
+Indicators Baseline* Targets 2017
+
+Value Year
+
+Mean years of schooling (years) 3.9 2012 5.0
+
+Expected years of schooling (years) 8.9 2012 10.0
+
+Net enrolment ratio (%) in primary education (grade 1-8) 74 2013 82
+
+Proportion (%) of pupils starting grade 1 who reach grade 8 74 2012 79
+
+Youth literacy rate (%) for population aged 15-24 years
+
+64 2010 70
+
+Number of girls per 100 boys in primary (basic) education
+
+93 2013 95
+
+Pupil-teacher ratio 1:45 2014 1:40
+
+*Sources: Department of Education; Department of Higher Education, Research, Science and Technology; UNDP Human Development Report 2014.
+
+Key indicators and targets for education infrastructures are shown in the table below.
+
+Number* Year
+
+Universities 6 2014 7
+
+Teachers' Colleges 8 2014 1 per province
+
+Poly Technical Institutions 3 2014 1 per province
+
+Schools of Excellence (year 11-12) 6 2014 1 per province
+
+Technical & Business Colleges 5 2014 1 per district
+
+Vocational Schools 114 2014 1 per LLG
+
+Secondary Schools 219 2014 1 per LLG
+
+Primary Schools 3,543 2014 At least 1 per zone
+
+Elementary schools 7,298 2014 At least 1 per ward
+
+*Existing education facilities in the country. Source: DOE (2013)
+
+Higher & Technical Education
+
+The higher and technical education and training institutions supply the critical human resources needed for nation building.
+
+The Government recognizes the need for universities and colleges to step-up and meet this demand and is responding by increasing the number of scholarships; reintroducing the student loan scheme; increasing the number of new higher learning and training institutions as well as the capacity in existing institutions. This work will also be undertaken in partnership with church and private sector training providers. In addition, the Government is significantly rehabilitating post-secondary institutional infrastructure, most of which was built in the 1970s.
+
+Total expenditure for the education sector has increased during the period of this Government by 62%. This level of support will continue under MTDP2.
+
+Table 3.3: Key indicators and targets for Higher and Technical Education
+
+Indicators Baseline* Target 2017Number Year
+
+Number of graduates in higher education (colleges/ universities) 9,316 2014 11,000
+
+*Source: Department of Higher Education, Research, Science and Technology.
+
+3.3 Health
+
+MTDP2 Goal: To improve access to and quality of healthcare.
+
+The Government's long-term plan is to provide an efficient and effective health system that delivers internationally acceptable standard of health services across PNG. This will also ensure that PNG meets its Millennium Development Goals on maternal and child health (MDG 4 and 5) and HIV/AIDS, malaria and other diseases (MDG 6). as well as human development goals such as life expectancy at birth. All these contribute to improvement in HDI that moves the country towards Vision 2050 goals.
+
+In 2013, the Government moved forward on this objective and introduced free primary health care and subsidized specialist health services for PNG citizens. Additional funding for a range of health sector programs has also supported this critical government policy.
+
+Major government priorities for MTDP2 includes:
+
+• Continuously expanding health service delivery at the community level through the following structure:
+
+»» National Referral and Training Hospital (Port Morsby General Hospital)
+
+»» Regional Referral Hospitals
+
+»» Provincial Hospitals
+
+»» District Hospitals
+
+»» Urban Clinics in all LLGs
+
+»» Health Centres in Zone HQ (a Zone HQ is a cluster of Wards)
+
+»» Community Health Posts in Wards
+
+• Expanding of Regional (specialist) hospitals in Lae (Angau), Mt. Hagen, Port Moresby and other centers like Wewak (Boram) and Enga; and
+
+• Recruitment and training of medical professionals and workers. This work will also be undertaken in partnerships with Church health services (mostly in rural areas) and with other private health providers.
+
+Provision of family planning is an important component of the service in the health sector. The sector will also continuously provide services on HIV/AIDS; malaria and TB; preventative healthcare; and emerging noncommunicable diseases such as diabetes and asthma.
+
+Total expenditure for the Health sector has increased during the period of this Government by 206%. This level of support will continue under MTDP2.
+
+Table 3.4: Key indicators and outcome targets for the health sector
+
+Indicators Baseline Targets 2017Value Year
+
+Life expectancy at birth 60.2 2012 63
+
+Proportion (%) of one year old child immunized against measles 49 2012 77
+
+Proportion (%) of births attended by trained health personal
+
+44 2012 64
+
+Proportion (%) of pregnant women who had at least one antenatal care visit 66 2012 76
+
+Proportion (%) of population with advanced HIV infection with access to antiretroviral drugs 79 2012 100
+
+Death rates associated with Malaria per 100,000 population
+
+40 2012 30
+
+Death rates associated with Tuberculosis per 100,000 population 54 2012 44
+
+Sources: Asian Development Bank Key Indicators 2014; Department of Health 2014 Sector Performance Annual Review.
+
+Number* Year
+
+National Referral and Training Hospital (POM General Hospital) 1 2014 1 in the national capital
+
+Regional Referral Hospitals 4 2014 1 per region
+
+Provincial Hospitals 22 2014 1 per province
+
+District Hospitals** 89 2014 1 per district
+
+Urban Clinics 77 2014 1 per LLG
+
+Sub Health Centre 445 2014
+
+Health Centre 193 2014 1 per zone
+
+Community Health Posts 4 2014 1 per ward in the long run during 2016-2050
+
+Aid Posts (Open) 2672 2008 At least 1 per ward
+
+Aid Posts (Closed) 776 2008
+
+Source: Department of Health 2014 Sector Performance Annual Review. *Existing health facilities in the country
+
+**District Hospitals include District Health Centre Note: The Government aims at gradually upgrading Sub Health Centres into Health Centres and some Aid Posts into Community Health Posts.
+
+Achieving health targets and improving the overall indicators and outcomes is primarily the responsibility of the Department of Health. This responsibility is to be exercised in concert with the important contribution made by the Churches, donors groups and other community-based organizations.
+
+3.4 Infrastructure
+
+MTDP2 Goal: To identify, prioritize and expedite the development of critical national infrastructure.
+
+Infrastructure such as transport (land, air and water) and utilities (electricity, water and sanitation, and ICT) are key enablers for development. Reliable infrastructure facilitates the flow of goods and services essential to economic growth.
+
+It is intended that modalities for delivery of major infrastructure are informed by historic experience and funding and technical arrangements such as Civil Aviation Development Investment Program on airport infrastructure development are utilized to give long term funding and implementation capacity and certainty. This type of mechanism can be utilized to deliver all major infrastructures under each of the transport modes. Road infrastructure for example for the national highways should be delivered by a dedicated technical unit under the Department of Works where all funding is combined into a comprehensive 5 to 10 year outlook.
+
+Total expenditure for the sector has increased during the period of this Government by 152%.
+
+3.4.1 Transport
+
+A good transport system allows for the effective movement of goods from the point of production to where they are consumed, facilitates the effective delivery of social services such as education and health and enhances community interactions and well being.
+
+The transport system comprises infrastructure (roads, jetties, wharves, airstrips) and services (ships, planes, PMVs) to move people and cargo. It also includes the regulatory framework and standards that ensure the safe and correct use of the transport system.
+
+Coordination of transport infrastructure and services both within and between modes is essential to an effective Transport System.
+
+To deliver an effective and well-coordinated transport system the Government is committed to improving three modes of transport; air, sea/ waterways and land.
+
+Land Transport
+
+MTDP2 Goal: To restore and expand the national road transport network to increase access to socioeconomic services with improved road safety.
+
+The construction of roads is important for facilitating transportation services, setting up agro-processing and SMEs, and generating income and employment in rural and urban areas. In the rural areas, it shortens the time taken to reach health and education institutions and markets, thus improving health, education and income generation.
+
+Re-building key road infrastructure will continue under MTDP2. During 2016-2017, the country will add at least 250 kilometers of national roads per year. The provinces are also expected to add 50 kilometers of road per province per year during the period.
+
+In addition, the Government will continue its emphasis on road durability (sustainability) and maintenance.
+
+Under MTDP2 the priority areas are:
+
+• Increasing the total length of national and provincial roads to cater for the needs of the people;
+
+• Increasing the proportion of roads that are in good condition;
+
+• Improving the assessment of major rehabilitation and new construction projects using a two staged Business Case approach to ensure value for money and enhanced socioeconomic returns for the people of Papua New Guinea;
+
+• Maintaining the value of existing investments in road infrastructure through an emphasis on maintenance;
+
+• Encouraging a quality-based focus on new road construction through integrated construction and maintenance contracting arrangements;
+
+• Encouraging the development of industry standards on long lasting and appropriate durable materials and methodologies to improve road construction reliability;
+
+• Developing policies to grow the capacity of local industry to build and sustainably maintain completed roads; and
+
+• Improving road safety infrastructures.
+
+2017Value Year
+
+Total length of national roads (km) 8,738 2014 9,500
+
+Proportion (%) of national roads in good condition 39 2014 50
+
+Estimated length of provincial and district roads (km) 22,000 2014 25,300
+
+*Source: Department of Works (2013).
+
+Maritime Transport
+
+MTDP2 Goal: To enhance the role and effectiveness of the maritime transportation network
+
+With its dispersed population in different islands, PNG's maritime transport comprising ports and port operations, marine navigation infrastructure, coastal maritime activities, international and coastal shipping, river transport and river ports and landings takes on special significance in providing maritime transport services to urban and rural populations. It increases access to markets as well as education, health and family planning services. It allows for increased participation of people in income generating activities and growing the national economy.
+
+PNG's maritime infrastructure also supports the nation's domestic and international trade with ports like Lae providing a conduit for resource exports.
+
+Some facts about maritime transport:
+
+• 115 ports and jetties are located throughout the Maritime Provinces;
+
+• 23 ports are within the 15 Maritime provinces; 16 of them are declared ports operated and managed by PNG Ports Corporation Limited;
+
+• 99 ports and jetties are undeclared. These could be owned and managed by private company, provincial governments, churches or individuals;
+
+• Most of the ports and jetties in the country are rundown or are in poor condition due to lack of repair and maintenance;
+
+• In 2014, there were 375 domestic vessels operating within PNG coastal waters shipping routes including inland waterways; and
+
+• Due to the LNG project, the coastal fleet of vessels operating along these routes is expected to increase to 700 vessels by 2017.
+
+A network of smaller ports, innumerable small wharves, and jetties support the major ports. These maritime facilities are often backed by both public and private owned infrastructure such as cranes, storage facilities and a complicated network of service providers ranging from tug boat operators to freight forwarders. The international and coastal shipping services are augmented by inland river transport systems predominantly on the Fly and Sepik Rivers.
+
+Under the MTDP2, the Government will continue its Port Development program. Key priority areas are:
+
+• Increasing the capacity of ports in Lae and Port Moresby to support economic growth and particularly export industries;
+
+• Rehabilitating infrastructure and in particular undertaking maintenance dredging for smaller non-commercial ports to ensure ongoing serviceability; and
+
+• Improving inland river and coastal infrastructure such as jetties to support service delivery.
+
+To complement the infrastructure investment there will also be a focus on improving services to maritime users. Under MTDP2 the priority areas are:
+
+• Consolidating the maritime regulatory and safety functions to deliver better and more consistent services to the maritime sector; and
+
+• Establishing the Marine Industry Advisory Group to enhance public/private relationships across the maritime sector.
+
+An improved maritime transport system will ensure greater access and efficiency within the maritime transport sector. Currently, the turnabout time for export and import of cargos within ports of call is approximately 4 to 5 days.
+
+With the introduction of 20 and 40 foot container storage facilities at all international and local port terminals and freight movement to remote areas including inland waterways, the turnabout time will be reduced to 2.5 days by 2017.
+
+Table 3.7: Key indicators and targets for maritime transport
+
+Indicators Baseline* Target 2017
+
+Value Year
+
+Number of ports upgraded 3 2013 30% of ports upgraded
+
+Domestic shipping routes increase 25% increase in shipping routes
+
+2014 75% increase in shipping routes
+
+Ports upgrading for domestic vessel traffic
+
+25% of ports upgraded 2014 50% of ports upgraded
+
+International port turnaround time 4 to 5 days turnaround time
+
+2014 2.5 days turnaround time
+
+*Source: Department of Transport, Maritime Transport Division. DNPM RMF Pocketbook 2013/2014
+
+Air Transport
+
+MTDP2 Goal: To improve and maintain air safety and security and increase air transport services throughout the country, especially into rural areas, and increase the capacity of international airports to meet emerging demands.
+
+Airports historically and continuously link PNG's widely dispersed population over isolated areas. The Government has adopted a system of certification that requires airports to achieve and maintain compliance with minimum international operating standards. Certification standard is required for PNG's 22 national airports.
+
+A quality air transport sector is critical not only for access to services by citizens but for attracting tourists and foreign investment to help build the future. The priority infrastructure development areas for the MTDP2 are:
+
+• Expanding Port Moresby International Airport (both airside facilities and terminal) as well as regional airports in the country to accommodate expected increases in tourism and business activity;
+
+• Ensuring the maintenance of existing air transport infrastructure;
+
+• Improve and maintain safety and security standards meeting international benchmarks; and
+
+• Progressively rehabilitating rural airstrips to help develop rural air services.
+
+To complement the infrastructure investment the Government will focus on improving sustainability of existing airports and the air services that use them. Priorities in this area include:
+
+• Undertaking an assessment of the commercial viability of all major airports including alternative revenue sources and appropriate funding strategies to ensure their sustainability;
+
+• Developing a plan for the effective management and funding of Provincial airports and rural airstrips; and
+
+• Expanding, improving and maintaining existing air transport infrastructure.
+
+Table 3.8: Key indicators and target for air transport
+
+Indicators Baseline* Targets 2017
+
+Value Year
+
+Number of national airports to comply with international air standards (airport certified) on an ongoing basis. 22 2014 22
+
+Number of unused airstrips rehabilitated to basic safety levels. 10 2014 20
+
+Number of regional airports upgraded and maintained for higher seating capacity aircrafts. 3 2014 6
+
+Safety standards • ICAO Minimum safety standards
+
+• Civil Aviation Rules (CAR) parts, 100, 139, 140. 2014 • ICAO Minimum Security standards
+
+• CAR parts, 100, 139, 140.
+
+• Security standards • ICAO Minimum Security standards
+
+• CAR parts, 100, 139, 140. 2014 • ICAO Minimum Security standards
+
+• CAR parts, 100, 139, 140.
+
+*Source: National Airports Corporation (2015)
+
+Water, Sanitation and Hygiene
+
+MTDP2 Goal: To increase access to reliable and affordable water and sanitation services and to improve hygiene behaviors.
+
+Improved access to potable water, sanitation and hygiene (WaSH) is needed to reduce morbidity and mortality. WaSH related diseases such as Diarrhoea, Typhoid and Cholera are the major causes of morbidity and mortality among children. In PNG, Diarrhea and Typhoid account for 1.6% and 2.9% of total deaths respectively. Total WaSH related deaths in PNG are estimated at 6,164 per year. In 2009, Cholera re-emerged in PNG after an absence of 50 years.
+
+Improved access to WaSH services also improves school attendance, reduces drudgery and improves people's livelihoods.
+
+Currently only 33% of rural households and 88% of urban households in PNG have access to clean water. Similarly, only 13% of rural households and 56% of urban households are using improved sanitation. PNG needs to improve to meet its MDG 7 related water and sanitation targets.
+
+The Government recognizes that greater effort is needed to achieve its water and sanitation objectives and has launched the WaSH Policy 2015-2030. This policy sets out the framework for developing and implementing improved service delivery through 7 clear strategies:
+
+1. Improved sector coordination and leadership,
+
+2. Increased WaSH sector funding,
+
+3. Develop and manage an effective management information system,
+
+4. Improved and consistent approaches to WaSH service delivery,
+
+5. Appropriate technology promotion,
+
+6. Enhanced private sector participation and partnerships, and
+
+7. Sector capacity building and training.
+
+The Government's strong expectation is that implementing the WaSH Policy 2015-2030 will contribute to achieving health targets and improving the country's HDI ranking.
+
+The key WaSH indicators and targets are provided below.
+
+drinking water source
+
+Proportion (%) of urban population using improved drinking water source 88 2014 90
+
+Proportion (%) of rural population using improved sanitation facilities 13 2014 20
+
+Proportion (%) of urban population using improved sanitation facilities 56 2014 58
+
+Proportion (%) of health and education institutions with access to safe water 50 2014 75
+
+Proportion (%) of households with access to safe water supply practicing total sanitation NA NA 40
+
+Proportion (%) of education and health institutions with hand washing facilities NA NA 75
+
+*Source: JMP 2014 Update, Department of Health. Department of Education.
+
+Electricity
+
+MTDP2 Goal: To increase access to and capacity of, reliable and affordable electricity supply to meet current needs and projected future demand.
+
+Electricity is a critical input for economic activities. It also enhances quality of life through improved health and education service delivery. PNG currently has four main sources for electricity generation: gas, hydro, geothermal and diesel. Current electricity generation capacity is insufficient to meet current and future demand.
+
+Progress in providing electricity to rural PNG has been slow and exacerbated by inadequate maintenance of existing generation and reticulation infrastructure.
+
+The abundance of the strategic assets of water and gas must be considered as a basis of cheaper power for domestic consumption and export as prescribed by StaRS.
+
+The Purari hydro project has the potential to host five dams, each generating 800 MW of power. The on and off grid requirements of PNG is currently 600 MW. There are environmental considerations and capital costs that may make this and other such mega projects non feasible in a long-term sense. Mega dam projects in other developing countries have not delivered the benefits in the manner touted.
+
+It is desired that provincial and district townships establish standalone, sustainable power generation systems where possible. Large-scale agricultural projects with processing systems such as the oil palm industry lend itself to biogas electricity generation at sustainable and cheap rates. This is demonstrated in Kimbe and can be extended to Popondetta, Kavieng and Alotau.
+
+The Government is funding a range of projects with the intention of improving generation and distribution capacity. These include, Hela and Southern Highlands Electricity Project, PNG Towns' Electricity Investment Project, Port Moresby Grid Development Project, Upgrading the Power Distribution System of Ramu Grid and Urban Grid Electrification Extension Project.
+
+The Government will continue this investment under MTDP2.
+
+Table 3.10: Key indicators and targets for electricity
+
+Indicators Baseline* Targets 2017Value Year
+
+Household electrification rate (% of households) 16.7 2010 20
+
+Capacity of gas generation (MW) 100 2014 280
+
+Capacity of hydro generation (MW) 215 2014 250
+
+Capacity of geothermal generation (MW) 56 2014 56
+
+Capacity of diesel- generation (MW) 100 2014 100
+
+*Source: Asian Development Bank Key Indicators 2014. DNPM, PNG
+
+Information Communication Technology (ICT)
+
+MTDP2 Goal: To improve, expand and increase access to an affordable ICT network.
+
+Effective communications is a necessary enabler for socioeconomic development. Cost-effective, efficient and reliable ICT services such as voice telephony, internet access and broadcasting services are important for economic growth, social development and environmental protection. It supports the delivery of a range of services such as education and health into rural and more remote areas. It also supports participation of women and men in activities as diverse as elections and business.
+
+The proportion of population who subscribed to mobile telephones was 35% in 2013. During the same year, the proportion of population covered by at least one 3G network (proxy to internet coverage) was 30% and the proportion of population with access to internet (mobile & fixed broadband) was 15%.
+
+The Government's objective under its ICT policy is to provide cost efficient, reliable and effective ICT services through the development of ICT infrastructure in the public and private sector. This will help to bridge the ICT divide between communities and overcome communications barriers created by geographic isolation in the country.
+
+Table 3.11: Key indicators and targets for ICT in MTDP2
+
+Indicators Baseline* Target 2017Value Year
+
+Proportion (%) of population with access to a mobile phone (subscribers per 100 people) 35 2013 50
+
+Proportion (%) of population covered by at least a 3G network (proxy to internet coverage) 30 2013 40
+
+Proportion (%) of people with access to internet (mobile & fixed broadband) 15 2013 25
+
+*Source: NICTA PNG.
+
+Sports Infrastructure
+
+MTDP2 Goal: To deliver a successful 2015 Pacific Games.
+
+It is to be noted that a special intervention is being made to upgrade sports infrastructure because of the 2015 Pacific Games. These Games will cost the Government at least K1.2bn. This infrastructure will be used to leverage sporting events and activities into the future providing direct and indirect benefits to the country. The games village will be utilized by the University of PNG to accommodate their students at the conclusion of the games.
+
+3.5 Law and Justice MTDP2 Goal: To reduce crime and corrupt practices and to promote good corporate governance across all sectors.
+
+Law and order is a critical enabler for socioeconomic and political development. Justice is both a basic human right and a fundamental precondition for a well-functioning market economy and orderly society.
+
+The rule of law is necessary to provide the impetus to save, invest and accumulate the necessary assets that underpin better living standards. It is also critical to encourage private sector investment in the economy. Petty and organized crime, fraud and illegal trafficking of guns and drugs increase the cost of doing business in PNG. This also deters foreign investment.
+
+Rural communities also require the rule of law to enable them to participate in the formal market economy. If cash incomes and assets (such as coffee trees) are under constant threat of destruction or theft, smallholders are likely to withdraw to subsistence livelihoods.
+
+More broadly, individual communities and the nation bear the cost of the destruction of public assets, including impeding access to essential services. Community violence that results in the destruction of assets such as aid posts and schools deprives the communities of essential services and undermines the potential for citizens to improve their quality of life.
+
+The Government recognizes the importance of this sector and is investing significantly in it. This includes the PNG-Australia Law and Justice Partnership, Waigani Court House Complex and an increase in the number of Judges and Court circuits held in Provinces and Districts. In 2015 Budget the Government fully funded allowances for village court officials.
+
+The Government is also providing significant financial support to modernize the Police, Defence and Correctional Services and meet the security costs of the 2015 Pacific Games and APEC (Asia-Pacific Economic Cooporation).
+
+The Government has increased expenditure in this area by 95%.
+
+Under MTDP2 the Government will continue this support by:
+
+• Modernizing the police force;
+
+• Establishing the office of the Secretary for Police to oversee the effective administration and management of the force;
+
+• Reviewing the process for recruiting police Commissioners and Deputy Commissioners;
+
+• Repealing the legislation passed in the last Parliament (Judicial Conduct Act, Supreme Court Amendment Act, Parliamentary Privileges and Immunities Act);
+
+• Establishing, on an ongoing basis, the Inter-Agency Committee Against Corruption; and
+
+• Introducing the Independent Commission Against Corruption Bill in Parliament  
+
+Table 3.12: Key indicators and targets for law and justice
+
+Indicators Baseline* Targets 2017Value Year
+
+Crime rate (crimes per 1000 population) 91 2010 65
+
+Incidence of major crimes reported 150,000 2005 100,000
+
+Number of well-trained police officers 5,116 2014 7,500
+
+Number of police stations 184 2014 300
+
+Number of village courts 1,529 2013 2,000
+
+Backlog of District Court Cases 59,467 2013 30,000
+
+*Source: Law and Justice Report, 2014.
+
+3.6 Land and Housing
+
+MTDP2 Goals: To improve access to affordable housing for citizens: and to free up and mobilize alienated and traditional land for development.
+
+One of the fundamental subsistence needs of every human is shelter and the physical and economic safety it provides. Availability of land and land tenure is a critical element for providing shelter in PNG. 97% of the land in PNG is owned by traditional clan landowners, with only 3% available for the State.
+
+Land and a functioning land tenure system is a fundamental element of a productive economy.
+
+The Government has recognized the chronic shortage of affordable land and housing in PNG and has adopted the Land and Housing policy. This critical intervention combines the existing National Land Development Program with Affordable Housing initiatives under one umbrella - the Affordable Land and Housing (ALH) Program.
+
+Cabinet has established a Ministerial Committee under the Chairmanship of the Minister for Planning and Monitoring. The Office of Urbanization provides the Secretariat. The Committee has been tasked to take carriage of matters relating to the provision of affordable land and housing and to specifically deliver 40,000 housing units/land allotments.
+
+Funding provided to this program is supporting the Land Reform Program to progress the mobilization of customary land, institutional housing of at least 10 houses per district, and the capturing of existing alienated land to develop affordable housing. Pilot programs at Duran Farm and Gerehu 3B in Port Moresby will provide 10,000 allotments.
+
+The Gerehu 3B project will pilot the provision of free titles to qualifying Papua New Guineans to access funding provided to commercial banks at 4% interest with 40 year terms. Housing designs of concrete, steel and timber construction have been developed with the private sector at minimum costs of K160,000.00 for a two bedroom home, to provide options to citizens.
+
+This program commenced in 2014 and will continue under MTDP2. Total expenditure for the sector during the period of this Government increased by 67%.
+
+The Department of National Planning and Monitoring is coordinating the program with direct input from the implementation agencies, including the Department of Lands and Physical Planning, the National Housing Commission, the Magisterial Services, the NRI and the Office of Urbanization.
+
+Key priority areas under the MTDP2 are:
+
+• Increasing access to State and traditional land for affordable housing in urban areas and institutional housing at sub-national level;
+
+• Improving access to affordable financing by improving the land titles system and enhancing Government incentive schemes for major banks;
+
+• Reviewing government policies and practices to encourage greater competition and efficiency in the housing construction industry;
+
+• Building the capacity of the Department of Lands and Physical Planning to effectively contribute to the delivery of the program
+
+• Piloting customary land development models using the Incorporated Land Groups as the mechanism and establishing the special land development advisory service;
+
+• Implementing the Land Group Incorporation (Amendment) Act and the Land Registration (Customary) (Amendment) Act; and
+
+• Producing a "Land Use Planning Scheme" to guide the use of land that is consistent with the StaRS.
+
+Table 3.13: Key indicators and targets for land & housing
+
+Indicators Baseline* Targets 2017Value Year
+
+Proportion (%) of land held by the Government 3.0 2014 3.5
+
+Number of ILGs registered in accordance with legislation
+
+2000 2014 3,000
+
+Number of approved urban plans on alienated and customary land 10 2014 15
+
+Number of institutional houses in Districts NA NA 890
+
+Number of affordable houses constructed for Papua New Guineans
+
+NA NA 40,000
+
+*Source: DNPM, PNG.
+
+A smart economy based around our strategic assets...
+
+Chapter 4: The Economy
+
+4.1 Introduction
+
+A small government and efficient private sector supporting a smart economy based around Strategic Assets that is responsible and sustainable and provides inclusive and broad based development needs that are human development rather than economic development focused.
+
+Papua New Guinea has a population of 7.3 million according to the 2011 census. This population is currently growing at an unsustainable rate of 3.1% per annum, and will double every 22 years if the present rate of growth continues. Each of these citizens are entitled to the basic human rights of food, shelter, education, health, security and the means to pursue a meaningful and productive life.
+
+The Government is obliged to build, sustain and administer and facilitate for the socioeconomic rights of this population. There remains a capital deficit in delivering the required standard of these fundamentals and the Government is challenged with making up this deficit within the current economic and productive capabilities of the economy. The heavy reliance on non renewable resource extraction and primary resource harvesting, combined with the rapid population growth makes the current approach unsustainable.
+
+The country needs to understand this and begin a transition to a smarter development pathway.
+
+Initially PNG should empower every family and every citizen with the knowledge and access to contraception and begin the process of breaking the poverty cycle at individual and family level. This will take the burden off the health and education systems and lead to better-educated children and stronger family units. In a national sense it will reduce the pressure on Government. This pressure makes it hard for Government to make responsible, sustainable development choices for the longer term. It also places the Government in weaker bargaining position with multinational agencies and corporations.
+
+The Government must build and encourage an economy based on PNGs competitive strengths within the global village. These competitive strengths are based on the usual productive capabilities and resources of a nation but for PNG more particularly they are based on its Strategic Assets.
+
+These Strategic Assets can be used to develop a competitive and sustainable economy that provides the needs of its people and the basis for export income in a manner that is self-perpetuating.
+
+In this economy the Government should act as a facilitator and allow the private sector to be the generator of wealth. The Government should not attempt to duplicate the role of the private sector. It should be an operator of business only when there is no commercial basis for a competitive business in a sector or space.
+
+These Strategic Assets are; Mineral and Petroleum deposits, Water, Tuna, Forestry and Biodiversity, Agriculture and Eco-Cultural tourism.
+
+Carefully harvested, non-renewable mineral and petroleum assets, under an improved fiscal regime including a sovereign wealth fund, can fund our capital deficit (stabilization fund) and provide investments to maintain that capital in the future (savings fund). These resources cannot be harvested in a manner that significantly undermines the environmental stock.
+
+Water is available in abundance in PNG and clean water must be made available to all citizens. It provides a simple, clean, cheap solution for electricity generation based on small and medium sized hydropower solutions throughout the country. Water at higher elevation in the Highlands region can potentially be piped to Australia whilst generating power at the same time. Water and fertile soil provides the basis for our Organic Agriculture.
+
+PNG has 15% of the worlds tuna stocks and 30% together with the Parties To The Nauru Agreement. The global tuna stock is being depleted every day. The country needs to see the significance of this renewable resource and act to protect it, bring the harvest onshore, and create a sustainable protein source for our population and the rest of the world.
+
+PNG combined with West Papua has the third largest rainforest in the world. This forest is a carbon sink, oxygen generator, and together with our reefs contains 8% of the world's biodiversity. It is also the home and garden to many of our people. In a world seeking climate stability and environmental protection, we need to seek an international financial mechanism to encourage us to preserve these forests. In addition, PNG needs to move to only allow onshore processing of logs as soon as possible.
+
+Small scale agriculture has been the mainstay of Papua New Guineans for centuries and remains that way for many people today. In an increasingly urban scenario, the Government is required to develop better systems to mobilize land, organise farmers, create nucleus estates, improve productivity, efficiency and also to encourage entrepreneurship and development of small to medium enterprises as vehicles for participation in this effort.
+
+With a productive land mass and good water source, PNG should be able to produce its own food requirements for a stabilized population and export the surplus.
+
+Biodiversity, the environment and PNGs culture provide the basis for an education, research and tourism industry.
+
+The National Strategy for Responsible Sustainable Development (StaRS) sets out the underlying principles supporting the Government's intention to shift its development (operational) strategy from the current 'brown only' growth model, of resource extraction and export, to a more sustainable 'greener' economy.
+
+The two primary drivers of this new economy is the sustainable development of PNG's natural resource (its strategic assets) and creating the enabling environment for a flourishing Small & Medium Enterprise sector.
+
+In the medium term, the economy will remain heavily reliant on the revenue inflows from the extractive industries, particularly from the PNG LNG Venture. However, over the longer term the Government's operational strategy will shift the economy towards a more sustainably robust model, which is SME enabling and climate resilient. In this way, the Government will move towards attaining its goals to be:
+
+• World leader in promoting and establishing the responsible sustainable development paradigm; and
+
+• Among the top 50 countries on Human Development Index by 2050.
+
+This chapter provides details on the Government's investment priorities, indicators and targets for growing the economy under MTDP2.
+
+4.2 Small and Medium Enterprises (SMEs)
+
+MTDP2 Goal: To increase the participation of citizens in business activities.
+
+The development of SMEs in PNG has been sluggish due to policy, institutional, environmental and structural constraints. This Government has recognized that a competitive, dynamic and diverse private sector is an important driver of economic growth. The SME sector is recognized as the vehicle for empowering citizens by promoting self-reliance, job creation and reducing poverty.
+
+The Government remains committed to creating an environment that is conducive to SME development. This includes a robust SME policy and establishing the necessary legislative framework to guide and grow the sector. It has also started to build small business capacity through support for training programs such as Know About Business and Start, Improve Business.
+
+In 2013, there were 49,500 registered SMEs in PNG. However, it is estimated that only half of those were operating well. For our economy to continue to grow, we need a vibrant and profitable SME sector that provides employment and tax revenue.
+
+Agencies with prime responsibility for implementing SMEs policy are the National Development Bank and Small Business Development Corporation under the coordination of the Department of Commerce and Industry.
+
+The Government will continue to encourage emerging SMEs under MTDP2. The key priority areas are:
+
+• Continuing to improve SMEs access to markets and financial credit;
+
+• Encouraging and promoting SMEs to be internationally competitive;
+
+• Encouraging the operation of the informal economy and streamlining the transition process for SMEs from the informal to the formal economy; and
+
+• Reducing the cost of doing business and streamlining the administrative processes ("removing red tape")
+
+Table 4.1: Key indicators and targets for SMEs
+
+Indicators Baseline* Targets 2017Value Year
+
+Number of SMEs in PNG 49,500 2013 170,000 Proportion (%) of SMEs owned by indigenous Papua
+
+New Guineans 80 2013 90
+
+Proportion (%) of SMEs owned by women 25 2013 35 Number of paid employment in SMEs 434,634 2013 1.6m Contribution of SMEs to GDP (billion Kina) 2.5 2013 8.5 *Sources: IPA Database 2013, Small and Medium Enterprise Master Plan 2014-2030 (Draft), Department of Trade, Commerce & Industry Papua New Guinea; Tebbutt Research Baseline Survey on SMEs in PNG 2013. Note: The baseline values are estimates.
+
+4.3 Strategic Assets
+
+It is anticipated that as the world shifts, in terms of changing values, towards more sustainable use of natural resources, there will be an economic benefit for PNG. Natural capitals such as clean water/river systems, coastal beaches and marine life, forests and biodiversity, and cultural diversity are in abundance in PNG and will increase in value with government investment.
+
+The sustainability of these strategic assets is underpinned by the guiding tenet of the moral contained in the analogy of the fable of the goose and the golden egg.
+
+Under the new global economy these assets will be positioned to be pillars of economic growth, together with a more sustainable management of the current drivers of growth, mineral and petroleum and agriculture.
+
+The Government has identified these strategic assets for investment:
+
+• Forestry and Biodiversity;
+
+• Fisheries and Marine Resources;
+
+• Agriculture and Livestock;
+
+• Fresh Water Resources;
+
+• Clean and Sustainable Energy; and
+
+• Minerals and Petroleum Resources.
+
+4.4 Forestry and Biodiversity
+
+MTDP2 Goal: To ban export of logs and build the forestry and biodiversity sector that is environmentally sustainable and profitable.
+
+The forest sector is very important for PNG because of the following reasons:
+
+• People in rural areas largely depend on the forest. The forest provides wood for housing, fuel for cooking, fodder, forest-based medicines, food and meat as well as forest products for internal consumption and exports;
+
+• Forest-based industries such as saw mills depend on forest products;
+
+• Seven per cent of world's biodiversity is found in PNG with most of these wild plants and animals found in our forests;
+
+• The forest absorbs carbon-dioxide, supplies oxygen, preserves the environment, and contributes to the reduction of global warming; and
+
+• The forest helps to maintain soil fertility.
+
+According to the data from Papua New Guinea Forest Authority (PNGFA), the country's forest cover was 71.7% in 2014 and is recognised as a significant contributor to the containment of global warming. However, in recent years the forest has been greatly degraded and depleted due to excessive logging. This trend needs to be stopped.
+
+The priority areas for MTDP2 are:
+
+• Banning the export of old growth logging;
+
+• Processing of logs and forest products within the country to generate income and employment;
+
+• Maintaining areas under forest cover through afforestation/reforestation;
+
+• Increasing the income of landowners through carbon trading;
+
+• Increasing areas under national parks and protected areas to protect biodiversity; and
+
+• Increasing the number of eco-tourists per annum.
+
+Table 4.2: Key indicators and targets for the forest and biodiversity sector
+
+Indicators Baseline* Targets 2017Value Year
+
+Total land area reforested/afforested (hectares) 74,706 2013 80,000
+
+Proportion (%) of timber processed within the country
+
+20 2007 100
+
+Proportion (%) of land area covered by forest 71.7 2014 72
+
+Proportion (%) of terrestrial areas protected to maintain biodiversity 3.1 2012 3.1
+
+*Sources: PNGFA; Asian Development Bank Key Indicators 2014
+
+4.5 Fisheries and Marine Resources
+
+MTDP2 Goals: To ban the transshipping of tuna and build an onshore sustainable fisheries and marine resources industry.
+
+The fisheries sector has been a source of revenue through the export of processed and unprocessed fish and other marine products, particularly tuna. PNG's Exclusive Economic Zone (EEZ) of 2.4 million square kilometres for fish catch is the largest in the South Pacific region. Around 15% of the world's total tuna stock is found in this EEZ.
+
+According to the estimate of Pacific Tuna Forum, the raw value of PNG's annual catch is about US$1.5 billion per annum. Of the 550,000 tons of tuna caught in PNG waters annually more than 70% is taken to other countries for processing. The European Union estimates that 53,000 jobs could be created in the PNG tuna industry if more on-shore processing was undertaken.
+
+The Government's long-term objective is to attain 100% in country processing of the tuna catch from within its EEZ. In addition both commercial and artisanal harvesting of fisheries should not exceed the biological limits of regeneration of the stock.
+
+Under the STaRS the Fisheries Sector has been classified as a strategic asset and is expected to be one of the drivers of growth in the new economy going forward. Sustainable management of the sector is needed so that the regeneration capacity of the resource and its ongoing contribution to economic growth is maintained.
+
+Key priority areas for MTDP2:
+
+• Reviewing, developing and implementing a Sustainable Marine Resource plan;
+
+• Creating awareness on responsible management and use of fishery and marine resources;
+
+• Combating and monitoring of illegal unreported unregulated fishing;
+
+• Introducing a restricted licensing system;
+
+• Developing the human capital and institutional capacity for the National Fisheries Authority and related stakeholders of the fishery sector. E.g. Subnational governments;
+
+• Increasing teaching and researching of fishery;
+
+• 50% onshore processing of fisheries by 2017;
+
+• Development of recreational and eco/marine tourism (with Tourism Authority);
+
+• Development of aqua culture and coastal fisheries; and
+
+• Development of enabling support infrastructure.
+
+Table 4.3: Key indicators and targets for fishery & marine resource sector
+
+Indicators Baseline* Targets 2017Value Year
+
+Proportion (%) of fish catch caught by PNG flagged vessels
+
+Less than 4 percent 2007 50
+
+Proportion (%) of fisheries processed within the country 30 2014 100
+
+Proportion (%) of marine managed areas 10 2014 15
+
+Creation of employment 30,000 2014 35,000
+
+PNG processed fisheries export (million Kina) 328.76 2012 400
+
+*Sources: National Fisheries Authority; Asian Development Bank Key Indicators 2014.
+
+4.6 Agriculture and Livestock
+
+MTDP2 Goal: To support large scale agricultural enterprises and smallholder growers more generally to meet domestic and international needs.
+
+The agricultural sector in PNG continues to be the social safety net of PNG society. This sector employs about 50% of the working age population and provides income earning opportunities and subsistence for 85% of the population who live in rural areas.
+
+The sector contributes about 15% of the nation's GDP. While an estimated 30 percent of the land in PNG is suitable for agriculture, only 2.2 percent is currently being utilized for commercial agricultural production. In addition, PNG's agricultural sector is low yielding due to poor farming practices and hence is less profitable, compared to other countries. Poor infrastructure and market access are also contributing factors (MTDP1, 2010).
+
+Enablers such as roads, bridges, extension service, access to markets, with appropriate regulatory policies will enable the sector to grow.
+
+In terms of production performance, Palm Oil and Coffee had gains in volume and value while cocoa production declined due to cocoa pod borer, poor yields and low prices. The coconut industry continues to decline due to low prices, high production and transport costs and declining yields due to aging palms. Production of other minor crops such as vanilla, rubber, chili, etc. are also in decline for similar reasons.
+
+The Alotau accord called for; 1) increased capitalization of national development bank; 2) priority attention to rehabilitation of cash crops, fresh food storage, infrastructure, research and restructuring of commodity boards; 3) a promotional program to be undertaken seeking foreign investment in production and processing.
+
+The key strategic priorities for the MTDP2 are:
+
+• Improvement of institutional capacity;
+
+• Improvement of access to land;
+
+• Development of key supply chains to link producers to markets;
+
+• Provision of appropriate extension services;
+
+• Development of coping and mitigation strategies for pests and diseases and climate change;
+
+• Funding of research and development;
+
+• Enforcement of CODEX marketing standards; and
+
+• Utilization of Economic Corridors for agricultural development
+
+Agricultural practices have always been sustainable and responsible mostly out of the need to survive. This can be seen by the production of electricity from oil palm wastes and bio diesel from coconuts by some innovative participants.
+
+Table 4.4: Key indicators and targets for the agriculture & livestock sector
+
+Indicators Baseline* Targets 2017Value Year
+
+Coffee production (60 kg bags)) 911,598 2013 1,000,000
+
+Oil Palm production ('000 tons) 630 2013 750
+
+Cocoa production ('000 tons) 56 2013 60
+
+Copra production ('000 tons) 129 2013 150
+
+Proportion (%) of GDP in agriculture 27.1 2013 30
+
+Growth rate of agriculture real value added (%) 0.5 2013 4.0
+
+*Sources: MTDP RMF Pocketbook 2013/2014; Asian Development Bank Key Indicators 2014.
+
+4.7 Water Resources
+
+MTDP2 Goal: To improve the management of our fresh water resources and catchment areas.
+
+Papua New Guinea (PNG) has a substantial amount of fresh water resources (underground, rivers and lakes). According to the Department of Environment and Conservation (DEC, 2006), there are nine hydrological drainage divisions (basins) in the country, which make it a water rich country. The largest river basins of the country are: Sepik, Fly, Purari and Markham. The Sepik has the largest catchment area with 78,000 km2, followed by Fly with 61,000 km2, the Purari with 33,670 km2 and Markham with 12,000 km2. The other catchments are less than 5,000 km2 and are very steep.
+
+There are 5,383 freshwater lakes in the country. However, most are small. Only 22 of them have a surface area exceeding 1,000 ha. Lake Murray is the largest with surface area of 64,700 ha. Internal renewable water resources are estimated at 801.0 km2 per year and the bacteriological and chemical quality of most of the surface and underground water is safe. Consumption of water is as follows: Agriculture: 48%, Domestic: 28%, Industrial: 22% and others at 2% (Dec, 2006).
+
+This abundant water resource presents PNG with great potential for generation of clean hydro-electricity and bottling and exporting of fresh water. It is classified as a strategic asset of the country.
+
+Strategic policy and action plan is needed to guide the development and management of the resource.
+
+The key strategic priorities for MTDP2 are:
+
+• Development of strategic policy and action plan on the water resources and its implementation;
+
+• Increasing the access of rural and urban households and schools and health institutions on improved water source;
+
+• Increasing cultivated area under irrigation;
+
+• Increasing the proportion of hydro-electricity in the energy sector; and
+
+• Increasing bottling of PNG's fresh water for drinking in the country and exports.
+
+Key indicators and targets for the water resources sector are provided in the water and sanitation section of Chapter 3, and clean and sustainable energy section in Chapter 4.
+
+4.8 Clean and Renewable Energy
+
+MTDP2 Goal: To produce and supply clean, reliable and affordable energy to all households and enterprises today and in the future.
+
+Approximately 83% of the population does not have access to energy/electricity, and progress in providing electricity to rural PNG has been slow. In some cases the level of electricity services has been deteriorating because of insufficient funding for maintenance.
+
+The four main sources for electricity generation are: bio-gas, hydro, geothermal and
+
+PNG is a water rich country
+
+diesel. The electricity produced through these sources is still not enough to meet the growing demand due to increased population growth and economic development.
+
+A large proportion of the current electricity/energy produced in the country is through the use of fossil fuel that increases carbon dioxide and global warming. This has to be reversed and cleaner energy sources need to be developed.
+
+Providing affordable power supply to the people of Papua New Guinea is a priority item in the Alotau Accords (# 8). MTDP2 will continue the process begun by MTDP1 on increasing access to electricity for all households in the country but with greater focus on the generation and supply from cleaner sources of energy. Generating electricity from gas to meet growing demand is necessary in the medium term but commitment by Government is needed to shift away from fossil fuel reliance and towards cleaner sources of energy.
+
+Greater understanding through research and development is needed on the cost and effectiveness of alternative sources of cleaner power such as bio-fuel, hydro, geothermal, biomass, wind and solar. This will guide increased investments in the generation and distribution of alternative cleaner sources of energy. For the transport sector, bio-fuel will be assessed as a low cost cleaner alternative to diesel.
+
+Power generation needs to be opened to independent power producers in order to increase both the amount of electricity generated and the share of renewable energy in the national energy mix. Restructuring of the sector by separating generation, transmission and distribution services can have a significant effect on electric power technologies, costs, prices, institutions, and regulatory frameworks, and can create more space for renewable and clean energy in the national energy mix.
+
+Ongoing work on the set up of regional grids will continue as part of the strategy to provide access nationwide. Meanwhile, major maintenance will be undertaken on the existing regional grids - the Port Moresby Rouna grid, the Ramu grid and the Gazelle grid. The consolidation of regional grids into a national grid should provide for potential international connection and export to Eastern Australia.
+
+Table 4.5: Key indicators and targets for the clean renewable energy sector
+
+Indicators Baseline Targets 2017Value Year
+
+Household electrification rate (% of households) 16.7 2010 20
+
+Capacity of hydro generation (MW) 215 2014 250
+
+Capacity of gas generation (MW) 100 2014 280
+
+Capacity of geothermal generation (MW) 56 2014 56
+
+Proportion (%) of population using solid fuels** 73 2010 70
+
+*Sources: Asian Development Bank Key Indicators 2014. **http://mdgs.un.org/unsd/mdg/SeriesDetail.aspx?srid=71
+
+It is anticipated that the proportion of energy/electricity produced from clean renewable energy sources such as hydro, solar, wind, tidal, geo-thermal, biomass and biogas will be increased. The use of wood for cooking and slash and burn in agriculture will also be reduced.
+
+4.9 Minerals and Petroleum Resources Minerals
+
+MTDP2 Goal: Managing a socio-economically beneficial and environmentally sensitive world-class mineral extraction industry.
+
+The minerals sector has been the key source of exports and revenue to the Government and the biggest single contributor to GDP growth since independence. Currently it provides more than one third of government tax revenue as well as royalties to landowners, dividends to equity holders, and many tangible benefits to host communities. The sector has considerable potential to grow and will continue to play a critical role in PNG's revenue growth over the foreseeable future.
+
+Several new world-class mining projects are nearing completion of feasibility studies and are expected to begin construction and production within the medium term.
+
+Key challenges include; better utilization of mining revenues for broad based development and diversification of the economy. Low commodity prices in the future will tend to discourage exploration and also reduce the profitability and viability of existing mines and defer development of new mines.
+
+The key strategic priorities under MTDP2 are:
+
+• Strengthening the capacity of state institutions responsible for policy, administration, regulation, compliance and enforcement;
+
+• Reviewing and aligning industry plans with the StaRS;
+
+• Maximizing exploration in existing tenements whilst placing restrictions on new explorations;
+
+• Ensuring equitable distribution of benefits and participation;
+
+• Establishing the Sovereign Wealth Fund to protect benefits for the current and future generations;
+
+• Developing policies for the relocation of affected communities, effective mine waste management, responsible seabed mining and downstream processing; and
+
+• Ensuring that environmental impact and risks are minimized or mitigated.
+
+Table 4.6: Key indicators and targets for the minerals sector
+
+Indicators Baseline* Targets 2017Value Year
+
+Number of mines in operation 22 2015 25
+
+Mineral exports (billion Kina) 7.6 2013 8.0
+
+Government revenue from mineral projects (billion Kina)
+
+0.67 2013 0.7
+
+*Source: DNPM, MTDP RMF Pocketbook 2013/2014.
+
+Petroleum & Gas
+
+MTPD 2 Goal: Maximize socioeconomic and environment benefits from the petroleum and gas industry.
+
+In May 2014, PNG exported its first gas from the US$19 billion PNG LNG project. This project has an expected lifespan of 40 years. A second LNG project (Elk/Antelope) is in the process of final reviews for development. These two projects alone have the potential to provide most of the Government's revenue for many years to come.
+
+The petroleum and gas sector is expected to fund the PNG economy for the next 50 years. The expansion of the petroleum & gas sector will provide the impetus and raw materials for the development of the petrochemical industry and the feedstock for the energy sector.
+
+Key challenges for the Government to harness the full potential of the petroleum and gas industry include strengthening the institutional capacity of state institutions mandated with the administration of the sector; a review of petroleum & gas policies and supporting legislation to address the findings of the taxation review and adopting the StaRS, and developing adequate stakeholder engagement mechanisms to address landowner concerns.
+
+The key strategic priorities under MTDP2 are:
+
+• Strengthening state institutions responsible for policy, administration, regulation, compliance and enforcement;
+
+• Reviewing and aligning industry plan with StaRS;
+
+• Encouraging continued investment in exploration;
+
+• Ensuring equitable distribution of benefits and participation;
+
+• Establishing of the Sovereign Wealth Fund to provide equitable benefits for the current and future generations;
+
+• Reviewing of the Oil & Gas Act to capture the recommendations from the tax review and adopting principles of sustainable development;
+
+• Facilitating downstream processing for petroleum and gas products; and
+
+• Ensuring that environmental impact and risks are mitigated.
+
+Table 4.7: Key indicators and targets on the petroleum & gas sector
+
+Indicators Baseline* Targets 2017Value Year
+
+Volume of crude oil production (million barrels) 10.2 2013 14
+
+Proven oil reserves (million barrels) 154.3 2013 200
+
+Refinery production (million barrels) 6.2 2013 7.0
+
+Refinery sales volume (million barrels) 6.1 2013 6.1
+
+Export revenue from petroleum projects (billion Kina)
+
+3.01 2013 3.05
+
+*Source: DNPM MTDP RMF Pocketbook 2013/2014.
+
+Benefits from our gas industry must reach every Papua New Guinean
+
+4.10 Cultural and Eco-Tourism
+
+MTDP2 Goal: Increase the number of international tourists and business travellers for cultural, environmental and economic benefits for Papua New Guineans.
+
+PNG is a country with over 800 languages and cultures. This diversity of cultures attracts international tourists. The physical features of the country, which includes high mountain ranges, highlands with beautiful climate, lowlands and seashores, and large number of islands and sea area, is also attractive for tourists.
+
+According to the PNG Tourism Authority, the number of tourists visiting PNG, including holidaymakers, visiting friends and relatives and those travelling for meetings, conferences and exhibitions increased from 47,424 in 2012 to 64,127 in 2014. Similarly, foreign travellers visiting the country for business purposes increased from 58,986 in 2012 to 66,639 in 2014.
+
+The average length of stay of foreign holidaymakers in PNG is 16.3 days. On the average, the daily expenditure of a foreign tourist is K948. The estimated total expenditure incurred by foreign visitors increased from K960 million in 2008 to K1.75 billion in 2012.
+
+The tourism industry is still underdeveloped in PNG, but it has great potential to expand. The development of tourism industry has the potential for providing significant income and employment opportunities to Papua New Guineans.
+
+The MTDP2 aims at developing the tourism sector through the promotion of cultural and eco-tourism as well as research on culture, biodiversity and medicinal plants.
+
+Table 4.8: Key indicators and targets on the tourism sector
+
+Indicators Baseline Targets 2017Value Year
+
+Number of tourists visiting the country per year 64,127 2014 80,000
+
+Number of business travellers visiting the country per year
+
+66,639 2014 85,000
+
+Number of persons employed 20,000 2013 26,000
+
+Total tourism receipt (billion Kina) 1.8 2013 3.0
+
+*Sources: PNG Tourism Authority. DNPM RMF Pocketbook 2013/2014.
+
+Our 800 languages and culture is world renowned
+
+An informed government is an effective government
+
+Chapter 5: Monitoring and Evaluation
+
+5.1 Introduction
+
+Monitoring and Evaluation provides the last stage in the four stage PIM Cycle and informs the process of the execution of the plans so that implementation can be improved.
+
+Monitoring is defined as the regular collection of information needed to assess the progress of implementing work-plans, projects or programs. Evaluation is defined as the periodic collection of this information to assess whether the project or program is improving the well being of the targeted population. Monitoring and Evaluation allows Government to gauge whether a project/program has been implemented and what has been achieved.
+
+The information to be collected to undertake monitoring and evaluation assessments are: inputs, activities, outputs, outcomes and impacts of each work-plan, project or program. Details on the collection of this information are set out below.
+
+• Inputs are the financial, human, material, technology and information resources needed to implement a project/program. For example, the inputs for a family planning program are funding, equipment and medical supplies, number of workers trained in the program. The inputs are monitored during the life of the program.
+
+• Activities are the actions taken or work performed that mobilizes the inputs to produce specific outputs. For example media campaigns, community meetings to educate couples on family planning, the number of health workers attending refresher training on family planning. These activities should be monitored during the life of the program.
+
+• Outputs are the products and services that result from completing project/ program activities. For example, increased understanding by people of the importance of family planning, and increased access to and use of family planning methods. The outputs should be measured and monitored during the life of the program.
+
+• Outcomes are the short or medium-term effects of an output. Outcomes under the family planning example would be: reduced number of children per childbearing aged female; and increased age gap between each child born. Outcomes are generally measured 1-5 years after the program has been implemented.
+
+• Impacts are the long-term effects (positive or negative) on the target group for the project/program. For example, the impact of family planning would be: reduced fertility on individual; household savings & investments; population growth rate; social equity and the environment. The impacts are generally measured 5 years after the program has been implemented.
+
+The results chain diagram (below) shows a Monitoring and Evaluation framework in operation, where outputs, outcomes and impacts are the project/program results and inputs, activities and outputs are the implementation variables.
+
+The inputs and activities (as shown by the solid arrows) directly affect the outputs, while the outcomes and impacts (as shown by the dotted arrows) are not only affected by the outputs but by factors outside the program.
+
+For example, the outcome of fertility planning program (that is, the reduced number of children born per female) is not the result of the program only. The flow on impact will be on other policy areas such as levels of female education and employment as well.
+
+The program implementers are therefore directly responsible for the inputs, activities and outputs, while they are only indirectly responsible for the outcomes and impacts.
+
+Results Chain Diagram
+
+Under MTDP2, implementing agencies will need to collect on a quarterly basis information data on inputs, such as: money spent, labour cost, materials, and technology used for a particular activity. On outputs the data collected would include such information as: what was produced using those inputs. These could include kilometers of road sealed, proportion (%) of a bridge construction completed, number of trainings held, and number of people trained. Similarly agencies should also, in some cases, collect data on outcomes such as, number of crimes per 1,000 population, and proportion of divorce cases per 1,000 married couples.
+
+The project/program is said to be effective if 100% of the targeted results are achieved on the prescribed time. It is efficient if the results are achieved at the least cost.
+
+An example of this would be an measles immunisation program for 10,000 primary school children with a budget of K20,000. If this program meets it's target within budget, than it is considered both effective and efficient. Post program evaluation showing a reduction in the number of cases of measles in villages and town across the country would be considered as positive outcome indicator.
+
+Some outputs and outcomes are measured on an annual basis, such as amount of coffee produced per year (is an output) and percentage of dropouts in grade 1-8 per year (is an outcome). Implementing agencies will need to collect data annually to report on these outputs and outcomes. All reports should include an analysis of the data collected and the results provided for review and assessment of project/program implementation guidelines.
+
+Implementing agencies are also required to send progress reports on inputs, outputs and outcomes to the Department of National Planning and Monitoring (DNPM) for consolidation. The DNPM will provide implementation progress reports to the Government through the National Executive Council.
+
+Some data can be collected only through periodic censuses and surveys. These includes; the National Population and Housing Census (Census) and Demographic and Health Surveys (DHS) which are conducted every 10 years.
+
+Data obtained from the censuses include all data relating to population, such as: total population by age and sex; change in population growth rates per year; fertility; mortality and migration rates; literacy rates; etc. The data obtained under the DHS relates to fertility, contraceptives use, maternal and child health, infant and maternal mortality rates, etc. The next DHS is scheduled to be undertaken in 2016 and the next Census in 2020.
+
+It is the responsibility of the National Statistical Office (NSO) to collect data through censuses and surveys, undertaken the analysis and report to the Government. Under MTDP2 the Government will provide necessary funding to NSO for this purpose.
+
+The NSO is also required to produce data on the social, economic, demographic, Millennium Development Goals, human development and the responsible sustainable development indicators. This has not occurred to date.
+
+To improve the reporting capability of the NSO the Government has provided necessary financial support, including:
+
+• Reforming the NSO;
+
+• Introducing the National ID Program to provide unique electronic ID to all PNG citizens to improve service delivery;
+
+• Delegating the Civil Registration System (CRS) to the DNPM and amalgamating the CRS and NSO to eventually form the Bureau of Civil Registry and National Statistics; and
+
+• Establishing the Population Information System
+
+5.2 Reforming the National Statistical Office And Civil Registry
+
+Reforming the NSO
+
+Because of the poor state of statistics in PNG and the inability of the NSO to produce timely and quality economic and social demographic statistics, the Government has recognized the need to overhaul the NSO with reinvigorated legislation, structure and management. The following capacity building reforms are being put in place:
+
+• Reviewing the endemic problems facing the NSO and the formulation of a multiyear Action Plan to address these issues following a review with the support of the IMF and the Australian Bureau of Statistics;
+
+• Formulating a Steering Committee comprising the Department of National Planning & Monitoring (Chair), Department of Treasury (Deputy Chair), Bank of Papua New Guinea and the National Statistical Office;
+
+• Setting up a Secretariat to be run by the Department of Treasury and including the DNPM;
+
+• Keeping relevant stakeholders informed of the reform progress and ensuring stakeholders are consulted on relevant issues throughout the process; and
+
+• Preparing a joint National Planning/Treasury NEC Submission outlining the final plans for overhauling the NSO.
+
+Progress has been made with the conclusion of the 2011 Population Census, the updating of the Consumer Price Index and the conduct of the Business Activities Survey.
+
+Reforms To The Civil Registry System
+
+A Civil Registration System is designed to record births, deaths, marriages and divorces. The CRS should provide a continuous data base for the monitoring of fertility, maternal and marital status. Unfortunately, most these are not officially recorded by the CRS in PNG. To date, CRS statistics cannot be meaningfully used for the monitoring of these indicators.
+
+In 2014, the CRS was moved from the Department for Community Development to the DNPM. In order to improve performance on data, the Government will amalgamate the CRS and NSO to eventually form the Bureau of Civil Registry and National Statistics during the MTDP2 period.
+
+Establishing the Population Information System
+
+A Population Information System (PIS) is a national database that contains basic information on individuals, including nationals and foreign citizens residing permanently in PNG. The PIS will be established at the reformed National Statistics Office. Information for this system is obtained through the National ID and civil registry programs.
+
+Information on individuals in the PIS database could include:
+
+• Full name
+
+• Personal identification number
+
+• Sex
+
+• Date of birth (day, month, year)
+
+• Full name and personal identification number of father
+
+• Full name and personal identification number of mother
+
+• Marital status (never married, currently married, living in consensual union, divorced, widowed)
+
+• Personal identification number(s) of spouse(s)
+
+• Names and personal identification number(s) of children born alive (in case of woman)
+
+• Names and personal identification number(s) of children dead (in case of woman)
+
+• Place of birth (village/town, ward, LLG/municipality, district, province)
+
+• Place of current residence for more than one year (village/town, ward, LLG/ municipality, district, province)
+
+• Mother tongue
+
+• Occupation (agriculture, industry, services)
+
+• Years of school attended
+
+• Home country at birth
+
+• Citizenship
+
+• Mailing address, including email
+
+• Information on death (day, month, year), in case of death
+
+Progress on establishing the Population Information System will be measured by information collected on funding spent (inputs) and the progress made on achieving targeted outputs. DNPM will be responsible for monitoring and reporting on the progress of this program.
+
+5.3 The National Identity Program
+
+The Government is implementing a K270m National Identification Program.
+
+The objective of the program is to provide unique electronic ID to all PNG citizens to assist them to obtain access to public goods and services more efficiently. Some of the key information captured in the Population Information System, such as date and place of birth is very important for receiving many of the services, including school enrolments and opening of bank accounts. This program will also involve the establishment of permanent offices in every province under the Civil Registry Office where NSO and Planning staff can also be located.
+
+Monitoring of the inputs and outputs of the National ID Program is essential for ensuring the integrity of the program over time. This activity is the responsibility of the DNPM.
+
+5.4 Monitoring and Evaluation within DNPM
+
+The DNPM is currently finalizing the National Strategy for Statistics and the M&E Policy.
+
+Under the MTDP2 officers from DNPM will regularly liaise with agencies to monitor the progress of their M&E activities. The DNPM will also organize training on data collection and analysis to strengthen the M&E capacity of sector agencies. Officers will not only focus on the quantity of project outputs/deliverables but also on the quality to ensure project/program interventions are meeting their identified targets.
+
+The results of the M&E activities in DNPM will be published through:
+
+• Results Monitoring Framework (a booklet, to be produced annually)
+
+• Critical Activity Matrix (to be produced quarterly)
+
+• Consolidated quarterly progress reports, and
+
+• Annual Public Investment Program reports.
+
+Data collected by DNPM is stored in the PNG Info and the Development Assistance Database.
+
+The Government is also aware that inadequate number of reviews, assessments and evaluations on different issues of development are conducted in the country. The DNPM will work together with development partners and implementing agencies in these areas.
+
+5.5 Key Government Targets and Indicators
+
+The Government's key indicators and targets for each Priority Sector is set out in detail in Chapters 3 and 4 of the MTDP2.
+
+A summary table has been attached for ease of reference.  
+
+Summary Table of Indicators and Targets for MTDP2
+
+Indicators Baseline* Targets 2017
+
+Value Year
+
+Human Development
+
+Human development index (HDI) 0.491 2013 0.531
+
+Rank on the HDI (among 187 countries in 2013) 157 2013 About 150th
+
+Population
+
+Population growth rate (%) per year
+
+3.1 2000-2011 3.0
+
+Total fertility rate (births per female) 3.8 2012 3.6
+
+Adolescent fertility rate (per 1,000 female 15-19 years) 65 2004 50
+
+Contraceptive prevalence rate (% married women aged 15-49 years using modern contraceptives) 32.7 2007 40
+
+Unmet need for family planning (% of women aged 15-49 years who are married or in consensual union)
+
+27.4 2007 15 per 1000 women of reproductive age (15-44 years)
+
+Education - Improved Outcomes
+
+Mean years of schooling (years) 3.9 2012 5.0
+
+Expected years of schooling (years) 8.9 2012 10.0
+
+Net enrolment ratio (%) in primary education (grade 1-8) 74 2013 82
+
+Proportion of pupils starting grade 1 who reach grade 8 74 2012 79
+
+Youth literacy rate (%) for population aged 15-24 years 64 2010 70
+
+Number of girls per 100 boys in primary (basic) education 93 2013 95
+
+Pupil-teacher ratio 1:45 2014 1:40
+
+Number of graduates from tertiary education institutions 9,316 2014 11,000
+
+Education Infrastructure
+
+Universities 6 2014 7
+
+Teachers' Colleges 8 2014 1 per province
+
+Poly Technical Institutions 3 2014 1 per province
+
+Schools of Excellence (year 11-12) 6 2014 1 per province
+
+Technical & Business Colleges 5 2014 1 per district
+
+Vocational Schools 114 2014 1 per LLG
+
+Secondary Schools 219 2014 1 per LLG
+
+Primary Schools 3,543 2014 At least 1 per zone
+
+Elementary schools 7,298 2014 At least 1 per ward
+
+Health - Improved Outcomes
+
+Life expectancy at birth 60.2 2012 63
+
+Proportion (%) of one year old child immunized against measles 49 2012 77
+
+Proportion (%) of births attended by trained health personal 44 2006 64
+
+Proportion (%) of pregnant women who had at least one antenatal care visit 66 2012 76 per 100,000 population
+
+Health - Infrastructure
+
+National Referral and Training Hospital (POM General Hospital) 1 2014 1 in the national capital
+
+Regional Referral Hospitals 4 2014 1 per region
+
+Provincial Hospitals 22 2014 1 per province
+
+District Hospitals** 89 2014 1 per district
+
+Urban Clinics 77 2014 1 per LLG
+
+Sub Health Centre 445 2014
+
+Health Centre 193 2014 1 per zone
+
+Community Health Posts 4 2014 1 per ward in the long run during
+
+2016-2050
+
+Aid Posts (Open) 2672 2008 At least 1 per ward
+
+Aid Posts (Closed) 776 2008
+
+Infrastructure: Land Transport (Road)
+
+Total length of national roads (km)
+
+8,738 2014 9,500
+
+Proportion (%) of national roads in good condition 39 2014 50
+
+Estimated length of provincial and district roads (km) 22,000 2014 25,300
+
+Infrastructure: Maritime Transport
+
+Number of ports upgraded 3 2013 30% of ports upgraded
+
+Domestic shipping routes increase 25% increase in shipping routes 2014 75% increase in shipping routes
+
+Ports upgrading for domestic vessel traffic 25% of ports upgraded 2014 50% of ports upgraded
+
+International port turnaround time
+
+4 to 5 days turnaround time 2014 2.5 days turnaround time
+
+Infrastructure: Air Airport
+
+Number of national airports to comply with international air standards (airport certified) on an ongoing basis 22 2014 22
+
+Minimum safety standards
+
+• Civil Aviation Rules (CAR) parts, 100, 139, 140. Minimum safety standards
+
+• CAR parts, 100, 139, 140.
+
+Security standards • ICAO Minimum Security standards
+
+• CAR parts, 100, 139, 140. 2014 • ICAO Minimum Security standards
+
+• CAR parts, 100, 139, 140.
+
+Infrastructure: Water and Sanitation
+
+Proportion (%) of rural population using an improved drinking water source
+
+33 2014 35
+
+Proportion (%) of urban population using an improved drinking water source 88 2014 90
+
+Proportion (%) of rural population using an improved sanitation facilities 13 2014 20
+
+Proportion (%) of urban population using an improved sanitation facilities 56 2014 58
+
+Proportion (%) of health and education institutions with access to safe water 50 2014 75
+
+Proportion (%) of households with access to safe water supply practicing total sanitation
+
+NA NA 40
+
+Proportion (%) of education and health institutions with hand washing facilities
+
+NA NA 75
+
+Infrastructure: Electricity
+
+Household electrification rate (% of households) 16.7 2010 20
+
+Capacity of gas generation (MW) 100 2014 280
+
+Capacity of hydro generation (MW)
+
+215 2014 250
+
+(MW)
+
+Infrastructure - ICT Communications
+
+Proportion (%) of population with access to a mobile phone (subscribers per 100 people) 35 2013 50
+
+Proportion (%) of population covered by at least a 3G network (proxy to internet coverage) 30 2013 40
+
+Proportion (%) of people with access to internet (mobile & fixed broadband) 15 2013 25
+
+Law & Justice
+
+Crime rate (crimes per 1000 population) 91 2010 65
+
+Incidence of major crimes reported 150,000 2005 100,000
+
+Number of well-trained police officers 5,116 2014 7,500
+
+Number of police stations 184 2014 300
+
+Number of village courts 1,529 2013 2,000
+
+Backlog of District Court Cases 59,467 2013 30,000
+
+Land & Housing
+
+Proportion (%) of land held by the Government 3.0 2014 3.5
+
+Number of ILGs registered in accordance with legislation 2000 2014 3,000
+
+Number of approved urban plans on alienated and customary land 10 2014 15
+
+Number of institutional houses in Districts NA NA 890
+
+Number of affordable houses constructed for Papua New Guineans
+
+NA NA 40,000
+
+Small and Medium Enterprises
+
+Total number of SMEs in PNG 49,500 2013 170,000
+
+Proportion (%) of SMEs owned by indigenous Papua New Guineans 80 2013 90
+
+Proportion (%) of SMEs owned by
+
+25 2013 35
+
+Strategic Assets - Forest and Biodiversity
+
+Total land area reforested/ afforested (hectares) 74,706 2013 80,000
+
+Proportion (%) of timber processed within the country 20 2007 100
+
+Proportion (%) of land area covered by forest 71.7 2014 72
+
+Proportion (%) of terrestrial areas protected to maintain biodiversity 3.1 2012 3.1
+
+Strategic Assets - Fisheries and Marine Resources
+
+Proportion (%) fish catch caught by PNG flagged vessels
+
+Less than 4 percent 2007 50
+
+Proportion (%) of fisheries processed within the country 30 2014 100
+
+Proportion (%) of marine managed areas
+
+10 2014 15
+
+Creation of employment 30,000 2014 35,000
+
+PNG processed fisheries export (million Kina) 328.76 2012 400
+
+Strategic Assets - Agriculture & Livestock
+
+Coffee production (60 kg bags)) 911,598 2013 1,000,000
+
+Oil Palm production ('000 tons) 630 2013 750
+
+Cocoa production ('000 tons) 56 2013 60
+
+Copra production ('000 tons) 129 2013 150
+
+Proportion (%) of GDP in agriculture 27.1 2013 30
+
+Growth rate of agriculture real value added (%) 0.5 2013 4.0
+
+Strategic Assets - Clean Renewable Energy
+
+Household electrification rate (% of households) 16.7 2010 20
+
+Capacity of hydro generation (MW)
+
+215 2014 250
+
+Capacity of gas generation (MW) 100 2014 280
+
+Capacity of geothermal generation (MW)
+
+56 2014 56
+
+Proportion (%) of population using solid fuels** 73 2010 70
+
+Strategic Assets - Minerals
+
+Strategic Assets - Petroleum & Gas
+
+Volume of crude oil production (million barrels) 10.2 2013 14
+
+Proven oil reserves (million barrels) 154.3 2013 200
+
+Refinery production (million barrels) 6.2 2013 7.0
+
+Refinery sales volume (million barrels) 6.1 2013 6.1
+
+Export revenue from petroleum projects (billion Kina) 3.01 2013 3.05
+
+Cultural and Eco-Tourism
+
+Number of tourists visiting the country per year 64,127 2014 80,000
+
+Number of business travellers visiting the country per year 66,639 2014 85,000
+
+Number of persons employed 20,000 2013 26,000
+
+Total tourism receipt (billion Kina) 1.8 2013 3.0
+
+*Latest available data.
+
+T
+
+he wisdom and lessons of the past will guide us forward
+
+Together we can make it to the top
+
+National Strategy for Responsible Sustainable Development for PNG
+
+Find out more: www.PNGStrategy.org
+
+((c)) David Kirkland

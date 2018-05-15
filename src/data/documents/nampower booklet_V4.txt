@@ -1,0 +1,495 @@
+no title
+
+NamPower, 15 Luther Street, P.O.Box 2864, Windhoek
+
+www.nampower.com.na
+
+Corporate StrateGY AND BUSINeSS pLaN
+
+2014 2018
+
+TABLE OF CONTENTS
+
+1. Foreword 4 2. Introduction 5 3. High Level Statements 7
+
+4. NamPower's Key Challenges 11
+
+5. Strategic Direction   19
+
+6. Implementation, Monitoring and Evaluation 29
+
+Planning Horizontal Goal 103.5 NamPower's Mandate 73.1 Values 103.4 Vision 93.3 Mission 93.2
+
+Leadership 184.5 Stakeholder Relationships 174.4 Financial Sustainability 174.3 Network Expansion and Strengthening 134.2 Security of Supply 114.1
+
+NamPower Strategy Map 195.1 NamPower Strategic Scorecard 215.2
+
+List of figuRes
+
+BoD Board of Directors
+
+Capex Capital Expenditure
+
+CFO Chief Financial Officer
+
+CO Chief Officer
+
+COT Chief Officer Technical Services
+
+CS Corporate Services
+
+ECB Electricity Control Board
+
+ESI Electricity Supply Industry
+
+GRN Government of Namibia
+
+GX Generation
+
+HR Human Resources IT Information Technology
+
+LTIFR Lost Time Injury Frequency Rate
+
+MME Ministry of Mines and Energy
+
+OMD Office of the Managing Director
+
+Opex Operating Expenditure
+
+PA Performance Agreement
+
+PI Performance Indicator
+
+PSD Power System Development Business Unit
+
+TX Transmission
+
+AbbReviAtions Figure 1: Namibia Demand vs. Generation Capacity 11
+
+Figure 2: Electrical Energy - Local Supply Percentage 12
+
+Figure 3: Cumulative Peak Demand Growth 13
+
+Figure 4: Cumulative Transmission Capital Requirement 16
+
+(Including Kudu & Baynes Integration)
+
+Figure 5: NamPower's Strategy Map 2014-2018 19 NamPower has in the past five years continued to fulfil its mandate of ensuring security of supply to Namibia, despite regional supply shortages which have necessitated load shedding and loss of supply in many countries. Through proactive trading of electricity and making wise investment decisions, NamPower has managed to "keep the lights burning", although it was certainly no easy task.
+
+Significant achievements in the past five years include the successful completion of the Caprivi Link Interconnector project; a major milestone in the development of the Namibian transmission system and an important stepping stone in the company's strive towards increasing trading opportunities in the region.
+
+The company has also delivered on its promise to add local generation capacity to the grid, with the commissioning of the ANIXAS Power Station and the successful installation of a fourth turbine generating unit at the Ruacana Power Station. In addition to these achievements, the process of refurbishing the Van Eck Power Station has begun and is expected to yield some 81MW of reliable generation capacity to the Namibian grid for a period of at least ten years, starting 2014.
+
+Considering the above achievements, NamPower can confidently say that the slogan "Charged for Action" adopted for the 2008 - 2013 Strategy and Business Plan has guided the activities of the utility. Despite the achievements made over the past five years, a number of challenges still remain and NamPower is determined to forge ahead and to address these with the earnestness that it deserves. The need to set up a base load power station, among other challenges, is a priority in order to address the prevailing regional power supply shortage.
+
+The planning process for this strategic plan has been an inclusive one, with wide input from within the company to ensure that all angles are covered and all concerns captured. All the input has been distilled into a manageable number of strategic themes and strategic objectives, which are fully described herein. Aware of its critical role in the socio-economic development of the country, it is NamPower's conviction that work will be carried out diligently to achieve the next five years' objectives.
+
+1. FOrEwOrd
+
+Maria Nakale - Chairperson
+
+At the outset of the planning period 2014 to 2018 NamPower finds itself at a point of unprecedented challenges. Despite having achieved many of its objectives in the previous planning cycle, it is still facing the urgent need for a local base load power station in the face of a precarious regional power supply situation.
+
+NamPower is being called upon to address the country's energy policy goal of supplying 100% of peak demand and 75% of energy from local resources by 2018. This has been the company's target for the last planning cycle, but has not been achieved despite a number of efforts made toward realising this goal. Deliberations on the current strategic plan have concluded that this specific goal must yet again be the overall and single most important target for the new planning cycle (2014 - 2018). It is believed that through joint efforts by all in NamPower, together with the efforts of the line ministry and the regulator, it is possible to achieve this ambitious goal and through the development of the Kudu Power Project.
+
+There is also a pressing need for major investments in the transmission network through which to ensure the transmission of the growing demand for electricity, particularly in the central northern part of the country. Investment in the transmission infrastructure will allow for the accommodation of the planned new power stations into the grid, particularly the Kudu Power Project which requires extensive transmission network strengthening. The recently completed transmission master plan maps out a clear path for the development of the Namibian transmission system.
+
+Given the challenges of implementing large scale projects, NamPower introduced a Short Term Critical Supply (STCS) project under which a number of short and medium term initiatives will be implemented to address the immediate power supply shortage and thereby ensure security of supply to Namibia. Various initiatives are at various stages of implementation as part of the STCS project, including Demand Side Management, and negotiations of Power Purchase Agreements with regional utilities and Independent Power Producers. This strategic plan maps out the company's intended focus areas for the next five years as follows:
+
+• Develop our leadership and culture
+
+• Ensure security of supply and efficiency
+
+• Build and improve stakeholder relations
+
+• Ensure financial sustainability
+
+2. INTrOduCTION
+
+For each of these strategic themes a number of objectives have been developed, together with measures which will help monitor progress. For each measure, targets have been developed, many of which are ambitious and will require diligent efforts by all at NamPower to achieve success. Objectives, measures and targets have been cascaded to Business Unit level to ensure that all Business Units have a clear focus to perform towards the achievement of the corporate goals.
+
+Going forward, NamPower is and remains a key contributor towards the achievement of national goals as set out in the White Paper on Energy Policy, Vision 2030 and National Development Plans. Energy is one of the bases on which economic growth is invariably built, and NamPower has to do its part in making energy available and accessible in order to contribute towards the socio-economic growth of the country.
+
+To be able to support the national goals NamPower has to ensure that it remains financially healthy and be able to raise the much needed funding for the major infrastructural projects that will be embarked on in the coming years. This will be daunting considering the magnitude of funds required, and the company may have to rely on government to assist by contributing equity, thus enabling it to make all required investments.
+
+Taking into account the tasks that lie ahead, NamPower is committed to implementing this strategic plan over the next five years, while keeping in mind the greater responsibility towards the growth of the country.
+
+Paulinus Shilamba - Managing Director
+
+3.1 nAMPoWeR's MAnDAte
+
+NamPower's mandate as expressed in the licenses it holds under the Electricity Act of 2007 is to generate, transmit, supply and trade in electricity, while also exporting, importing and to a limited extent distributing electricity. Generation, transmission and energy trading are regarded as NamPower's core mandate. NamPower has already reduced its direct involvement in the distribution of electricity and expects to completely end its direct involvement in distribution when the remaining REDs are formed.
+
+In terms of the 1998 White Paper on Energy Policy which is still the ruling expression of the active Government policy on energy, NamPower is mandated to work towards the supply of 100% of peak demand for electricity and 75% of electrical energy from internal (Namibian) sources.
+
+The actual statement from the Energy Policy reads as follows:
+
+"Duly considering associated risks, it is the aim of government that 100% of the peak demand and at least 75% of the electric energy demand will be supplied from internal sources by 2010. Risk mitigation measures will be pursued, including the possibility of regional equity participation in, and guarantees for, Namibian generation projects. The Ministry, together with public sector entities such as NamPower and Namcor, is responsible for implementing this policy."
+
+Further statements from the Energy Policy document that can be read as applying directly to NamPower are:
+
+"Electricity supply in Namibia shall be based on a balance of economically efficient and sustainable electricity sources including gas, hydro-power, other renewable energy sources and imported electricity. In creating this mix, the risks associated with stranded investments as well as the benefits of improved security of supply will be taken into account."
+
+"Government will facilitate the establishment of new high-voltage interconnections to neighbouring countries to increase Namibia's possibilities of engaging actively in regional electricity trading."
+
+"Government will ensure that institutional and planning frameworks treat renewable energy on an equal footing with other forms of energy when assessing their financial, economic and social costs and benefits."
+
+3. HIgH LEvEL STATEMENTS
+
+3.2 Mission
+
+To provide for the energy needs of our customers, fulfil the aspirations of our staff and satisfy the expectations of our stakeholders.
+
+NamPower's mission expresses itself on three pillars of success that must be achieved in order to realise the mission:
+
+• First and foremost NamPower exists  to provide electricity to its customers, 24 hours a day and 365 days a year;
+
+• To be able to achieve the first pillar,  NamPower needs to have a skilled  and dedicated work force which is  not attainable without fulfilling the  aspirations of the staff members;  and
+
+• NamPower does not exist in a vacuum  or for its own purposes, but instead  exists to contribute to national goals  and objectives which makes it critical to  understand and satisfy the expectations  of key stakeholders like the government  of Namibia.
+
+3.3 vision
+
+A leading energy company in Africa, which excels in customer service, people development and technological innovation.
+
+NamPower's vision places it on the African continent with all its challenges and opportunities and seeks to lead in the energy sector. The key strengths that will bring about this leadership are customer focus, development of its people and innovation. Only high levels of achievement in these three focus areas will enable NamPower to become a leader in overcoming the challenges that are unique to the African continent.
+
+3.4 vALues
+
+Integrity We shall be honest in everything we do and be determined to adhere to ethical business principles and good corporate governance at all times.
+
+Teamwork NamPower consists of people with many different skills, knowledge and experience. We value each individual's contribution to our collective effort as we strive to work together for the good of our company and country.
+
+Accountability We accept responsibility for each of our jobs and roles and conduct ourselves in a manner consistent with the position entrusted to us.
+
+Empowerment Every employee has the opportunity to be trained and developed, and to apply that knowledge in the workplace. We welcome feedback from all stakeholders and seek to learn from all situations.
+
+Health, Safety and Environment We shall create and uphold a safe working environment in all our activities. We shall respect our environment in all our dealings and protect both the physical and human environment in all our activities.
+
+Customer Focus We value all our customers, and fulfil our duties timeously and diligently with customer focus as our aim.
+
+NamPower's values express an aspiration to achieve high ethical standards in its operations, to build a culture of team work that will bring out the best in each individual, to focus on serving its customers, and to place priority on the safety of staff and the public at all times.
+
+3.5 PLAnning HoRizontAL goAL
+
+NamPower's strategic goal for the present planning horizon is:
+
+Ensuring that 100% of the peak demand and at least 75% of the electricity energy demand will be supplied from internal sources by 2018.
+
+This strategic goal aligns NamPower with Namibia's energy policy. It is a very ambitious goal over the present planning horizon and considering the time it is likely to take to get a major new generator onto the Namibian grid.
+
+4. Nampower's Key ChalleNges
+
+4.1 Security of Supply
+
+Namibia's peak demand (without taking into account Skorpion Mine) has exceeded the local installed generation capacity for the past seven years as illustrated in Figure 1. Clearly, the energy policy target of supply 100% of peak demand from local sources by 2010 was not and still has not been achieved.
+
+Namibia Demand vs generation Capacity
+
+Figure 1
+
+Looking at the energy supply view, Namibia is also far off the target of supplying 75% of electrical energy from local resources by 2010 as shown in Figure 2. The actual supply has been hovering around 40% for a number of years. 0 20 0 40 0 60 0 80 0 10 00 12 00
+
+Installed Generator Capacity (MW) Peak Demand
+
+M W
+
+19 94 19 96 19 98 20 00 20 02 20 04 20 06 20 08 20 10 20 12 19 92 19 90 20 14 20 16
+
+year Considering these realities places security of supply right at the top of NamPower's key challenges. Huge investments in infrastructure (both generation and transmission) will be required to address these shortcomings, and both the physical implementation of projects and the funding thereof is likely to stretch NamPower's resources and capabilities to the limit.
+
+electrical energy - local supply percentage
+
+Figure 2
+
+0% 10% 20% 30% 40% 50% 60% 60%
+
+19 90 19 89 19 91 19 92 19 93 19 94 19 95 19 96 19 97 19 98 19 99 20 00 20 01 20 02 20 03 20 04 20 05 20 06 20 07 20 08 20 09 20 10 20 11 20 12 20 13 20 14 20 15 20 16 20 17
+
+year
+
+NamPower has in the past 15 years already implemented two major transmission projects, namely the 400kV interconnector to South Africa and the Caprivi Link Interconnector in northern Namibia. Both these projects enable NamPower now to import and trade in electricity to serve the country's demand.
+
+The planned investment (in 2012 monetary terms) in the transmission system over the next 20 years is depicted in Figure 4. This includes the integration of Kudu and Baynes power stations and will require some N$8 billion over the next eight years culminating in a total of some N$ 10 billion by the end of the planning horizon.
+
+4.2 NETWORK EXPANSION AND STRENGTHENING
+
+Demand for electricity has grown steadily in Namibia, showing a 150% increase over the past 22 years as shown in Figure 3 below. This growth in demand requires strengthening and expansion of the transmission system to be able to supply this demand.
+
+Cumulative Peak Demand Growth
+
+Figure 3
+
+%
+
+G ro w th o n 19 89
+
+B as e
+
+Ye ar 450%
+
+400%
+
+350%
+
+300%
+
+250%
+
+200%
+
+150%
+
+100%
+
+50%
+
+0%
+
+Year 19 90 19 91 19 92 19 93 19 94 19 95 19 96 19 97 19 98 19 99 20 00 20 01 20 02 20 03 20 04 20 05 20 06 20 07 20 08 20 09 20 10 20 11 20 12 20 13 20 14 20 15 20 16 20 17 19 89
+
+This investment forecast does not just imply flow of money (which has to be raised) but also the need for technical and human capacity to undertake and manage these huge projects. The human capacity that needs to undertake these major projects must be critically examined and appropriate resources retained where necessary. Figure 4
+
+Cumulative Transmission Capital Requirement-Including Kudu & Baynes Integration
+
+M il 4
+
+M il 6
+
+M il 8
+
+M il 10
+
+M il
+
+02
+
+13 /1 4 14 /1 5 15 /1 6 16 /1 7 17 /1 8 18 /1 9 19 /2 0 20 /2 1 21 /2 2 22 /2 3 23 /2 4 24 /2 5 25 /2 6 26 /2 7 27 /2 8 28 /2 9 29 /3 0 30 /3 1 31 /3 2
+
+Substations LinesN $ 10 00 's
+
+4.3 FINANcIAl SuSTAINABIlITY
+
+The two preceding sections point towards a large need for funding to enable NamPower to execute the generation and transmission projects. This raises the question how much of the required funding NamPower can raise and also what impact this will have on the price of electricity in Namibia. Projections show that the electricity price will have to keep rising at a rate of 15% or more per year for at least another three to four years. Thus NamPower will find itself under pressure, on the one hand by funding imperatives and on the other hand, from the need to keep electricity prices within reasonable bounds.
+
+4.4 STAKEHOlDER RElATIONSHIPS
+
+While recent stakeholder surveys have indicated a high level of stakeholder satisfaction, NamPower shall continue to improve on its customer satisfaction index, especially with its two key stakeholders, namely the Ministry of Mines and Energy (MME) and the Electricity Control Board (ECB).
+
+The MME is NamPower's line ministry, and thus represents a critical link to national policy. Decisions on national policy, goals and objectives are taken at Cabinet and/or ministerial level, and NamPower is required by its shareholder (government) to deliver on such objectives and policy. Having a strong relationship is critical for NamPower and the MME and so also working in the same direction and forming part of shared deliberations and analytical processes. This will ensure that policy is informed by realities on the ground and at the same time NamPower can wholeheartedly implement policy into which it has had substantive input.
+
+The ECB is NamPower's regulator in the Electricity Supply Industry. The relationship with the ECB is critical in terms of giving NamPower reasonable tariffs (to support the financial stability needed to obtain funding for the capital projects) and secure a predictable regulatory environment. The electricity market in Namibia is still evolving, placing NamPower in a position where changes are inevitable. Independent Power Producers are now open to enter the Namibian electricity market, while at the same time deliberations are underway regarding the single buyer market structure. Also a new electricity law is under development, which can have far reaching impacts on NamPower.
+
+In light of the above, NamPower will make every possible effort to ensure good working relationships with its main stakeholders which will help it to secure a stable and sustainable future.
+
+4.5 lEADERSHIP
+
+NamPower is facing an unprecedented mix of challenges in the upcoming planning period. Navigating these challenges will require strong leadership, both at management and board levels. Major decisions will have to be taken, which can potentially have huge positive or negative impacts on NamPower and even the country in the medium to long term. This implies that leaders will be called upon to exercise wisdom and insight into the decisions they make, as well as to take the necessary decisions and do so timeously in order to achieve set goals.
+
+Open lines of communication between decision makers and those who work with the technical and financial details underpinning proposals that are put forward for decisions are vital. Motivations for action need to be well considered, thoroughly checked and clearly formulated so that leaders are empowered to take decisions with peace of mind. The leadership on the other hand need to support and consult those on the front lines of development to ensure that they are well informed and also that the decision implementers fully understand the concerns and objectives of the leaders.
+
+5. STRaTeGIC DIReCTIon
+
+5.1 NAMPOWER'S STRATEGY MAP
+
+The strategy map illustrates NamPower's high level statements (vision, mission, goal 2018 and core values) as well as the Strategic Objectives for the next five years:
+
+Th em e 1:
+
+Le ad er sh ip & C ul tu re
+
+Goal of 2018
+
+Ensuring that 100% of the peak demand and atleast 75% of the electricity energy demand will be supplied from internal sources by 2018.
+
+Th em e 2: S ec ur ity o f
+
+Su pp ly & E ffi ci en ci es
+
+Th em e 3:
+
+St ak eh ol de r R el at io ns
+
+Th em e 4:
+
+Fi na nc ia l S us ta in ab ili ty
+
+|3: Optimise Trade Options
+
+|2: Maximise Systems Availabity
+
+|1: Expand Generation and Transmission Infrastructure & Capacity
+
+L3: Entrench Our Core Values and a Performance Culture (Team Power)
+
+S1: Improve Stakeholder Relations
+
+S2: Meet Customer Expectations
+
+F2: Meet Financial Requirements
+
+Integrity Teamwork Accountability Empowerment Health, Safety & Environment Customer Focus
+
+The NamPower Mission is to provide for the energy needs of our customers, fulfil the aspirations of our staff and satisfy the expectations of our stakeholders.
+
+F1: Ensure Financial Sustainability
+
+L2: Build Employee Capacity (People Power)
+
+L1: Improve Leadership Capacity (Leadership Power) |4: Improve Risk Management
+
+Figure 5
+
+Vision
+
+a leading energy company in africa, which excels in customer service, people development and technological innovation.
+
+MD Targets
+
+Perspectives Objectives: KPA Measurements: KPI 2012/2013 Basline 2013/14 2014/15 2015/16 2016/17 2017/18 crictical Tasks/Strategic Initiatives Responsible Assumptions/Risks
+
+Th em e 4: F in an ci al S us ta in ab ili ty (F in an - ci al P er sp ec tiv e) F1: Ensure Financial Sustainability % Budget Variance (CAPEX, OPEX & OP) C=70%; O=5%; PO=84% C=30%; O=5%; PO=30% C=30%; O=5%; PO=30% C=20%; O=5%; PO=20% C=20%; O=5%; PO=20% C=20%; O=5%; PO=20% F1.1 Capacitate EXCO & MANCO CFO Over/Under Spending; Market Volatility; Opportunity Loss
+
+% of Cost Reflective Tariffs 95% 95% 95% 95% 95% 95% F1.2 Improve Budgeting Process CFO FOREX Risk, Political Intervention, Price Elasticity, Commodity Risk
+
+DSCR Ratio 2.3 1.5 1.5 1.5 1.5 1.5 F1.3 Conduct Interim Budget Reviews CFO ACC Supply Mix; Customer Funded Assets; Over Investment in Assets
+
+EBITDA (% Turn) 30% 20% 20% 20% 20% 20% F1.4 Develop Multi-Year Pricing Path CFO
+
+F2: Meet Financial Requirements Investment Grade Sovereign Sovereign Sovereign Sovereign Sovereign Sovereign F2.1 Review Annual Credit Rating CFO Lenders Default
+
+F2.2 Manage Internal Stakeholders CFO Sovereign Rating
+
+F2.3 Investor Road Shows CFO Limited New Funding
+
+% Funding Secured 100% 100% 100% 100% 100% 100% F2.4 Funding of New Projects CFO Tariff Impact
+
+F2.5 Develop and Implement Funding Strategy CFO Market Volatility
+
+F2.6 Secure Government Support CFO Unrealistic Timelines
+
+Th em e 3: S ta ke ho ld er R el at io n (c us to m er P er sp ec tiv e) S1: Improve Stakeholder Relations % Achievement on Shareholder Engagement Plan Ad Hoc 100% 100% 100% 100% 100% S1.1 Develop and Implement Annual Shareholder Engagement Plan OMD Diligence in Executing Engagement Plan; Support from GRN
+
+%Adherence to Goverance Satisfaction Rating New 100% 100% 100% 100% 100%
+
+% Overall Stakeholder Satisfaction Rating 66% 66% N/A 70% N/A 75% S1.2 Conduct Stakeholder Satisfaction Survey OMD Participation Rate; Objective and Honest Feedback
+
+S1.3 Implement Annual Stakeholder Engagement Plan OMD Stakeholder Support
+
+S2: Meet Customer Expectation % Customer Satisfaction 66% 66% N/A 70% N/A 75% S2.1 Conduct Customer Survey OMD Participation Rate and Honest Feedback
+
+Th em e 2: S ec ur ity o f Su pp ly a nd E ffi ci en ci es (In te rn al B us in es s P er sp ec tiv e) I1: Expand Generatin and Transmission Infrastructure Capacity Kudu Implementation milestone New Financial Closure 6% 39% 55% Commercial Operation I1.1 Deliver Kudu Project PSD/GRN Decision/Stakeholder Buy-in; IPP Uncertainty
+
+Mega Watt Available 375.5 483.5 638.5 762.5 762.5 1162.5 I1.2 Refurbish VE Power Station COT
+
+I1.3 Ruacana Hydro Power Station Runner Replacements COT
+
+I1.4 Integrate IPP's COT
+
+I1.5 Deliver on STCS Project COT
+
+New Transmission Lines Installed (km) New 260 150 150 100 70 I2.1 Implementation Master Plan COT/PSD Decision/Stakeholder Relations
+
+I2.2 Strengthen Transmission Northern Networks COT/PSD
+
+I2.3 Implement Customer Driven Projects COT/PSD
+
+I2.4 Develop Transmission Infrastructure for Generation COT/PSD
+
+I2.5 Investigate Research and Development Protocol in NamPower COT/PSD Research Capacity
+
+Strategic Corporate Scorecard 2013/2014 - 2017/2018
+
+5.2 NAMPOWER'S STRATEGIc ScOREcARD
+
+MD Targets
+
+Perspectives Objectives: KPA Measurements: KPI 2012/2013 Basline 2013/14 2014/15 2015/16 2016/17 2017/18 crictical Tasks / Strategic Initiatives Responsible Assumptions / Risks
+
+Th em eE 2 : S ec ur ity o f Su pp ly a nd E ffi ci en ci es (In te rn al B us in es s P er sp ec tiv e) (c O N TI N u ED ) I2: Maximise Systems Availability % TX and GX Availability TX: 98%;GX: 92% TX: 98%; GX: 92% TX: 98%; GX: 92% TX: 98%; GX: 92% TX: 98%; GX: 92% TX: 98%; GX: 92% I3.1 Maintenance of Infrastructure COT
+
+IT Systems Uptime 99% 99% 99% 99% 99% 99% I3.2 Maintenance of Infrastructure CS Technology Refresh
+
+% Compliance with Scheduled Maintenance 70% 80% 80% 80% 80% 80% I3.3 Implement Scheduled Maintenance Programme COT
+
+I3: Optimise Trade Options Cents per kWh 48.55c 68.07 102.53 108.99 112.82 115.02 I4.1 Conclusion of PPA's COT Volatility of Markets
+
+I4: Improve Risk Management Average rating obtained on the Corporate Risk Management Plan New 80% 80% 90% 95% 100% I5.1 Develop and Implement Disaster Recovery Strategy and Plan (to include Simulation Excercises and the Establishment of Co-operation Agreements with Strategic Partners). OMD Relevant Strategy to Address all Types of Business Continuity Risks
+
+Th em e 1: l ea de rs hi p an d c ul tu re (l ea rn in g & G ro w th P er sp ec tiv e) L1: Improve Leadership Capability (Leadership Power) Achievement on 360˚ Leadership Assessment New 60% 65% 70% 75% 80% L1.1 Arrange for Independent Facilitated Annual 360˚ Leadership Assessments CS Participation Rate; Objective and Honest Feedback
+
+L1.2 Implement Leadership Development Initiatives aligned to Identfied Development Gaps CS Relevancy of Interventions, Behaviour Change
+
+L1.3 Facilitates the Implementation of Talent (succession) Management Programme & Monitoring Mechanism CS Performance Management System Efficiency
+
+L2: Develop Employee Capacity (People Power) % of employees who attend training indicated on their Personal Development Plans* 60% 80% 80% 80% 80% 80% L2.1 Develop and Implement Annual Competency Based Learning and Growth Strategy CS Suitable Mechanisms to Identify Competency Development Needs
+
+L3: Entrench our Core Values and Performace Culture Team Power) % Achievement on Employee Survey New 50% 55% 60% 65% 70% L3.1 Arrange Annual Independent Values Survey, Analyse Results and facilitates implementation of Improvement Plans CS Honest Feedback; Sample Representation
+
+L3.2 Assist with the implementation of Team Development Initiatives across all Business Units CS Team Participation and Synergy
+
+L3.3 Implement the Principle of MultiDisciplinary Teams working on Projects PSD Commitment/Empowerment
+
+L3.4 Implement Transformational Culture Change Programme OMD Dedication to Transformation/Support
+
+% Achievement on Annual Internal Communication Strategy New 90% 90% 90% 90% 90% L3.5 Review and implement Annual Internal Communication Strategy and Plan OMD Participation of Leadership/ Visibly Felt Leadership
+
+Lost Time Injury Frequence Rate (LTIFR) 0.22 0.11 0.01 0.00 0.00 0.00 L3.6 Manage Behaviour Based Safety initiatives CO's No LTI's due to Safety Culture
+
+% Staff Achieving Performance Targets (Bell-Curve) 85% 70% 80% 80% 80% 90% L3.7 Manage the Effective and Efficient Implementation Process of the Performance Management System CS Diligence and Effective Feedback Mechanisms; Continuous Improvement
+
+11 Objectives 24 Indicators 41 Strategic Initiatives
+
+Strategic Corporate Scorecard 2013/2014 - 2017/2018 (CONTINUED)
+
+Strategic Tactical
+
+5.2.1 lEARNING AND GROWTH PERSPEcTIVE (lEADERSHIP AND culTuRE)
+
+The learning and growth perspective comprises three strategic objectives, six measures and some 11 strategic initiatives.
+
+Firstly, a need has been identified to improve leadership capability. This will be achieved primarily through feedback generated by means of 360 degree assessments, and acting on such feedback to improve performance.
+
+Secondly, developing employee capacity is an ever present need. This will be driven through training interventions based on competency gaps identified in personal development plans.
+
+Thirdly, the current corporate culture will be directed towards a performance culture. This will be done through strengthening team work, leading by example through living the corporate values, further implementing the performance management system and placing continued emphasis on safety in the workplace.
+
+5.2.2 INTERNAl BuSINESS PERSPEcTIVE (SEcuRITY OF SuPPlY AND EFFIcIENcIES)
+
+The internal business perspective highlights four objectives mostly relating to core business.
+
+Firstly, and for this planning period there is a critical need to bring new generation capacity onto the Namibian grid. The targets for this objective include the capacity of IPPs to be added. Besides the local power station additions it is important to note that a number of initiatives will be implemented under the STCS project to augment supply.
+
+Also, and with major investment implications is the need to expand and upgrade the transmission system as laid out in the recently completed transmission master plan. This will be measured in terms of delivery on the master plan.
+
+Secondly, NamPower systems need to be run at a maximum output to ensure that the available power reaches the customers at all times. Included in this objective is the need to operate systems other than the power delivery systems also at a maximum.
+
+Thirdly, NamPower needs to optimise and maximise its power trading options. This will be a cornerstone of the Short Term Critical Supply Project, as trading will need to fill the gap left by insufficient local generation.
+
+Fourthly, in the face of all the other objectives which will tie up many resources NamPower needs to manage business risks at all times. Therefore a corporate risk management plan needs to be elaborated and implemented.
+
+5.2.3 STAKEHOlDER PERSPEcTIVE (STAKEHOlDER RElATIONS)
+
+The stakeholder perspective is covered by three objectives:
+
+Firstly, there is a critical need to improve relations and communication with key stakeholders namely the MME and ECB. NamPower depend on these relationships with the two stakeholders to ensure a sensible energy future for the country, as well as to secure the financial wellbeing of the utility NamPower through adequate tariffs and possible financial support towards the planned major infrastructural projects.
+
+Secondly, NamPower needs to "keep the lights burning" and continue to meet the needs of its customers, in terms of quality of service and supply. This is to ensure that NamPower's existing business thrives and continues to provide a basis on which to build the future.
+
+Thirdly, there is the ever present need to adhere to sound corporate governance. This is required not just under the Companies Act but also by the SOE supervisory authorities and the MME as well as NamPower's financiers.
+
+5.2.4 FINANcIAl PERSPEcTIVE (FINANcIAl SuSTAINABIlITY)
+
+The financial perspective is covered by two objectives:
+
+Firstly, there is the need to ensure financial sustainability. This includes budget and cost control, achievement of cost reflective tariffs and the ability to cover debt service requirements among others. NamPower is and needs to remain a financially healthy company. Failing in this regard it will not be able to successfully pursue the planned major projects and ensure security of supply to Namibia.
+
+Secondly, there is the need to meet financial requirements specifically related to the infrastructure projects planned in the coming years. These requirements are likely to be met by a combination of loans, government equity contributions and to some extent NamPower's own financial resources. This mix and the ability to access external funding will be critical.
+
+A strategy implementation plan as well as a program has been rolled-out to ensure the successful execution of the 2014-2018 Corporate Strategy and Business Plan. This includes the cascading of the Corporate Strategy and Business Plan into Business Units as well as at individual levels through the Performance Management System.
+
+During the cascading process, the emphasis was placed on ensuring that the operational activities throughout the company are aligned to the corporate strategies and objectives.
+
+In terms of the monitoring and evaluation mechanisms, NamPower has adapted a quarterly and annual Plan-Do-Review tool to take stock of the achievements that are being made as well as to identify bottlenecks that require corrective intervention measures to address challenges that may hinder the successful implementation of the Corporate Strategy and Business Plan 2014 - 2018.
+
+6. IMPLeMenTaTIon, MonIToRInG anD eVaLUaTIon

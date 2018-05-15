@@ -1,0 +1,823 @@
+no title
+
+Interim Action Plan for Climate-Compatible Development
+
+Draft document for public consultation
+
+Government of Papua New Guinea
+
+Office of Climate Change and Development August 2010
+
+FOREWORD
+
+Climate change is a new challenge that Papua New Guinea must confront directly. It poses very real threats, some of which we are already experiencing like increased flooding, rising sea levels and more frequent and severe droughts. The advent of climate change creates an opportunity for us to protect our forests and ecosystems that serve as the lungs of the planet and in return we receive financial incentives from other nations, which have not protected their forests as effectively as we have.
+
+This Interim Action Plan for Climate Compatible Development is my government's attempt to prepare and implement the most immediate readiness activities over the next three years, which will put us on a long term course towards achieving Vision 2050.
+
+This action plan identifies activities, which can achieve greenhouse gas abatement, particularly in the forestry and agriculture sectors. It prioritizes readiness activities for a future Reduction in Emissions from Deforestation and Forest Degradation (REDD), while looking for economic growth opportunities that minimize future emissions. At the same time it emphasizes the most immediate actions that can help chart our course towards climate resilience and adaptation.
+
+The successful implementation of this Interim Action Plan will rely upon strong collaborative efforts amongst all government agencies. It will require the support of the private sector, nongovernment organizations, academic and research institutions and of course our bilateral and multilateral development partners. Most important will be actions taken at the local level, which requires the active participation of communities and the landowners.
+
+I would like to thank all the government officials, NGOs and industry officials who have contributed to this plan and pledged continued support for its implementation. There are many challenges ahead, but given the reality of climate change we are facing, the success of this plan is of utmost importance to the people of Papua New Guinea.
+
+M T SOMARE GCL GCMG CH CF KStJ PRIME MINISTER
+
+PREFACE
+
+Government is very committed to ensuring PNG continues to pursue its roles and strategies both domestically and internationally in addressing climate change for the benefit of our people.
+
+To maintain momentum and give added impetus to this commitment, a new ministerial portfolio of climate change has been created.
+
+Over the last decade, Papua New Guinea has been at the forefront of the global climate change developments. However, so far the journey has not been easy. Last year was a difficult year for climate change in PNG with multiple setbacks.
+
+Domestically, the Office of Climate Change and Environmental Sustainability was abolished following an investigation into carbon trade deals. Many people began promoting different forms of Voluntary Carbon Schemes creating widespread confusion about the actual nature of REDD+. As the Minister in charge I will ensure that appropriate policies and legislative frameworks are in place to provide a road map for all REDD+ stakeholders.
+
+On the international scene, the 15th Conference of the Parties (COP15) did not result in a binding agreement as expected. Instead the Copenhagen Accord expected from developing countries like PNG, comprehensive and nationally appropriate mitigation and adaptation plans, to secure international funding for both adaptation and mitigation actions.
+
+Despite these setbacks domestically and internationally, over the past 9 months PNG has managed to catch up and again lead the global debate on REDD+.
+
+We have an Interim Action Plan for Climate Compatible Development which will be used to guide how we intend to carry out further analyses on mitigation and adaptation, how we access and utilize international funding and what legal and or policy interventions we take. Our mitigation and adaptation actions are an integral part of our economic development strategy, including the MTDP, the LTDS and Vision 2050.
+
+Honourable Francis Potape, BE MP MINISTER OF CLIMATE CHANGE
+
+Hon. Francis Potape
+
+INTRODUCTION
+
+Papua New Guinea made substantial contributions in the preparations for and at the Copenhagen Conference on Climate Change in December 2009. Under the Copenhagen Accord, we and our fellow rainforest nations succeeded in securing significant funding concessions from the international community for REDD+, Reduced Emissions from Degradation and Deforestation as well as carbon sequestration through afforestation/ reforestation in areas that are not currently forested.
+
+Developed countries committed USD 30 billion through the Copenhagen Accord for mitigation and adaptation efforts over the next 3 years. As part of this, Norway, USA, Japan, UK, France, Australia, Germany and others have pledged USD 4.5 billion of funding over the next three years, specifically to support REDD+. Access to these funds is dependent upon Government's demonstration of a robust policy framework for climate-compatible development.
+
+In the months since Copenhagen, Papua New Guinea has taken a number of steps forward. On the domestic front, our analysis has progressed so that we now have a much better understanding of our emissions baseline and its likely "business-as-usual" growth over the next 20 years. This is crucial to being able to understand the potential of the various abatement opportunities to PNG. We have also started to build up the capacity of the Office of Climate Change and Development (OCCD), which is the government's coordinating body for all climate change-related initiatives. Internationally, negotiations for a global REDD+ deal are progressing only slowly. However, PNG will now play a vital role in shaping them as it has been named co-chair of the Interim REDD Partnership Secretariat, along with Japan.
+
+This document presents our plans for the coming months. It also shares our baseline analysis, which is an important foundation for the strategy outlined. We intend this plan to jump start action. In particular, it sets out priority actions and pilots, which can and should be implemented right away. My hope is that the Government of PNG, development partners and affected communities alike focus on tangible actions that can be taken quickly. Additional analysis certainly needs to be conducted, but more analysis is a complement to action, not a replacement for it.
+
+Dr. Wari Iamo
+
+As the title of this plan indicates, it is not yet a fully completed strategy. Two
+
+steps are required to complete this: building a deeper and more informed dialogue
+
+internally and finding international support.
+
+x As the Minister for Climate Change, it is the Prime Minister's intention to ensure full consultation on the Interim Action Plan. This includes a broad group of stakeholders, including the government of PNG, civil society, and the private sector, in addition to affected communities. The OCCD has already initiated this process, which will integrate community needs and perspectives into the final strategy, as well as foster a broader understanding of the imperatives at national level.
+
+x The implementation of any strategy requires substantial international support. This is particularly true of progress toward the implementation of REDD+. While the Government of PNG has already committed to and invested in a number of REDD+ readiness activities, accelerating progress will require an international commitment to PNG. My sincere hope is that this can come quickly.
+
+This Action Plan sets out an implementation framework for climate-compatible development in Papua New Guinea. It sets out what the enabling structures created by government, and the actions, which can be taken at government level. Successful achievement of the action plan depends on robust institutional arrangements and collaboration between Government agencies, NGOs, private sector and NGOs. It depends on cumulative decisions, actions and aligned mindsets across all sectors and communities in the country.
+
+DR. WARI IAMO Executive Director Office of Climate Change and Development
+
+Contents
+
+Acknowledgements 1
+
+1. The importance of climate-compatible development to Papua New Guinea 2
+
+2. Climate change mitigation and low-carbon growth 5
+
+The baseline level of greenhouse gas emissions 5 Development and emissions under business as usual 6 Opportunities for greenhouse gas abatement 7
+
+3. Climate resilience through adaptation 12
+
+Hazard identification 12 Adaptation measures proposed 13 Total cost of adaptation 17
+
+4. Papua New Guinea's climate change action plan for the next three years 19
+
+Priority actions to be launched now 19 A) Institutional changes and capacity building 20 B) Strategy and policy development 22 C) Monitoring, reporting and verification (MRV) 23 D) Models for compensation and benefit sharing 24 E) Consultation and communication 25 F) Funding 26 Implementation plan for pilot initiatives and programs 26 Mitigation and low-carbon growth initiatives 26 Adaptation initiatives 31
+
+References 35
+
+Acknowledgements
+
+This interim action plan was prepared by the Department of Environment and Conservation on behalf of the Prime Minister, the Minister of Climate Change and the Government of Papua New Guinea. It updates the report 'Climate-Compatible Development for Papua New Guinea' which was considered by the National Executive Council on 20 March 2010 and is now being taken to national and provincial consultation.
+
+The scientific understanding which underlies this action plan is still evolving, and remains imperfect for several important subject areas. Furthermore, a full greenhouse gas inventory for Papua New Guinea has not yet been completed. Nevertheless, the Government believes that there is now sufficient evidence that climate change is a serious threat to all the people of Papua New Guinea to warrant serious and immediate action. Thus the best available data and estimates have been used to complete the underlying analysis.
+
+The Government would like to thank the many government, private-sector, development partner and NGO personnel who made important contributions to the development of this strategy. Special thanks are due to the members of the technical working groups for REDD+, Adaptation and Low-Carbon Growth, the members of the sub-working groups for Forestry, Agriculture and MRV as well as all others who commented on both drafts of the report on 'Climate-Compatible Development for Papua New Guinea'. The institutions consulted are listed below:
+
+Within the government, the Office of the Prime Minister, the Departments of Treasury, Finance, National Planning and Monitoring, Mineral Policy and Geohazards Management, Petroleum and Energy, Agriculture and Livestock, Transport, Health, PNG Forest Authority, PNG Forest Research Institute, National Agricultural Research Institute, Mineral Resources Authority, National Research Institute, National Disaster Centre and National Weather Service.
+
+Beyond the government, the Asian Development Bank, AusAID, Australian National University, European Union, Foundation for People and Community Development, Institute of Medical Research, Institute of National Affairs, Japan International Cooperation Agency, Live and Learn Environmental Education , New Zealand High Commission, Oil Palm Research Association, PNG Forest Industries Association, PNG Sustainable Development Program, Tenkile Conservation Alliance, The Nature Conservancy, UK High Commission, United Nations Development Program, United Nations Environment Program, University of Papua New Guinea, Wildlife Conservation Society, World Bank and World Wildlife Fund.
+
+We would also like to thank McKinsey & Company who contributed data and technical analysis to the report and action plan.
+
+1. The importance of climate-compatible development to Papua New Guinea
+
+Papua New Guinea enters its 35th year of independence as a vibrant democracy with great potential. Our geographic, biological and cultural diversity are without parallel. After a period of stagnation, the economy has been growing rapidly over the last few years and is poised to continue on this path thanks to abundant natural resources and increasing foreign direct investment.
+
+In spite of our natural wealth, the nation faces enormous challenges to socio-economic development and service delivery, especially in rural areas. Approximately one-third of the population falls below the international poverty line of an income of USD 1.25 per day and more than half our adult population remains illiterate. Meanwhile, our tremendous cultural, biological and environmental resources are under threat as never before.
+
+Climate change is both a threat and an opportunity for Papua New Guinea. Our greenhouse gas emissions are high relative to our level of development especially due to emissions from land use, land-use change and forestry. Rising sea levels, floods, landslides and malaria pose an increasing threat to our people. On the other hand, climate-compatible development offers an opportunity to move to a broader-based, low-carbon growth path.
+
+On the international stage, we have worked hard for the world to recognise the value of our forests as the world's carbon stores. While the COP-15 Copenhagen meeting did not lead to a legally binding agreement, it did recommend rapid action on Reducing Emissions from Deforestation and Forest Degradation Plus Conservation, Sustainable Forest Management and Carbon Stocks Enhancement (REDD+). The Copenhagen Accord provides for substantial financial support for REDD+ readiness activities. Papua New Guinea has therefore chosen to support the Copenhagen Accord and has worked through the Paris-Oslo process to promote an interim REDD+ agreement as a prelude to a globally applicable, legally binding climate change treaty. Following on to the Oslo meetings in May of this year, PNG has accepted a position as co-chair of the interim REDD+ Partnership Secretariat.
+
+On the domestic stage, the Interim Action Plan is a practical step toward realizing of a 50% decrease in PNG's emissions by 2030 as set out in Vision 2050. It is also reflects the integration of PNG's climate-change objectives into its Medium-term Development Plan (MTDP).
+
+The National Executive Council has endorsed the main elements the national climate change strategy reflected in this Interim Action Plan (NEC Decision 55/2010). In doing so, the NEC recognised that economic development must be combined with climate change mitigation and adaptation measures (see Exhibit 1).
+
+Exhibit 1
+
+On 22nd March 2010, Council . . . endorsed and supported as a matter of National priority, the main principles, themes and intended actions contained in the Executive Summary of the Report on Climate-Compatible Development as follows: (i) That mitigation of and adaptation to climate change are inseparable from economic development and future prosperity of the people; (ii) That the national strategies and plans on climate-compatible development are to be adopted and incorporated into the other national development strategies and plans, including the Vision 2050 and the (renewed) Medium Term Development Plan; (iii) That it is necessary to reform (and in some cases to create) institutions and bureaucratic arrangements to facilitate implementation of the National Strategy on Climate-Compatible Development, taking care to ensure that there is no overlap or duplication of activities with other branches of government or the Prime Minister's Department; (iv) That a review is necessary of all national development policies and plans which impinge upon and are affected by climate change mitigation, adaptation, and low carbon growth, to ensure climate compatibility; (v) That research and development is commissioned and conducted to support the development of a comprehensive greenhouse gas inventory and a more comprehensive understanding of the impacts of climate change on the Country; (vi) That collaborative efforts by stakeholder agencies and inputs from development partners must be coordinated and used to improve upon the Government's preliminary policy initiatives; (vii) That arrangements for Measurement, Reporting and Verification (MRV) and benefit sharing must be developed such that resource owners' rights and interests are protected and that they share in the benefits from greenhouse gas mitigation schemes, including REDD+; (viii) That pilot projects, demonstration projects and programmes are established and managed by relevant departments and agencies, to improve knowledge and technical capacity on mitigation, adaptation and low-carbon growth, with a view to incorporating lessons from them into the policy framework and legislation; and (ix) That a financial strategy be developed in tandem with the above stated activities, to request assistance from development partners in building capacity for REDD+ and other aspects of climate-compatible development.
+
+The NEC also approved the creation of the Office of Climate Change and Development (NEC Decision 54/2010). This Office, known as OCCD, is the coordinating entity for all climate change policy and the Designated National Authority under the UNFCCC, in which it replaces the Office of Climate Change and Environmental Sustainability. It has four immediate tasks:
+
+■ Conduct a national and provincial consultation on climate-compatible development. The consultation will engage a broad range of stakeholders including government, civil society, private sector and local communities. At the community level, the consultation is designed to yield a better understanding of the climate-change issues facing communities, obtain feedback on what it would take communities to participate in a national REDD+ program and prioritize adaptation measures most appropriate for communities.
+
+■
+
+Launch immediate Fast Start Actions including 'readiness activities' for REDD+ and pilot projects for different approaches to mitigation, adaptation and low-carbon growth.
+
+■ Prepare the National for Climate-Compatible Development Strategy (CCDS). The content of this strategy are contingent on the outcome of the consultation and international negotiations including potential for funding climate-compatible development.
+
+■ Determine financing requirements of Fast Start Actions and scale up and establish an overall investment plan, which that can form the basis for international negotiations of REDD+ support.
+
+These actions are further strengthened by the appointment of the new Minister of Climate Change, which underlines the Government's commitment to combat climate change and ensures progress toward a final CCDS.
+
+This document is a prelude to PNG's CCDS, which will be released prior to COP16 in Cancún, Mexico in December 2010. Both this Action Plan and the eventual CCDS address the core climate-related challenges that PNG faces:
+
+■
+
+Promotion of economic development through low-carbon growth
+
+■
+
+Mitigation of carbon emissions through participation in a global REDD+ scheme
+
+■ Adaptation to climate-related hazards. The confluence of these three objectives form the heart of PNG's climate-compatible development strategy, which will foster environmentally sustainable economic growth while capturing the opportunities of carbon mitigation and protecting against the perils of climate-driven hazards (see Exhibit 2).
+
+Exhibit 2
+
+PNG's Climate-Compatible Development Strategy Strategic framework Economic Development ▪ Achieve GDP per capita of USD 3,000 by 2030 as set out in our Vision 2050 Mitigation ▪ Reduce emissions of green-house gases, by at least 50% by 2030 driven mainly by abatement measures in land use, land-use change and forestry ▪ Become carbon neutral by 2050 investing into low-carbon infrastructure today Adaptation ▪ Reduce vulnerability to climate change-associated risks - Gradual hazards (e.g., vector-borne disease) - Event-driven hazards (e.g., landslides, flooding) Mitigation Adaptation Development Climate-Compatible Development
+
+The remainder of this document is structured around an assessment of the key climate-change issues facing PNG and steps for action.
+
+■ Chapter 2 explores climate change mitigation and low-carbon growth. It includes estimates of historical and future greenhouse gas emissions, options for reducing those emissions and the economic effects of shifting to a low-carbon growth pathway. Potential measures are presented for consultation and priority initiatives suggested.
+
+■ Chapter 3 focuses on strengthening climate resilience through adaptation. It identifies the climate-related hazards facing PNG, adaptation measures to deal with them and the overall costs and benefits of these measures. Potential measures are presented for consultation and priority initiatives suggested.
+
+■ Chapter 4 sets out for a plan for immediate action. Some actions are contingent on the completion of a national consultation process and securing funding. These include policy changes, potential regulatory and legislative changes and large-scale programs. Others can begin immediately. These include institutional changes, capacity building and initiatives designed to test different approaches to mitigation, adaptation and low-carbon growth.
+
+2. Climate change mitigation and low-carbon growth
+
+THE BASELINE LEVEL OF GREENHOUSE GAS EMISSIONS
+
+Over 95% of Papua New Guinea's emissions derive from land use, land-use change and forestry (LULUCF), including the effects of forest fires. The remainder come from mining, transport, the production of energy and oil and gas. Emissions from shipping, aviation and fossil fuels that are exported (such as LNG) are not included, in line with IPCC (Intergovernmental Panel on Climate Change) guidelines. The level of emissions is estimated at 115-131 Mt CO2e (million tons of carbon dioxide equivalent) for 2010. Exhibit 3 shows where these emissions are derived from.
+
+Exhibit 3
+
+Timber harvesting Commercial agriculture Fire Subsistence/ smallholder agriculture Mining, infrastructure SOURCE: Shearman et al (2008, 2009, 2010); Fox et al (2010); Hunt (2010); REDD+ technical working group ▪ Increasing population leads to expansion of agriculture area into forest (and shortening of rotation cycle) ▪ Clearing of forest under 'agriculture leases' scheme to establish agricultural plantations with high risk of being abused for timber extraction ▪ Logging results in significant deforestation and degradation, mainly in lowlands and islands ▪ Mining has historically been biggest driver▪ Includes forest dieback from Ok Tedi spill ▪ Caused by humans (hunting, spreading from subsistence burning) and lightning▪ Forest degradation makes fires more likely ▪ Emissions from oil and gas production ▪ Fuel for transportation and energy generation▪ Emissions from palm oil processing Everything else 1 Estimate of 2010 extrapolated from 2008/09 data 2 Exact emission for 2010 still to be verified 4 2 4 3 6 28-43 68-69 Description 2010 emissions1 Mt CO2eDriver of emissions Agriculture leases2 ▪ Clearing of forest to establish commercial plantations, predominantly oil palm, (mainly on fertile lowland forests) with proven agricultural use Sources of PNG's historical greenhouse gas emissions
+
+To estimate carbon emissions, data specific to Papua New Guinea has been used wherever available. In the absence of such data, international benchmarks and data from comparable tropical forest countries have been used as an approximation. Further research is required to verify the emissions in specific sectors and develop a detailed
+
+greenhouse gas inventory as part of the system of Monitoring, Reporting and Verification (MRV) required for REDD+.
+
+DEVELOPMENT AND EMISSIONS UNDER BUSINESS AS USUAL
+
+A business as usual (BAU) scenario describes a growth path before any mitigating action is taken on climate change (Exhibit 4). The economic growth scenario developed here is a mid-point between the growth aspirations set out in the recent Vision 2050 and Development Strategic Plan and a more cautious path in which both LNG projects are completed, but the economy is slow to diversify into non-resource sectors.
+
+Exhibit 4
+
+Growth projections under business as usual development strategy Agriculture and forestry Mining, oil and gas Industry Services ▪ Palm oil ▪ Coffee ▪ Cocoa ▪ Copper ▪ Nickel ▪ Gold ▪ Gas ▪ Construction ▪ Oil ▪ Manufacturing ▪ Power ▪ Transport ▪ Tourism ▪ Retail ▪ Financial services ▪ Food crops ▪ Forestry ▪ Double production by 2030 ▪ Open 2 LNG plants (2013, 2017) Growth assumptions by sector Per annum, unless noted otherwise GDP by sector Constant 2007 USD bn ▪ 2% yield & 5-6% area ▪ 2% yield ▪ 1% yield & 1% area ▪ 2% yield ▪ Double production by 2030 ▪ Double production by 2030 ▪ 7 - 9% ▪ Gradual decline ▪ 6 - 8% ▪ 6 - 8% (all sources) ▪ 6 - 8% ▪ 7 - 10% ▪ 6 - 8% ▪ 6 - 8% ▪ 2% (incl. timber from ag lease) ▪ 6 - 8% 0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 2007 2010 2015 2020 2025 2030 Manufacturing Services Agriculture and forestry Mining, oil and gas ▪ Telecoms 6-7% p.a. SOURCE: Low-Carbon Growth technical working group
+
+The Business as Usual growth path is carbon-intensive. Greenhouse gas emissions continue to increase, by up to 40% by 2030 under the BAU scenario. The majority of this increase would come from increased deforestation from large-scale agriculture leases, subsistence and smallholder agriculture (mostly as a result of population growth). Absolute emissions from non-land use sectors are still low. However, emissions from the energy, transport and oil and gas sectors will have the highest rates of increase over the next 20 years (Exhibit 5). Oil and gas emissions would rise further
+
+if any of the natural gas produced by either LNG project was retained for domestic consumption, but could be reduced if the liquefaction plant were powered by renewable energy sources.
+
+Exhibit 5
+
+PNG's projected GHG emissions BAU GHG emissions by sector Mt of CO2e/year Timber harvesting Others (i.e., mining, fire) Non-land use related Subsistence/ smallholder agricultureLand use, land-use change and forestry 1 Emission from ag leases caused by overlap with commercial agriculture 2 Emission from ag leases caused by overlap with timber extraction SOURCE: REDD+ technical working group 0.7 2030 11.9-16.3 1.9-2.3 1.4-2.0 3.3-4.5 5.3-7.5 2010 3.0-4.2 0.3-0.5 1.6-2.4 0.4-0.6 Power Transport Oil and gas Oil palm 2010 146-179 12-16 28-43 5 3-4 113-130 29-41% 17 35-60 5 2030 Commercial agriculture Agriculture lease
+
+68-69 3 6
+
+51-59 142 81
+
+OPPORTUNITIES FOR GREENHOUSE GAS ABATEMENT
+
+In February 2010, the Government of Papua New Guinea made a conditional commitment to the UNFCCC, under the Copenhagen Accord, that greenhouse gas emissions would be reduced by ~30% from current levels, or ~50% from the BAU forecast, by 2030. The bulk of this abatement comes from reducing emissions caused by land use, land-use change and forestry, which currently account for over 95% of emissions, but generates less than 20% of GDP. Exhibit 5 sets out the growth in emissions forecast under BAU and potential emissions reductions from the most important abatement levers. While Exhibit 6 presents the overall abatement potential, it is important to note that the realized abatement volume will depend on the extent of the implementation of the individual abatement levers.
+
+Exhibit 6
+
+ected 2030 emissions reductions
+
+2030 179 20202010005 issions under technical abatement potential scenario CO2e/ year, 2005-2030 -5 Mining and fire -2 Energy, transport, oil and gas Total abatement potential Residual emissions Abatement measures Mt CO2e/ year in 2030 Smallholder agriculture-12 Commercial plantations on non-forest lands -5 Reduced impact logging Afforestation/ reforestation1-14 -18 Secondary forest mgmt1 -19 Max possible abatement Agriculture leases-29 -29
+
+BAU emissions
+
+1 A/R and secondary forest management are not emission reduction initiative, but carbon stock enhancement initiatives 2 Assuming A/R abatement potential comes from its usage as conservation areas. If the areas will be used for plantation forestry, further research/analysis is need to calculate the abatement potential
+
+E: REDD+ technical working group
+
+The theoretical cost of abatement measures such as these is estimated at approximately USD 5.6 per t CO2e, amounting to ~USD 5.9 billions over the next 20 years (2011-2030). Naturally, these reductions are conditional on an international agreement that will fund REDD+ so that Papua New Guineans are compensated for ecoystem services and emissions benefits they contribute to the world, and for the resulting changes to their incomes and livelihoods. Exhibit 7 shows the cost curve for these abatement measures, with the lowest cost measures on the left side near the axis and the most expensive on the right side. Overall, these initiatives would reduce emissions by approximately 60-80% compared with the BAU scenario.
+
+Exhibit 7
+
+Abatement potential on LULUCF sector by 2030 Impact of abatement measures 1 Abatement cost is calculated based on foregone profit from timber produced by clearing forest, assuming zero additional cost of establishing oil palm plantation on non-forest land. Further discussion is needed to determine oil palm community benefit payment 2 Assuming A/R abatement potential comes from its usage as conservation areas. If the areas will be used for plantation forestry, further research/analysis is needed to calculate the abatement potential SOURCE: REDD+ technical working group Note: The curve presents an estimate of the maximum potential of all technical GHG abatement measures below USD 90/ tCO2e if each measure was pursued aggressively, starting with the most affordable measures. It is not a forecast of what role different abatement measures and technologies will play. Assumes a 4% societal discount rate. These are preliminary numbers, more precise figures can be determined once pilot projects are completed. 605550 Ø 5.6 0 3010 100 3.2 105 11015 20 25 35 8540 7570 10 Abatement cost $/tCO2e 0 959080 15 20 65 ses 7.4 6.0 4.8 4.8 455 5 Abatement Sequestration Agriculture extension program Replace conventional logging with Reduced Impact Logging Secondary forest management Abatement volume Mt Potential conservation payment Revoking agriculture lea 2.9 Shoilto 4.1 Potential Community benefit payment
+
+Afforestation/ Reforestation2
+
+ift 100% of new
+
+palm plantations
+
+non-forest land1
+
+Fire management
+
+The details of the specific opportunities are below. Please note that none of these measures are as yet government policy; all are subject to national consultation and in some cases international support:
+
+■ Increasing yields in subsistence and smallholder agriculture by investing in agricultural extension programs and market access could save 9-15 Mt CO2e by 2030 on the premise that 25% of farming communities improve their methods and preserve current forest coverage. The abatement effect of these measures is unproven, but they are likely to increase rural incomes and food security, so have value going beyond climate change mitigation.1
+
+■ Stopping deforestation from agriculture leases could save ~27-30 MtCO2e per year by 2030 if ~60-80% of the ~670,000 ha of currently approved agriculture leases could be withdrawn, (roughly 40,000 ha have already been logged). These ~670,000 ha only include projects with full approval from the Forest Authority (FA) and Department of Environment and Conservation (DEC). It is assumed that starting 2015, some of the land deforested for agriculture leases areas will be used for commercial agriculture plantations particularly oil palm, which is considered a separate driver of deforestation
+
+1 Improved agricultural practices need to be carefully implemented so that communities receiving agricultural extension services as part of a program which protects the existing forests instead of additional clear cutting to increase the amount of land used for agricultural purposes.
+
+in the period from 2010 to 2015. Moreover agriculture leases will provide an alternative source of timber production that might replace some of the production from existing and new FMA (Forest Management Agreement) areas. Additional agriculture leases that have not yet obtained final approval have not been included in these calculations.
+
+■ Reducing deforestation in commercial agriculture could save ~2-9 Mt CO2e per year by 2030. The primary means of achieving this would be by shifting 100% of new oil palm plantations from forested to degraded land. We assume that starting in 2015, 40-50% of new oil palm plantations will be established on former agricultural lease areas, while the rest will planted on degraded lands (e.g., pasture land, grassland).
+
+■ Implementing Reduced Impact Logging (RIL) practices2 in all logging concession areas could save 21-36 Mt CO2e per year by 2030. This includes the potential to reduce emission from forest degradation by ~33-55% in carbon stock loss and to reduce the deforested area by ~33% within forest concessions. Fully recognizing the implementation challenges, it is also worth exploring whether the application of Reduced Impact Logging practices could lead some forest operations to qualify for Sustainable Forest Management (SFM) status and so achieve certification under the FSC (Forest Stewardship Council) or other international certification schemes.
+
+■ Promoting afforestation/ reforestation on marginal lands, with a view to protecting watersheds and in some cases developing forest plantations could sequester ~14 Mt CO2e per year by 2030.
+
+■ Managing secondary forests, promoting regrowth through selected replanting and silvicultural practices in logged-over forests could save 14-21 Mt CO2e per year by 2030.
+
+■ Conserving forests through community REDD+ schemes. The abatement potential of this initiative has not been calculated since it heavily depends on the prior land allocation. For example the abatement potential will be different between conservation areas that were formerly assigned for agricultural leases or wildlife management areas.
+
+■ A national fire management program and continued efforts to reduce the environmental impact of large-scale mining could save ~5.4 Mt CO2e per year.
+
+2 Reduced impact logging (RIL) differs from conventional logging inasmuch as it extracts commercially viable timber at sustainable volumes while minimizing collateral damages. RIL reduces degradation by minimizing logging roads, managing directional timber falling and optimizing cutting methods. RIL can reduce biomass loss to 20-30% from ~40-50% through conventional logging practices and reduce the eventual area deforested by 33%.
+
+■ Reducing emissions in other sectors could save ~2.1 Mt CO2e per year by 2030, including:
+
+- ~1.1 Mt CO2e per year in the power sector, coming from a combination of constructing and/ or rehabilitating grid-connected hydro and geothermal power stations and rural electrification using micro-hydro and solar technology
+
+- ~0.5 Mt CO2e per year in the oil and gas sector, with additional potential if LNG plants can be powered by renewable energy sources
+
+- ~0.5 Mt CO2e per year in the transport sector, mostly from energy efficiency measures.
+
+The programs set out above have the potential to put Papua New Guinea onto a low-carbon growth pathway that will have benefits beyond reducing emissions. The number of jobs created in new sectors, such as tourism and forest management, should more than outweigh those lost in the traditional logging sector. Overall, with the right additional inputs, the economy can therefore achieve the same 6-7% annual growth rate under a low-carbon growth path as under the BAU scenario, with over 20,000 additional jobs created and a more equitable income distribution. Pilot projects and programs, which can be rolled out over the next three years will be discussed in detail in the final section of this document.
+
+3. Climate resilience through adaptation
+
+HAZARD IDENTIFICATION
+
+Many people in Papua New Guinea are today vulnerable to the vicissitudes of the natural environment. Coastal flooding, inland flooding, landslides and droughts take a severe toll on the people and the economy. Climate change will likely exacerbate some of these event-driven hazards and may also introduce new hazards due to gradual shifts in climatic conditions - most prominently, further malaria penetration into the highlands, changed agricultural yields and damaged coral reefs. The climate-related hazards which are relevant to PNG are set out in Exhibit 8.
+
+Exhibit 8
+
+Coastal flooding, sea-level rise Landslides Malaria and vector-borne diseases Inland flooding Current climate risks threatening people and property Risk exposure analyzed Future expected loss analyzed for case studies Not analyzed yet PNG is prone to event-driven natural hazards … … but also faces hazards due gradual shifts as a result of climate change ▪PNG is too close to equator for major tropical storm (typically originate >10 o) ▪Already a serious and regular phenomenon▪Strong relationship to climate change ▪Severe threat, recur at least every decade▪No recognised link with climate change ▪ Irregular phenomenon▪Main impact in highlands▪Linked to rainfall intensity and land use ▪Material hazard to PNG, (esp. 1997 - 98)▪Linked to ENSO, but weak climate change link ▪1.7m malaria cases (30% of pop.) p.a.▪ Increasing temperature and rainfall are accepted as factors that increase malaria infection rates ▪Source of livelihood (fisheries, tourism, etc.) and natural barrier of protection▪Coral is killed by bleaching, drowning, and acidification, linked to climate ▪Severe threat, recur at least every decade▪No recognised link with climate change ▪Agriculture is 25-30% of GDP and main livelihood for 80% of the population▪Yields affected by local climate effects - the effect differs by crop and location ▪ENSO and rainfall are strong drivers▪Moderate link with climate change SOURCE: EM-DAT; ADRC; press clippings; interviews; academic literature; team analysis Volcanic eruption Agricultural yield change Drought Damage to coral reefsStormsEarthquake
+
+The total costs of these hazards is forecast to double from approximately USD 150m today to USD 280-370m by 20303, with the ranges depending on the climate change scenario adopted and uncertainty of case study-based analysis and extrapolation.
+
+3 Cost estimates of losses do not include agricultural losses from flooding or malaria-related productivity
+
+losses.
+
+Three priority hazards are analyzed in detail: malaria, coastal flooding and inland flooding (see Exhibit 9).
+
+Exhibit 9
+
+Hazards which require adaptive measures be taken Malaria ▪ Epidemics will affect 200,000 more people in the highlands▪ USD 50m if lose low-risk zone Agricultural yield loss ▪ 3 million people depend on climate-sensitive crops ▪ USD 100-150m crop value at risk1 Coral reef decay ▪ 70,000 earn living from reefs▪ USD 170m at risk in direct GDP and avoided losses1 ▪ Affects 26,000; displaces 8,000 and kills several people annually▪ USD 8-12m current direct damage SOURCE: Dartmouth Flooding Database; EM-DAT; Reliefweb.int; press clippings; academic journals; Reefbase; WHO; PNAS; Worldbank; FAO; IMF; WRI; TEEB; ANU; Internet research; interviews; Adaptation technical working group Hazard Coastal flooding ▪ Affects 6,000; displaces 400 and kills several people annually▪ USD 7-8m current direct damage Inland flooding Risk exposure - 2010 Landslides ▪ Affects 500-600 and kills 10 annually, mainly in remote, mountainous areas ▪ Damages infrastructure Top priority hazards to be addressed Already affects almost half the population with rises in temperature 200,000 more PNG is vulnerable to coastal flooding, only to be exacerbated by rising sea levels▪ 20,000km of coastline▪ Severe floods affecting 6,000+ annually PNG suffers inland floods multiple times per year▪ Extensive river system ▪ Population living close to rivers Malaria Coastal flooding Inland flooding ESTIMATES 1 Value at risk indicates potential losses, not current losses People unless otherwise noted
+
+PRIORITIZATION OF ADAPTATION MEASURES
+
+The relevant hazards were further screened based on their track record of historical damage, clear links to climate change and feasibility of analysis in a short time frame. Potential adaptation measures for the three hazards were examined in detail - coastal flooding, inland flooding and malaria - and put through a series of prioritization filters (see Exhibit 10). The first step filtered for the ability to protect people. Measures that protected only physical assets were determined to be lower priority by the Technical Working Group. An assessment of additional hazards - landslides, agricultural yield losses and coral reef decay - was beyond the scope of preliminary adaptation analysis and needs to be conducted to create a full picture of threats posed by climate-related hazards.
+
+Exhibit 10
+
+Prioritization of adaptation measures for implementation Exhaustive list of adaptation measures Cost-effective measures Ability to protect people Maximize people protected, then assets No existing programs / funding in place Prioritized measures for implementation
+
+After identifying the option set of possible mitigation measures for each hazard, cost curves were used to assess the effectiveness of adaptation measures. Exhibit 10 illustrates the cost curve for malaria and coastal flooding. A detailed cost curve was not developed for inland flooding measures as these are extremely location specific.
+
+Exhibit 11
+
+2 Cost-Benefit ratio Malaria prevention A Insecticide-treated bednet distribution (LLIN) ACT as first-line treatment Indoor Residual Spraying (IRS) Malaria prevention for pregnant women Introduce mosquito-larvae eating fish B C D E 1 CB=1 Build wells and reduce breeding grounds F J I Build more healthcare centers Introduce bio-pesticides (plants) G H 0 A B C D Loss Averted F G H Monitor mosquito resistance to treatment I Cost curves1 developed for malaria and coastal flooding Cost-Benefit ratio 1 50 4 0 CB=1 Coastal flooding A Elevate new structures in flood zone Revive reefs Plant mangroves Nourish beaches Retrofit important buildings Coastal engineering in high-value locations Flood-adapt house contents Build dikes Create offshore breakers B C D E F G H I Loss Averted A A C E B D F H IG SOURCE: Press clippings, UNESCO, WHO, NAPAs, Academic Journals, press clippings, CDC, PNG High Commission, Delta Committee reports, SFWM System, US Army Corps, team analysis Protects lives 1 Value of protecting human lives is not quantified here
+
+E
+
+Plant trees to provide shade
+
+J
+
+The vertical axis represents the cost effectiveness (cost-benefit ratio) 4 , and the horizontal axis represents the loss aversion potential of the measure. Measures with a cost-benefit ratio of less than one are considered cost effective, which is to say that the averted loss is greater than the measure's implementation cost plus residual loss. Measures assessed to be cost effective, were further evaluated based upon their capacity to protect people. Those measures with the highest 'people protection factor' were most heavily weighted toward immediate prioritization for pilots and implementation. See exhibit 12 for more details. The final section of this document lays out an implementation plan.
+
+4 Cost-benefit analysis is a tool used only to assess cost effectiveness of a project in terms of protecting
+
+property and is not used to estimate the value of human life.
+
+Exhibit 12
+
+People protection factor of selected adaptation measures 6 2 Set up early warning system Construct drainage 61 Build levees 88 Set up early warning system Plant mangroves 22 Construct coast engineering 120 Malaria prevention - Provide LLIN bednets - Perform IRS - Ensure ACT availability 412 750 326 2,3 04 3,100 2 1 7 44 64 <1 18 48 5 12 35 1 1 2 Measure Total cost1 USD m People protected1 thousands Cost/protected person/year1 USD x Protected / total population Source: CCDS, Adaptation technical working group Priority measures 1 National aggregation based on local estimates (high margin of error)
+
+133 69 69
+
+COST AND BENEFITS FROM ADAPTATION MEASURES
+
+Cost effective adaptation measures can reduce PNG's exposure to climate-change related hazards by up to 50% (see Exhibit 13). This reduction would more than make up for the expected losses resulting from climate change in the best-case scenario. Still, PNG will face a residual loss that cannot be avoided by any cost effective adaptation measures, in addition to the cost of implementing the measures.
+
+Exhibit 13
+
+Expected losses from climate-related hazards and adaptation measures Unavoidable costs Benefits adaptation measures USD million at constant prices, 2030 1 Loss averted through cost effective measures (Inland flooding: 90%,Coastal flooding: 70%, Malaria: 80%, 2 Low-range expected loss, high-range cost effective measures, and low-range cost-benefit ratio 3 Losses do not include losses resulting from crop loss, productivity losses due to salinization and other flooding-related soil fertility damage OURCE: Adaptation technical working group BEST-CASE2 EXAMPLE Residual loss Total exposure Cost of measures 80 Inland flooding3 <10 Coastal flooding3 10 Malaria 120 ~280 60 Loss averted1 Even with adaptation measures, PNG faces USD ~140m in climate-related costs
+
+S
+
+The amount invested in implementing adaptation measures depends primarily upon the resources available. Full implementation of the seven selected measures laid out in Exhibit 12 for coastal and inland flooding and malaria would cost approximately USD 720m.5 Half of this cost would be incurred in the first 5 years of implementation due to the high capital costs of infrastructure-related adaptation measures. Exhibit 14 provides details.
+
+5 2010-2030, assuming no discounting
+
+Exhibit 14
+
+d
+
+ing needs to protect a majority of hazard-prone locations the top-3 natural hazards 260 50 350 Total top-3 hazards 720 370 Inland flooding 160 110 Coastal flooding 150 110 40 Malaria 410 150 First 5 years 2015-2030 Funding for first five years already secured illion, rounded to nearest ten million1 CDS, Adaptation technical working group l aggregation based on local estimates (high margin of error)
+
+m
+
+C
+
+a
+
+In addition to these selected initiatives, more measures have been assessed as cost-effective measures, warranting further investment depending upon funding availability and priorities (see exhibit 9). Furthermore, targeted analysis needs to be conducted to further assess the risks posed by landslides, drought, crop yield losses and coral reef decay, salt water intrusion, and the adaptation measures that can be taken to mitigate them.
+
+4. Papua New Guinea's climate change action plan for the next three years
+
+PRIORITY ACTIONS TO BE LAUNCHED NOW
+
+This section describes the actions that the government will take throughout the rest of 2010 and specifically prior to completion of the next version of the National Climate-Compatible Development Strategy around September. Exhibit 15 lists the priority actions of the Minister of Climate Change and the OCCD. These initiatives require close cooperation with the entire government as well as support from development partners and NGOs. This plan is subject to continued updating and refinement.
+
+Exhibit 15
+
+Priority actions for 2010 Institution & capacity building ▪ Recruit 20+ highly motivated and qualified staff for the new Office of Climate Change and Development ▪ Implement 18-months capability building plan Strategy and policy development ▪ Refine National Strategy for Climate-Compatible Development by September 2010 ▪ Implement agreed policy changes MRV ▪ Finalize MRV stock take and develop requirements for a national MRV system in line with global requirements ▪ Select a MRV solution and start implementation Benefit sharing mechanism ▪ Develop a benefit sharing approach in line with globally evolving requirements including mechanisms to allocate funds at a national and community levels Consultation & communication ▪ Conduct a national consultation process focusing on provinces with the highest climate change exposure for both mitigation and adaptation Funding ▪ Develop a plan of the high level funding requirement ▪ Conduct bilateral and multilateral negotiations to provide funding support A B C D E F
+
+A) Institutional changes and capacity building In NEC Decision 54/2010, the Government has created a new Office of Climate Change and Development (OCCD), playing a coordinating role across relevant government departments. Setting up the new institution and building its institutional capabilities are two of the most important tasks for this year.
+
+The Prime Minister's appointment of a Minister of Climate Change further underlines the importance that the Government gives to the topic of climate change. The Ministry reinforces the recent NEC Decision and will further strengthen the Government's capacity to address the manifold challenges and opportunities climate change poses for our country. The Ministry will play a leading role in shaping the Government's strategy and will provide direction and assistance to OCCD's many tasks.
+
+Office of Climate Change and Development
+
+The objective of the OCCD, approved by the Department of Personnel Management, is "to provide a coordination mechanism at the national level for the research, analysis and development of the policy and legislative framework for the management of climate change within the Government's National Strategy on Climate-Compatible Development (NEC Decision No 55/2010)". Exhibit 16 shows how the Office will be organized and governed.
+
+Exhibit 16
+
+New institutional arrangements National Climate Change Committee Chaired by Chief Secretary; includes key CACC members (Treasury, DNPM) plus secretaries of DAL, DEC and CEOs of PNGFA, NARI and NFA Office of Climate Change and Development1 Led by Executive Director (ED) • Policy coordination and analysis • Stakeholder engagement and communication • Legal support Technical working group REDD+ Forestry, Agriculture, DEC, Planning, Treasury Technical working group adaptation Agriculture, DEC, Planning, Treasury, Health Technical working group low-carbon growth Planning, Energy, Transport, Mines Advisory board National and international experts Prime Minister & Minister of Climate Change 1 OCCD Executive Director reporting directly to Prime Minister ▪ Strong political leadership ▪ Support across key ministries ▪ Lean office with strong team ▪ Uses secondees from other departments ▪ Operational since Jan 2010 ▪ Shapes national strategy Ministerial Committee Chaired by Prime Minister
+
+The OCCD has been designed to become a public service role model capable of coordinating whole-government action on climate change and development. With the guidance and support of the Minister of Climate Change, its immediate responsibilities include:
+
+■
+
+Support the Government in the overall steering and coordination of the climate-compatible development strategy
+
+■
+
+Conduct rigorous policy analysis
+
+■
+
+Manage inter-agency policy development
+
+■
+
+Liaise and manage relationships with development partners
+
+■
+
+Approve climate-change related projects (e.g., REDD+ pilot projects)
+
+■
+
+Implement pilot projects and programs, working, where appropriate with NGOs and others
+
+■ Monitor and evaluate project and program performance (including a coordinating responsibility for a national system of MRV for REDD+).
+
+Other responsibilities need to be determined in due course. However, it is anticipated that the OCCD will coordinate, but not administer funds for climate change mitigation and adaptation, including REDD+ readiness activities. This will include oversight responsibility for public, private and voluntary sector activities in climate change. However, the Government has not yet determined its policy on all related activities. The NEC has requested the Executive Director of the OCCD to study the matter and make recommendations for the necessary regulations and legislation in due course.
+
+Capacity development
+
+The OCCD will recruit high-potential staff both from the public, private and NGO sectors to lead the coordination work and pilot projects, collaborating with local partners to demonstrate impact. The current recruitment process aims at identifying strong individuals with high integrity. After a careful staff selection, the OCCD will build a high caliber team through training on key skills, explicit mentorship and a strict performance management process.
+
+Given the high expectations and demands on OCCD staff, it may prove difficult to fill all positions immediately. In anticipation of this, and in a parallel to the recruiting process, the OCCD is identifying PNG nationals as well as overseas experts who can be seconded to the OCCD for an initial 12-month period. All secondees will focus on helping to build capacity and capabilities of the permanent staff, in addition to directly pushing forward the OCCD's work.
+
+The second level of capacity building will come through the process of learning by doing on pilot and demonstration projects. In the implementation of projects, local communities will work closely with experienced development partners and OCCD staff. Growth of local capabilities will come primarily from experience on the job, e.g., project design and implementation. Where necessary this will be complemented by formal skills training.
+
+The third component of capacity building will be through targeted training sessions aimed at supporting the scale-up of pilot projects. After pilot programs have demonstrated impact, the challenges and capability gaps for future implementation will be codified and built into a training curriculum. The net effect of the national strategy's approach to capacity building will be to strengthen capabilities while generating results.
+
+B) Strategy and policy development A refined version of the National Strategy for Climate-Compatible Development will be completed towards the end of this year, prior to COP 16 in Cancún, Mexico, and incorporate the insights from a provincial consultation process and the ongoing international REDD+ negotiations. NEC Decision 55/2010, accepting the principles of climate-compatible development, mandates that, "A review is necessary of all national development policies and plans which impinge upon and are affected by climate change mitigation, adaptation, and low carbon growth, to ensure climate compatibility." In light of this direction, the Government is taking steps to ensure that:
+
+■
+
+The Medium Term Development Plan for 2011-15, currently under development by the Department of National Planning, will be climate compatible.
+
+■
+
+The Electricity Industry Policy, which provides a framework for the private sector to invest in renewable energy sources, is adopted and implemented.
+
+■
+
+The Forestry and Climate Change Framework for Action is implemented.
+
+■ A review is conducted of the National Agricultural Development Plan including the allocation of forest land for agriculture leases.
+
+Substantial action on REDD+ will depend on the degree of support identified during the provincial consultation and international support forthcoming. In time, this may lead to more ambitious actions including the following:
+
+■
+
+Revise the Forestry Act and Environment Act, if required, to enable mechanisms for REDD+ schemes and eliminate conflicts with existing legislation.
+
+■ Develop and enforce strict design principles and criteria for all REDD+ and carbon trading projects, taking strong action against any unauthorized voluntary trading schemes.
+
+C) Monitoring, reporting and verification (MRV) At the time of writing, there is not yet an agreed framework for REDD+ under the UNFCCC. However, its eventual outline is likely to include the critical 'payment for performance' principle. This is intended to ensure that countries are only compensated for reductions in greenhouse gas emissions once they have been achieved and verified. The implication is that in order to access REDD+ funds, emissions reductions have to be accurately tracked and recorded in order to compare them to an agreed baseline.
+
+A credible system for the Monitoring, Reporting and Verification (MRV) of REDD+ activities is essential to prove actual emission reductions to international counterparts and thus to allow for performance-based REDD+ payments. The Government of Papua New Guinea has identified the following requirements to establish a national MRV system:
+
+■
+
+A remote sensing system to monitor forest cover, which uses software to interpret and classify data such as the images take by Earth observation satellites
+
+■
+
+Regular forest and land surveys to verify changes to local land use and carbon stocks and verify and corroborate the remote sensing system
+
+■ The development of a comprehensive greenhouse gas (GHG) inventory, to update and provide greater detail on the estimates found in this paper
+
+At present, no national MRV system exists in Papua New Guinea. A preliminary diagnostic on current MRV capabilities across different institutions in PNG indicates that most systems use satellite images and on-the-ground measurement to monitor land use. These systems have been sponsored by academic institutions, government departments and agencies, and increasingly NGOs. Few of these systems have national coverage and none includes all types of greenhouse gas emissions or land-use changes. Technology, feasibility, and donor concerns are all factors in the selection of an MRV system.
+
+The implementation of adaptation measures does not require a global monitoring and evaluation system as does REDD+ because they occur locally. The government of PNG is committed to using funds effectively and in line with donor regulations. In order to ensure that the funds are used judiciously and achieve the intended impact, the Minister of Climate Change and OCCD will develop a transparent system for the performance management as well as monitoring and evaluation of adaptation initiatives.
+
+D) Models for compensation and benefit sharing The mechanism for distributing international REDD+ funds at the local level has not yet been determined. Two critical decisions need to be made. First, how funds will be handled on a national level? Second, how funds will be used and distributed to pay for the costs of REDD+ activities and to compensate and incentivise local communities for potential livelihood changes?
+
+The interface between international and national funds is likely to be determined through negotiations with development partners. The government will then establish national funds to coordinate the administration of REDD+, adaptation and low-carbon growth initiatives. The structure and oversight of these funds remains to be determined, but it is likely they will include representatives from the Ministry of Climate Change, the OCCD, the Department of National Planning and Monitoring and the Departments of Treasury and Finance and perhaps others. Exhibit 17 illustrates what such an arrangement might look like.
+
+Exhibit 17
+
+National mechanism for climate change funding Papua New Guinea REDD+ Investment Fund Readiness component MRV, Carbon accounting, capability building, etc. Pay for performance component Benefit sharing Development Partners Multi-Donor Trust Fund Papua New Guinea Adaptation Investment Fund Papua New Guinea Low-Carbon Growth Investment Fund International level National level Adaptation pilot projects National/local split tbd Low-carbon growth pilot projects National/local split tbd Provincial/ local level REDD+ pilot projects Eventually funded on by 'Pay for Performance' Legally distinct, with shared staff for cost and efficiency reasons DNPM Annual budget process DNPM Annual budget process
+
+There are many examples of benefit sharing at the local level. These include the arrangements for mining and forestry projects and conservation work. One of the most important challenges that the Government faces is to design a simple, transparent and
+
+equitable system for distributing and allocating REDD+ funds. PNG will build on experience gained in other sectors while avoiding drawbacks identified with some of these schemes. The REDD+ technical working group proposes to do the following:
+
+■
+
+Review the benefit sharing models and their implementation in existing sectors (e.g., mining and forestry)
+
+■
+
+Collaborate with pilot projects for community REDD+ schemes by NGOs to learn which benefit sharing models are most effective and under what circumstances
+
+■ Identify substantive elements of benefit sharing models (e.g., clarity on land ownership) and engage local communities to design benefit sharing mechanisms.
+
+E) Consultation and communication The OCCD, with guidance and support from the Minister of Climate Change, will conduct a national consultation process in the coming months to help refine and improve the National Strategy for Climate-Compatible Development. The consultation process under development has the following objectives:
+
+■
+
+Build a local understanding of the facts of climate change and options for climate-compatible development that could form part of a national strategy
+
+■
+
+Gain an on-the-ground understanding of local needs and desires so that mitigation and adaptation initiatives can be best tailored to meet them
+
+■
+
+Test community interest and willingness to participate in REDD+ schemes
+
+■
+
+Develop working relationships between the OCCD, local government and NGOs
+
+■ Empower local government to communicate the national strategy. The initial round of national consultation will engage with government and civil society representatives in four to six representative provinces. Provinces will be selected based upon the following criteria:
+
+■
+
+Strong interest and support by provincial government
+
+■
+
+Significant logging, voluntary carbon trading activities or exposure to hazards that require adaptation measures to be taken
+
+■ Strong civil society organizations, which can collaborate with the OCCD to amplify outreach and support implementation of mitigation and adaptation initiatives.
+
+After the completion of this initial round of consultation, the need for additional consultation to include the remaining provinces as well as to gauge the acceptance of the national strategy will be explored.
+
+F) Funding Funding is a crucial prerequisite to implement any of the above mentioned REDD+, adaptation and low-carbon growth measures. As part of the Climate Compatible Development Strategy, PNG is preparing financial plan for funding requirements for the next 3 to 5 years. The plan will also provide information about the amount to which PNG can finance projects directly.
+
+This financial plan will be used as a basis for bilateral and multilateral negotiations with international development partners as well as private sector partners.
+
+IMPLEMENTATION PLAN FOR PILOT INITIATIVES AND PROGRAMS
+
+Technical working groups have identified potential mitigation, growth and adaptation initiatives, which are designed to test new concepts as well as programs which involve scaling up and rolling out solutions that have already been developed elsewhere. Given resource constraints - both human capital and financial - mitigation and adaptation initiatives were respectively prioritized based upon efficacy in carbon mitigation and protecting people and economy from climate-related hazards. The following section presents initiatives for carbon mitigation, low-carbon growth and adaptation.
+
+Mitigation and low-carbon growth initiatives There are two types of initiatives - sectoral and geographical pilot projects. Sectoral pilot projects aim to solve challenges related to various REDD+ mechanisms, such as MRV, fund disbursement, community engagement, capability building and a benefit sharing mechanism. Geographical pilot projects aim to understand the dynamic of integration between different REDD+ pilot programs in certain REDD+ demonstration sites. The REDD+ working group and its sub-working group on forestry have developed a series of initiatives in the forestry sector, set out in Exhibit 18. These are in line with the Forestry and Climate Change Framework for Action, developed by PNGFA.
+
+Exhibit 18
+
+1 2010 budget is mostly for provincial consultation to identify scope of forestry pilot projects in certain provinces SOURCE: Forestry sub working group REDD+ initiatives - Forestry sector Reduced Impact Logging Objective Responsible institution Proposed location ▪ Reduce collateral damage and forest degradation by 50% ▪ PNGFA▪ FRI ▪ Sandaun▪ W. New Britain▪ Milne Bay ▪ 2010: 0.1m ▪ 2011 onwards: tbd with provincial gov Afforestation/ Reforestation ▪ Enhance carbon stock ▪ PNGFA▪ FRI ▪ Milne Bay ▪ E. Highlands▪ W. New Britain ▪ 2010: 0.1m ▪ 2011 onwards: tbd with provincial gov ▪ Engage local gov to define scope▪ Pilot starting Sep 2010 Forest Conservation ▪ Protect forest to maintain biodiversity and provide environmental service ▪ PNGFA▪ DEC ▪ Central Province▪ W. New Britain▪ Milne Bay▪ E. Highlands ▪ 2010: 0.1m ▪ 2011 onwards: tbd with provincial gov ▪ On going in Kokoda and WNB, others starting Sep 2010 ▪ Enhance regrowth rate of secondary forest ▪ PNGFA▪ FRI ▪ E. Highlands▪ Sandaun▪ W. New Britain ▪ 2010: 0.1m ▪ 2011 onwards: tbd with provincial gov Proposed budget1 (USD) Secondary Forest Management ▪ Engage local gov to define scope▪ Pilot starting Sep 2010 ▪ Engage local gov to define scope▪ Pilot starting Sep 2010 Timing and next steps ▪ Test REDD+ concepts with community (i.e., Benefit Sharing mechanism) ▪ WCS▪ WWF▪ TNC ▪ Manus▪ W. New Britain▪ Adelbert Mt, Madang Community REDD+ schemes ▪ On going▪ Collaborate with REDD+ pilots
+
+■ Reduced Impact Logging - Given the large potential abatement from RIL, it is necessary to compare its impact and enforcement costs with current logging practices. PNGFA has identified the provinces of Milne Bay, West New Britain, and Sandaun as priority areas for this initiative. Pilots will provide an opportunity to test RIL enforcement, silvicultural practices and MRV methodologies (both field measurements and remote sensing). Pilots will run concurrently, with initial results (impact on collateral damages and operating cost) should be available within few months.
+
+■ Secondary forest management - A pilot will identify biomass regeneration rates from post-logging silvicultural practices. PNGFA has identified Eastern Highlands, West New Britain, and Sandaun to trial this initiative, which will also build the capacity of PNGFA and FRI to implement silvicultural practices, in partnership with other organizations.
+
+■ Afforestation and reforestation - PNG already has considerable expertise and data in this area. Consequently, the scale up of afforestation and reforestation should begin immediately and proceed rapidly. The PNGFA has identified Milne Bay, Eastern Highlands and West New Britain as potential locations. Implementation presents an opportunity to test different approaches (e.g., spacing of
+
+trees, mix of species and monoculture) over a range of geographic and climatic conditions to determine the methods that offer optimal growth at minimal costs.
+
+■ Forest conservation - Conservation initiatives present an opportunity to use REDD+ schemes to maintain biodiversity and critical ecosystem services provided by forests. This initiative can also be linked with the Payment for Ecosystem Services (PES) mechanism. PNGFA has identified West New Britain, Milne Bay and Eastern Highlands as potential locations. Carrying this out requires strong collaboration between PNGFA and DEC.
+
+■ Community REDD+ - Several NGOs have developed concepts that involve the use of REDD+ funds to promote sustainable livelihoods and forest conservation. The preliminary review includes REDD+ initiatives in Manus Island, West New Britain, Sandaun and Madang provinces. These initiatives need funding to demonstrate proof of concept.
+
+Exhibit 19 summarizes the initiatives for implementation in the agriculture sector, as agreed by the REDD+ technical working group and sub-group on agriculture.
+
+Exhibit 19
+
+1 Very preliminary number, will be refined during the provincial consultation SOURCE: Agriculture sub working group REDD+ initiatives - Agriculture sector Land Use Planning Objective Responsible institution Proposed location ▪ Design integrated Land Use Plan in LLG level (forestry, agriculture) ▪ DAL▪ NARI ▪ Madang▪ WNB▪ Eastern Highland ▪ Consult with DAL and local gov▪ Pilot will start on Sep 2010 ▪ Increase productivity of subsistence/small holders farmers ▪ DAL▪ NARI ▪ Madang▪ WNB▪ Eastern Highland ▪ 2010: 0.6m▪ 2011 onwards: tbd ▪ Consult with DAL, NARI, local gov▪ Pilot will start on Sep 2010 ▪ Identify feasibility of establishing commercial plantation in non forest land ▪ DAL▪ OPRA ▪ Ramu▪ Popondetta ▪ Consult with oil palm industries▪ Program will start on June/July 2010 ▪ Review the deforestation potential of agriculture leases and improve approval process for the commercial agriculture ▪ DAL▪ FA▪ OPRA▪ DEC▪ DLPP▪ DNPM ▪ All relevant provinces (i.e., Morobe, West New Britain, Central, Milne Bay) ▪ 2010: 0.3m▪ 2011 onwards: tbd Proposed budget1 (USD) Agriculture extension program Commercial plantation on non-forest land Agriculture Leases review ▪ Stock take process is on going▪ Review and propose policy changes by July 2010 Timing and next steps
+
+■ Integrated land use planning at the local government level should clarify and rationalize the allocation of land between forestry, commercial agriculture, subsistence agriculture and other uses, such as hunting. Pilot projects are proposed for Madang, West New Britain, Eastern Highlands and Central provinces. In order to realize the full impact, the plans need to be combined with measures to increase agricultural productivity and improve access to markets.
+
+■ Agricultural extension programs in combination with integrated land use programs these should lead to increased yields. A pilot has three purposes: 1) increase productivity 2) improve market information and farmers' access to markets and 3) reduce emissions associated with clearing forest for agriculture by intensifying the use of existing plots. Implementation will require collaboration among research institutions such as NARI.
+
+■ Commercial oil palm plantations on non-forest lands - Additional research into the feasibility of using non-forest land for new oil palm should be conducted. Data generated will highlight economic differences such as yields and input requirements. Collaboration with the private sector is key, and there is scope to build on existing projects, such as oil palm plantations that have been established on pasture land (in Ramu) and also on anthropogenic grasslands (in Popondetta).
+
+■ Review of agriculture leases should be pursued immediately. Based on data from DAL, PNGFA, DEC and OPRA, up to an estimated 2.3 million ha of primary and secondary forest lands have been allocated for agricultural use and therefore might be eligible for clear-cut logging. Out of this 2.3 million ha, roughly 670,000 ha have already received Forest Clearance Authorities (FCA) and Environment Permit (EP). The Agriculture technical sub-working group is currently drafting the terms of reference for an immediate investigation into the nature of these leases and the process for granting them with a view to recommending a moratorium and full policy review.
+
+Finally, the low-carbon growth working group has identified initiatives that aim to reduce emissions from the energy sector. They are described in Exhibit 20.
+
+Exhibit 20
+
+▪ 1-2 years
+
+SOURCE: Low-carbon growth technical working group
+
+Low-carbon growth initiatives
+
+Rural electrification - Bialla hydro Objective Responsible institution Proposed location
+
+▪ Rehabilitate and expand hydro from 400kW out of potential 1500kW
+
+▪ West New
+
+Britain provincial government▪ Hargy oil palm▪ PPL
+
+▪ W. New Britain ▪ TBD
+
+▪ Build new 40-80 MW runoff hydro
+
+▪ PPL▪ NCDC▪ DNPM▪ Dev partners
+
+▪ Naoro Brown ▪ USD ~50m estimated, actual costing after feasibility study (Oct 2010)
+
+▪ Rehabilitate and expand hydro from 80kW to 1MW
+
+▪ New Ireland provincial government▪ Western Power▪ Lihir SDP
+
+▪ New Ireland ▪ USD 200,000 proposed by
+
+Lihir SDP for rehabilitation, TBD for expansion
+
+▪ Installing capacitor banks to reduce peak load by ~250 KVar
+
+▪ Damai▪ PPL ▪ SomareFoundation
+
+Building
+
+▪ USD ~15,000 preliminary estimate from PPL Proposed budget
+
+Rural electrification - Sohun hydro
+
+Port Moresby hydro
+
+Energy efficiency
+
+▪ 1-2 years
+
+▪ 3-4 years
+
+▪ 6 months Timing and next steps
+
+PRELIMINARY
+
+■ Rehabilitation of Mini-hydro systems in West New Britain (Bialla) and New Ireland (Sohun) - Both of these are schemes which have fallen into disrepair and could be rehabilitated at relatively little cost to provide power their local communities. A greater investment in generation and transmission equipment could further enhance the capacity of these stations and provide power to the urban centers of Kimbe and Kavieng, respectively. Details of these initiatives are being worked out in conjunction with the provincial governments.
+
+■ Developing a new hydropower or geothermal station for Port Moresby -  Port Moresby currently has a large demand gap compared to its supply of energy, resulting in blackouts on a near daily basis. Not only will a new hydropower or geothermal station allow for this gap to be addressed, but the access roads that will be built in the process will provide easy links to other potential sites for future hydro or geothermal developments.
+
+■
+
+Energy efficiency improvements through installing capacitor banks - The installation of capacitor banks would reduce peak load (by reducing apparent power) in high-energy usage buildings by 30-40%, thus allowing other locations to
+
+use that power. PPL has already installed several successful capacitor banks, which have produced the desired results.
+
+Adaptation initiatives In the short-to-medium term, the adaptation measures with the highest benefit have been prioritized for pilots and implementation. Initiatives addressing malaria prevention, however, are not included here because the recommended measures are already planned under the National Malaria Programme Control Strategic Plan. Exhibit 21 indicates where priority adaptation measures should take place:
+
+Exhibit 21
+
+Priority adaptation measures to be implemented across PNG Early warning system Lae Flood protection Retaining wall in 1st priority cities Community-based mangrove planting Early warning system Prevention in remote (highland) villages Prevention in workers' camps Not shown Karkar Balimo Morehead Daru Port Moresby Popondetta Lae Alotau Samarai Kandrian Kimbe Maingi Bairiman Pomio Guma Kokopo Namatanai Kavieng Lorengau Sohano Arawa Buin Simbai Madang MinjMount Hagen Kiunga Kundiawa Papua New Guinea SOURCE: Adaptation technical working Group Retaining wall in 2nd priority cities Jayapura Aitape Nuku Ambunti Angoram Wewak
+
+Five initiatives have been identified as priorities for implementation:
+
+■
+
+Coastal flooding - Initiatives related to coastal flooding focus on warning and protecting the flood-prone coastal communities (See Exhibit 22)
+
+- Coastal early warning system - A maritime early warning system would capture information on sea-level change and immediately transmit information to a control center. The control center could alert provincial disaster relief personnel as well as communicate directly with affected communities through
+
+SMS or radio. Implementation requires coordination between departments, effective use of technology, strong partnership with the private sector and community awareness.
+
+- Community-based mangrove planting - Establishing mangroves on vulnerable shorelines would reduce the impact of large waves, thus minimizing damage in coastal communities. Mangroves, however, take 5-8 years to mature and therefore require community involvement and commitment to plant, maintain and protect them. Expert support is available from previous mangrove planting pilots (e.g., Port Moresby area).
+
+-
+
+Coastal engineering protection - The construction of well-located retaining walls in priority cities prone to flooding from tsunamis and storms will protect their most vital assets.
+
+Exhibit 22
+
+Early warning system ▪ Set up coastal flooding warnings system ▪ NWS▪ NDC▪ SEAFRAME and expand monitoring ▪ Dept: of Minerals and GeoHazards▪ Provincial authorities▪ Media ▪ Private sector ▪ Bismarck Sea ▪ 2010: USD 0.5m▪ 2011: USD 0.6m▪ 2012: USD 0.1m▪ 2013: USD 0.1m▪ 2014: USD 0.1m ▪ Set up NWS, NDC, private partnerships SOURCE: Adaptation Technical working Group, team analysis Adaptation initiatives - Coastal flooding Objective Responsible institution Proposed location Proposed budget Coastal mangrove protection ▪ Involve coastal communities in planting and maintaining mangroves ▪ MRIC / UPNG▪ DEC▪ TNC▪ WWF▪ WCS ▪ North / Islands - Finschafen - Morobe - Madang - New Ireland - Manus ▪ 2010: USD 0.6m▪ 2011: USD 0.8m▪ 2012: USD 1.0m▪ 2013: USD 1.3m▪ 2014: USD 1.5m ▪ Consultation with villages▪ Hire/train field staff ▪ Build seawalls around top 5 high-risk cities ▪ DoW (national + provincial▪ Town Authorities▪ SMEC 1. Wewak 2. Lae 3. Madang 4. Buka 5. Vanimo ▪ 2010: USD 8m▪ 2011: USD 8m▪ 2012: USD 8m Coastal engineering protection ▪ Contact provincial works manager / city manager Timing and next steps PRELIMINARY
+
+■
+
+Inland flooding - Inland flooding initiatives focus on protecting inland communities most at risk for river flooding (see Exhibit 23).
+
+- Inland early warning system - In the short-term, a selective early warning system covering the most populated and flood-prone rivers, should be set up. Given the complexity due to the extreme variation among rivers a series of pilots, which can later be scaled up are more appropriate than a national system. Similar to a maritime early warning system, an inland system requires a close partnership with the private sector and collaboration among departments.
+
+Exhibit 23
+
+SOURCE: Adaptation Technical working Group, team analysis
+
+Adaptation initiatives - Inland flooding
+
+Lae flood protection Objective Responsible institution Proposed location
+
+▪ Implement range of measures along Bumbu river to protect Lae
+
+▪ DoW (Lae)▪ Lae City
+
+Authority▪ Prov.
+
+Administrator▪ NDC▪ SMEC
+
+▪ Lae ▪ 2010: TBD▪ 2011: TBD▪ 2012: TBD
+
+▪ Build extensive meteorological measurement network in partnership with private sector
+
+▪ NWS▪ NDC▪ Dept: of Minerals
+
+and GeoHazards▪ Provincial
+
+authorities▪ Media (e.g.
+
+radio)▪ Private sector
+
+(e.g. mobile telco)
+
+▪ Along flood-prone rivers (e.g. Sepik, Markham)
+
+▪ 2010: USD 0.4m▪ 2011: USD 0.6m▪ 2012: USD 0.3m▪ 2013: USD 0.3m▪ 2014: USD 0.3m Proposed budget
+
+Flood warning system
+
+▪ Refine/present proposal to Lae prov. Admin.
+
+▪ Set up partnership▪ Select
+
+equipment Timing and next steps
+
+PRELIMINARY
+
+- Lae flood protection - Lae is particularly vulnerable to flash floods given its location. Due to its dense population and relatively high level of industrialization, floods impose a large human and economic cost. A range of flood protection measures should therefore be implemented on the Bumbu river.
+
+SEQUENCING OF ACTIVITIES
+
+As discussed in this section, literally dozens of things need to be done to engage Papua New Guinea in an international REDD+ framework, promote low-carbon growth and
+
+bolster vulnerable areas against climate-related hazards. Meanwhile the Ministry of Climate Change and the OCCD need to develop the requisite institutional capabilities. All of these activities cannot successfully be done at once and effective prioritization and sequencing is essential to short and long-term success.
+
+The range of activities to be carried out has been carefully considered and a sequencing plan developed. Exhibit 24 reflects preliminary sequencing of activities for the remainder of 2010. Emphasis is placed on activities, which strengthen capacity, generate national and international buy in and credibility. The result is a set of meaningful actions, which show resolve and will produce some 'quick wins' to gain momentum.
+
+EXHIBIT 24
+
+Implementation plan for initiatives 2011 PRELIMINARY DecNovOctSepAugJulJunMayApr 2010 ▪ Benefit sharing models ▪ Define MRV system ▪ Launch Forestry pilots REDD+ and MRV Tasks ▪ Capacity building ▪ Recruitment OCCD set up Provincial consultation ▪ Rural elec policy and pilots ▪ Energy policy review ▪ 2 hydro plants (Lae, PM) Low-carbon growth ▪ Sea walls for economic centres ▪ Inland flood warning ▪ Mangrove pilots ▪ Coastal flood warning Adaptation ▪ Launch agri pilots ▪ Establish funding mechanism ▪ Funding projects
+
+References
+
+Anderson, Tim (2006): "Oil palm and small farmers in Papua New Guinea". Report for the Centre for Environmental Law and Community Rights on the economic prospects for small farmers in PNG's oil palm industry
+
+Angelsen, A. (1999): "Agricultural expansion and deforestation: modelling the impact of population, market forces and property rights". Journal of Development Economics. 58. 185-218
+
+Angelsen, A. (2008): "REDD models and baselines". International Forestry Review 10(3): 465-475
+
+Asian Development Bank (2009): Asian Development Outlook, chapter on Papua New Guinea. Manila: ADB
+
+Australian Agency for International Development (2008): Papua New Guinea-Australia Development Cooperation Strategy 2006-10. Canberra: AusAID
+
+Australian Department of Agriculture, Fisheries and Forestry (2005): "Improved timber inventory and strategic forest planning in Papua New Guinea". Summary report from ACIAR project FST98-118
+
+Australian Institute of Marine Science (2004). Status of the coral reefs in Australia and Papua New Guinea.
+
+AusAID (South Pacific Sea Level and Climate Monitoring Project - 2007). Pacific Country Report Sea Level & Climate: Their Present State -Papua New Guinea
+
+Barker, P. (2008): Climate change, forests and carbon trading. Institute of National Affairs, Port Moresby
+
+Bourke, R.M. and V. Vlassak (2004): Estimates of food crop production in Papua New Guinea. Canberra: Land Management Group, Australian National University
+
+Bourke, R.M. and T. Harwood ed (2009): Food and Agriculture in Papua New Guinea. Canberra: Australian National University ePress
+
+Bourke, R.M. (2009): "The impact of subsistence agriculture on deforestation and contribution to greenhouse gas production in Papua New Guinea." Report prepared for Department of Environment and Conservation
+
+Bourke, R.M. (2006): "Sweet potato in Papua New Guinea". Presentation
+
+Bryan, J., P. Shearman, J. Ash, J.B.Kirkpatrick (2010): "Estimating rainforest biomass stocks and carbon loss from deforestation and degradation in Papua New Guinea 1972- 2002: Best estimates, uncertainties and research needs". Journal of Environmental Management 91: 995-1001
+
+Chandy, L. (2009): "Linking growth and poverty reduction in Papua New Guinea". Lowy Institute for International Policy analysis paper. Sydney: Lowy Institute CSIRO and Conservation International (2009). Sustainable Futures for Milne Bay CSIRO (2008). Variability and trends in the Australian wave climate and consequent coastal vulnerability
+
+Davies, H.L. (2006): Disaster. Reducing the effects of natural hazards in Papua New Guinea and the south-west Pacific. Waigani: University of Papua New Guinea Press Dartmouth University (2009). The Dartmouth Flooding Database
+
+Delta Commission (2008):
+
+Working together with water Department of Environment and Conservation (2010). Environmentally Sustainable Economic Growth Policy (draft).
+
+Economist (2009): "Last gasp for the forest". 24/9/2009 edition Economics of Climate Adaptation Working Group (2009): Shaping climate-resilient development - a framework for decision-making
+
+Eliasch, J. (2008): The Eliasch Review - Climate Change and Global Forests London: HM Government
+
+EM-DAT - Universite Catolique de Louvain (2009). The International Disaster Database
+
+Filer, C. (2009): "Drivers of deforestation and forest degradation in Papua New Guinea". Report prepared for Department of Environment and Conservation
+
+Filer, C. (2009): "Land rights and benefit sharing". Report prepared for Department of Environment and Conservation
+
+Food and Agriculture Organization of the United Nations (2005): Global Forest Resources Assessment: Papua New Guinea country report. FRA2005/07. Rome: FAO FAO (2002). Global Agro-ecological Assessment for Agriculture in the 21st Century: methodology and Results Rome: FAO
+
+Fox, J.C., Yosi, C.K., Nimiago, P., Oavika, F., Pokana, J.N., Lavong, K, and Keenan, R.J. (2010). "Assessment of aboveground carbon in primary and selectively-harvested tropical forest in Papua New Guinea." Biotropica 1-10
+
+Fox, J.C., Yosi, C.K., and Keenan, R.J. (2009). "Estimating CO2 emissions associated with selective timber harvesting and oil palm conversion in Papua New Guinea." Report to the Papua New Guinea Department of Environment and Conservation. The University of Melbourne and Papua New Guinea Forest Research Institute. December 2009.
+
+Gibson, John and Scott Rozelle (2002): "Poverty and access to infrastructure in Papua New Guinea". University of California, Davis: Working Paper 02-008
+
+Government of Papua New Guinea (2005): Medium Term Development Strategy. Waigani: Ministry of Planning
+
+Government of Papua New Guinea (2009): Development Vision 2010-50. Waigani: Prime Minister's Office
+
+Government of Papua New Guinea (2010): Development Strategic Plan 2010-30. Waigani: Department of National Planning and Monitoring
+
+Government of Papua New Guinea (2000): Papua New Guinea Initial National Communication to the UNFCCC
+
+Google Maps (2009).
+
+http://maps.google.com
+
+Grieg-Gran, M. (2008): "The cost of avoiding deforestation". Update of the report prepared for the Stern Review of the Economics of Climate Change. London: International Institute for Environment and Development
+
+Hayward-Jones, J. and S. Copus-Campbell (2009): "Tackling extreme poverty in Papua New Guinea: outcomes report". Sydney: Lowy Institute for International policy
+
+Hoojier, A., M. Silvius, H. Wosten and S. Page (2006): PEAT-CO2. Assessment of CO2 emissions from drained peatlands in SE Asia. WL Delft Hydraulics report Q3943
+
+Howes, S. (2009): "Cheap but not easy: the reduction of greenhouse gas emissions from deforestation and forest degradation in Papua New Guinea". Pacific Economic Bulletin 24(1): 130-143
+
+Hunt, C. (2010): "The economics of land use change and associated greenhouse gas emissions in PNG." Report prepared for Department of Environment and Conservation
+
+Hunter J. (2009): "Estimating Sea-Level Extremes Under Conditions of Uncertain Sea-Level Rise"
+
+Intergovernmental Panel on Climate Change (2007):
+
+Fourth Assessment Report International Monetary Fund (2009): "Papua New Guinea: selected issues and statistical appendix". IMF Country Report No. 09/113
+
+Johnston, P. (2004): Pacific Regional Energy Assessment 2004: Papua New Guinea national report. Apia, Samoa: SPREP
+
+Kaluwin, C. (2008): "Understanding climate change: developing a policy for Papua New Guinea". Occasional Paper no 1, National Research Institute, Waigani
+
+May, R.J. ed (2009): Policy making and implementation: studies from Papua New Guinea. Canberra: Australian National University ePress
+
+Marshall P. and Schuttenberg H. (2006). A reef manager's guide to coral bleaching. McKinsey and Company (2009): Pathways to a low-carbon economy: Version 2 of the Global Greenhouse Gas Abatement Cost Curve
+
+Ministry of Agriculture and Livestock (2007): National Agriculture Development Plan 2007-16. Waigani: Ministry of Agriculture
+
+Mueller, Y. et al. (2005): "Epidemic malaria in the highlands of Papua New Guinea." Am. J. Trop. Med. Hyg., 72(5), pp. 554-560
+
+NASA (2000). SRTM 90m Digital Elevation Data from the CGIAR-CSI Consortium for Spatial Information
+
+Overseas Development Institute (2007): "Issues and opportunities for the forest sector in Papua New Guinea". Papua New Guinea Forest studies volume 1-3. London
+
+Papua New Guinea Forest Authority (2009): Papua New Guinea Forestry Outlook Study. Asia-Pacific Forestry Sector Outlook Study II, Working Paper no. APFSOS II/WP/2009/19. Bangkok: Food and Agriculture Organization of the United Nations Putz et al (2008): "Improved tropical forest management for carbon retention". PLoSBiology
+
+6(7): e166, available at
+
+www.plosbiology.org
+
+Rahmstorf, S.: 2007, "A semi-empirical approach to projecting future sea-level rise".
+
+Science 315(5810), 368-370.
+
+Rannells, J. and E. Matatier (2005): PNG Fact Book. Melbourne: Oxford University Press
+
+ReliefWeb (2009). Relief Web natural disaster database. http://www.reliefweb.int
+
+Sharp, P.T. (1982): "Highlands malaria: malaria in Enga Province of Papua New Guinea" PNG Medical Journal 25: 253-260
+
+Shearman, P. et al (2008): The state of the forests of Papua New Guinea: mapping the extent and condition of forest cover and measuring the drivers of forest change in the period 1972-2002. University of Papua New Guinea, Waigani
+
+Shearman, P. et al (2009): "Forest conversion and degradation in Papua New Guinea 1972-2002". Biotropica 41(3): 379-390
+
+Shearman, P. (2010): "Deforestation and degradation in Papua New Guinea: a response to Filer and colleagues, 2009". Annals of Forest Science 67: 300
+
+Shearman, P. and J. Bryan (2010): "A bioregional analysis of the distribution of rainforest cover, deforestation and degradation in Papua New Guinea." AustralEcology
+
+WHO (2009):
+
+World Malaria Report 2009.

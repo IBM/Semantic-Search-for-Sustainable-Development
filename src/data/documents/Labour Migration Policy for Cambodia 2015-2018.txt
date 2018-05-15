@@ -1,0 +1,1181 @@
+Microsoft Word - Labour Migration Policy for Cambodia 2015-18 FINAL 22 Jan 2016
+
+ 
+
+ 
+
+KINGDOM OF CAMBODIA
+
+NATION RELIGION KING
+
+POLICY ON LABOUR MIGRATION FOR CAMBODIA
+
+December 2014
+
+Ministry of Labour and Vocational Training International Labour Organization (ILO) Tripartite Action to Protect the Rights of Migrant Workers within and from the Greater Mekong Subregion (GMS TRIANGLE project)
+
+ 
+
+Contents
+
+FOREWORD ............................................................................................................................. 5 Acknowledgements ................................................................................................................... 7 Executive summary ................................................................................................................... 8 Introduction ............................................................................................................................. 11 1. Labour migration: Current context ....................................................................................... 12 1.1 Wages .......................................................................................................................... 12 1.2 Gender dimensions of labour migration ........................................................................ 13 1.3 Mass exodus of Cambodians from Thailand in 2014 .................................................... 15 2. Demographic pressure ........................................................................................................ 16 3. Labour migration trends and frameworks ............................................................................ 16 3.1 Labour migration trends ................................................................................................ 16 3.2 Remittances .................................................................................................................. 19 3.3 National regulatory and legal framework ...................................................................... 20 3.4 Institutional framework .................................................................................................. 22 3.5 International instruments .............................................................................................. 22 3.6 Regional instruments .................................................................................................... 22 3.7 Nexus between labour migration and trafficking in Cambodia ...................................... 23 4. Economic growth and employment trends ........................................................................... 23 4.1 Employment by sector in Cambodia ............................................................................. 24 4.2 Informal employment in Cambodia ............................................................................... 24 4.3 Unemployment .............................................................................................................. 25 4.4 ASEAN Economic Community 2015 ............................................................................. 25 4.5 Skills development and recognition .............................................................................. 26 5. Evaluation of the Policy on Labour Migration for Cambodia 2010-2015 .............................. 27 6. Objectives of the Labour Migration Policy for Cambodia 2015-2018 ................................... 29 6.1 Governance of labour migration ................................................................................... 30 6.1.1 Key policy areas in migration governance ............................................................. 30 6.2 Protection and empowerment of women and men migrant workers .................................. 31 6.2.1 Key policy areas in protection and empowerment of migrant workers ................... 32 6.3 Harnessing labour migration for development .............................................................. 33 6.3.1 Key policy areas in migration and development ..................................................... 33 7. Policy matrix: Strategic areas, policy goals and action plan ................................................ 35 Bibliography ............................................................................................................................ 56  
+
+ 
+
+Figures, tables and graphs 
+
+Figure 1: Labour Migration Policy for Cambodia Flowchart………………………………10 and 30
+
+Graph 1: Distribution of Cambodia's population by age, 2012……………………………………16 Graph 2: Total employed population in Cambodia by sector in 2013…………………………….24 Graph 3: Projected demand for migrant workers in Thailand, 2012-2021 (millions)……………26 Graph 4: Progress of activities against the Policy on Labour Migration for Cambodia for 2010-2015………………………………………………………………………………….................28
+
+Table 1: Total number of migrants who registered in Thailand between 26 June and 31 October 2014 ........................................................................................................................................... 17 Table 2: Total aggregate number of migrants recruited through MOU with Thailand (2003 - June 2014) ................................................................................................................................. 17 Table 3: Deployment of Cambodian workers in foreign employment 2005-2014 (18 November 2014) ......................................................................................................................................... 19 
+
+  Abbreviations
+
+ACRA Association of Cambodian Recruitment Agencies ADB Asian Development Bank
+
+AEC ASEAN Economic Community ASEAN Association of Southeast Asian Nations CAMFEBA Cambodian Federation of Employers and Business Association CBO Community based organisation
+
+CEDAW Convention on the Elimination of All Forms of Discrimination against Women CQF Cambodia Qualifications Framework
+
+DFAT Australian Department of Foreign Affairs and Trade EPS Employment Permit System - Republic of Korea ICT Information and communications technology ILO International Labour Organization
+
+IOM International Organization for Migration MOAFF Ministry of Agriculture, Forestry and Fisheries MOEF Ministry of Economy and Finance
+
+MOEYS Ministry of Education, Youth and Sports MOFA&IC Ministry of Foreign Affairs and International Cooperation MOH Ministry of Health
+
+MOI Ministry of Interior MOIH Ministry of Industry and Handicrafts MOJ Ministry of Justice
+
+MOLVT Ministry of Labour and Vocational Training MOP Ministry of Planning
+
+MORD Ministry of Rural Development MOSVY Ministry of Social Affairs, Veterans and Youth Rehabilitation MOT Ministry of Tourism
+
+MTOSB Manpower Training and Overseas Sending Board MOU Memorandum of understanding
+
+MOWA Ministry of Women's Affairs NCCT National Committee to Counter Human Trafficking NEA National Employment Agency
+
+NGO Non-governmental organization NTB National Training Board
+
+NV Nationality verification processes (Thailand) OSSC One Stop Service Centre (Thailand)
+
+SDC Swiss Agency for Development and Cooperation TVET Technical and Vocational Education and Training TU Trade union
+
+UNDAF United Nations Development Assistance Framework USAID United States Agency for International Development
+
+ 
+
+FOREWORD
+
+The Royal Government of Cambodia and the Ministry of Labour and Vocational Training is pleased to launch the Labour Migration Policy for Cambodia 2015-2018. This Policy builds on the previous Policy on Labour Migration for Cambodia 2010-2015, expanding on the three main objectives of (1) formulation and implementation of rights-based and gender-sensitive policy and legislation through social dialogue at all levels; (2) protection and empowerment of men and women migrant workers regardless of their status through all stages of the migration process; and (3) harnessing labour migration and mobility to enhance social and economic development in Cambodia recognising that migrant workers are agents of innovation and development. The Policy includes clear goals related to migration and development, migration management and the protection of migrant workers, and specific actions designed to achieve these goals. The document also provides a structure for monitoring and evaluation of the implementation of the policy, filling an identified gap in the implementation of the previous policy.
+
+The Labour Migration Policy for Cambodia 2015-2018 responds to the identified need for the Royal Government of Cambodia to introduce measures to ensure that new job seekers can be productively employed and develop their skills to be able to work in emerging, rather than vulnerable sectors in both Cambodia and destination countries. In this way the Policy and Action Plan links to the in-development Cambodia National Employment Policy, which supports the mobility of workers and protection of migrant workers under the goal of enhancing labour market governance, but also places employment generation (quantity and quality) at the heart of economic and social policy-making, focusing on young women and men. The Policy and Action Plan also links to the National Strategic Development Plan 2014-2018, which frames emigration as a population issue to work on in association with other line ministries and agencies, to strengthen its human resources for integrating population-related issues into the development planning processes at all levels for planners and policy makers. The Rectangular Strategy Phase III 2013-2018 also demonstrates a strong commitment by the Government to promote employment as a central part of their medium-term development strategy and institute a policy framework such that productive employment generation and economic development occur in tandem.
+
+With aligned goals and timeframes included within the Labour Migration Policy for Cambodia, the National Employment Policy, the National Strategic Development Plan, and the Rectangular Strategy Phase III, the Department of Employment and Manpower, Ministry of Labour and Vocational Training, looks forward to collaborating through a whole-of- Government approach to labour migration management for positive outcomes for Cambodians. This Policy has the premise that when well-managed, labour migration can contribute to family and community development, and reduce poverty at community and national levels. Whilst the Royal Government of Cambodia does not view labour migration as the only avenue for pursuing Cambodia's long-term national economic and social development goals, the Royal Government of Cambodia is committed to ensuring that Cambodians are migrating for employment not out of necessity, but rather making an informed choice whilst being protected and empowered throughout the migration cycle.
+
+  This Policy and Action Plan is the result of several consultations between the Royal Government of Cambodia, workers' and employers' organizations, recruitment agencies, civil society groups and international organizations. The Policy has also been reviewed against the recommendations emerging from the ASEAN Forum on Migrant Labour, to ensure coherence with regional priorities. I would like to express my gratitude to all parties involved in the development of this policy, especially to the International Labour Organization (ILO) for their invaluable technical support.
+
+The Ministry of Labour and Vocational Training stands ready to guide policy-makers, line Ministries, civil society organizations and individuals towards the full and effective application and implementation of this Policy and Action Plan.
+
+Phnom Penh………………….2014
+
+H.E It Sam Heng Minister for Labour and Vocational Training
+
+ 
+
+Acknowledgements
+
+The General Department of Labour, Ministry of Labour and Vocational Training (MOLVT), Royal Government of Cambodia, is grateful for the support of all stakeholders during the development of the Labour Migration Policy for Cambodia 2015-2018. The formulation process has included a series of consultations involving tripartite stakeholders, including the Ministry of Interior, the Ministry of Foreign Affairs and International Cooperation, the Ministry of Women's Affairs, the Ministry of Social Affairs, Veterans and Youth Rehabilitation, the Council of Ministers, the Secretariat of the National Committee to Counter Human Trafficking, and the National Employment Agency. Stakeholders have also included the Cambodian Federation of Employers and Business Association, the Association of Cambodian Recruitment Agencies, the Cambodia Confederation of Trade Union, National Union Alliance Chamber of Cambodia, Cambodian Labour Confederation, and non- governmental organizations, in particular Legal Support for Children and Women, the Cambodian Development Resource Institute, Winrock International and The Asia Foundation for providing facilitation support at consultations. Inputs were also provided by international organizations, including the International Labour Organization (ILO) and UN Women. These consultations and the printing of this Policy were supported by the Australian Government. The MOLVT would like to express its gratitude for the valuable contributions to this endeavour from all stakeholders.
+
+This Policy would not have been realized without the strong support and commitment of the senior officials of the General Department of Labour, including H.E. Hou Vuthy, Under Secretary of State; H.E. Seng Sakda, Director-General of General Department of Labour; Mr Chuop Narath, Deputy Director of General Department of Labour; Mr Ouk Ravuth, Chief of Bureau of Department of Employment and Manpower; and its dedicated staff members. The MOLVT would particularly like to express its appreciation to the ILO, and in particular Ms Jane Hodge, Mr Rim Khleang, Ms Anna Olsen and Mr Max Tunon, from the ILO GMS TRIANGLE project, for providing guidance and technical input throughout the process.
+
+ 
+
+Executive summary
+
+The Labour Migration Policy for Cambodia 2015-2018 sets out a framework from which to govern labour migration effectively, empower and protect the rights of women and men migrant workers, and enhance the impact of migration on development. It is based on an analysis of the current context of labour migration in Cambodia, including figures and trends in relation to sectors and destinations, the gendered dimensions of migration, and the national, bilateral, regional and international regulatory and institutional frameworks. Economic growth and employment trends in Cambodia are also examined, as is the demographic pressure of an increasingly large youth workforce, the large percentage of informal employment, and what regional integration spurred by the ASEAN Economic Community in 2015 could mean for Cambodia.
+
+The overall Policy objective is to develop a comprehensive and effective labour migration governance framework that protects and empowers women and men throughout the migration cycle, ensures that migration is an informed choice, and enables a positive and profitable experience for individual workers, their families and communities, that also contributes to the development of Cambodia. Recognizing and responding to the distinct needs of migrant workers with respect to their gender, sector, legal status and other individual characteristics, is central to the Policy and its effective implementation.
+
+The Policy delineates three specific objectives: (1) formulation and implementation of rights-based and gender-sensitive policy and legislation through social dialogue at all levels; (2) protection and empowerment of men and women migrant workers regardless of their status through all stages of the migration process; and (3) harnessing labour migration and mobility to enhance social and economic development in Cambodia recognising that migrant workers are agents of innovation and development.
+
+The following policy goals are proposed under these three specific objectives: Governance of labour migration
+
+Policy goal 1: International standards and instruments related to labour migration and migrant workers are reviewed with respect to the Cambodian context and legal framework, and ratified and implemented in a gender-sensitive manner.
+
+Policy goal 2: The Government contributes to multilateral and regional cooperation on labour migration, particularly within ASEAN, with a clear vision of how ASEAN regional integration and the ASEAN Economic Community (AEC) can enhance decent work opportunities for all migrant workers.
+
+Policy goal 3: In consultation with social partners and civil society organizations, the Government establishes gender-sensitive, sector specific minimum standards for MOUs with destination countries as a condition of sending, and key articles for contracts with employers prior to sending any workers abroad.
+
+Policy goal 4: The MOLVT invests in the capacity of the relevant bodies at central and provincial levels, and takes a leadership role in strengthening inter-ministerial cooperation on labour migration, including actively contributing to the Migration Working Group of the National Committee to Counter Human Trafficking.
+
+ 
+
+Policy goal 5: New legislation and regulations are considered only where gaps are identified, and developed to reflect the specific and distinct needs of women and men migrants through tripartite consultation. Procedures related to labour migration are streamlined to incentivise regular migration and protect workers' rights.
+
+Policy goal 6: Sex-disaggregated data is collected and analysed on a regular basis to inform evidence-based policy that is tailored to and addresses the experiences of women and men migrant workers.
+
+Protection and empowerment of men and women migrant workers
+
+Policy goal 7: The Government monitors and enforces protection mechanisms in the recruitment and placement of migrant workers, including institutionalising inspection of private recruitment agencies, the delivery of pre-departure training, and regulating the costs of migration, including brokerage fees.
+
+Policy goal 8: Unlicensed brokers or agents, or licensed recruitment agencies linked to exploitative or unscrupulous practices, are targeted with appropriate sanctions to reduce irregular migration and reduce the vulnerability of migrant workers.
+
+Policy goal 9: Government consular services are established or enhanced in major destination countries to provide effective assistance to men and women migrant workers regardless of their status, including shelter, legal, labour dispute, social protection and repatriation facilities.
+
+Policy goal 10: Migrants' access to justice is facilitated through implementing the complaints mechanism in an effective, gender-sensitive and timely manner. In the event of a crime, judicial processes are initiated to ensure an adequate penalty, and a deterrent to others.
+
+Policy goal 11: The Government facilitates migrants' access to vocational training programs to develop and recognize the skills of migrant workers as a measure to enhance protection and earning potential. Training programmes and skills recognition systems are developed for women and men in consultation with employers and governments of destination countries, according to labour market needs, in specific occupations and sectors.
+
+Policy goal 12: The Government cooperates with local leaders, social partners and civil society organizations to provide accurate and up-to-date information on safe migration and rights at work in major migrant-sending communities and in transit hubs.
+
+Policy goal 13: Feasibility studies are conducted by the Government on further protection mechanisms for men and women migrant workers such as the revolving credit and loan funds, and migrant welfare funds to assist men and women migrant workers with migration.
+
+Harnessing labour migration for development
+
+  Policy goal 14: Labour migration continues to be included within national development and sectorial plans to recognize and maximise the development potential of migration for Cambodia, and ensure coherent development planning.
+
+Policy goal 15: The Government works with financial institutions in Cambodia and destination countries to enable access to safe, efficient and cheaper remittance and financial services for migrant workers. The impact of remittances on development is enhanced through support services provided to migrants and their families, including gender-sensitive financial literacy training, a broader range of financial services and products, and dialogue and tools for diaspora engagement.
+
+Policy goal 16: Productive return and reintegration of women and men migrant workers is enabled through evidence-based policy, and strengthened service provision for social and economic reintegration, including employment services, skills development and recognition, enterprise development training, and investment programmes.
+
+Policy goal 17: The social cost of migration is mitigated through specific programmes, including through the provision of support to the families and children of migrant workers.
+
+Under each policy goal, action points are identified that are to be initiated by the responsible agencies. The policy document serves as a road map for the Government in its dialogue with social partners, international organizations and the donor community, to more effectively carry out measures to enhance the positive development outcomes of migration, and establish means to assess the achievement of results.
+
+Figure 1: Labour Migration Policy for Cambodia Flowchart
+
+Overall Policy Objective
+
+Areas of Implementation
+
+Policy Goals
+
+Activities
+
+3 Specific Objectives
+
+ 
+
+Introduction
+
+With 300,000 young Cambodians entering the labour market each year, a youth unemployment rate of 3.8 per cent, and economic growth not achieving commensurate employment growth, more Cambodian workers are looking to employment opportunities and wages offered abroad. Increasingly, Cambodian women are migrating to find work that allows them to support their families. It is estimated that much higher numbers of migrant workers move irregularly than regularly, but because of porous borders and seasonal migration flows, it is difficult to obtain accurate figures. In this Policy when the term 'migrant worker' is used, it refers to a person who will be engaged, is engaged, or has been engaged in a remunerated activity in a State of which he or she is not a national, and refers to both regular and irregular men and women migrant workers.
+
+The main country of destination for regular and irregular Cambodian migrant workers is neighbouring Thailand. Due to the relative ease of border crossing, less than 10 per cent of people migrate through the legal channel established under the Memorandum of Understanding (MOU) between the two countries in 20031. Since 2010, the Republic of Korea has become the second most popular destination. The number of migrant workers going to Malaysia peaked in the period from 2009 to 2011, despite the lack of an MOU in place, but this number dropped dramatically after the suspension of sending domestic workers through regular channels. Cambodia also concluded an MOU with Japan, but far fewer migrants travel there for work, due to the technical requirements through the Industrial Training Program and Technical Internship Program.
+
+Cambodia has yet to develop a comprehensive policy strategy on how to maximize the opportunities of greater labour mobility of workers within the ASEAN region with the ASEAN Economic Community (AEC) coming into effect in 2015. Currently, only one per cent of the Cambodian workforce qualifies for the freer movement of professional workers for which mutual recognition arrangements (MRAs) exist. It is expected that greater regional integration will also lead to increased mobility for semi-skilled workers. The continued demand for low- and medium- skilled migrant workers within the major destination countries in ASEAN is projected to remain high, with 80 per cent of inter-ASEAN migration flowing to Malaysia, Singapore and Thailand.
+
+Importantly, the Government aims to ensure that migration is a choice, not a necessity. Labour migration is only one component of the National Employment Policy, which aims to generate employment and create better jobs at home. Labour migration is also streamlined into the National Strategic Development Plan 2014-2018, framing emigration as a potential tool to strengthen Cambodia's human resources, and the Rectangular Strategy Phase III 2013-2018 that demonstrates a Government commitment to promote employment and institute a policy framework so that productive employment generation and economic development occur in tandem. Support must be available for Cambodians to make informed decisions about migration, and opportunities for them to migrate safely, legally and into decent work.
+
+Over the past few years the Royal Government of Cambodia has seen positive outcomes of migration including increasing remittances, skills acquisition, lower unemployment, and poverty
+
+1 Tunon, M., Rim, K. 2013. Cross-border labour migration in Cambodia: considerations for the national employment policy. ILO Regional Office for Asia and the Pacific Working Paper Series. Bangkok: ILO.
+
+  reduction. While there has been demonstrated progress governing labour migration and protecting migrant workers, these positive results could have an enhanced impact on individual, community and national level development by establishing policies and programmes on the return and reintegration of workers, reducing migration costs and engaging Cambodian returned migrants. This requires improved cooperation between all stakeholders in Cambodia, led by an inter-ministerial Government team.
+
+This policy document outlines the Royal Government of Cambodia's policy goals on labour migration and the activities designed to achieve these goals.
+
+1. Labour migration: Current context
+
+As a result of the large number of young people entering the domestic labour market with limited opportunities and more attractive wages offered abroad, more Cambodians are considering leaving the country to find work. In 2010, the World Bank estimated there were 350,485 Cambodian workers migrating for employment.2 However, the number is likely much greater, with approximately 700,000 Cambodian migrants with irregular status registering with the Thai authorities from July to October 2014 (Table 1).
+
+Cambodia's population is expected to grow until 2015 at an average rate of 1.3 per cent per year, while the working-age population (aged 15-64) will grow at a higher average annual rate of 3 per cent. As an estimated 300,000 young Cambodians enter the labour market every year3 and with 60.1 per cent of the Cambodian population under 29 years of age4, the Government faces the challenge of equipping these young people with the required skills to meet the needs of the labour market, providing job-matching services - and where necessary, facilitating their mobility.
+
+1.1 Wages
+
+A key factor for Cambodian workers in choosing to migrate for work is the wage differential between Cambodia and destination countries. In 2012, 60.2 per cent of total employed people in Cambodia worked in informal employment, while only 6.5 per cent were salaried employees in the formal sector.5 Even for this small amount of salaried employees, there is no standardised form or frequency of payment (some employees are paid on a time-rate basis, others on a piece-rate basis; payment is in cash or in kind) and there is no established minimum wage in legislation, except for garment workers.6 The estimated average monthly income of paid employees in 2012 was 477,517 Cambodian Riel (KHR) (US$119).7 On average, men earn around KHR 518,202 (US$130), which is more than women who earn on average KHR 418,808 (US$105). In some occupations, the difference in the earnings between male and female employees is larger, particularly for managers and technicians. In urban areas, managers earn
+
+2 The World Bank. Migration and remittances Factbook, http://data.worldbank.org/data-catalog/migration-and-remittances [accessed 15 May 2014].
+
+3 The World Bank. Cambodia Data, http://data.worldbank.org/country/cambodia [accessed 4 June 2014]. 4 Ministry of Planning, National Institute of Statistics; International Labour Organization. 2013. Cambodia Labour
+
+Force and Child Labour Survey 2012: Labour Force Report. Phnom Penh: ILO. 5 ibid.
+
+6 ibid. 7 ibid.
+
+ 
+
+13   the highest average monthly income at KHR 924,815 (US$231), followed by technicians at KHR 750,728 (US$188). In rural areas, technicians earn the highest average monthly income at KHR 606,973 (US$152), followed by skilled agriculture workers at KHR 595,565 (US$149).8
+
+In comparison, Thailand has a minimum wage of 300 Thai Baht (THB) per day, roughly equating to THB 9,000 per month (US$279) full-time.9 While Thai labour law and the MOU with Cambodia states that migrant workers should also receive the wage and other benefits due to local workers, more men than women receive the minimum wage.10 In general, migrants with full or temporary documentation earned higher incomes, whereas 65 per cent of migrants who earned less than half of the minimum wage were without documentation.11
+
+In a 2014 International Organization for Migration (IOM) study, it was found that the income levels of migrants differed greatly by province of residence - in non-border provinces such as, Bangkok, Samut Sakhon and Surat Thani, 90.1, 84.3 and 93.1 per cent respectively, of migrants received at least the minimum wage.12 Incomes were generally lower in border provinces, especially in Tak, where 91.5 per cent of migrants received less than the minimum wage, and half received less than half of the minimum wage. Significant sectoral differences were also evident, for example, agriculture and animal husbandry was shown to be a highly underpaid employment sector. Thailand's Labour Protection Act does not extend minimum wage protection to workers in the fishing, agriculture and domestic work sectors.
+
+In Peninsular Malaysia, the monthly minimum wage is 900 Malaysian ringgit or KHR 1,188,000 (US$295).13 This minimum wage applies to nationals and migrant workers, but not to domestic workers, the vast majority of whom are women. Deductions made from migrant workers' wages to cover the costs of the levy (varies according to sector) can equate to up to 16 per cent of the migrants' annual basic income.14
+
+In the Republic of Korea, the minimum wage is 1,015,740 South Korean Won (US$922) per month, based on the hourly minimum wage and the average number of 40 working hours per week.15 Under the Employment Permit System (EPS), migrant workers are afforded equal rights and treatment to Korean workers under Korean labour laws and regulations.
+
+Across all destination countries however, migrant workers with irregular status are less likely to be able to access the minimum wage protections.
+
+1.2 Gender dimensions of labour migration
+
+Although the gender gap in labour force participation in Cambodia is shrinking, women's
+
+8 ibid. 9 Tunon, M., Rim, K. 2013. Cross-border labour migration in Cambodia: considerations for the national employment policy. ILO Regional Office for Asia and the Pacific Working Paper Series. Bangkok: ILO.
+
+10 International Organization for Migration and the Asian Research Center for Migration, 2013. Assessing Potential Changes in the Migration Patterns of Myanmar Migrants and their Impacts on Thailand. Thailand: IOM. 11 ibid.
+
+12 ibid. 13Tunon, M., Rim, K. 2013. Cross-border labour migration in Cambodia: considerations for the national employment policy. ILO Regional Office for Asia and the Pacific Working Paper Series. Bangkok: ILO.
+
+14 ibid. 15 International Labour Organisation and Korea Multi-country Dialogue presentation, Update on the Employment Permit System, 3 December 2013.
+
+ unemployment rate is higher than men's, and a larger proportion of women workers are illiterate16. In 2012, slightly over 20 per cent of Cambodian women had never attended school, almost twice the percentage of men.17 Migration trends often see more educated women migrating to Phnom Penh from provincial areas, and women with lower levels of education migrating internationally.18 Given women's higher unemployment rates and their lower education levels, women are typically more vulnerable than men to exploitation in the workplace.
+
+Women tend to receive lower wages than their male counterparts but, despite this, are more likely to remit larger net amounts, and are more likely to remit a higher proportion of their income, and at an average 20 per cent more than men migrants. About 32 per cent of men do not remit at all, compared to 23 per cent of women. 39 per cent of women remitted one million or more KHR (US$242) per year, compared to 26 per cent of men.
+
+Cambodian women migrant workers tend to migrate into low-skilled jobs in the construction, agriculture, manufacturing, entertainment, hospitality and domestic work industries. Domestic work in private homes is a particularly vulnerable sector, due to the isolated nature of the workplace and limited or non-existent protection under labour laws. Reports of abuse and exploitation of domestic workers have been recorded in all countries where Cambodian domestic workers are employed. With an ageing population in bordering Thailand and in countries like Malaysia and Singapore, demand for domestic workers in the region is expected to continue to grow.
+
+Occupations for migrants are often gender segregated, and women are regularly paid less than men. An ILO survey of potential migrants in Cambodia found that, while the median salary expectation among potential migrants was US$101-200 per month, 54 per cent of men surveyed expected this wage, compared to only 43 per cent of women. Of the potential migrants expecting to receive US$201-500 per month, 27 per cent were men and 16 per cent were women.19 Women are more likely to remit larger net amounts, and are more likely to remit a higher proportion of their income, and at an average 20 per cent more than men migrants20. About 32 per cent of men do not remit at all, compared to 23 per cent of women. 39 per cent of women remitted one million or more KHR (US$242) per year, compared to 26 per cent of men.21
+
+In 2010, Cambodian recruitment agencies trained and sent 16,397 workers to Malaysia, of which 11,918 were women trained as domestic workers. This was an increase from 9,982 Cambodians who migrated to Malaysia in 2009 (84 per of whom were female domestic workers), and 2,654 in 2008 (73 per cent of whom were female domestic workers) (Table 3). In Thailand, the number of women migrant workers deployed through legal channels has substantially increased from 1,345 women in 2005, to the peak of 19,282 women migrant workers in 2010 (Table 3). In contrast to Malaysia, women's and men's rates of regular migration to Thailand have stayed fairly even, most likely due to the diversity of work sectors.
+
+16 Ministry of Planning, National Institute of Statistics; International Labour Organization. 2013. Cambodia Labour Force and Child Labour Survey 2012: Labour Force Report. Phnom Penh: ILO 17ibid.
+
+18 Ministry of Planning, United Nations Population Fund. 2012. Migration in Cambodia: Report of the Cambodian Rural Urban Migration Project (CRUMP). Phnom Penh.
+
+19 Crossroads to Development, 2011. ILO GMS TRIANGLE Baseline Survey: Cambodia. Unpublished. 20 Ministry of Planning, United Nations Population Fund. 2012. Migration in Cambodia: Report of the Cambodian Rural Urban Migration Project (CRUMP). Phnom Penh.
+
+  As of 31 October 2014, 696,388 migrant workers and 42,609 dependents from Cambodia had registered at the Thai One Stop Service Centres through the nationality verification (NV) processes (Table 1).
+
+As of November 2014, 299 Cambodian domestic workers had been deployed to Singapore as part of a pilot project. The pilot project will send 400 Cambodian domestic workers to Singapore through private recruitment agencies (PRAs) to see if this is a viable migration option in the future.
+
+In contrast, the fishing sector is almost entirely male dominated, and employs significant numbers of Cambodian migrant men. Since 2010, there have been increased reports of Cambodian men encountering exploitative and abusive working conditions on fishing boats in South Africa, Senegal, Fiji, Mauritius, Thailand and other destinations. In the first quarter of 2012 alone, the Ministry of Foreign Affairs and International Cooperation (MOFA&IC) and the Ministry of Interior (MOI) each reported between 170 and 200 cases of exploitation and abuse involving fishers. Whilst the Cambodian Government has not put a formal ban on recruiting and sending Cambodians overseas to work on fishing vessels, the Government has made several statements indicating they do not support regular migration through PRAs into the fishing industry.
+
+1.3 Mass exodus of Cambodians from Thailand in 2014
+
+In June 2014, more than 250,000 Cambodian migrant workers returned to Cambodia from Thailand, prompted by fear of arrest by Thai authorities and the unstable political situation in Thailand. The majority of returning migrants were undocumented, and some were travelling with families and young children. Of the 667 returned migrants interviewed in an IOM study, 53 per cent were women, and 70 per cent of respondents were between 20-40 years old.22 Over one-third (38 per cent) of respondents had not completed primary school, and more than two-thirds migrated to Thailand because they had no job or income in Cambodia. When asked what type of assistance they most needed in Cambodia, 78.4 per cent of respondents said they required help in finding a job, and 60.3 per cent required vocational skill training.23
+
+The Cambodian Government was quick to react to the return of migrants, and aimed to simplify and make regular migration more affordable, by issuing Sub-decree No. 205, reducing the cost of passports for migrant workers to US$4, and inter-ministerial prakas No. 2574, stating that migrant workers could apply for their passports at the Provincial Offices of Passport of the MOI and Provincial Departments of Labour and Vocational Training (PDOLVTs). Prakas No. 2574 also states that the MOLVT will establish one window services for Khmer workers who have worked and are working in Thailand, at four border check points (Banteay Mearnchey, Pailin, Koh Kong, and Oudor Mearnchey). As of July 2014, there was one provincial passport office in Battambang, and MOLVT was in the process of establishing the one window services in other provinces. Early analysis indicated that these options were not taken up by migrant workers, most of whom returned to Thailand and subsequently registered with the Thai authorities. This exodus of migrant workers underlines the need for coherent policies on labour migration that is better able to provide migrant workers with regular migration options, and which invests in support for the return and reintegration of migrants to Cambodia.
+
+22 International Organization for Migration presentation, Assessment of Returned Migrants in Cambodia, 9
+
+ 
+
+2. Demographic pressure
+
+In 2012, Cambodia's total estimated population was 14.9 million; 7.6 million (51 per cent) female and 7.3 million (49 per cent) male24. As a result of the post-war baby boom, the population is young, with those aged 29 years and under comprising 60.1 per cent of the total population, those aged 30-59 comprising 32.4 per cent of the population, and those aged over 60 comprising only 7.6 per cent of the population25.
+
+Graph 1: Distribution of Cambodia's population by age, 2012
+
+The annual population growth rate registered from 2008-2013 was 1.46 per cent, higher than that of Southeast Asia (1.1 per cent), and much higher than that of Thailand (0.5 per cent), or Viet Nam (1 per cent), but lower than the growth rate of Lao PDR (1.7 per cent)26.
+
+3. Labour migration trends and frameworks
+
+3.1 Labour migration trends
+
+Thailand In 2003, the Governments of Thailand and Cambodia signed an MOU on employment cooperation as a part of the regulatory framework for labour migration, including reference within the MOU for the need for policies to manage irregular migrants. The number of migrants using legal channels to migrate to Thailand increased from 9,476 in 2007 to 34,804 in 2012, but then declined again in 2013 (Table 3), at least in part due to the repeated regularization opportunities in Thailand, the ability to avoid deportation, and limited additional protection provided by regular migration.
+
+24 Ministry of Planning, National Institute of Statistics; International Labour Organization. 2013. Cambodia Labour
+
+  In mid-2011, Thai authorities' commenced registration, and Thai and Cambodian authorities together commenced NV processes to facilitate the regularization of workers who either migrated through irregular channels, or whose regular migrant status had lapsed.
+
+In late June 2014, following the exodus of Cambodian workers from Thailand, the Thai National Committee for Peace and Order (NCPO) opened a new registration window for irregular migrant workers, until 31 October 2014. As of October 2014, 696,388 migrant workers and 42,609 dependents had registered through the OSSCs (Table 1). The procedures and timing for NV is currently in discussion between the Thai Government and countries of origin.
+
+Table 1: Total number of migrants who registered in Thailand between 26 June and 31 October 2014
+
+Nationality Migrant workers Dependents
+
+Cambodia registered 696,388 registered 42,609
+
+Myanmar 623,648 40,801
+
+Lao PDR 213,689 9,150
+
+Total 1,533,725 92,560
+
+Source: Ministry of Interior, Thailand, 2014.
+
+Table 2: Total aggregate number of migrants recruited through MOU with Thailand (2003
+
+- June 2014)
+
+Nationality Migrants recruited through MOU
+
+Cambodia with Thailand 99,401
+
+Male 58,806
+
+Female 40,595
+
+Myanmar 148,841
+
+Male 88,632
+
+Female 60,209
+
+Lao PDR 21,866
+
+Male 12,239
+
+Female 9,627
+
+Total 270,108
+
+Male 159,677
+
+Female 110,431
+
+Source: Office of Foreign Workers Administration, Department of Employment, Ministry of Labour, Thailand, 2014.
+
+  Malaysia Malaysia is a major destination country for Cambodian migrant workers; from 2005 to 2010, legal migration to Malaysia increased from 1,776 to 16,394 (Table 3). The demand for Cambodian domestic workers increased dramatically after the Indonesian Government suspended sending domestic workers to Malaysia in 2009. Following a series of reports of abuse and exploitation, in October 2011 the Cambodian Government imposed a temporary ban on sending domestic workers to Malaysia. In 2014, Cambodia and Malaysia continued negotiations on two separate MOUs to restart the sending of domestic workers and 'general' workers, or workers in other sectors.
+
+Republic of Korea Sub-decree No. 70 issued in July 2006, on the Creation of the Manpower Training and Overseas Sending Board (MTOSB), is a Government-to-Government system designed specifically to regulate the sending of Cambodian workers to the Republic of Korea. The MTOSB oversees the recruitment, training, and sending of workers to the Republic of Korea through the EPS, which allows Korean small and medium-sized enterprises who have not been able to recruit local workers to recruit internationally in the manufacturing, construction, agriculture and livestock, fishing, and service industry sectors. To qualify under the EPS, workers must demonstrate a sufficient level of language and job skills. The EPS involves training prior to departure, support while in country, and skills and job matching services upon return. Four types of insurance are available to migrant workers - workers' compensation insurance, health insurance, pension insurance and employment insurance. Since 2006, 27,384 Cambodians have migrated to Korea for work, however there has been a significant increase in migration to Korea since 2010.
+
+Other destination countries The MOU between the Kingdom of Cambodia and the Japan International Training Cooperation Organization (JITCO) on the management of the sending of Cambodian trainees to Japan has resulted in 601 Cambodian migrant workers being deployed since 2007. The MOUs with the State of Qatar and the Government of the State of Kuwait were signed in 2011 and 2009 respectively but, as yet, no Cambodian migrant workers have been sent through these channels.
+
+  Table 3: Deployment of Cambodian workers in foreign employment 2005-2014 (18 November 2014)
+
+Year 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 (18
+
+Total 2,244 3,636 9,476 7,340 14,928 29,783 26,219 34,804 22,600 Nov) 2,020
+
+Male 899 1,798 4,611 3,616 4,292 10,501 15,563 23,568 15,891 1,247
+
+Female 1,345 1,838 4,865 3,724 10,636 19,282 10,656 11,236 6,709 773
+
+Thailand n/a 445 5,670 2,116 3,543 11,224 16,837 26,390 13,468 13,802
+
+Male n/a 226 3,935 1,425 1,968 6,304 10,624 16,551 8,840 8,274
+
+Female n/a 219 1,735 691 1,575 4,920 6,123 9,839 4,628 5,528
+
+Malaysia 1,776 1,690 3,219 2,654 9,682 16,394 4,351 180 90 216
+
+Male 467 231 174 53 876 2,522 457 110 62 105
+
+Female 1,309 1,459 3,045 2,601 8,806 13,872 3,894 70 28 111
+
+Korea 468 1,501 584 2,531 1,687 2,116 4,957 8,132 8,820 6,360**
+
+Male 432 1,341 499 2,125 1,438 1,635 4,429 6,828 6,931 4,851**
+
+Female 36 160 85 406 249 481 528 1,304 1,889 1,509**
+
+Japan n/a n/a 3 39 16 49 74 102 111 183
+
+Male n/a n/a 3 13 10 40 52 79 58 55
+
+Female n/a n/a 0 26 6 9 22 23 53 128
+
+Singapore n/a n/a n/a n/a n/a n/a n/a n/a 111 188
+
+Male n/a n/a n/a n/a n/a n/a n/a n/a 0 0
+
+Female n/a n/a n/a n/a n/a n/a n/a n/a 111 188
+
+* n/a signifies that the option to send migrant workers to that country was not available at that time, whereas 0 indicates that no migrant workers chose to go to that country at that time.
+
+** as at 29 September 2014. Source: Cambodian Department of Employment and Manpower, MOLVT, figures from 2005-2014. Note: there is some discrepancy between figures provided by Cambodian authorities in this table and Thai authorities in Table 2.
+
+3.2 Remittances In 2011, the World Bank estimated that Cambodian migrants sent home US$354 million in remittances, not including the remittances sent through non-official channels.27 In comparison, net foreign direct investment (FDI) inflows to Cambodia were US$800 million, and net overseas development aid (ODA) for Cambodia was US$700 million in the same year.28 Forty per cent of Cambodian migrant workers in Thailand reported that remittances were the main sources of income for their families, and the money was mainly spent on daily expenses, health care, and household appliances.29 Women migrants remit on average 20 per cent more than men migrants.30
+
+27 The World Bank. Migration and remittances Factbook, http://data.worldbank.org/data-catalog/migration-and-remittances [accessed 15 May 2014].
+
+28 Tunon, M., Rim, K. 2013. Cross-border labour migration in Cambodia: considerations for the national employment policy. ILO Regional Office for Asia and the Pacific Working Paper Series. Bangkok: ILO.
+
+29ibid. 30 Ministry of Planning, United Nations Population Fund. 2012. Migration in Cambodia: Report of the Cambodian Rural Urban Migration Project (CRUMP). Phnom Penh.
+
+  There has been limited research and programming on remittances and harnessing these funds for productive investment and development in Cambodia.
+
+3.3 National regulatory and legal framework In recent years, the Royal Government of Cambodia has strengthened the framework for labour migration governance. In August 2011, the Government adopted Sub-Decree No. 190 on the Management of Sending of Cambodian Workers Abroad through Private Recruitment Agencies. The Sub-Decree strengthened the regulatory framework for governing labour migration and protecting migrant workers, and acknowledges the potential impact of migration on poverty reduction and human resource development.
+
+In 2013, the adoption of eight prakas to support Sub-Decree 190 provided greater clarity to authorities on their roles and responsibilities. These prakas were drafted and reviewed through consultation with social partners and civil society organizations, drawing on extensive inputs from the ILO. Efforts have been made to ensure that the prakas are gender-sensitive through reviews of draft legislation by UN Women and MOWA.
+
+Eight prakas adopted in February and September 2013; o Prakas No 045/13 concerning the use of terms outlines the meaning of key terms used in Sub-Decree 190.
+
+o Prakas No 047/13 concerning private recruitment agency outlines the requirements of a private recruitment agency to be recognised as a legal entity from the MOLVT. o Prakas No 046/13 concerning the recruitment process and pre-departure orientation sets minimum standards for private recruitment agencies in their legal responsibilities to migrant workers prior to being sent abroad.
+
+o Prakas No 249 concerning complaint receiving mechanism for migrant workers outlines the MOLVT complaints process for migrant workers.
+
+o Prakas No 250 concerning inspection on private recruitment agency outlines the MOLVTs standards for inspections.
+
+o Prakas No 251 concerning penalty and reward to the private recruitment agency stipulates that private recruitment agencies will be inspected every two years, and that they must meet a certain minimum standard in order to continue to operate.
+
+o Prakas No 252 concerning on-site service of the private recruitment agency and repatriation outlines the private recruitment agencies responsibilities to migrant workers in destination countries and during repatriation processes.
+
+o Prakas No 253 concerning promulgation of minimum standards of job placement services abroad contract stipulates all articles that need to be included in the contract between the private recruitment agency and Cambodian migrant worker.
+
+To be licensed, a recruitment agency must receive authorisation from the MOLVT as per Sub-decree No. 190 and prakas No. 47. Together these instruments stipulate that recruitment agencies must not sub-contract any part of their licence, that they are responsible for migrant workers pre-departure, during placement abroad, and repatriation, that they must provide predeparture training, and have a permanent representative in the destination country for migrant workers' welfare. Recruitment agencies must sign an agreement with MOLVT, pay a guarantee deposit of US$100,000, and report on a monthly, quarterly, semesterly and yearly basis. If recruitment agencies do not satisfy these requirements, MOLVT has the power to refuse to
+
+  issue a license, issue a warning to the recruitment agency, or discontinue their license. The number of licensed recruitment agencies increased from 18 in 2008 to 55 in 2014, with all 55 recruitment agencies reportedly being members of the Association of Cambodian Recruitment Agencies (ACRA). ACRA was established in 2008 and promotes the orderly and safe migration of Cambodian migrant workers, and brings together licensed recruitment agencies into a voluntary industry body.
+
+A number of other laws, sub-decrees and prakas also provide protection to migrant workers: Sub-decree No. 205 on provision of ordinary passport was passed after the mass exodus of Cambodian migrant workers from Thailand in June 2014. In Cambodia, the provision of passports is managed by the MOI and can currently only be obtained from MOI Passport Departments in Phnom Penh and Battambang. Historically, many Cambodian migrant workers travel without passports due to the complex process to issue passports and the ease of border crossing.
+
+ Sub-decree No. 205 on provision of ordinary passport to Khmer worker and student stipulates that passports for migrant workers must be paid for by the government, and migrant workers must only pay US$4 for the passport photo.
+
+ Inter-ministerial prakas No 2574 on format and procedure for issuance of normal passport for Khmer workers to work legally abroad stipulates that migrant workers themselves will get their passports at the Passport Department in the office of the MOI in Phnom Penh and MOI Provincial Passport Offices - as of July 2014 there was one provincial passport office in Battambang.
+
+The Cambodian Law on Suppression of Human Trafficking and Sexual Exploitation and the Penal Code include provisions that govern the acts of trafficking, exploitative recruitment, illegal confinement and fraud and forgery (in relation to false identification) by an offender or attempted offender, committed in Cambodia or on a flight or vessel that flies the Cambodian flag, in any territory where the perpetrator or victim is a Cambodian citizen. The Cambodian Civil Code and Sub-decree No. 38 Referring to Contract and Other Liabilities, include provisions for breach of contract, misrepresentation, voidability of contracts and tortious liability (including negligence). As such, these two legal instruments could be referred to when a worker has been exploited or deceived into a contractual situation but does not have the evidence or inclination to pursue a criminal claim. To date, however, these legal instruments have not been referred to or utilised to assist with civil claims, and few criminal cases relating to labour migration have been pursued with only a handful being pursued successfully. The Cambodian Labour Law applies only to work to be completed in Cambodia and does not apply to work to be completed abroad.
+
+Improving implementation of the legal and policy framework requires further investment in the capacity of labour authorities and other departments and stakeholders at the central and provincial levels. Training on the above prakas by the MOLVT was run in 2014 for all PDOLVT Directors, Chief of Bureaus and Chairs of the provincial-level National Committees to Counter Human Trafficking (NCCT). The Royal Government of Cambodia now also has tools for implementation such as the complaints mechanism, forms and database, and the standardised Pre-Departure Orientation Curriculum for Thailand and Malaysia, for which a training-of-trainers course was conducted in November 2014.
+
+  3.4 Institutional framework The General Department of Labour, MOLVT is the primary body governing labour migration, in association with MOFA&IC and MOI. The General Department of Labour has five subdepartments: (i) labour inspections, (ii) labour disputes, (iii) employment and manpower, (iv) child labour, and (v) occupational health. According to Prakas No. 218 on Reform of Organisation and Functioning of Department of Employment and Manpower dated 10 September 2014, the Department of Employment and Manpower is the secretariat of the General Department of Labour, and is tasked with protection and management of Khmer workers in Cambodia and overseas. The Department is structured with nine offices responsible for (i) public relations, (ii) management of alien workers, (iii) monitoring and inspection of alien workers, (iv) monitoring of Khmer workers, (v) employment and manpower statistics, (vi) job placement in Cambodia, (vii) job placement office for Malaysia and Arabic Countries, (viii) job placement office for Thailand, (ix) job placement office for Japan, Singapore and all other countries.
+
+The Inter-Ministerial Working Group for the Implementation of the MOU with Thailand comprises the MOLVT, MOI, and MOFA&IC, and meets annually before meeting with the Royal Government of Thailand to discuss progress of implementation of the MOU between the two countries.
+
+Coming out of the consultations for the Labour Migration Policy for Cambodia, establishing a Sub-Committee on Labour Migration under the Inter-Ministerial Committee on Examining and Preparing the National Employment Policy chaired by MOLVT that will annually review progress and identify priorities for the upcoming year was discussed.
+
+3.5 International instruments Cambodia has ratified all eight core ILO Conventions, is a signatory to the UN International Convention on the Protection of the Rights of All Migrant Workers and Members of their Families (1990), and has ratified the Convention on the Elimination of All Forms of Discrimination against Women (CEDAW) (1979), and the Optional Protocol to CEDAW (1999). The Committee on the Elimination of Discrimination against Women issued General Recommendation No. 26 (December 2008) on women migrant workers, that describes the obligations of State parties to respect, protect, and fulfil the human rights of women migrant workers.
+
+Cambodia has not ratified ILO Convention No. 97 on the Migration for Employment Convention (revised 1949), ILO Convention No. 143 on the Migrations in Abusive Conditions and the Promotion of Equality of Opportunity and Treatment of Migrant Workers Convention (1975). The Government has not ratified other important migration governance conventions including ILO Convention No. 189 Domestic Workers Convention (2011), ILO Convention No. 188 on Work in Fishing, ILO Convention No. 181 on Private Employment Agencies (1997), ILO Protocol on Forced Labour (2014), and the UN International Convention on the Protection of the Rights of All Migrant Workers and Members of their Families (1990).
+
+3.6 Regional instruments Cambodia is a signatory to the ASEAN Declaration on the Protection and Promotion of the Rights of Migrant Workers, adopted by the Heads of Government in 2007 in Cebu. MOLVT has been actively involved in the regional discussions on the drafting of a new ASEAN Agreement
+
+  the ASEAN Declaration on Strengthening Social Protection adopted by the Heads of Government in 2013 in Brunei. With the advent of AEC in 2015, MOLVT will strategize with associations representing workers and employers on how Cambodia can benefit from this development. In addition, MOLVT will participate in bilateral and regional discussions on, among other things, skills recognition, data sharing, and social security transfer and portability.
+
+3.7 Nexus between labour migration and trafficking in Cambodia The nexus between labour migration and human trafficking is globally recognised. According to ILO estimates in 201231, more women than men are in forced labour, though men are more likely to be in forced labour exploitation. Women migrants are particularly at risk because of low levels of education, limited access to formal employment and higher representation in especially high-risk workplaces, including homes and entertainment venues32. Some efforts to link the reduction of human trafficking through better governance of migration have been made by the various institutions of the Royal Cambodian Government, as outlined below.
+
+In September 2012, a Migration Working Group was established under the Secretariat of the NCCT. The overall purpose of the Group is to "promote and protect the safety, rights, and interests of migrants in a way that is gender responsive by using a multi-disciplinary and multi-sectoral approach." The NGO community and international organizations have established a regular forum to discuss labour migration and trafficking, and coordinate responses.
+
+In October 2014, the Royal Government of the Kingdom of Cambodia and the Royal Government of the Kingdom of Thailand, renewed the MOU on Bilateral Cooperation for Eliminating Trafficking in Persons and Protecting Victims of Trafficking first signed in 2003.
+
+4. Economic growth and employment trends
+
+In the decade prior to the 2008 global financial crisis, Cambodia grew at an average economic annual rate of over 9.1 per cent.33 Since the global financial crisis the economy has recovered well, growing at an average of seven per cent between 2009 and 2012. This economic development helped employment rates to grow at 3.6 per cent per year between 1998 and 2008.34 In 2012, 67 per cent of Cambodian workers were employed, with an unemployment rate of 2.7 per cent.35 While a decade of rapid growth has notably improved the livelihoods of Cambodian people, with the headcount poverty rate falling from 50.1 per cent in 2007 to 20.5 per cent in 201136, there is more work to be done to ensure decent and quality employment for Cambodia's working population, to viably and sustainably reduce poverty.
+
+31 International Labour Organisation, 2012. ILO global estimate of forced labour: results and methodology. International Labour Office, Special Action Programme to Combat Forced Labour (SAP-FL). Geneva: ILO. 32 ibid.
+
+33 Chandararot, K, Liv, D. 2013. Rural development and employment opportunities in Cambodia: How can a National Employment Policy contribute towards realization of decent work in rural areas? ILO Country Office for Thailand, Cambodia and Lao People's Democratic Republic. Bangkok: ILO.
+
+34 Ministry of Planning, National Institute of Statistics; International Labour Organization. 2013. Cambodia Labour Force and Child Labour Survey 2012: Labour Force Report. Phnom Penh: ILO.
+
+35 ibid. 36 The World Bank. Cambodia Data, http://data.worldbank.org/country/cambodia [accessed 4 June 2014].
+
+  4.1 Employment by sector in Cambodia In 2013, agricultural, forestry and fishing workers accounted for the largest share of the total employed population at 62.9 per cent, followed by 11.9 per cent employed as services and sales workers and 10.1 per cent as craft and related workers (Graph 2).37 Women workers outnumbered men workers in these three largest work sectors, whereas men dominated in the remaining sectors (elementary occupations, professionals, clerical support workers, plant and machine operators, and managers).38 This data reinforces the link between education and better employment; women's participation in secondary education is lower than men's (32.1 per cent of Cambodian men had attended secondary school in 2012, as opposed to 23.9 per cent of women39). Women are therefore more limited in opportunities to enter semi professional occupations that remain male-dominated and better paid. This is a push factor for low-skilled women workers to migrate, as they can receive better wages in their lower skilled professions overseas.
+
+Graph 2: Total employed population in Cambodia by sector in 2013
+
+ 
+
+ 
+
+4.2 Informal employment in Cambodia In 2012, an estimated 81.2 per cent (5.9 million people) of the 7.2 million employed people aged over 15 in Cambodia, worked in an informal sector enterprise, while 17.7 per cent (1.3 million people) worked in a formal sector enterprise.40 Employment of men and women in the informal sector was fairly even with women employed in 49.5 per cent of jobs. Men hold a larger proportion of formal sector jobs at 69.9 per cent.41
+
+37 Ministry of Planning, National Institute of Statistics; International Labour Organization. 2013. Cambodia Labour
+
+Force and Child Labour Survey 2012: Labour Force Report. Phnom Penh: ILO. 38 ibid.
+
+39
+
+ibid. 40 Ministry of Planning, National Institute of Statistics; International Labour Organization. 2013. Cambodia Labour
+
+Force and Child Labour Survey 2012: Labour Force Report. Phnom Penh: ILO.
+
+41 ibid.
+
+62.9% 11.9% 10.0% 6.0% 3.0% 2.3% 1.9% 0.6% 0% 10% 20% 30% 40% 50% 60% 70%
+
+  The informal sector and informal employment continue to be vulnerable, with workers unlikely to have access to benefits or social protection programmes, and predominately low wages more at risk to the effects of economic cycles. The extent of the informal sector is a good labour market performance indicator, signalling the underutilization of the labour supply in Cambodia, and another push factor for people migrating overseas for work.
+
+4.3 Unemployment The extent of unemployment in a country reflects the efficiency and effectiveness of an economy to absorb its labour force, and of the performance of the labour market. By a broad definition of unemployment, 42 the estimated unemployment rate43 in 2012 was 2.7 per cent for both men and women, with more urban-based people unemployed at 3 per cent, and rural-based people at 2.6 per cent.44 In Cambodia around two per cent of employed people were found in time-related underemployment,45 with 2.5 per cent of this population male, and 1.6 per cent female.
+
+The youth (aged 15-24) unemployment rate in 2012 was 3.8 per cent (two per cent men, 1.8 per cent women), with the highest unemployment rate found among those aged 20-24 years at 4.5 per cent (4.8 per cent for men, 4.1 per cent for women). In 2012, Cambodian youth comprised 63 per cent of the total labour force. In order to absorb new job seekers in the labour force, the Government will need to diversify its economic base, boost the level of economic growth, and promote domestic and foreign investment. Achieving this will require enhancing productive work in existing economic activities and adequately training young workers for employment in emerging sectors.
+
+4.4 ASEAN Economic Community 2015 With AEC coming into effect in 2015, regional integration will enable more mobility of skilled professionals. The main tools for facilitating labour mobility under the AEC are the MRAs. MRAs establish the skills or experience relevant professionals need to gain certification and ultimately, to work abroad. However, seven of the eight occupations currently covered by MRAs (engineers, nurses, architects, land surveyors, medical and dental practitioners, and accountants), constitute just one per cent of total employment in Cambodia.46 Moreover, any mobility of professional workers will disproportionately benefit men, given that men are represented in far higher numbers within these occupations. Women's equal access to employment must be addressed in order to ensure that they are able to benefit from AEC.
+
+After the establishment of AEC, the demand for low- or medium-skilled migrant workers will persist, and may actually increase, as can be seen in Graph 3, which considers the case of Thailand.
+
+42 Under international standards, the strict definition of unemployment includes those who were searching and were available for work. A broad definition also includes those who wanted to work.
+
+43 Defined as the unemployed as a percentage of the labour force. 44Ministry of Planning, National Institute of Statistics; International Labour Organization. 2013. Cambodia Labour Force and Child Labour Survey 2012: Labour Force Report. Phnom Penh: ILO.
+
+45 The criteria for defining time-related underemployment is: (i) willingness to work additional hours; ii) availability to work additional hours and (iii) having worked (total number of hours actually worked) below a threshold of working hours.
+
+46 International Labour Organisation and Asian Development Bank, 2014. ASEAN community 2015: Managing integration for better jobs and shared prosperity. Bangkok, Thailand: ILO and ADB.
+
+  Thailand's ageing population and falling fertility rates will contribute to labour shortages which are expected to create a shortfall of some 4.7 million workers by 2020.47 Correspondingly, the demand for migrant workers is projected to increase over this period, with the greatest demand being for low- and medium-skilled workers. Given the overrepresentation of women migrant workers in low-skilled positions, Cambodian women should be supported through this policy to achieve the economic advantages offered by increased demand.
+
+Graph 3: Projected demand for migrant workers in Thailand, 2012-21 (millions) 48
+
+As most of Cambodia's migrant workers are low- or medium-skilled, current measures for the freer mobility of high-skilled workers are likely to have limited impact in the short term. Between 2015 and 2025, demand is likely to increase rapidly for some skills in the region, and decrease for others. Growth in low-skilled employment will probably remain strong however in Cambodia, highlighting the continued importance of ensuring quality standards in basic education and training, and a focus on skills recognition, social protection and safeguarding the rights of migrant workers.
+
+4.5 Skills development and recognition The Cambodia Qualifications Framework (CQF) has been devised, and there has been steady progress with the development of competency standards and new technical and vocational qualifications. However, the overall architecture of a functioning technical and vocational education and training (TVET) system is still in development. At the same time, the ILO "Towards a Mutual Recognition of Skills (MRS) in Cambodia, Lao PDR and Myanmar" Project aims to assist in navigating these three countries in the design and implementation of the mutual recognition of skills mechanisms through policy guidelines and directions. By doing so, Cambodia will be able to gradually and equitably integrate into the AEC and, in turn, enjoy the benefits. The project goal is that by March 2015, two skills or competency standards in two occupations are agreed, developed and adapted in Cambodia through tripartite consultation,
+
+47 Thailand Development Research Institute, 2012. Designing manufacturing and labour force development strategies for industrial sector demand in 2015, Research report submitted to the Ministry of Industry, Office of Industrial Economics: Bangkok.
+
+48 NESDB. 2014. Labour Demand Projection in Thailand, in NESDB presentation slide based on the Labour Market Study for the Ageing Society Project.
+
+  and that appropriate competency-based curriculum and learning materials are developed.49
+
+An ADB Project is also working to support the Government's socio-economic development programme through provision of an industry-endorsed TVET system (using a Competency Based Training model) aligned with the basic and middle-level skill requirements of the formal and informal economies in three industry sectors: mechanics, construction, and business services / information and communications technology (ICT). The project is expected to increase the employment-ready and qualified middle-level workforce both in rural and urban areas. It is expected that there will be at least a 30 per cent increase in the number of employees holding formal industry endorsed TVET qualifications, and greater employer satisfaction with employees holding new formal TVET qualifications.50
+
+In addition, a modality is required to assess and recognize the skills of returning migrant workers so they can find decent jobs in Cambodia and contribute more fully to national development. This requires the setting up of a national assessment centre, which is also required for full implementation of the CQF. A benchmarking exercise was also requested so that the CQF may be compared with the frameworks in other ASEAN countries to ensure complementarity and mutual skills recognition.
+
+5. Evaluation of the Policy on Labour Migration for Cambodia 2010-2015
+
+In June 2010, the MOLVT launched its first Policy on Labour Migration for Cambodia for 2010-2015. The policy and accompanying action plan were prepared through a series of consultative workshops with concerned government agencies, workers' and employers' organizations, international agencies, NGOs and community based organisations (CBOs) in Cambodia. The policy articulated the main policy challenges for the Royal Government of Cambodia, and outlined three main objectives which are still relevant in 2015; better governance of labour migration; protection and empowerment of migrant workers; and harnessing the potential of labour migration for development. The policy action plan activities were identified as short term (1-2 years) or medium term (3-5 years), and identified responsible stakeholders in the realization of these goals.
+
+In 2014, at the first consultation to assess the implementation of the 2010-2015 Policy and to gather input to support the development of the 2015-2018 Policy, stakeholders used a system devised by UN Women, to determine if activities from the 2010-2015 Policy on were on target, progressing, or not on target.
+
+Of the 79 activities in the action plan, most of which are assigned to the MOLVT as the lead implementing stakeholder, 21.5 per cent were assessed as being on target, 43 per cent were
+
+49 International Labour Organisation, Tripartite Action for the Protection and Promotion of the Rights of Migrant Workers (ASEAN TRIANGLE Project), 2014. Assessment of the readiness of ASEAN Member States for implementation of the commitment to the free flow of skilled labour within the ASEAN Economic Community from 2015. ILO Regional Office for Asia and the Pacific. Bangkok: ILO.
+
+50 International Labour Organisation, Tripartite Action for the Protection and Promotion of the Rights of Migrant Workers (ASEAN TRIANGLE Project), 2014. Assessment of the readiness of ASEAN Member States for implementation of the commitment to the free flow of skilled labour within the ASEAN Economic Community from 2015. ILO Regional Office for Asia and the Pacific. Bangkok: ILO.
+
+  progressing, and 35.5 per cent were not on target (Graph 4). Of the activities that are on target and progressing, most are undertaken with the support of international organizations and NGOs, and funded by the donor community, with notable contributions from USAID, DFAT, SDC and UN agencies, and numerous civil society organisations that conduct safe migration training.
+
+In terms of the three objectives identified in the Policy, more progress has been seen under 'Governance of Labour Migration' and the 'Protection and Empowerment of Migrant Workers', than under 'Harnessing Labour Migration for Development' (Graph 4). As such, implementation of the Labour Migration Policy for Cambodia 2015-2018 will focus more around harnessing the development potential of labour migration, as much progress has been made on legislative development over the last five years.
+
+Graph 4: Progress of activities against the Policy on Labour Migration for Cambodia for 2010-2015
+
+Some of the gaps in the implementation of the Action Plan may be due to a lack of ownership beyond the MOLVT and a lack of monitoring and evaluation. After its adoption, there was limited discussion with stakeholders outside the MOLVT on the Policy and action plan. It is also clear that the Government, international organizations and donors have put a priority on combatting exploitation and human trafficking, and therefore there was more support available to MOLVT and others in conducting activities aimed to address the protection of migrant workers. Across the countries of origin in ASEAN, with the exception of the Philippines, there are few examples of policies and programmes to support the return and reintegration of migrant workers. It is also important to recognize the limited human and financial resources of the MOLVT to address all aspects of the plan. Recognizing that some issues in labour migration management lie outside the mandate of the MOLVT, success of the Labour Migration Policy for Cambodia 2015-2018 will rely on increased and continued cooperation amongst government departments, and with social partners in Cambodia.
+
+ 
+
+6. Objectives of the Labour Migration Policy for Cambodia 2015-2018
+
+Significant progress has been made in recent years on legal and policy framework governing labour migration, and measures to protect migrant workers, this continues to be a priority for the Royal Government of Cambodia. However, more can be done to enhance the development impact of labour migration. This requires enabling safe migration into decent work, as well as efforts to address the reintegration of migrant workers, the productive use of remittances and greater engagement with diaspora and returned migrants. These initiatives must be evidence-based, drawing on sex-disaggregated data collection to measure the positive use of remittances, the link between skills acquisition and earning potential, and the link between migration and poverty reduction.
+
+More broadly, this Policy recognizes the need to simultaneously promote quality domestic employment and skills development for workers into emerging sectors, as well as streamlining labour migration into national employment and development plans. The in-development National Employment Policy includes supporting the mobility of workers and protection of migrant workers under the goal of enhancing labour market governance, as well as putting employment generation (quantity and quality) at the heart of economic and social policy-making. Labour migration is also included in the National Strategic Development Plan 2014-2018, framing emigration as a potential tool to strengthen Cambodia's human resources, and the Rectangular Strategy Phase III 2013-2018, demonstrating a Government commitment to promote employment and institute a policy framework so that productive employment generation and economic development occur in tandem.
+
+One of the areas for improvement identified in the Policy on Labour Migration for Cambodia for 2010-2015 was systematic monitoring and evaluation by an oversight body. In consultations for the Labour Migration Policy 2015-18, the Government discussed establishing a Sub-Committee on Labour Migration, with tripartite representation, under the Inter-Ministerial Committee on Examining and Preparing the National Employment Policy chaired by MOLVT that will annually review progress and identify priorities for the upcoming year. At the inaugural meeting of this Sub-Committee, clear operational responsibilities, indicators of progress and means of verification (using data from different Government departments, social partners and CSOs) would need to be outlined for the MOLVT, MOI, MOFA&IC and MOWA on the implementation of this Policy. The activities in the Action Plan have been framed in a way to allow for simpler verification and reporting of progress.
+
+Overall policy objective: To develop a comprehensive and effective labour migration governance framework that protects and empowers women and men throughout the migration cycle, ensures that migration is an informed choice, and enables a positive and profitable experience for individual workers, their families and communities, that also contributes to the development of Cambodia. Recognizing and responding to the distinct needs of migrant workers with respect to their gender, sector, legal status and other individual characteristics, is central to the Policy and its effective implementation.
+
+To achieve this overall policy objective, there are three specific objectives; (1) formulation and implementation of rights-based and gender-sensitive policy and legislation through social dialogue at all levels; (2) protection and empowerment of men and women migrant
+
+  labour migration and mobility to enhance social and economic development in Cambodia recognising that migrant workers are agents of innovation and development.
+
+Section 7 Policy Matrix: Strategic areas, policy goals and action plan sets out the three specific objectives, areas of implementation, policy goals, and activities to achieve them, responsible government stakeholders and timeframe to achieve these activities.
+
+Figure 1: Labour Migration Policy for Cambodia Flowchart
+
+The following sections 6.1, 6.2, and 6.3 outline the policy goals under the Policy's 3 specific objectives. The action points to achieve these policy goals can be found in Section 7 Policy Matrix: Strategic areas, policy goals and action plan.
+
+6.1 Governance of labour migration Since 2011, the MOLVT has initiated a number legislative instruments to strengthen labour migration governance. These have set up a framework for regulating recruitment practices, protecting migrant workers and facilitating regular migration. Bilaterally, there has also been cooperation with the Royal Government of Thailand on the regularisation of irregular migrant workers. In 2014, the Government responded quickly to the exodus of Cambodian migrant workers from Thailand by providing employment services, proposing provincial passport offices and lowering the cost of passports - although the effectiveness of these services was undermined by the swift return of migrants to Thailand. Following the suspension on sending domestic workers to Malaysia, several drafts of a MOU with Malaysia have been reviewed with the goal of reopening this corridor.
+
+It is acknowledged that labour migration is an issue inter-connected with a range of other policies involving other ministries and stakeholders, and more dialogue and cooperation is needed to meaningfully implement and enforce protection mechanisms for migrant workers.
+
+6.1.1 Key policy areas in migration governance Governance of labour migration is divided into three areas of implementation: international framework, legislative / regulatory framework and institutional framework.
+
+Overall Policy Objective
+
+Areas of Implementation
+
+Policy Goals
+
+Activities
+
+3 Specific Objectives
+
+  International framework Policy goal 1: International standards and instruments related to labour migration and migrant workers are reviewed with respect to the Cambodian context and legal framework, and ratified and implemented in a gender-sensitive manner.
+
+Policy goal 2: The Government contributes to multilateral and regional cooperation on labour migration, particularly within ASEAN, with a clear vision of how ASEAN regional integration and the ASEAN Economic Community (AEC) can enhance decent work opportunities for all migrant workers.
+
+Policy goal 3: In consultation with social partners and civil society organizations, the Government establishes gender-sensitive, sector specific minimum standards for MOUs with destination countries as a condition of sending, and key articles for contracts with employers prior to sending any workers abroad.
+
+Institutional Framework Policy goal 4: The MOLVT invests in the capacity of the relevant bodies at central and provincial levels, and takes a leadership role in strengthening inter-ministerial cooperation on labour migration, including actively contributing to the Migration Working Group of the National Committee to Counter Human Trafficking.
+
+Legislative/regulatory framework Policy goal 5: New legislation and regulations are considered only where gaps are identified, and developed to reflect the specific and distinct needs of women and men migrants through tripartite consultation. Procedures related to labour migration are streamlined to incentivise regular migration and protect workers' rights.
+
+Policy goal 6: Sex-disaggregated data is collected and analysed on a regular basis to inform evidence-based policy that is tailored to and addresses the experiences of women and men migrant workers.
+
+6.2 Protection and empowerment of women and men migrant workers Since 2011, the MOLVT has given significant attention to increasing the protection of migrant workers prior to departure. Prakas No. 47 ensures that private recruitment agencies must satisfy a range of minimum requirements in order to obtain a license, with prakas No. 250 and 251 instituting regular monitoring processes for private recruitment agencies, and suspending their license if they fail to comply. Currently, MOLVT is formulating checklists to outline more specific criteria for inspections of recruitment agencies.
+
+Sub-decree 190, prakas No. 46, and the effective delivery of MOLVT national standardised PreDeparture Orientation materials, can ensure that each migrant worker is informed of their rights at work and workplace practices, culture and tradition in destination countries, financial literacy, health awareness, and how to access rights both at home and abroad. The prakas ensures that trainers from recruitment agencies must be certified, and that migrant workers receive a pre-departure orientation certificate as proof of completion as a pre- requisite to migration. The MOLVT has conducted training-of-trainers for pre-departure training, and will monitor its quality and assess its effectiveness.
+
+In January 2014, the MOLVT opened a Migrant Worker Resource Centre (MRC) at the Department of Employment and Manpower in Phnom Penh. Amongst its other functions, this
+
+  MRC receives migrant worker grievances as per the complaints mechanism outlined in prakas No. 249. Complaints received to date relate to conditions prior to departure (for example, costs or delays in deployment) or while abroad (for example, pay or work conditions). In the coming years, institutional capacity will be built for migrant workers to lodge complaints through any PDOLVTs and have conciliation meetings held at the provincial level. Given reports of abusive, exploitative, fraudulent practices, or breaches of contracts held by Cambodian migrant workers, it is timely that in November 2014 the MOLVT is formulating a prakas on use of private recruitment agencies guarantee deposit as a mechanism to be able to compensate victims.
+
+Whilst prakas No. 252 outlines private recruitment agencies' responsibilities to migrant workers in destination countries, more work is needed to ensure the protection of migrant workers abroad. The Government has not yet appointed labour attachés in key destination countries, although MOLVT is in the process of deploying a labour councillor to the Republic of Korea. The consular mandate needs to include vetting employers and working conditions before allowing migrant workers to be recruited, and working closely with authorities and other service providers to ensure the protection of Cambodian nationals.
+
+6.2.1 Key policy areas in protection and empowerment of migrant workers Protection and empowerment of migrant workers is divided into two areas of implementation: supervision of recruitment and placement, and support services.
+
+Supervision of recruitment and placement Policy goal 7: The Government monitors and enforces protection mechanisms in the recruitment and placement of migrant workers, including institutionalising inspection of private recruitment agencies, the delivery of pre-departure training, and regulating the costs of migration, including brokerage fees.
+
+Policy goal 8: Unlicensed brokers or agents, or licensed recruitment agencies linked to exploitative or unscrupulous practices, are targeted with appropriate sanctions to reduce irregular migration and reduce the vulnerability of migrant workers.
+
+Support Services Policy goal 9: Government consular services are established or enhanced in major destination countries to provide effective assistance to men and women migrant workers regardless of their status, including shelter, legal, labour dispute, social protection and repatriation facilities.
+
+Policy goal 10: Migrants' access to justice is facilitated through implementing the complaints mechanism in an effective, gender-sensitive and timely manner. In the event of a crime, judicial processes are initiated to ensure an adequate penalty, and a deterrent to others.
+
+Policy goal 11: The Government facilitates migrants' access to vocational training programs to develop and recognize the skills of migrant workers as a measure to enhance protection and earning potential. Training programmes and skills recognition systems are developed for women and men in consultation with employers and governments of destination countries, according to labour market needs, in specific occupations and sectors.
+
+  Policy goal 12: The Government cooperates with local leaders, social partners and civil society organizations to provide accurate and up-to-date information on safe migration and rights at work in major migrant-sending communities and in transit hubs.
+
+Policy goal 13: Feasibility studies are conducted by the Government on further protection mechanisms for men and women migrant workers such as the revolving credit and loan funds, and migrant welfare funds to assist men and women migrant workers with migration.
+
+6.3 Harnessing labour migration for development Since 2010, inclusion of international labour migration policy into national development and employment plans has increased, as has acknowledged that domestic policy needs to cater to the large young working age population.
+
+The National Strategic Development Plan 2014-2018, categorises emigration as an issue for the National Committee for Population and Development (NCPD) to work on in association with other line ministries and agencies, to strengthen its human resources for integrating population-related issues into the development planning processes at all levels for planners and policy makers. The in-development National Employment Policy aims to put employment generation (quantity and quality) at the heart of economic and social policy- making, focusing on young women and men and considering labour migration amongst other aspects. The National Policy of Cambodian Youth Development in association with the National Youth Action Plan 2014- 2018, seeks to provide alternatives to migration, while the Millennium Development Goals Acceleration Process includes providing employment and training services as alternatives to migration and options for returning migrants. The Rectangular Strategy Phase III 2013-2018 demonstrates a strong Government commitment to promoting employment as a central part of their medium-term development strategy and institute a policy framework such that productive employment generation and economic development occur in tandem.
+
+These policies and initiatives, however, have yet to be transformed into operational programmes and services that either provide adequate alternatives to migration for certain parts of the population, enhance the development impact of migration, or that will benefit returning migrant workers in their economic and social reintegration.
+
+6.3.1 Key policy areas in migration and development Harnessing labour migration for development is divided into three areas of implementation: migration in the National Development Agenda, migrants' remittances and investments, and return and reintegration.
+
+Migration in the National Development Agenda Policy goal 14: Labour migration continues to be included within national development and sectorial plans to recognize and maximise the development potential of migration for Cambodia, and ensure coherent development planning.
+
+Migrants' remittances and investments Policy goal 15: The Government works with financial institutions in Cambodia and destination countries to enable access to safe, efficient and cheaper remittance and financial services for migrant workers. The impact of remittances on development is enhanced through support services provided to migrants and their families, including gender-sensitive financial literacy training, a broader range of financial services and products, and dialogue and tools for
+
+  diaspora engagement.
+
+Return and Reintegration Policy goal 16: Productive return and reintegration of women and men migrant workers is enabled through evidence-based policy, and strengthened service provision for social and economic reintegration, including employment services, skills development and recognition, enterprise development training, and investment programmes.
+
+Policy goal 17: The social cost of migration is mitigated through specific programmes, including through the provision of support to the families and children of migrant workers.  
+
+ 
+
+ 
+
+7. Policy matrix: Strategic areas, policy goals and action plan
+
+Areas of implementation
+
+Policy goals
+
+Action points
+
+Responsiblgovernmenunits
+
+Governance of labour migration International framework 1. International standards and instruments related to labour migration and migrant workers are reviewed with respect to the Cambodian context and legal framework, and ratified and implemented in a gender-sensitive manner.
+
+2. The Government contributes to multilateral 1.1 Study the suitability of ratification of relevant international standards, and consider comparative international experiences in adoption of international instruments, including ILO Conventions No. 97, No. 143, No. 181, No. 189, No. 188, the Forced Labour Protocol, the UN International Convention on the Protection of the Rights of All Migrant Workers and Members of their Families, UN CEDAW (2008) and General Recommendation No. 26. 1.2 Promote awareness and train stakeholders on relevant international standards, ILO Conventions and the ILO Multilateral Framework on Labour Migration and international good practices.
+
+2.1 Hold national tripartite consultations, MOLVT, MOW
+
+MOFA&IC, MO
+
+MOLVT, MMOFA&IC, MOWA
+
+MOLVT
+
+51 Contributing social partners and CBOs are expected to evolve over the course of the implementation of this Policy anduring annual implementation planning.
+
+ 
+
+ 
+
+and regional cooperation on labour migration, particularly within ASEAN, with a clear vision of how ASEAN regional integration and the including particularly associations representing workers and industries, to develop a strategy for how Cambodia can benefit from AEC in 2015 in terms of sectors for skilled or unskilled men and
+
+ASEAN Economic Community (AEC) can enhance decent work opportunities for all migrant workers. women migrants, and as either a sending country, destination country, or both. 2.2 Contribute to regional dialogue and tools related to the protection of migrants' rights, including through participation in the ASEAN Forum of Migrant Labour and considered application of the Recommendations, the drafting and implementation of the ASEAN Instrument on the Protection and Promotion of the Rights of Migrant Workers for 2015, on labour attachés,
+
+3. In consultation with social partners and civil society organizations, the Government establishes gender-sensitive, sector specific minimum standards for MOUs with destination countries as a condition of and social security. 2.3 Contribute to and assist in strengthening the ASEAN regional labour migration statistics database and strategically use this data. 3.1. Adopt MOUs that include protection mechanisms and operating procedures including setting maximum fees and costs borne by migrant workers, establishing procedures to enable portability of social security benefits, skills certification, ensuring minimum wage and decent working and living
+
+MOFAIC
+
+MOI, MOWMOEF
+
+MOLVT, MOFA&IC, MMOWA
+
+MOLVT, MOFAIC, MOI
+
+MOLVT, destination countries Governments,MOFA&IC
+
+ 
+
+ 
+
+sending, and key articles for contracts with employers prior to sending any workers abroad. conditions. All MOUs will be considered in tripartite plus52 consultation and will take into account the adequacy of national labour laws (e.g. protection for domestic workers or proper procedures for identifying victims of trafficking).
+
+3.2 Develop key principles to be included in standard employment contracts, including mandatory days off and set working hours, portability of social security benefits, skills certification, minimum wages, and decent working and living conditions. An employment contract including these protection mechanisms between employers and migrant workers must be in place before sending migrant workers to destination countries and should be referenced within or annexed to the MOU. This should be accompanied by a monitoring system to review the contract before migrant workers are sent abroad.
+
+3.3 Revise the labour migration MOU with Thailand to include the above protection mechanisms, and ensure that provides greater incentive for regular migration. 3.4 Develop an MOU with Malaysia that takes into account the specific needs
+
+MOLVT, MOFAIC, MMOEF, MOWA
+
+MOLVT, MOFAIC, MMOEF, MOWA
+
+MOLVT, MOFAIC, M
+
+52 'Tripartite plus' refers to meetings that include workers' and employers' organizations', with civil society and NGO representatives.
+
+ 
+
+ 
+
+of domestic workers. 3.5 Conduct tripartite plus stakeholder consultations to feed into annual bilateral meetings assessing MOUs with destination countries.
+
+3.6 Undertake tripartite plus consultation when considering potential markets for migrant workers in new destination countries and share outcomes of MOU meetings with relevant labour migration stakeholders. 3.7 Participate in sub-regional meetings on negotiating and setting up MOUs, adherence to future regional guidelines on drafting and forging good bilateral agreements, and participation in good practice study tours to countries with
+
+good labour migration governance mechanisms. stitutional amework 4. The MOLVT invests in the capacity of the relevant bodies at central and provincial levels, and takes a leadership role in strengthening interministerial cooperation on labour migration, including actively contributing to the Migration Working Group of the National Committee to Counter Human Trafficking. 4.1 Establish and allocate adequate provision of human and financial resources to the Sub-Committee on Labour Migration under the InterMinisterial Committee on Examining and Preparing the National Employment Policy, to oversee the implementation of this Policy. 4.2 This committee will meet on an annual basis to agree to an annual work plan and have monitoring and evaluation oversight of this work plan which will be measured at each yearly meeting.
+
+MOEF, MOWAMOLVT, MOFAIC, MMOEF, MOWAMOLVT, MOFAIC, MMOEF, MOWA
+
+MOLVT, MOFAIC, MMOEF, MOWA
+
+In
+
+fr
+
+MOLVT,
+
+MOFA&IC, MMOWA, MOMOSAVY
+
+MOLVT, MOFA&IC, MMOWA, MOE
+
+ 
+
+ 
+
+4.3 Review the Government's allocation of resources (human and financial) at all levels of the management of sending workers' abroad, reflecting the contribution that migration makes to
+
+development. 4.4 Research will be undertaken on institutional migration structures in the region and financing arrangements for the complete migration cycle. 4.5 Build capacity, strengthen and expand the responsible units to manage the prime functions of an overseas employment programme, (including migrant workers' welfare, dispute management, training and orientation, recruitment agency monitoring,
+
+complaints processing, return and reintegration), according to the results of the above research. 4.6 Conduct training on Sub-decree 190 and relevant prakas to Government officials, trade unions, community members and NGOs. Ensure comprehensive training of staff members engaged in the overseas employment program and on-going monitoring and capacity building after training. Ensure that when legislation changes, all labour migration stakeholders are updated. 4.7 Train labour inspectors and MOI
+
+MOLVT,
+
+MOFA&IC, MOEF, MMOWA
+
+MOLVT, PDOLVTs, MMOFA&IC
+
+MOLVT, PDOLVTs, MMOFA&IC
+
+MOLVT, PDOLVTs, MOFA&IC, MO
+
+MOLVT,
+
+ 
+
+ 
+
+officials to identify instances of exploitation, forced labour or human trafficking and take appropriate victim-friendly action. 4.8 Train MOI officials at border crossings to
+
+collect data on out-migration and ensure that migrant workers have correct migration documents. 4.9 Increase cooperation between MOI border officials and MOLVT on data-sharing, through a regular dedicated mechanism 4.10 Establish provincial one stop services with MOLVT, MOI and MOFA&IC staff to issue all documentation needed for regular migration in provinces with high migration rates.
+
+4.11 MOLVT will maintain active involvement in the Migration Working Group of the National Committee to Counter Human Trafficking. egislative/ gulatory amework 5. New legislation and regulations are considered only where gaps are identified, and developed to reflect the specific and distinct needs of women and men migrants through tripartite consultation. Procedures related to labour migration are streamlined to incentivise regular migration 5.1 Improve monitoring of legislation implementation, and consider either streamlining emigration procedures where they are complex or adding guidelines for implementation of aspects of labour migration legislation where necessary. 5.2 Develop comprehensive gender-sensitive policy and guidelines around return and reintegration of Cambodian migrant workers, considering vulnerable
+
+Immigration Department, MOI, MOWA
+
+MOLVT, Immigration Department, MOI, MOWA
+
+MOLVT, MOI
+
+MOLVT, MMOFA&IC, MOEF, MOWA
+
+MOLVT, MNCCT
+
+L
+
+re
+
+fr
+
+MOLVT, MMOEF
+
+MOLVT, MOMOI, MOFA&MOEF
+
+ 
+
+ 
+
+and protect workers' rights.
+
+6. Sex-disaggregated data is collected and analysed on a regular basis to inform evidence-based policy that is tailored to and addresses the experiences of women and men migrant workers. and deported workers, survivors of trafficking, and workers who were detained in other countries.
+
+5.3 Involve tripartite plus stakeholders in the formulation of all new legislation and regulations, and apply gender mainstreaming tools.
+
+6.1 Develop and maintain comprehensive database (disaggregated by gender, sector, legal status) with continual monitoring to be published and for supporting evidence-based policy formation, including as part of the ASEAN labour migration statistics database.
+
+6.2 Improve the mechanism for monitoring information on irregular and returned migrant workers and improve the coordination among entities that collect, analyse and disseminate data by instituting national meetings of labour migration data focal points from MOLVT, PRAs, MOI, and MOFA&IC in Cambodia and at embassies in destination countries. 6.3 Use information from MOLVT and MOI databases to create policies to enhance the development impact of migration. Use this information to facilitate migrant-worker transfer of capital and skills by providing incentives. MOFA&IC, MO
+
+MOLVT, MMOFA&IC
+
+MOLVT
+
+MOLVT, PDOLVTs, MMOFA&IC
+
+MOLVT, MMOFA&IC, MOWA
+
+ 
+
+ 
+
+Protection and empowerment of men and women migrant workers
+
+Supervision of recruitment and placement 7. The Government monitors and enforces protection mechanisms in the recruitment and placement of migrant workers, including institutionalising inspection of private recruitment agencies, the delivery of pre-departure training, and regulating the costs of migration, including brokerage fees.
+
+7.1 Monitor the delivery of pre-departure training by PRAs as per the specifications outlined in prakas No. 046.
+
+7.2 Enforce prakas No. 046 with MOLVT approving PRAs public advertisements for recruitment prior to advertising and taking appropriate legal action against those breaching this prakas.
+
+7.3 Monitor that as per prakas No. 253, PRAs are intervening when any party in Cambodia or destination countries illegally withholds workers' personal documents.
+
+7.4 Ensure that PRAs keep a database with migrant workers' information and details about work contract and workplace. Ensure ACRA maintain a secure database of outgoing and returning migrant workers of their members. ACRA will make data available to relevant Ministries, Departments or Embassies in case of missing migrants or migrants in danger.
+
+7.5 Enforce the job placement service contract between migrant workers and PRAs as per prakas No. 253, and establish a monitoring system to review the contract before migrant workers are
+
+MOLVT
+
+MOLVT, PDOLVTs
+
+MOLVT, MOFA&IC
+
+MOLVT
+
+MOLVT
+
+ 
+
+ 
+
+sent abroad. 7.6 Terminate or suspend the deployment of Cambodian migrant workers to countries where workers' rights, occupational safety and health, and the national interest are at risk.
+
+7.7 Establish a multi stakeholder committee to reduce and set caps on recruitment costs over time, through monitoring of costs and fees, examination of alternative recruitment options, effective enforcement and complaints mechanisms.
+
+7.8 Establish a transparent mechanism to review the costs of migration borne by employers and migrant workers in association with destination countries, and the costs borne by private recruitment agencies and migrant workers in Cambodia.
+
+7.9 As per prakas No. 47 and sub-decree 190, the MOLVT will annually review the processes and results of each PRA for evaluation, for commending or issuing a warning, or continuing, cancelling or suspending the PRAs license where violations are found.
+
+7.10 Establish a checklist which labour inspectors can utilise when carrying out inspections under prakas No. 250 and prakas No. 251, to determine standards for inspection and standards for ranking
+
+MOLVT
+
+Sub-committeon LabMigration, MOLVT, MOW
+
+Sub-committeon LabMigration, MOLVT, MOWMOFA&IC
+
+MOLVT
+
+Sub-committeon LabMigration, MOLVT labinspection
+
+ 
+
+ 
+
+8. Unlicensed brokers or agents, or licensed recruitment agencies linked to exploitative or unscrupulous practices, are targeted with appropriate sanctions to reduce irregular migration and reduce the vulnerability of migrant workers. and sanctioning PRAs. In this checklist, MOLVT should also outline the rewards criteria for PRAs with good performance. The results of the inspection will be publically disseminated and followed up by the Sub-Committee on Labour Migration. A tripartite plus mechanism will access and evaluate PRAs every two years.
+
+7.11 Increase monitoring and regulation of PRAs and agents at international, national and regional levels and refer criminal infringements to the criminal justice system, including in destination countries.
+
+7.12 Self-regulation tools will be promoted among recruitment agencies as tools to advance ethical recruitment and good practices. MOLVT will reward PRAs effectively self-regulating.
+
+8.1 As per prakas No. 46, the only people licensed to recruit and place workers are registered PRA staff. People found to be unlicensed or fraudulent during inspection or at other times will be subject to judicial penalties.
+
+department
+
+MOLVT, PDOLVTs, MOFA&IC
+
+MOLVT
+
+MOLVT, MOJ
+
+ 
+
+ 
+
+S
+
+upport ervices 9. Government consular services are established or enhanced in major destination countries to provide effective assistance 9.1 Establish labour attachés and consular officials in destination countries to adequately provide protection for men and women migrant workers in destination countries. The mandate of
+
+to men and women migrant workers regardless of their status, including shelter, legal, labour dispute, social protection and repatriation facilities. labour attachés should include vetting job orders and employers before allowing Cambodian nationals to be recruited, and transparently communicating with all stakeholders around cases involving Cambodian migrant workers. Labour attachés will receive comprehensive training before being placed in the embassy. 9.2 Labour attachés will work closely with authorities and service providers in destination countries to provide
+
+assistance to migrant workers and their families, such as enabling children of migrant workers to attend school and access to health services. 9.3 In association with local service providers, promote the establishment of community centres for migrant workers in destination countries that provide translation support, and run financial literacy, vocational and language courses. 9.4 Input to regional guidelines for the accreditation and monitoring of foreign employers of migrant workers, and development of a manual at sub-
+
+s
+
+MOFA&IC,
+
+MOLVT, MMOWA, MOEF
+
+MOFA&IC, MOLVT, MMOWA, MOEF
+
+MOFA&IC, MOLVT, MMOWA, MOMOJ
+
+MOLVT, MOFA&IC
+
+ 
+
+ 
+
+10. Migrants' access to justice is facilitated through implementing the regional level for establishing and managing labour attaché programmes. Participate in labour attaché trainings and capacity building workshops run at sub-regional levels.
+
+9.5 During complaints processes, provide legal assistance referral services and actively seek legal aid partnerships for men and women migrant workers regardless of their status.
+
+9.6 Establish gender-sensitive shelter facilities in Embassies for distressed men and women migrant workers.
+
+9.7 Provide assistance to migrant workers in immigration detention, and actively develop a partnership with immigration detention facilities in order to share information on Cambodian migrant workers in detention.
+
+9.8 Develop emergency evacuation and repatriation plans for migrant workers outlining comprehensive support offered during repatriation, including recovery of wages and compensation.
+
+9.9 Support Thai and Cambodian trade unions to operationalise their joint MOU to support migrant workers as referral service providers.
+
+10.1 As per sub-decree 190 and prakas No. 249, MOLVT and PDOLVTs will run timely and transparent conciliation
+
+MOFA&IC, MOLVT, MOJ
+
+MOFA&IC, MOLVT
+
+MOFA&IC, MOLVT
+
+MOLVT, MOFA&IC
+
+MOLVT
+
+MOLVT, PDOLVTs
+
+ 
+
+ 
+
+complaints mechanism in an effective, gender-sensitive and timely manner. In the event of a crime, judicial processes are initiated to ensure an adequate penalty, and a deterrent to others. processes and establish and utilise a complaints database to record outcomes of conciliation hearings for regular and irregular workers.
+
+10.2 Provide legal counselling and assistance for regular and irregular, men and women migrant workers when they lodge a complaint or are involved in legal proceedings.
+
+10.3 After establishing a complaints database, publish annual reports from the complaints processes with review by tripartite stakeholders.
+
+10.4 Ensure migrant workers can be compensated for exploitation or assisted in cases of emergency by developing policy regarding recruitment agency guarantee cash deposit to ensure that these funds can be utilised in the instance of exploitation of migrant workers, to compensate migrant workers for any loss where a recruitment or contracting agency fails to meet its obligations, or in the event of force majeure or natural disaster in the destination country.
+
+10.5 Negotiate with employers in destination countries to institute insurance schemes to ensure protection for workers in the event of unpaid salary, death or disability.
+
+MOLVT, MOJ
+
+MOLVT
+
+MOLVT, MOE
+
+MOLVT, MOFA&IC
+
+ 
+
+ 
+
+11. The Government facilitates migrants' access to vocational training programs to develop and recognize the skills of migrant workers as a measure to enhance protection and earning potential. Training programmes and skills recognition systems are developed for women and men in consultation with employers and governments of destination countries, according to labour market needs, in specific occupations and sectors.
+
+12. The Government cooperates with local leaders, social partners and civil society organizations to provide accurate and up-to-date information on safe migration and rights at work in major migrant-sending 11.1 Establish quality programs to upgrade the vocational skills of men and women migrant workers through relevant training, including training on language, skills and occupational safety and health.
+
+11.2 Promote recognition and accreditation of migrant workers' skills and qualifications in Cambodia and destination countries prior to return as a measure to enhance protection and incomes.
+
+11.3 Participate in ASEAN and subregional programmes to develop MRAs for occupations and sectors.
+
+11.4 Establish a skills recognition system based on a skilled assessment test, competency standards, and skill accreditation for migrant workers once returned.
+
+11.5 Study the potential niche markets that are open to semi-skilled workers with relevant vocational training.
+
+12.1 Facilitate safe migration by giving prospective or current migrant workers information related to labour migration at the time of deciding to migrate and predeparture, using gender-sensitive delivery.
+
+12.2 Information desks should be extended to more PDOLVTs, and set up at the MOLVT,
+
+MOSAVY, MO
+
+MOLVT, MOFA&IC
+
+MOLVT MOLVT, MOSAVY
+
+MOLVT, PDOLVTs
+
+MOLVT, MPDOLVTs
+
+MOLVT
+
+ 
+
+ 
+
+communities and in transit hubs. airport and other departure points. 12.3 Coordinate with MOI to access the village safe structure to target change makers at provincial, commune and village level for increased safe migration training, including specifications around regular migration, the rights of migrant workers and recourse mechanisms. 12.4 Endorse a public safe migration campaign to advertise nationally the procedures and benefits of migrating regularly.
+
+12.5 MRCs should be replicated in more provinces with increased resources and functions, and should be available to family members when a migrant worker is abroad.
+
+12.6 Strengthen public and private employment services for men and women migrant workers by providing counselling, skill matching and assessment for men and women workers by expanding the National Employment Agencies' labour market information function to incorporate employment and migration related services for migrant workers before departure and after return.
+
+12.7 Raise awareness among potential and returned migrant workers about the mandate of National Employment
+
+MOLVT, PDOLVTs
+
+MOLVT, PDOLVTs, NE
+
+MOLVT, PDOLVTs, NE
+
+MOLVT, MOSub-committeon LabMigration
+
+MOLVT, NEA
+
+ 
+
+ 
+
+Agency.
+
+M
+
+13. Feasibility studies are conducted by the Government on further protection mechanisms for men and women migrant workers such as the revolving credit and loan funds, and migrant welfare funds to assist men and women migrant workers with migration.
+
+13.1 Based on the recommendations of the ILO Migrant Welfare Fund (MWF) feasibility study and guidelines, establish and manage a MWF through tripartite consultations, including development of a strategic plan, plus human and financial resources and timeframe. Pilot a small project in selected provinces where there are an identified high number of out migrants. Conduct assessment on the impact of project implementation and consider expanding to other provinces.
+
+Sub-Committeon LabMigration, MOLVT, PDOLVTs, MOEF
+
+Harnessing labour migration for social and economic developmenMigration in the National Development Agenda 14. Labour migration continues to be included within national development and sectorial plans to recognize and maximise the development potential of migration for Cambodia, and ensure coherent development planning. 14.1 Streamline labour migration into Cambodian national policies, particularly the National Employment Plan, Rectangular Strategy Phase III (2013-18), the National Strategic Development Plan 2014-18, and the National Policy of Cambodian Youth Development with the National Youth Action Plan 2014-2018, and national budget.
+
+14.2 The Sub-Committee on Labour Migration will facilitate an interministerial scoping exercise to streamline labour migration into sectorial development policies such as MOFA&IC, MMOLVT, MOSAVY, MO
+
+Sub-committeon LabMigration, MORD, MO
+
+OAFF, MO
+
+ 
+
+ 
+
+rural development, agriculture, industry, M
+
+tourism and services, in terms of productively using remittances and skills transfer. 14.3 Integrate labour migration issues into M M
+
+igrants' 15. The the national ILO decent work country programme, international development assistance programmes (ODA), and UNDAF. MGovernment works 15.1 Monitor PRAs assistance to migrant M
+
+OIH, MOW
+
+OEYS, MOP
+
+OLVT, M
+
+OFA&IC
+
+M
+
+remittances and investments
+
+with financial institutions in Cambodia and destination countries to enable access to safe, efficient and cheaper remittance and financial services for migrant workers. The impact of remittances on development is enhanced through support services provided to migrants and their families, including gender-sensitive financial literacy training, a broader range of financial services and products, and dialogue and tools for diaspora engagement.
+
+workers in establishing bank accounts, accessing financial services in destination countries as per prakas No. 252, ensuring that workers receive their wages and other payments as stated in their employment contract, and arranging a savings and transfer system as per prakas No. 253.
+
+15.2 Encourage financial institutions to facilitate safe and low-cost remittance transfer from destination countries, including scaling up remittance facilities in communes with high migration rates, reducing costs of remittance transfers and promoting greater transparency and competition between financial institutions.
+
+15.3 Negotiate with labour-receiving countries to facilitate migrant worker access to financial services, and encourage employers to deposit
+
+OLVT,
+
+MOFA&IC, labour attaché
+
+MOEF, MOLMOFA&IC
+
+MOEF, MOLMOFA&IC, labour attaché
+
+ 
+
+ 
+
+salaries into bank accounts, instead of paying cash. Insert this clause into the standard MOU. 15.4 Monitor and enforce the remittance sending information and financial literacy section of the standardised predeparture training curriculum. 15.5 Assist in linking migrant worker families and financial institutions to obtain loans with low interest rates that cater to the needs of migrant workers. 15.6 Provide financial literacy training and counselling services to migrant workers and their families on productive uses of remittances. 15.7 Promote the establishment of village development funds or village savings
+
+groups. 15.8 Support entrepreneur training for migrant workers and their family members. 15.9 Study international commitments and practices on remittances, as well as current remittance and savings practices in Cambodia. Collect / trace remittance flows to enhance the knowledge base on remittance services and costs in migration key corridors. 15.10 Identify diaspora groups in destination countries and returned migrant communities and promote the effective use of returned migrants'
+
+MOLVT
+
+MOLVT, MOE
+
+MOLVT, NEA
+
+MOLVT, MOSAVY
+
+MOLVT
+
+MOLVT, Scommittee Labour Migrat
+
+MOLVT, MOFA&IC, labour attachéMOSAVY, MO
+
+ 
+
+ 
+
+resources (skills and finances) for
+
+community development throughdialogue on a common agenda fordevelopment and tools, for example aHandbook for Returned Migrants.
+
+eturn and integration 16. Productive return and reintegration of women and men migrant workers is enabled through evidence-based policy, and 16.1 As per prakas No. 252, ensure that PRAs assist in preparing all necessaryarrangements so that workers cansuccessfully repatriate, includingworking with the Cambodian Embassy
+
+strengthened service provision for social and economic reintegration, including employment services, skills development and recognition, enterprise or competent authority to resolve anyissues in the destination country beforerepatriating, and as much as possibleexploring cross-border legal support ifrequired, even once the migrant isrepatriated to Cambodia. Ensure that
+
+development training, and investment programmes. PRAs arrange a MOLVT certificate ofrecognition for work completed andimprovement in skills once returned toCambodia. 16.2 Negotiate with destination countries to provide gender-sensitive exit medicalcheck-ups for returned migrant workersto ensure that they are physically andpsychologically able to reintegrate totheir home community. 16.3 Link returned migrant workers to National Employment Agencies' forgender-sensitive counselling, skillmatching and job placement. 16.4 Link returned migrant workers to
+
+R
+
+re
+
+MOLVT, M
+
+MOFAIC, MOJ
+
+MOLVT, MOMOFA&IC
+
+MOLVT, MOFA&IC
+
+MOLVT
+
+ 
+
+ 
+
+employers' organizations, and organise special placement services for skilled men and women returned migrant workers. 16.5 Promote and provide incentives for
+
+enterprise creation and development, by coordinating with financial institutions to provide information on potential investment programmes, financial services or credit facilities, and transnational business initiatives catering for men and women migrant workers. 16.6 Facilitate full refund of accumulated contribution to the savings fund and interest to migrant workers as per the Cambodia and Thailand MOU and
+
+establish this in other countries MOUs. 16.7 Negotiate with employers in destination countries to institute repatriation insurance schemes to ensure funds for travelling home and upon returning home. 16.8 Establish a system to screen deportees and allows migrant workers to lodge complaints on return and access legal representation, and counselling with men and women service providers. 16.9 Establish a network of returned migrants and their families facilitated by counsellors or social workers to assist
+
+MOLVT, MOE
+
+MOLVT, MOFA&IC
+
+MOLVT, MOFA&IC
+
+MOLVT, MMOI, MOFA&I
+
+MOLVT, MOSAVY, MOWA
+
+ 
+
+ 
+
+17. The social cost of migration is mitigated through specific programmes, including through the provision of support to the families and children of migrant workers. with family reunification. 16.10 Establish specific gender-sensitive support services for workers who were abused or exploited.
+
+16.11 Facilitate increased communication between families and workers abroad, either through more visits home during the working period or facilitating contact in Migrant Worker Resource Centres.
+
+17.1 The Sub-Committee on Labour Migration will engage a consultant to study the potential negative effects and social costs of Cambodian emigration and implement programs to mitigate these after tripartite consultation on the research findings.
+
+MOLVT, MOSAVY, MOWA MOLVT, MOSAVY, MOWA
+
+Sub-committeon LabMigration
+
+56  
+
+ 
+
+Bibliography
+
+Chandararot, K, Liv, D. 2013. Rural development and employment opportunities in Cambodia: How can a National Employment Policy contribute towards realization of decent work in rural areas? ILO Country Office for Thailand, Cambodia and Lao People's Democratic Republic. Bangkok: ILO.
+
+Crossroads to Development, 2011. ILO GMS TRIANGLE Baseline Survey: Cambodia. Unpublished.
+
+International Labour Organisation. Progress on the implementation of the Recommendations at the Third and Fourth ASEAN Forum on Migrant Labour, Background paper to the Fifth ASEAN Forum on Migrant Labour, Bandar Seri Begawan, 9-10 Oct. 2012.
+
+International Labour Organisation, Tripartite Action for the Protection and Promotion of the Rights of Migrant Workers (ASEAN TRIANGLE Project), 2014. Assessment of the readiness of ASEAN Member States for implementation of the commitment to the free flow of skilled labour within the ASEAN Economic Community from 2015. ILO Regional Office for Asia and the Pacific. Bangkok: ILO.
+
+International Labour Organisation and Asian Development Bank, 2014. ASEAN community 2015: Managing integration for better jobs and shared prosperity. Bangkok, Thailand: ILO and ADB.
+
+International Labour Organisation, 2012. ILO global estimate of forced labour: results and methodology. International Labour Office, Special Action Programme to Combat Forced Labour (SAP-FL). Geneva: ILO
+
+International Labour Organisation. Resolution concerning the measurement of underemployment and inadequate employment situations, adopted by the Sixteenth International Conference of Labour Statisticians, October 1998, www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-internationalconferences-of-labour-statisticians/WCMS_087487/lang--en/index.htm [accessed 4 June 2014].
+
+International Labour Organisation and Korea Multi-country Dialogue presentation, Update on the Employment Permit System, 3 December 2013.
+
+International Organization for Migration and the Asian Research Center for Migration, 2013. Assessing Potential Changes in the Migration Patterns of Myanmar Migrants and their Impacts on Thailand. Thailand: IOM.
+
+International Organization for Migration presentation, Assessment of Returned Migrants in Cambodia, 9 September 2014, Phnom Penh.
+
+Jampaklay, A., Kittisuksathit, S. 2009. Migrant workers' remittances: Cambodia, Lao PDR,
+
+57  
+
+  and Myanmar. Bangkok, ILO.
+
+Ministry of Planning, National Institute of Statistics. 2013. Cambodia Inter-censal Population Survey 2013: Final Report. Phnom Penh.
+
+Ministry of Planning, National Institute of Statistics. 2010. Cambodia Socio-Economic Survey 2009. Phnom Penh.
+
+Ministry of Planning, National Institute of Statistics. 2013. Supplementary notes, commenting on the results of the Cambodia Socio-Economic Survey 20012. Phnom Penh.
+
+Ministry of Planning, National Institute of Statistics; International Labour Organization. 2013. Cambodia Labour Force and Child Labour Survey 2012: Labour Force Report. Phnom Penh: ILO.
+
+Ministry of Planning, United Nations Population Fund. 2012. Migration in Cambodia: Report of the Cambodian Rural Urban Migration Project (CRUMP). Phnom Penh.
+
+NESDB. 2014. Labour Demand Projection in Thailand, in NESDB presentation slide based on the Labour Market Study for the Ageing Society Project.
+
+Royal Government of Cambodia, 2014. National Strategic Development Plan 2014-2018. Phnom Penh.
+
+Thailand Development Research Institute, 2012. Designing manufacturing and labour force development strategies for industrial sector demand in 2015, Research report submitted to the Ministry of Industry, Office of Industrial Economics: Bangkok.
+
+The World Bank. Cambodia Data, http://data.worldbank.org/country/cambodia [accessed 4 June 2014].
+
+The World Bank. Migration and remittances Factbook, http://data.worldbank.org/data-catalog/migration-and-remittances [accessed 15 May 2014].
+
+Tunon, M., Rim, K. 2013. Cross-border labour migration in Cambodia: considerations for the national employment policy. ILO Regional Office for Asia and the Pacific Working Paper Series. Bangkok: ILO.
+
+United Nations Development Program, United Nations Development Program Cambodia Annual Report 2013 http://www.kh.undp.org/content/cambodia/en/home/library/annual- report/annual-report-2013/ [accessed 20 May 2014].

@@ -1,0 +1,1569 @@
+no title
+
+National Higher and Technical Education Plan 2015-2024
+
+National Higher and Technical Education Plan 2015-2024
+
+ISBN 978-9980-950-00-0
+
+Copyright ((c)) Department of Higher Education, Research, Science and Technology 2015
+
+Level 2, Mutual Rumana Building, Waigani Drive, Port Moresby, NCD PNG PO Box 5117, Boroko, NCD, PNG
+
+ISBN 978-9980-950-00-0
+
+1
+
+National Higher and Technical Education Plan 2015-2024
+
+Contents
+
+Statement from Minister .......................................................................................................... 4 Statement from Secretary ...................................................................................................... 5 Acknowledgements ................................................................................................................ 6 Executive Summary ................................................................................................................. 7 1. Introduction ........................................................................................................................ 10 1.1 Outline of Plan .............................................................................................................. 11 1.2 Significance of Plan ..................................................................................................... 12 1.3 Plan framework and process ..................................................................................... 13 1.4 Plan v ision, mission and core values .........................................................................
+
+14 15
+
+2. Current PNG higher and technical education situation ............................................. 17 2.1 Higher and technical education sector overview.................................................. 17 2.2 Current H&TE sector challenges ................................................................................ 20 3. Future directions for PNG higher and technical education........................................ 25 3.1 Development trends and H&TE ................................................................................. 25 3.2 H&TE Growth Model: addressing quantity, quality and relevance ...................... 31 3.3 H&TE developmental phases ..................................................................................... 34 3.4 Critical success factor ................................................................................................. 35 4. Priority goals, strategies and actions .............................................................................. 37 4.1 Governance, structure and coordination ............................................................... 39 4.2 Resource and workforce capacity management ................................................. 40 4.3 Research, science and technology ......................................................................... 43 4.4 Quality assurance ........................................................................................................ 43 4.5 Access, equity and diversity....................................................................................... 46 4.6 Industry and district alliances ..................................................................................... 48 4.7 Technical education and training ............................................................................ 50 4.8 Internationalisation and global labour mobility ...................................................... 52 4.9 Monitoring and evaluation......................................................................................... 53 5. Plan implementation......................................................................................................... 55
+
+Tables
+
+Table 1: Universities in PNG: Enrolments, graduates and major disciplines ....................18 Table 2: Higher and technical education graduate numbers 2010-2013 .....................19
+
+Table 3: Employment positions according to industry group...........................................28 Table 4: Formal labour market employee skill level...........................................................29 Table 5: H&TE student places targets 2014 to 2024 ...........................................................33
+
+Table 6: Strategies and actions for governance, structure and coordination..............39 Table 7: Strategies and actions for resource and workforce capacity management 41 Table 8: Strategies and actions for research, science and technology ........................44
+
+Table 9: Strategies and actions for academic programmes and quality assurance ..45
+
+Table 10: Strategies and actions for access, equity and diversity ..................................47 Table 11: Strategies and actions for industry and district alliances.................................49 Table 12: Strategies and actions for technical education and training ........................51
+
+Table 13: Strategies and actions for internationalisation and global labour mobility ..52 Table 14: Strategies and actions for monitoring and evaluation framework ................54
+
+Figures
+
+Figure 1: Proportion of total graduates from 2010 to 2013 by key study fields ..............19 Figure 2: Nominal and real sub-sector expenditure for PNG universities 2004-2010 .....21
+
+Figure 3: Higher and technical education graduates: 2030 projections .......................30 Figure 4: The higher and technical education growth model ........................................32 Figure 5: Long-term phases of development for H&TE in PNG. .......................................34
+
+Acronyms
+
+BPNG Bank of Papua New Guinea CPI Consumer Price Index DHERST Department of Higher Education, Research, Science and
+
+Technology DWU Div ine Word University GER Gross Enrolment Rate HEI Higher Education Institution, including universities and TVET, teachers', nursing and other colleges
+
+HIES PNG Household Income & Expenditure Survey H&TE Higher and Technical Education
+
+ICT Information and Communication Technology KPI Key Performance Indicator
+
+M&E Monitoring and Evaluation MTDP 2011-2015 Medium Term Development Plan 2011-2015 NATTB National Apprenticeship and Trade Testing Board NHTEP 2015-2024 National Higher and Technical Education Plan 2015-2024 NSO National Statistical Office
+
+NTC National Training Council OHE Office of Higher Education PAU Pacific Adventist University PNGDSP 2010-2030 Papua New Guinea Development Strategic Plan 2010-2030 PNGLNG Papua New Guinea Liquefied Natural Gas
+
+PNGUOT Papua New Guinea University of Technology PNG NQF Papua New Guinea National Qualifications Framework R&D Research and Development
+
+STC Science and Technology Council TESAS Tertiary Education Student Assistance Scheme TVET Technical and Vocational Education and Training TVETSSP Technical and Vocational Education and Training Skills Scholarship
+
+Programme UNRE University of Natural Resources and Environment UOG University of Goroka
+
+UPNG The University of Papua New Guinea
+
+Statement from Minister
+
+We are entering into an exciting new phase with the substantial contributions that the higher and technical education sector can make towards the achievement of Papua New Guinea's long-term national development aspirations. The National Higher and Technical Education Strategic Plan for 2015 to 2024 has been developed to guide the sector through these times.
+
+PNG's Vision 2050 aims for the country to attain the status of a middle-income economy by 2030 in order to become a 'smart, wise, happy and wealthy' nation by 2050. Central to this aim is Human Capital Development, Gender, Youth and People Empowerment - and the subsequent role that higher and technical education must play in advancing PNG's future.
+
+Papua New Guinea currently has a transitional economy that is driven by a mining and energy boom. Over the last decade, PNG has experienced unprecedented economic growth, which has resulted in a mismatch between the supply and demand of specialised human capital.
+
+As recognised in Vision 2050, PNG needs to develop its manufacturing, serv ices, agriculture, forestry, fisheries and eco-tourism sectors and minimise its dependency on minerals and petroleum in the future. The country, therefore, must develop the necessary skills, knowledge and innovation to achieve this economic shift.
+
+The Department of Higher Education, Research, Science and Technology - in collaboration with sector stakeholders including higher education institutions, other Government agencies and industry - has developed NHTEP 2015-2024 to define this pathway.
+
+A key challenge is the balance that must be achieved between enhancing the quality of and improving access to higher and technical education in PNG. The opportunities offered in our higher education institutions must form a complementary and comprehensive set of education possibilities tied to our national interests. We must foster research that informs education, supports industry, and contributes to PNG's development.
+
+The economic and social future for PNG is bright but it assumes the availability of a large cohort of young, enthusiastic and well-educated people who are able to make the required contributions towards PNG's long-term goals. I believe that, with your input and positive approach, we can build this human capacity and, in
+
+turn, realise PNG's full potential.
+
+Hon Malakai Tabar, MP
+
+Minister for Higher Education, Research, Science and Technology
+
+Statement from Secretary
+
+The National Higher and Technical Education Plan 2015-2024 addresses the current gap between the skills, knowledge and innovation that are required to achieve Papua New Guinea's Vision 2050 and the sector's existing capacity to prov ide these elements. Bridging the gap will take longer than the ten years included in this Plan but we must start now.
+
+As part of the initial phase of developing NHTEP 2015-2024, the Department of Higher Education, Research, Science and Technology, under the auspices of the former Office of Higher Education, undertook a comprehensive consultation process in 2012. During this process, all stakeholders were given the opportunity to
+
+discuss the challenges facing the sector and to offer their v ision for the future.
+
+Just as Vision 2050 spells out the aspirations of the people of PNG, the NHTEP 2015-2024 spells out the aims of the higher and technical education sector for PNG
+
+through its v ision, mission, and strategic goals.
+
+The higher and technical education sector has enormous potential to change the current situation and future possibilities for many Papua New Guineans. This opportunity can only be realised through a determined, considered and
+
+coordinated effort from all stakeholders involved in higher and technicl education.
+
+The aim is for a well-organised higher and technical education sector that delivers skilled, knowledgeable and conscientious graduates and undertakes inspiring
+
+research in strategic areas that showcase PNG's strengths.
+
+Major transformation is required by the higher and technical education sector and I inv ite you to embrace these changes. The Plan prov ides a shared strategy for the sector to foster a responsible, innovative and collaborative approach towards higher and technical education and, in turn, advance and sustain PNG's
+
+economic, social and enviornmental development.
+
+I look forward to working with our higher education institutions and other stakeholders with regard to prov iding higher and technical education opportunities for our people and to creating positive change for the future
+
+wellbeing af all Papua New Guineans.
+
+Professor David Kavanamur
+
+Acting Secretary
+
+Department of Higher Education, Research, Science and Technology
+
+Acknowledgements
+
+The National Higher and Technical Education Plan 2015-2024 Steering Committee acknowledges and is grateful for the efforts of the higher and technical education stakeholders who gave their time to participate in this strategic planning process. Their v iews are highly appreciated and NHTEP 2015-2024 is much richer and more
+
+widely-owned as a result of their contributions.
+
+The Plan also represents the industrious work of a range of dedicated indiv iduals in the Department of Higher Education, Research, Science and Technology. In particular, appreciation is extended to staff from the Institutional Development Branch and the Policy Planning and Monitoring Branch for leading and coordinating the development of the framework and content for the Plan, and to indiv iduals from the Executive Branch for their support.
+
+Finally, we acknowledge and are grateful for the technical and financial support from the Papua New Guinea Government and also from donor agencies, such as
+
+Australian Aid.
+
+Acknowledgments
+
+Executive Summary
+
+The National Higher and Technical Education Plan (NHTEP) 2015-2024 is a home grown sector-wide plan that maps the best ways forward over the next ten years for Papua New Guinea's higher and technical education (H&TE). I t is intended as a shared roadmap for Government agencies, higher education institutions (HEIs), industry and all other parties participating in the sector.
+
+The Plan contains an overarching strategic direction, a comprehensive and coordinated set of nine priority goal areas, and clear guidelines on proposed
+
+action for all stakeholders.
+
+All of these aspects are built upon the v ision of NHTEP, which is to provide the higher skills, knowledge and innovation needed for PNG's sustainable development.
+
+The consequential underlying mission of NHTEP is to develop an accessible and
+
+quality higher and technical education system by 2024 that advances and sustains PNG's social, economic and environmental development.
+
+The H&TE sector in Papua New Guinea has experienced a sustained period of relative neglect and, as such, rejuvenation will not be an easy or simple task. Specific challenges that must be addressed include: fragmented sector coordination; insufficient Government funding; deteriorating physical infrastructure; comparatively poor salaries and conditions; confidence loss in university governing bodies; poor quality assurance; limited research capacity;
+
+and inadequate information communication and technology.
+
+A critical success factor for the Plan is the high level of determination required from stakeholders, including substantial consideration, resilience and commitment
+
+when addressing the wide range of deeply-rooted issues in the sector.
+
+The core values underlying the Plan are derived from the Ethics and Values-based Leadership Capability Framework of the PNG public serv ice which involve six values that are common to the traditional (clan), Christian (church) and modern contexts currently existing in PNG - namely, honesty, integrity, accountability,
+
+respect, wisdom and responsibility.
+
+The overarching strategic intent of the Plan is for existing HEIs to focus on quality improvement and mild expansion of student places for the first five years and for new institutions to provide supplementary student places. A sector-wide relatively rapid expansion of higher and technical education student places will then take place in the second five years.
+
+The nine goals of NHTEP 2015-2024 are to be achieved over the next ten years. Together, these goals will foster the successful delivery and management of H&TE in PNG that is: accessible to the community; of high quality and internationally-
+
+recognised; and relevant to national interests. They include:
+
+1.
+
+Governance, structure and coordination - to support effective and efficient sector coordination and institutional governance that contributes to the provision of a robust H&TE system.
+
+2.
+
+Resource and workforce capacity management - to develop sufficient resource and workforce capacity for the H&TE sector to support PNG's developmental needs in an innovative manner.
+
+3.
+
+Research, science and technology - to foster a productive research, science and technology culture in HEIs and research bodies that supports their contribution to national social and economic development.
+
+4.
+
+Quality assurance - to deliver a range of academic and training programmes that meet national standards, are benchmarked against international good practice, and are relevant to the needs of PNG.
+
+5.
+
+Access, equity and diversity - to ensure that access to H&TE opportunities is maximised and that gender equity and social inclusion are promoted in the H&TE sector.
+
+6.
+
+Industry and district alliances - to develop a H&TE sector that is characterised by strong alliances with local industries and adopts a whole-of-Government approach across sub-national levels.
+
+7.
+
+Technical education - to ensure technical and vocation education (TVET) colleges are prov ided with sufficient targeted support to deliver well-organised and quality post-secondary technical education in accordance with PNG's future needs.
+
+8.
+
+Internationalisation and global labour mobility - to support the development of an international dimension in H&TE that prepares graduates to prosper in an increasingly globalised environment.
+
+9. Monitoring and evaluation (M&E) - to implement an M&E framework for the H&TE sector that supports effective performance management at the sector and institutional level.
+
+While NHTEP 2015-2024 incorporates a strategy and nine comprehensive goals to be applied over the next ten years, actual strategies and actions have only been devised for the first five years of the Plan. This approach recognises that there is much to be done - and that could change - over the next five years, and so strategies and actions for the second five years can only be realistically devised
+
+closer to their implementation.
+
+DHERST will be responsible for managing the implementation of the Plan, in collaboration with relevant Government agencies, HEIs and other stakeholders.
+
+Executive Summary
+
+Each stakeholder will need to develop strategic and action plans that are informed by NHTEP and customised according to their own organisational capabilities. From time to time, stakeholders will meet rev iew to share details of
+
+their progress against the Plan.
+
+The implementation of NHTEP 2015-2024 requires an adequately resourced, coordinated and managed sector. Responsible implementing agencies will need to formulate and mobilise funding for activ ities and projects addressing NHTEP goals and strategies from a range of sources, including national and local agencies, international development partners, and the private sector, amongst others.
+
+The Plan's success requires a collaborative approach, accompanied by political steadfastness, courageous leadership, and ownership by stakeholders. I f these elements are present, and if implementation is effectively and efficiently managed, we can expect that H&TE will prov ide a solid foundation for the achievement of the Vision 2050 to be a Smart, Wise, Happy and Wealthy nation by
+
+2050.
+
+Executive Summary
+
+This page has intentionally been left blank.
+
+1.1 Outline of Plan
+
+The National Higher and Technical Education Plan (NHTEP) 2015-2024 is a home grown sector-wide plan that maps the best ways forward over the next ten years for the development of Papua New Guinea's higher and technical education (H&TE).
+
+The Plan is intended as a shared roadmap for Government agencies, higher education institutions (HEIs), industry and all other parties participating in the sector. I t provides an overarching strategic direction, nine priority goal areas, and clear guidelines on possible action for all stakeholders.
+
+The Plan opens with a brief discussion of its significance for PNG, the national framework within which it has been developed, and its underlying v ision, mission and core values. This is followed by an overv iew of the current H&TE situation in PNG, including sector challenges. Then, moving into future terrain, a rev iew of PNG's development context is given, followed by an outline of the consequential strategic direction for H&TE over the next ten years.
+
+Having set the stage, the Plan then identifies nine priority goals for the development of a robust H&TE sector for PNG that is accessible to its people, of high quality, and relevant to its national interests.
+
+These goals cover a range of diverse elements of H&TE, from governance to resourcing, from quality assurance to research, and from partnerships to internationalisation, amongst others. The Plan also includes the strategies and actions that should be taken over the first five years in order to achieve each goal.
+
+The Plan then closes with a discussion of its implementation, resourcing, and monitoring and evaluation.
+
+1. Introduction 1. Introduction
+
+1.1 Outline of Plan
+
+The National Higher and Technical Education Plan (NHTEP) 2015-2024 is a home grown sector-wide plan that maps the best ways forward over the next ten years for the development of Papua New Guinea's higher and technical education (H&TE).
+
+The Plan is intended as a shared roadmap for Government agencies, higher education institutions (HEIs), industry and all other parties participating in the sector. I t provides an overarching strategic direction, nine priority goal areas, and clear guidelines on possible action for all stakeholders.
+
+The Plan opens with a brief discussion of its significance for PN , the national framework ithin which it has been developed, and its underlying v ision, mission and core values. This is followed by an overv iew of the current TE situation in PNG, including sector halleng s. Then, moving into future terr in, r v iew of PNG's development co text is given, followed by an outline of th s quential strategic dire tion for H&TE over the n xt ten years.
+
+Having set th stage, the Plan then identifies ni e priority ls for the developm nt of a r bust H&TE sector f r PNG that is ac essible t its ople, of high quality, and relevant to its national interests.
+
+These goals c ver a range of divers elements of H&TE, fro r ance to resourcing, from quality assurance to res arch, and fro r rships to internationalisation, amongst others. The Plan also includes th ies and actions that should be tak n over the first five y ars in order to ac i ch goal.
+
+The Plan then closes with a discu sion of its implementation, r r ing, and monitoring and evaluation.
+
+1.2 Significance of Plan
+
+Papua New Guinea's future success depends on the quality of its human resources … Experiences from countries with limited natural resources show that huge investments in human capital development result in massive integrated socio-economic development. (Vision 2050, Government of Papua New Guinea, pg 33)
+
+Human capital development has played a v ital role in the transformation of the socio-economic development of many countries across the globe. To not only catch up, but also to prepare for the future, PNG must quickly build its natural human resource capacity. The country needs to prov ide greater opportunities for its people to: develop and realise their potential in order to better their own liv ing conditions; respond positively and determinedly to change; and contribute to
+
+PNG's economic, social and environmental development.
+
+PNG's Vision 2050 aims for the country to become a 'smart, wise, fair, healthy and happy society by 2050'. This Vision acknowledges human capital development, including gender, youth and people empowerment, as its first strategic focus area or pillar - highlighting the need for national initiatives to improve the number and quality of available opportunities at all educational levels from basic to tertiary education.
+
+The major role for the H&TE sector - including government agencies, HEIs, church organisation and industry, amongst others - in attaining the first pillar of Vision 2050 is clear. At the same time, it should also be noted that H&TE has a major role to play in the achievement all of the seven pillars contained in Vision 2050.
+
+Technical and vocational students undertaking forestry and timber training.
+
+Papua New Guinea, as an emerging dynamic economy in the Western Pacific, is currently driven by mineral and petroleum industries that have the potential to propel rapid economic transformation. Underpinning Vision 2050, however, is a strategic intent to develop PNG's manufacturing, serv ices, agriculture, forestry, fisheries and eco-tourism sectors and therefore minimise the country's future dependency on mining and energy.
+
+A leading H&TE sector is therefore essential for the development of the broad and specialised human resource capacity that is required for PNG's transitional
+
+economy, and consequently, for attaining Vision 2050.
+
+The NHTEP 2015-2024 provides a road map outlining the goals, strategies and activ ities that should be undertaken over the next ten years to ensure that the
+
+H&TE sector is able to successfully contribute to the realisation of Vision 2050.
+
+Shared amongst stakeholders and the wider community, the Plan will support the sector to work collaboratively to produce quality human capital with the advanced skills, knowledge and innovation to drive PNG's development into the twenty-first century.
+
+1.3 Plan framework and process
+
+The requirement for a national H&TE plan is mandated under the Higher Education (General Provisions) Act 2014. This Act prov ides the governing legislation for H&TE in PNG, together with other legislation for technical and vocational education and
+
+training (TVET) colleges and the enabling acts for universities.
+
+I t also establishes the Department of Higher Education, Research, Science and Technology (DHERST), replacing the former Commission for Higher Education and Office of Higher Education (OHE).
+
+The formulation of NHTEP 2015-2024 has been informed by a range of overarching national plans. The most influential is Vision 2050, followed by the PNG Development Strategic Plan (PNGDSP) 2010-2030, and the Medium-Term Development Plan (MTDP) 2011-2015, all of which aim to situate PNG in the top 50
+
+countries in the United National Human Development Index by 2050.
+
+In addition, NHTEP 2015-2024 has drawn upon a number of key national policy documents including the National Public Service Gender Equity & Social Inclusion Policy, and the PNG Public Service Ethics and Value-based Leadership Capability Framework. I t has also adopted recommendations from a variety of recent H&TE rev iews, including Garnaut and Namaliu's Independent Review of the PNG University System (2010), the Needs Analysis of PNG TVET Colleges (2011) and the Report of Academic Salaries and Conditions Review Committee (2014), amongst
+
+others.
+
+From these national plans and other documents, NHTEP has captured a range of required work approaches including: responsiveness to students, industry, and stakeholders; accountability, coordination and efficiency in governance and performance; resource sustainability and v ibrant organisational cultures to ensure continuous improvement in quality and standards; and courageous and
+
+committed leadership.
+
+As part of the initial phase of developing this Plan, OHE undertook a comprehensive consultation process with stakeholders in 2012. During this phase, parties in the sector were given an opportunity to inform OHE of the challenges they have been facing and to propose ideas for possible future activ ities and directions. Just as Vision 2050 spells out the aspirations of the people of PNG, NHTEP 2015-2024 spells out the aspirations of the H&TE sector through its v ision, strategic
+
+goals and activ ities.
+
+The Plan is home-grown and developed by smart, young and dynamic Papua New Guineans in DHERST in a collaborative fashion with the H&TE community of PNG. A major concept influencing the Plan is 'H&TE transformation and modernisation for national economic growth and social benefit'. Essentially, the Plan translates the national overarching strategic policy and political directions of
+
+PNG into a cascading logic for the H&TE sector.
+
+At the same time, the thinking behind the Plan is significantly rooted in an era of increasingly complex globalisation and interdependence, where H&TE acts as a dynamic global place for the social interaction of ideas and sustainable generation of wealth. I t reflects how high quality and internationally-recognised H&TE in PNG can support the Government's modernisation agenda and act as a
+
+trigger for economic growth and social development.
+
+Students celebrating their graduation and looking forward to their bright professional futures.
+
+1.4 Plan vision, mission and core values
+
+The core values underlying the Plan are derived from the Ethics and Values-based Leadership Capability Framework of the PNG public serv ice which involves six values that are common to the traditional (clan), Christian (church) and modern
+
+contexts currently existing in PNG:
+
+ Honesty: The Plan encourages actions that are consistent with Christian principles, social norms, family expectations, and policies and procedures of modern organisations.
+
+ Integrity: I t is recognised that the H&TE sector should be characterised by policies and practices that are clear, sound and ethical.
+
+ Accountability: All actors in the H&TE sector are encouraged to take ownership of their actions and to ensure these are transparent to the wider community.
+
+ Respect: The Plan recognises that the sector can only be developed successfully with collaborative hands working together for mutual and national benefit.
+
+ Wisdom: I t is recognised that the issues involved in H&TE require a deep level of consideration and resolution to address.
+
+ Responsibility: All parties in the sector are encouraged to welcome this next phase of progress for H&TE conscientiously, and with energy and commitment.
+
+I t is also acknowledged that the above core values are consistent with the five national goals and directive principles contained in PNG's National Constitution and which have also served as guiding principles for formulation of NHTEP 2015-2024, as follows;
+
+The vision of NHTEP 2015-20124 is: To provide the higher skills, knowledge and innovation needed for PNG's sustainable development. The mission of NHTEP 2015-2024 is: To develop an accessible and quality higher and technical education system by 2024 that advances and sustains PNG's social, economic and environmental development.
+
+ Integral human development  Equality and participation  National sovereignty and self-reliance  Natural resources and environment  Papua New Guinea ways.
+
+Both the core values underlying this plan and the principles contained in PNG's National Constitution should be actively considered by all stakeholders when they
+
+are undertaking the implementation of this Plan.
+
+University students preparing for a future career in medicine and science.
+
+Under the Higher Education (General Provisions) Act 2014, DHERST is responsible for oversight of the operations of the Ministry for Higher Education, Research, Science and Technology, including administration of the Act, together with the Science and Technology Council (STC). The requirement for a national plan covering H&TE is also mandated in the Act.
+
+Other agencies with significant accountabilities for H&TE in PNG include the Ministries of Education and Health, which have responsibilities for the funding and management of TVET and teachers' colleges, and nursing colleges, respectively. They also include the Ministry of Labour and Industrial Relations and, in particular, the National Training Council (NTC), responsible for the policy and quality assurance measures of private TVET prov iders, and the National Apprenticeship and Trade Testing Board (NATTB).
+
+2.1 Higher and technical education sector overview
+
+According to DHERST data, in 2013, State and private HEIs recognised by DHERST employed over 1,600 full time academic and teaching staff, and included more than 31,000 students, 22,000 of whom were full time students.
+
+In 2014, there were 33 HEIs in PNG recognised by DHERST, including six universities (four State and two private universities), nine TVET colleges, six teachers' colleges,
+
+2. Current PNG higher and technical education situation rent PNG higher and technical education situati
+
+Under the Higher Education (General Provisions) Act 2014, DHERST is responsibl oversight f the operati ns of the Ministry for Higher Education, Res arch, Scie and Technology, i cluding a ministration of the Act, together with the Scie and Technology C uncil (STC). The requir ment for a n tional p an covering is also mandated i th Act.
+
+Other agencies with ignificant accountabili ies for H&TE in PNG include Ministries of Education and Health, which ave responsibilities for the funding management of TVET and te chers' colleges, and nursing colleges, respectiv They also include the Ministry of Labour and Industrial Relations and, in partic l the National Training Council (NTC), responsible for the policy and qu l assurance measures of private TVET prov iders, and the National Ap rentices and Trade Testing Board (NATTB).
+
+2.1 Higher and t chnical education sector over iew
+
+According to DHERST data, in 2013, State and private HEIs recognised by D employed over 1,600 full time academic and teaching staff, and included than 31,000 students, 22,000 of wh m were full time students.
+
+In 2014, there wer 33 HEIs in PNG recognised by DHERST, including six universi i (four State and two private univ rsit es), nine TVET colleg s, six teachers' colle ur
+
+seven nursing colleges, and five other colleges.1 Some of the State and private colleges offer both higher and technical education qualifications, and some PNG students also choose to take studies overseas or online with overseas providers. The number of HEIs will increase shortly as several existing education institutions in West New Britain Prov ince, East New Britain Prov ince and the Autonomous Region of Bougainv ille upgrade to offer higher education.
+
+There is a well-recognised need to improve the completeness, reliability and validity of data on HEIs and their students to assist future planning. However, from the available data, it can be ascertained that the six universities in PNG are small compared to international standards. Their enrolment and graduate numbers from
+
+2011 to 2013 and major disciplines are shown in Table 1.
+
+Table 1: Universities in PNG: Enrolments, graduates and major disciplines
+
+Year 2011 2012 2013
+
+Universities Enrol-ments Graduates Enrol-ments Graduates Enrol-ments Graduates Major Disciplines
+
+UPNG 8,915 1,188 8,574 1,248 *8,574 *1,248 Humanities and Social Sciences, Law, Medicine,
+
+Business Administration, Natural and Physical Sciences
+
+DWU
+
+3,113 955 2,639 1,774 3,184 1,135 Arts, Business and Informatics, Education,
+
+Health Sciences, Flexible Learning, Theology
+
+PNGUOT
+
+2,952 1054 3,085 752 3,064 666 Engineering Sciences, Applied Sciences,
+
+Commerce, Architecture, Forestry
+
+PAU
+
+869 120 *869 *120 1,096 152 Arts and Humanities, Education, Science,
+
+Business, Nursing, Theology
+
+UNRE
+
+467 121 613 159 552 233 Agriculture, Fisheries, Marine Resources, Management Studies UOG 1,928 564 1,941 668 *1,941 *668 Education, Humanities, Science
+
+Source: Annual Survey of Institutions of Higher Education, 2011-2013, OHE.2
+
+* 'Previous year num bers have been used as estim ates as actual figures were not m ade available in the surveys to OHE.
+
+While graduate numbers have recently been increasing at an average rate of 10 percent per annum since 2010, as Table 2 shows, this upward trend has not been
+
+steady.
+
+1 This number includes those HEIs that are affi l iated with other HEIs but not those HEIs that have been
+
+amalgamated with other HEIs. It does not include private institutions that provide only TVET programmes. 2 All HEIs accredited or in the process of accreditation by the Commission for Higher Education are included
+
+in the Annual Survey of Higher Institutions of Higher Education. Private institutions providing only TVET are not included.
+
+Table 2: Higher and technical education graduate numbers 2010-2013
+
+Year 2010 2011 2012
+
+2013
+
+University Graduates 3,259 4,002 4,721 4,102
+
+Non University Graduates 3734 4,052 3,258 5,214
+
+Total Graduates 6,993 8,054 7,979 9,316
+
+Source: Annual Survey of Institutions of Higher Education, 2010-2013, OHE.
+
+Total graduates from 2010 to 2013 according to their key fields of study are shown in Figure 1. Over this period, graduate numbers declined in some fields but increased in others. Graduates from the fields of engineering, environment and
+
+natural resources, and nursing declined by 3.0, 6.0 and 0.5 percent, respectively.
+
+Graduates from other fields increased over the period by varying amounts, with major increases including: law by 44 percent, sciences by 25 percent, TVET by 18 percent, education by 16 percent, medicine, dentistry and health sciences by 13 percent, agriculture and fisheries by 13 percent, and humanities and social
+
+sciences by 12 percent.
+
+Figure 1: Proportion of total graduates from 2010 to 2013 by key study fields
+
+Source: Annual Survey of Institutions of Higher Education, 2010-2013, OHE.
+
+State and private HEIs that are accredited benefit from the Ministry's national merit-based scholarship system. The Government prov ides over K40 million annually for merit-based scholarships through the Tertiary Education Student
+
+Assistance Scholarship (TESAS).
+
+3% 15% 32% 2% 3% 5% 2% 4% 4% 7% 23% 0% 10% 20% 30% 40% Agriculture & Fisheries Business Management Education Engineering Environment & Natural Resources Humanities & Social Sciences Law Medicine, Dentistry & Health Sciences Nursing Sciences TVET Graduates
+
+Currently, additional support is also prov ided by DHERST for students to undertake TVET programmes in Australia, through the TVET Skills Scholarship Programme (TVETSSP), from which over 700 students have graduated since its inception in 2011.
+
+In addition to this scholarship support, the Government also prov ides annual appropriations to State universities for salaries and operations and project funding
+
+for infrastructure development.
+
+Traditionally, higher education and technical education have been treated as relatively separate sectors. There remain some questions to be resolved over the integration between higher and technical education in terms of the content and levels of qualifications under the PNG National Qualifications Framework. The pathways between higher and technical education, allowing technical education graduates to upgrade their skills through recognition of prior learning and
+
+qualifications, are not yet well-developed in PNG.
+
+2.2 Current H&TE sector challenges
+
+The H&TE sector in PNG currently suffers from a number of systemic weaknesses, many of which have been worsening over the last few decades. As a consequence, this plan begins from a very low base level of development - a level which has been described by some in the sector as a zero base level. Hence, all of the following challenges are significant and are addressed either directly or
+
+indirectly in the NHTEP 2015-2024.
+
+Poor sector coordination
+
+There is poor coordination among the various agencies and institutions involved in H&TE. This includes weak collaboration between the different ministries - including Higher Education, Science, Research and Technology; Education; Health; and Labour and Industrial Relations - regarding elements such as planning, governance, management, M&E, and quality assurance. As a consequence, coordinated planning is minimal, and up-to-date sector-wide information on H&TE
+
+is lacking and difficult to access.
+
+As an example, the TVET system is fragmented across a range of ministries and legislation and responsibilities relating to the development and enforcement of industry standards fall across the NTC, NATTB, and other agencies. Significantly, there is not yet a coordinated labour market assessment and workforce
+
+development plan to inform Government policy development.
+
+Insufficient Government funding
+
+Current levels of Government funding in H&TE are simply too low to maintain access and quality in the State institutions, and so significant improvement with the current level of funding is close to impossible.3 Although government funding for the four State universities grew by an average of 13 percent per annum from 2004 to 2010 in nominal terms, CPI reached an average annual rate of 8 percent from 2008 to 2010, substantially decreasing any real increase in these years, as indicated in Figure 2. Further, from 2004 to 2010, the average annual growth rate in student enrolments was 12 percent. The funding of colleges has experienced
+
+similar difficulties.
+
+Figure 2: Nominal and real sub-sector expenditure for PNG universities 2004-2010
+
+Source: Resource Inventory, 2004-2010, OHE.
+
+In addition, the available scholarship support falls well short of meeting needs, both in terms of the scholarship numbers and the funding amount per student. In 2013, according to DHERST data, only approximately 4,600 of the over 17,000
+
+Grade 12 graduates were offered places in HEIs. Additional analysis carried out
+
+3 The situation of the four State universities in this respect was highlighted in the Independent Review of the
+
+PNG University System (2010). 2004 2005 2006 2007 2008 2009 2010
+
+Total Subsector HTE Expenditure (Norminal) 213 224 245 371 459 374 396
+
+Real Sub Sector HTE Expenditure (Yearly Inflation) 208 220 239 368 410 348 372 0 50 100 150 200 250 300 350 400 450 500
+
+K' 00 00 00
+
+Expenditure in K'million
+
+by DHERST indicate that the average unit cost per student has increased from K15, 000 per annum in the year 2000 to K30, 000 per annum in 2012 for universities, with similar average increases in colleges.
+
+The universities have attempted to meet the rapidly increasing demand for H&TE by accepting additional students. In the process, State universities have incurred substantial budget deficits, due to a combination of inadequate base funding for student enrolments and ineffective systems for financial management and control. Insufficient funding and budget deficits for the universities has been coupled with an apparent reluctance from the PNG Government to seek accountability from the universities for their spending.
+
+The lack of financial resources has also meant there have been few opportunities for universities or colleges to professionalise their management practices in the areas of finance, administration and human resources. Expense constraints for State HEIs, particularly controls on salaries and positions, have limited their freedom to manage their own development.
+
+Deteriorating physical infrastructure
+
+Minimal Government funding, as well as a lack of donor support coordination, has impacted upon the ability of State universities and colleges to build new infrastructure to accommodate their increased enrolments. Much of the infrastructure and equipment in State institutions is deteriorating or past its useful
+
+life.
+
+For example, it is generally acknowledged that facilities management in the universities over the last five to years has shifted from 'business as usual' to crisis management and, consequently, business continuity planning and processes have generally been neglected. In addition, the recent Needs Analysis of PNG TVET Colleges (2011) highlighted the dilapidated facilities and the lack of essential teaching equipment in the State colleges as a serious impediment to the delivery
+
+of quality and up-to-date training.
+
+Poor comparative salaries and conditions of academic, technical and professional staff
+
+State universities and colleges report that many qualified and experienced academic, technical and professional staff are leaving for employment in other sectors due to inadequate remuneration packages. In addition, there is concern in State universities about differential allowances and conditions between national
+
+and international academics.
+
+Poor salaries and conditions have also resulted in low staff morale, periodic staff unrest, and substantial numbers of unfilled vacancies at some of these universities. The remaining staff members are subsequently overloaded thus affecting the
+
+quality of student learning. A similar situation exists within State colleges.
+
+Loss of confidence in university governing bodies
+
+Good practices in institutional governance are yet to be fully embraced by State universities. The current composition of governing bodies does not always ensure that these bodies have the necessary financial and business expertise to effectively oversee the operation of their university. State universities continue to experience periodic staff or student unrest. As a consequence, stakeholders lack confidence in the ability of university governing bodies to meet their responsibilities to act in the best interests of their university or to monitor management performance.
+
+Lack of robust and comprehensive quality assurance
+
+Quality assurance policies and practices for the H&TE sector have been developed piecemeal over prev ious decades. Higher and technical education has prev iously had two separate quality assurance systems. Thus, HEIs intending to offer both H&TE qualifications need to meet two entirely different sets of regulatory
+
+requirements.
+
+The lack of strong regulation and monitoring of State colleges has allowed many institutions to determine their own standards, jeopardising the prospects of some graduates, who may find their qualifications inadequate to meet labour market
+
+needs
+
+There have recently been some encouraging initiatives, such as the universities' completion of their first external quality assurance rev iews, and some external quality mechanisms have been quite well-established, eg the NTC registration
+
+process.
+
+The integrated regulatory framework for H&TE quality assurance as set out in the new Higher Education (General Provisions) Act 2014 will assist improve the situation but it will require improved sector coordination to fully implement.
+
+Limited research capacity
+
+There is minimal information available regarding national research productiv ity in HEIs, but available ev idence suggests that there is very limited research being conducted by universities, despite the clear desire of many academics to engage in research. In general, research coordination is weak at both the institution and sector level. There are opportunities for more collaborative or development research activ ity between universities, national research institutes, Government
+
+and industry.
+
+Inadequate information Communication and Technology
+
+The lack of Government funding previously mentioned, coupled with national infrastructure constraints, has also led to inadequate internet availability in many HEIs, reducing the ability of academics and teachers to keep up-to-date with recent development in their fields and to undertake research. I t has also severely affected the learning opportunities for students.
+
+3.1 Development trends and H&TE
+
+According to the UN's International Conference on Population Development Beyond 2014, the population of PNG in 1990 was 4.2 million and in 2010 was 6.9 million. I t is estimated by the National Statistical Office (NSO) that the nation's population will increase to between 9 and 11 million by 2030 and between 12 and 15 million by 2050.
+
+Clearly, PNG will have a young and rapidly growing population in the near future. The implication is that over the next 20 years there will be huge demands placed on all education sectors, from primary to tertiary.
+
+In addition to this population increase, the following development trends are likely to affect the H&TE sector over the next decade.
+
+Basic education trends
+
+The graduate output from the secondary school system is the major source of students for the H&TE sector. According to DHERST statistics, the number of Grade 12 graduates in PNG has been rising by approximately 11 percent per annum since 2007.
+
+This number is expected to continue to grow over the next few decades as a result of factors that include: the introduction of free and compulsory education; rises in the general progression rate; and increased educational expectations from parents and the wider community. The removal of a school exit point at Grade 10 in the near future will further increase the numbers of students who continue to Grade 12 studies.
+
+3. Future directions for PNG higher & technical education
+
+3.1 Development trends and H&TE
+
+According to the UN's International Conference on Population Development Beyond 2014, the population of PNG in 1990 was 4.2 million and in 2010 was 6.9 million. I t is estimated by the National Statistical Office (NSO) that the nation's population will increase to between 9 and 11 million by 2030 and between 12 and 15 million by 2050.
+
+Clearly, PNG will have a young and rapidly growing population in the near future. The implication is that over the next 20 years there will be huge demands placed on all education sectors, from primary to tertiary.
+
+In addition to this population increase, the following development trends are likely to affect the H&TE sector over the next decade.
+
+Basic education trends The graduate output from the secondary school system is the major source of students for the H&TE sector. According to DHERST statistics, the number of Grade 12 graduates in PNG has been rising by approximately 11 percent per annum since 2007.
+
+This number is expected to continue to grow over the next few decades as a result of factors that include: the introduction of free and compulsory education; rises in the general progression rate; and increased educational expectations from parents and the wider community. The removal of a school exit point at Grade 10 in the near future will further increase the numbers of students who continue to Grade 12 studies.
+
+3. Future directions for PNG higher & technical educatio
+
+I t is already generally acknowledged that secondary school graduate numbers have outstripped the capacity of the existing HEIs to prov ide access to tertiary study for qualified graduates. Current strategic plans for the basic education sector indicate that Grade 12 graduates will increase to an estimated 114,028 by 2050. Of these, at least 30 percent will likely seek entry to tertiary study, equating to 34,208 students.
+
+Social trends
+
+Over the period of NHTEP 2015-2024, it is expected that a range of current social
+
+trends will continue, including:
+
+ Migration from rural to urban communities  Take-up of new, flexible ICT by people in all areas  Improved internet access, especially in towns  Governments efforts to reduce corruption and criminal activ ities  Property development in major town centres  Increased sophistication of landowners in negotiating for use of their land.
+
+Agricultural and natural resource production is likely to increase, while many people will continue to live a traditional v illage life. There may be a trend from subsistence towards cash economies and greater use of v illage and community cooperatives to develop local resources. The role of women in public life will be
+
+enhanced and the serv ice sector, including tourism, is likely to expand.
+
+There will continue to be substantial interest from overseas companies towards PNG's natural resources. Calls for rapid modernisation and industrialisation will be balanced by calls to preserve and enhance PNG's rich traditional cultures and biological diversity and to meet the challenges of climate change, through
+
+environmentally sustainable development.
+
+Possible social developments that may adversely affect the H&TE sector include: a severe lack of medical and health serv ices; increased social issues associated with gender, youth and unemployment; ongoing law and order issues; the potential high costs of and poor access to education inputs and supplies; and the possible deteriorating state of roads, transport and supply chain infrastructure.
+
+PNG labour market participation trends
+
+According to the PNG National Labour Market Assessment Report (NLMAR) of 2010 compiled by OHE, the PNG labour market is dualistic in nature. This means that a dichotomy exists between a small, largely urban, formal sector and a dominant, mostly rural, informal or traditional agricultural sector where households farm, fish, hunt and barter together with some cash-generating activ ity.
+
+The PNG Household Income and Expenditure Survey (HIES) of 2009-2010, administered by the NSO, indicated that 62 percent of the population aged 15 and older were employed4, 4 percent unemployed and 34 percent were not in the labour force, due to full time studies, home duties, bad health, disabilities, age
+
+or other reasons.
+
+This survey also revealed that the proportion of wage job employment (formal labour market) to the employed population increased significantly from 10
+
+percent in the year 2000 to 59 percent in 2010.
+
+PNG employment demand and supply trends
+
+The PNG economy consists of seventeen core identified industries that demand labour from the formal labour market, as shown in Table 3. A sample population of 496, 923 of these positions were rev iewed in the 2010 PNG NLMAR. Of these positions, 94 percent were occupied and 6 percent were vacant. Agriculture, Forestry and Fishing was the industry with the largest percentage of formal labour market positions, followed by Education, and Government Administration and Defence.
+
+With regard to the private sector, the Bank of Papua New Guinea (BPNG) annual employment index revealed that between 2006 and 2011 the level of employment
+
+in the private sector increased at an average rate of six percent.
+
+This is attributed largely due to the construction phase of the Papua New Guinea Liquefied Natural Gas (PNGLNG) and the consequential increased domestic demand across a variety of sectors (BPNG Quarterly Economic Bulletin, March 2012). The Department of Treasury budgeting papers for 2014 indicated that this trend is continuing.
+
+4 Includes those working for wage, salaries or for profit and/or growing food, catching fish, or making articles for own use or for sale.
+
+Table 3: Employment positions according to industry group
+
+No . Industry group Total Occupied Vacant
+
+No % No % No % 1 Agriculture, Forestry and Fishing 105,863 21.30 105,752 21.28 111 0.02 2 Mining, Natural Gas and Petroleum 13,978 2.81 13,956 2.81 22 0.00 3 Manufacturing 43,073 8.67 42,977 8.65 96 0.02 4 Electricity, Gas and Water
+
+Supply 7,709 1.55 6,959 1.40 750 0.15 5 Construction 35,655 7.18 35,620 7.17 35 0.01 6 Wholesale Trade 16,284 3.28 15,789 3.18 495 0.10
+
+7 Retail Trade 47,994 9.66 47,874 9.63 120 0.02 8 Accommodation 18,854 3.79 18,703 3.76 151 0.03 9 Transport and Storage 27,621 5.56 27,591 5.55 30 0.01 10 Communication and
+
+Related Services 9,877 1.99 9,873 1.99 4 0.00 11 Finance and Insurance 9,459 1.90 9,262 1.86 197 0.04 12 Property and Business Services 17,214 3.46 16,723 3.37 491 0.10 13 Government Administration and Defence 50,684 10.20 37,734 7.59 12,950 2.61 14 Education 58,621 11.80 46,895 9.44 11,726 2.36 15 Health and Community Services 16,420 3.30 15,054 3.03 1,366 0.27 16 Cultural and Recreational Services
+
+5,710 1.15 5,513 1.11 197 0.04
+
+17 Personal and Other Services 6,364 1.28 6,261 1.26 103 0.02 99 Not Stated/Applicable 5,543 1.12 5,543 1.12 0.00
+
+All Industry Groups 496,923 100.00 468,079 94.2 28,844 5.80
+
+Source: PNG National Labour Market Assessment Report , 2010.
+
+As Table 4 indicates, the overall level of skills and qualifications in the PNG formal labour market is low by international standards. For example, 66 percent of the total employees in the formal labour market have only basic education up to and including Grade 8. The low percentage of employees with skilled education in the government and health sectors, compared to education and other industries, is an area for concern. Skilled education refers to educational qualifications Grade 9 or
+
+above or equivalent.
+
+The relatively high 9.92 percent of employees with skilled education in the 'other' industries is likely to reflect the private sector's (international and national companies) high demand for highly-qualified PNG employees. With increased demand for output from the private sector due to spin-off effects of the PNGLNG
+
+project, private companies are attracting more skilled labour force.
+
+Table 4: Formal labour market employee skill level
+
+Education Qualification Level Gov't (%) Education (%) Health (%)
+
+Other
+
+(%)
+
+Not Stated (%)
+
+Total
+
+(%)
+
+No Education 0.40 0.003 0.01 3.00 0.02 3.43
+
+Basic Education 3.57 0.04 0.60 60.70 0.79 65.69
+
+Skilled Education 1.29 9.88 0.64 9.92 0.37 22.10
+
+Not Stated 2.83 0.15 2.15 3.65 0.00 8.78
+
+All Qualification Levels 8.08 10.07 3.40 77.26 1.18 100.00
+
+Source: PNG National Labour Market Assessment Report, 2010.
+
+I t should be noted that the demand for skilled employees in the health, education and community serv ices sectors is high and beyond the current ability of H&TE to meet. The Independent Review of the PNG University System (2010) pointed towards a shortage in the quantity and quality of graduates to meet existing
+
+needs, and which will worsen with PNG's anticipated rapid population increase.
+
+For example, according to the 2010 PNG NLMAR, only 17 percent of the 468,709 employees in the formal labour market surveyed were post-secondary graduates. Using BPNG's employment average annual growth rate of 6.47 percent in private sector employment between 2006-2011 and an estimated private sector employment number of 368,396 in 2009, it can be estimated that from 2009 to
+
+2011, formal employment increased by 26,449 each year.
+
+Yet, for the years 2009 and 2010, the average annual number of graduates from HEIs was 7,843. This suggests that most of the growth in formal employment has not involved the employment of graduates. I t is threfore most likely indicate that Government, business and industry could absorb more graduates if they were
+
+available.
+
+H&TE graduate trends
+
+The PNGDSP 2010-2030 set a target for the total number of H&TE graduates from 2010 to 2030 to be 265,000, although it did not specify the level of qualification of these graduates. This aim requires a total of 45,000 available student places in the H&TE sector by 2030. I f the graduate trends experienced from 2007 to 2013 continue, the total numbers of graduates between 2010 and 2030 will reach this target, as indicated by Figure 3.
+
+Figure 3: Higher and technical education graduates: 2030 projections based on existing trend
+
+Source: Annual Survey of Institutions of Higher Education Reports, 2007-2013, OHE and projections based on current trends for previous years.
+
+However, it must be noted that this target will have detrimental effects on the Gross Enrolment Ratio (GER) for tertiary education in PNG,5 which is another important statistic for the PNGDSP 2010-2030.
+
+The PNGDSP 2010-2030 set a target for middle-income economy country status for PNG by 2030. However, a tertiary GER of 15 percent is required to attain this status, which is a major challenge for PNG - it is currently estimated to have a tertiary GER of only three percent, one of the lowest in the Pacific region.
+
+To achieve the required tertiary GER target, the PNGDSP 2010-2030 target of 45,000 student places by 2030 must be rev ised upwards as, when calculated against the current projected population growth rates,6 the GER would only be 3.6 percent in 2024 - and PNG would not be on any clear track to achieve the required GER of 15 percent by 2030.
+
+5 The ratio of the number of individuals who are actually enrolled in HEIs compared to the number of
+
+individuals who are at the H&TE enrolment age. 6 The college age population is expected to reach nearly 1,085,068 by 2024 based on an estimated
+
+population growth rate of 2.7 percent, as indicated by the NSO.
+
+0 2,000 4,000 6,000 8,000 10,000 12,000 14,000 16,000 18,000 N o o f gr ad u at e s Year
+
+Implications for H&TE
+
+The aforementioned trends demonstrate the extent to which specialised skilled human capital is lacking in PNG and suggest that national development is likely to stall, unless there is a major increase in graduates from HEIs.
+
+Moreover, the presence of a large and increasing number of young people with no opportunity for further education or training will raise social challenges. They will have few prospects of entering the formal labour market, except at the lowest levels, and will be easily tempted into illegal pursuits and other unsociable activ ity.
+
+The key challenge is to improve H&TE participation rates over time which will require a significant expansion of prov ision in both State and private HEIs. Such an expansion in State H&TE can only occur after there has been improved investment in infrastructure, including ICT, teaching spaces, equipment, student and staff housing.
+
+A rapid expansion of technical education, and other innovative training opportunities, will be an appropriate and cost-effective way to address the massive unmet demand for H&TE. Such expansion needs to be accompanied by
+
+well-developed pathways for all to improve their qualifications over time.
+
+3.2 H&TE Growth Model: addressing quantity, quality and relevance
+
+The H&TE growth model is a basic formula demonstrating how the PNG universities and colleges should expand in student places over the next ten years while addressing the sector's major challenges.
+
+As discussed previously, the current trend for student places based upon previous rates from 2007 indicate that they will exceed the number of student places required to achieve the PNGDSP 2010-2030 target of 45,000 student places by 2030. In particular, if the sector continued with the current trend for the next ten years, it would be able to prov ide 63,809 places by 2024.
+
+However, given the current estimated population growth for PNG, as the H&TE enrolment age population also increases, the tertiary GER will decline and, consequently, PNG will not reach the target of 15% by 2030, which is required for middle-income country status.
+
+As such, NHTEP 2015-2024 aims to achieve a number of student places that is consistent with a GER target of 11.46 percent by 2024, in order to ensure that PNG is on track to achieve its desired middle-income country status by 2030.
+
+As shown in Figure 4 and Table 5, the H&TE growth model is based upon a strategy that can be div ided into two phases: an initial five year phase that will be characterised by mild expansion in student places for existing universities and colleges and the remaining required places prov ided by new institutions in the sector; and a following five year phase that will be characterised by relatively rapid expansion in student places for all HEIs.
+
+Figure 4: The higher and technical education grow
+
+th m odel
+
+Source
+
+: A
+
+nnual Survey of Institutions of Higher Education Report 2013, N
+
+SO
+
+&
+
+PN
+
+G D SP 2030.
+
+Table 5: H&TE student places targets 2014 to 2024
+
+Student places 2013 (Actual) 2014 (Targets) 2019 (Targets) 2024 (Targets)
+
+GER Target 46,239 80,840 124,349 PNGDSP 2010-2030 Student places target
+
+26,720 33,300 39,160
+
+Current Trend 31,182 36,008 49,990 63,809 NHTEP Target 37,608 70,910 124,349 State Universities 14,131 18,351 23,647 34,134 Private Universities 4,280 4,445 6,225 12,145 PNG Open University - - 13,720 25,950 State Colleges *12,771 13,212 20,118 37,720 Private Colleges - 1,600 7,200 14,400
+
+Source: Annual Survey of Institutions of Higher Education Report 2013, NSO & PNGDSP 2030.
+
+* This 2013 number includes also includes private college student places.
+
+Phase One (2015-2019): Enhancing quality and relevance During Phase One, it is expected that the expansion in student places for existing universities and colleges will only be mild and at a forecast rate that is consistent with prev ious year trends since 2007.
+
+This will give the existing university and colleges the opportunity to focus upon improving the quality and relevance of their programs. In particular, there will be a realignment of H&TE programmes according to national needs and an accompanying development of institutional infrastructure and workforce capacity. In addition, rigorous quality assurance measures will be institutionalised throughout the sector.
+
+The additional growth in student places that is required to ensure PNG is on track to reach the GER target of 11.46 by 2024 will be provided primarily by the establishment of the PNG Open University, which is expected to commence enrolments in 2016, and also some expansion in the private sector. This latter expansion is based on an assumed growth in private investments in H&TE, a trend that is already emerging in PNG.
+
+Phase Two (2020-2024): Expanding access
+
+In Phase Two, significant growth in student places across the sector is envisaged in order to ensure that PNG can reach its GER target of 15% by 2030.
+
+This growth will be achieved primarily by State universities and colleges undertaking a range of initiatives to increase their expansion in student places at a rate faster than the current trend. Private universities and colleges are also projected to continue to expand, as will the Open University although the latter will not be at the same rate as achieved in its first few opening years.
+
+3.3 H&TE developmental phases
+
+This Plan covers a ten year phase of H&TE development towards attaining Vision 2050. As shown in Figure 5, the long-term strategic intent is for the establishment of a H&TE sector that is successful in producing sufficient graduates who are in demand.
+
+I t is envisioned that the sector will be driven by innovation in research, science and technology and will be highly competent at an international level. I t will be able to respond to PNG industry needs and, also, over time, lead and shape the industries and technologies to be developed.
+
+Figure 5: Long-term phases of development for H&TE in PNG.
+
+Stage 1: Small scale: few
+
+graduates; low technology capacity
+
+Stage 2: Mix of small and medium scale; broadened base for
+
+H&TE; better quality and coordination; development of
+
+entrepreneurial cultures; more innovation and R&D;
+
+industry involvement
+
+Stage 3: Significant
+
+economies of scale; large numbers of H&TE graduates; good quality; recognised capability in R&D and
+
+innovation; high industry involvement; an integrated and
+
+internationalised H&TE system Stage 4: Major
+
+economies of scale; H&TE for many; wealth creation through
+
+innovation in R&D; entrepreneurship; H&TE supports high-tech
+
+industralisation
+
+NH&TEP III 2045-2054
+
+NH&TEP II 2025-2044
+
+NH&TEP 2015-2024
+
+NHEP I & II
+
+NHTEP 2015-2024 focuses on development Stage 2. We must initially recapitalise the H&TE sector, stabilise an increased financial base, improve HEI governance capabilities and enhance sector coordination before proceeding to further major advances.
+
+HEIs will need to increase in size and scale, both for efficient operation and to increase access for qualified school leavers and others needing to upgrade their qualifications. Determined action will be needed to overcome existing skill gaps in areas such as: health and education, natural resources, serv ices and industry, law and order, international relations and security.
+
+In addition, HEIs will need to prov ide the right type of graduates to drive other strategies under the various pillars of Vision 2050. Some of the types of curriculum and skills required to support these strategies include:
+
+ Education for development and professionals for problem solv ing (climate change and environmental sustainability, engineering, agriculture, economics, health sciences, politics, anthropology, social studies and statistics); and
+
+ Management and leadership skills for implementation (communication and negotiation, human resource management, financial management, monitoring and evaluation, project design and management and strategic planning skills).
+
+Stronger emphasis will need to be placed on improving the quality of programmes and graduate capabilities, to ensure the employability of future graduates by local and international agencies and companies. Research and development will need to increase in scale and innovation, and industry partnerships will need to more prevalent.
+
+3.4 Critical success factor
+
+The critical factor for success of the NHTEP 2015-2024 is the 'will' of all parties in the sector, from the government to the institutional level, to undertake the definitive action that is necessary to arrest the current deteriorating situation of H&TE in PNG. That is, the foundational lynchpin for the achievement of the Plan is the determination of stakeholders to take the necessary steps to achieve the desired outcomes for H&TE in PNG.
+
+The H&TE sector in Papua New Guinea has experienced a prolonged period of relative neglect and its renewal will not be an easy or simple task. The determination required of stakeholders can be drawn from the values underlying the Plan - in particular, both wisdom and a sense of responsibility - in order to prov ide the substantial consideration, resilience and commitment that are required to address the wide range of deeply-rooted issues in the sector.
+
+For the Plan to succeed, the PNG Government must substantiate its words regarding the significance of H&TE with the resources required to recapitalise the sector.
+
+DHERST should ensure that it prov ides the creative and courageous leadership that is necessary for the sector at this pivotal time; all involved government agencies should work hand-in-hand for national benefit when addressing shared issues; and HEIs should embrace the ability to envision how things might be done differently and leave legacy issues behind.
+
+Such deep and far-reaching determination has the potential to foster a range of enabling environments for the sector, such as increased capacity for teaching and research innovation, productive sector coordination for improved availability and effective use of resources, and effective quality assurance for continuous improvement and positive graduate outcomes.
+
+Recognition of the need for this determination acknowledges the capacity of indiv iduals and organisations in the sector to act as valuable agents of change. It also reminds stakeholders of the increased possibilities when action is undertaken in a committed, collaborative and coordinated fashion.
+
+The NHTEP 2015-2024 incorporates nine comprehensive goals to be achieved over the next ten years, outlined overleaf. Together, they will facilitate successful delivery and management of H&TE in PNG that is: accessible to the community; of high quality and internationally-recognised; and relevant to national interests Any trade-off between quality and quantity can also be minimised by ensuring that the study opportunities offered in the universities and colleges form a complementary and comprehensive set of education possibilities that are tied to industry requirements and are 'glocalised' - responding to both local needs and the global environment.
+
+Underpinning all of this will be research engagement in PNG that informs education, supports industry, and contributes to PNG's social and economic development.
+
+This Chapter outlines each goal, and also the strategies and actions that will be adopted in Phase 1, the first five years of NHTEP. Strategies and actions for Phase 2 of the Plan will need to be devised closer to completion of Phase 1, as discussed in the next Section.
+
+Although these goals may appear as discrete aspirations, they serve as a set of inter-related aims whose indiv idual attainment will affect and enhance each other. For example, a key challenge will be the balance that must be achieved between enhancing the quality of and improving access to H&TE in PNG. While an equilibrium between quality and quantity in H&TE will always be a challenge, the achievement of any balance is dependent upon the provision of sufficient financial resources and workforce capacity - both of which demand strong sector and institutional governance including demonstrated transparency and accountability.
+
+4. Priority goals, strategies and actions 4. Priority goals, strategies and actions
+
+The NHTEP 2015-2024 incorporates nine comprehensive goals to be achieved over the next ten years, outlined overleaf. Together, they will facilitate successful delivery and management of H&TE in PNG that is: accessible to the community; of high quality and internationally-recognised; and relevant to national interests
+
+Any trade-off between quality and quantity can also be minimised by ensuring that the study opportunities offered in the universities and colleges form a complementary and comprehensive set of education possibilities that are tied to industry requirements and are 'glocalised' - responding to both local needs and the global environment.
+
+Underpinning all of this will be research engagement in PNG that informs education, supports industry, and contributes to PNG's social and economic development.
+
+This Chapter outlines each goal, and also the strategies and actions that will be adopted in Phase 1, the first five years of NHTEP. Strategies and actions for Phase 2 of the Plan will need to be devised closer to completion of Phase 1, as discussed in the next Section.
+
+Although these goals may appear as discrete aspirations, they serve as a set of inter-related aims whose indiv idual attainment will affect and enhance each other. For example, a key challenge will be the balance that must be achieved between enhancing the quality of and improving access to H&TE in PNG. While an equilibrium between quality and quantity in H&TE will always be a challenge, the achievement of any balance is dependent upon the provision of sufficient financial resources and workforce capacity - both of which demand strong sector and institutional governance including demonstrated transparency and accountability.
+
+Priority Area Goal
+
+Governance, structure and coordination Support effective and efficient sector coordination and institutional governance that contributes to the provision of a robust H&TE system.
+
+Resource and workforce capacity management Develop sufficient resource and workforce capacity for the H&TE sector to support PNG's developmental needs in an innovative manner.
+
+Research, science and technology Foster a productive research, science and technology culture in HEIs and research bodies that supports their contribution to national social and economic development.
+
+Quality assurance Deliver a range of academic and training programmes that meet national standards, are benchmarked against international good practice, and are relevant to the needs of PNG.
+
+Access, equity and diversity Ensure that access to H&TE opportunities is maximised and that gender equity and social inclusion are promoted in the H&TE sector.
+
+Industry and district alliances Develop a H&TE sector that is characterised by strong alliances with local industries and adopts a whole-of-Government approach across sub-national levels.
+
+Technical education Ensure TVET colleges are provided with sufficient targeted support to deliver well-organised and quality postsecondary technical education in accordance with PNG's future needs.
+
+Internationalisation and global labour mobility Support the development of an international dimension in H&TE that prepares graduates to prosper in an increasingly globalised environment.
+
+Monitoring and evaluation Implement an M&E framework for the H&TE sector that supports effective performance management at the sector and institutional level.
+
+Some of the actions contribute to more than one goal and, in this case, they have been included only once, under the goal to which they contribute most
+
+substantially.
+
+4.1 Governance, structure and coordination
+
+Support effective and efficient sector coordination and institutional governance that contributes to the provision of a robust H&TE system.
+
+In the past, the H&TE sector in PNG has been organised and governed in a manner that has not been fully coordinated. As a consequence, the sector has been fragmented and lacking v isible leadership, and its actions have sometimes appeared confusing to stakeholders and the wider community. A coherent H&TE sector with clear structures and responsibilities for all parties will enable DHERST and other relevant Government agencies to adequately support and guide HEIs and, in turn, for the institutions to successfully prov ide accessible, quality and relevant H&TE for PNG.
+
+The new higher education legislation passed in 2014 prov ides much of the necessary framework to enable the establishment of a more coherent system but action is now required to translate the intentions into real outcomes. DHERST will need to ensure that it establishes itself as a capable and dependable leader for the sector, working cooperatively with other Ministries and agencies. Institutional governance in universities and colleges and, also, sector governance more generally, will need to foster greater transparency and accountability. The sector should develop the capacity to speak with one voice in expressing its v iews on wider national developments affecting H&TE and, also, ensure that its contributions to PNG social and economic development are fully recognised and appreciated.
+
+Table 6: Strategies and actions for governance, structure and coordination
+
+Strategy Action Lead
+
+Actors Outcome Implementation Year 15 16 17 18 19 Ensure that DHERST is established as a leading and unifying central agency for the sector Ensure DHERST is adequately staffed in terms of staff numbers and qualifications
+
+DHERST DHERST is recognised amongst H&TE stakeholders and the wider public as a credible Government agency
+
+  
+
+Design and implement a rolling Strategic Corporate Plan that responds to NHTEP 2015-2024
+
+    
+
+Ensure that an M&E framework for NHTEP 2015-2024 is implemented
+
+    
+
+Undertake reform of sector and institutional governance structures Undertake situational rev iew and develop and implement strategies for enhancing sector governance DHERST HEIs Other gov't agencies DHERST, other related Government agencies, sector bodies and HEIs clearly understand the sector governance structures and their institutional governance obligations
+
+  
+
+Harmonise all H&TE legislation pertaining to governance  
+
+Design and introduce an institutional Governance Manual for universities and for colleges
+
+ 
+
+Strategy Action Lead
+
+Actors Outcome Implementation Year
+
+15 16 17 18 19 Enhance the integration of higher and technical education Clarify the roles and responsibilities of different agencies involved in technical education DHERST HEIs Other gov't agencies
+
+A complementary and comprehensive set of H&TE study options are offered with clear pathways between higher and technical education
+
+ 
+
+Harmonise legislation pertaining to technical education
+
+ 
+
+Develop and implement a strategic plan to unify the direction and management of colleges and integrate their qualifications seamlessly into the PNG NQF
+
+
+
+
+
+
+
+
+
+
+
+Enhance sector coordination between all agencies involved in H&TE Negotiate MoUs or partnership agreements on sector cooperation with other departments, agencies and bodies at national and sub-national level. DHERST HEIs Other gov't agencies
+
+There is more effective policy and decision-making in, and representation of, the sector as a result of shared information
+
+
+
+
+
+Undertake regular sector activ ities and initiatives involving all stakeholders
+
+
+
+
+
+
+
+
+
+
+
+4.2 Resource and workforce capacity management
+
+Develop suff icient resource and workforce capacity for the H&TE sector to support PNG's developmental needs in an innovative manner.
+
+This goal refers to both the financial and human resources available in H&TE.7 Over the past few decades, national Government funding for the H&TE sector in PNG has been unable to keep pace with the rise in demand for student places and yet, at the same time, this funding has been disbursed with minimal sector coordination or accountability. Given that it is likely that the H&TE sector in PNG will always face the issue of limited financial resources - v is-à-v is its potential benefits - it is imperative that all possible sources of finances for H&TE are secured
+
+and that they are utilised in a manner that maximises desired outcomes.
+
+The introduction of an output-based Government funding model for the H&TE sector in PNG has the potential to maximise benefits by rewarding the achievement of tangible positive results by HEIs. Further, the diversification of revenue for HEIs will encourage them to identify possible additional sources of funding, such as potential endowment funds, and to capitalise on their existing assets, both physical and human. Increased engagement through diversification
+
+7 It is acknowledged that, using a broader definition of resources, physical infrastructure (buildings and
+
+equipment) and Information and Communication Technology (ICT) could also be addressed in this goal . However, physical infrastructure and ICT for students has been addressed in Access, equity and diversity, and ICT for research has been addressed in Research, Science and Technology.
+
+also prov ides a significant impetus for community outreach and, in doing so, has
+
+the potential to demonstrate the relevance of H&TE to the wider society.
+
+While intrinsically related to financing, the need for a capable workforce is of special significance to the H&TE sector and requires its own strategic efforts. The essence of any country's H&TE system is its people, those indiv iduals who are collectively responsible for ensuring that the HEIs fulfil their aim of creating and sharing knowledge and developing the high-level skills required by the community. The demands placed upon the H&TE workforce in PNG are rapidly expanding and this trend can only continue, given the increasing need to offer more student places and the current push for quality improvement.
+
+A range of initiatives need to be undertaken to attract and retain staff numbers in the H&TE sector, including reform of academic salaries and conditions and a national and international recruitment drive. In addition, a comprehensive suite of ongoing professional development programmes should be fostered including overseas scholarships, work opportunities for staff in twining programmes, and
+
+activ ities fostering and celebrating excellence amongst the staff.
+
+Table 7: Strategies and actions for resource and workforce capacity management
+
+Strategy Action Lead Actors Outcome Implementation Year
+
+15 16 17 18 19
+
+Design and implement an output-based Government funding model for the H&TE sector Finalise and circulate details of output-based Government funding model DHERST Universities Other gov't agencies H&TE is funded by the national Government in a consistent, transparent and fair manner that is based upon performance achievements 
+
+Design systems, activ ities and tools necessary for implementation of the output-based Government funding model in universities  
+
+Introduce systems, activ ities and tools and undertake training necessary for the implementation of output-based Government funding model in universities 
+
+Identify strategies and actions needed to introduce output-based Government funding into colleges   
+
+Support the diversification of possible revenue streams within universities Undertake situational review and develop strategies for diversification of possible revenue streams within universities DHERST Universities The universities are accessing an additional stream of funding that also encourages innovation and community outreach 
+
+Undertake initiatives to support the development of the business management skills and entrepreneurship required for diversification of revenue streams in universities     
+
+Strategy Action Lead
+
+Actors Outcome Implementation Year 15 16 17 18 19 Provide assistance to universities with the development of appropriate policy and procedures for diversification of revenue
+
+    
+
+Identify strategies and actions needed to introduce diversification of revenue into colleges
+
+  
+
+Support the development of initiatives to attract and retain staff in H&TE Introduce reform of university academic staff salary framework and conditions DHERST HEIs Other gov't agencies
+
+The H&TE sector has an improved workforce number that is sufficient to support PNG's developmental needs
+
+
+
+Undertake initiatives to support the enhancement of accommodation options for H&TE staff
+
+    
+
+Develop and introduce a recruitment strategy for national and overseas academics
+
+ 
+
+Ensure that any salary and recruitment initiatives and lessons learnt by the universities are shared with colleges as appropriate
+
+   
+
+Design and implement policies and procedures to enhance professional development in H&TE (academic, technical and professional) Ensure that overseas scholarships are made available to academics and teachers to develop content knowledge and skills enhancement DHERST HEIs Gov't agencies
+
+The H&TE sector has an improved workforce quality that is able to address PNG's needs
+
+    
+
+Under Australia's twinning programme and other international partnerships, develop initiatives that focus towards prov iding substantive professional development opportunities
+
+    
+
+Introduce initiatives to support and recognise excellence in the H&TE sector, eg teaching awards, development of discipline associations
+
+ 
+
+Support initiatives for professional staff developed under Association of Tertiary Education Management (ATEM) and other professional organisations
+
+    
+
+4.3 Research, science and technology
+
+Foster a productive research, science and technology culture in HEIs and research bodies that supports their contribution to national social and economic
+
+development.
+
+Research, science and technology is the driver of modernisation in the twenty-first century. To enable PNG to achieve Vision 2050, research and development needs to assume a greater role in H&TE. For example, the likelihood of achiev ing the increased contributions to GDP from manufacturing, agriculture, forestry, fisheries as outlined in Vision 2050 will be greatly enhanced if efforts are informed by local research. DHERST must support these efforts which have, until now, been hampered by limited leadership, management and capacity (notwithstanding
+
+the valuable contributions made by indiv idual and group researchers).
+
+The Science and Technology Council (STC) was recently established to assume responsibility for directing the coordination and regulation of national research, science and technology and the H&TE sector will need to work in close cooperation with this Council to foster a concerted national approach. This will involve working collaboratively to set a national research agenda that is informed by a rev iew of current research capabilities and activ ities and future requirements and directions. Government and industry should be encouraged to commit additional research and development funding. At the same time, HEIs and research bodies need support to further develop their capacity to undertake research that is recognised on the world stage and contributes to
+
+PNG's future. (strategies and actions as overleaf.)
+
+4.4 Quality assurance
+
+Deliver a range of academic and training programmes that meet national standards, are benchmarked against international good practice, and are
+
+relevant to the needs of PNG.
+
+Quality assurance is an area that has been receiving increased attention in H&TE across the globe and many countries have introduced rigorous national quality assurance mechanisms or otherwise tightened existing policies and procedures.
+
+In recent years, PNG universities have made significant progress in undertaking quality assurance measures, including the introduction of external quality assessments, but there is much to be done to ensure that this approach is institutionalised and further extended across the sector. All HEIs should be supported to embrace quality assurance standards and procedures under the new higher education legislation and to create internal cultures of continuous improvement.
+
+Table 8: Strategies and actions for research, science and technology
+
+Strategy Action Lead
+
+Actors Outcome Implementation Year 15 16 17 18 19 Foster effective cooperation and strategic coalition between DHERST and STC Contribute to the successful establishment of the STC including a protocol for communication between DHERST and STC DHERST STC
+
+DHERST and STC cooperate in a manner that enhances the research possibilities in PNG
+
+
+
+Establish an effective mechanism for sharing data relevant to research activ ities
+
+ 
+
+Undertake regular collaborative sector activ ities and initiatives relating to research
+
+    
+
+Support the undertaking of research in PNG that is consistent with national policy Undertake a collaborative analysis of current and future research directions and activ ities for PNG DHERST STC
+
+Research undertaken in PNG contributes to the national needs and is conducted in a concerted and efficient fashion
+
+
+
+Contribute to STC efforts to develop and introduce a national research agenda consistent with national policy
+
+ 
+
+Collaboratively seek research funds from Government and other funders
+
+    
+
+Ensure the research agenda of PNG is communicated to relevant international HEIs and research bodies for potential collaborative opportunities
+
+ 
+
+Ensure the collection and analysis of comprehensive information on national research outputs and outcomes
+
+    
+
+Develop and support the research, science and technological capacity of HEIs Develop and implement a strategy for modernising the ICT capacity for research in HEIs DHERST STC HEIs There is increased capacity in HEIs to undertake research that is of an international standard
+
+
+
+
+
+
+
+In collaboration with STC, develop and undertake research training and development activities for the HEIs, eg addressing intellectual property matters, developing research ethics policies and guidelines
+
+
+
+
+
+  
+
+2. C
+
+Consequently, DHERST needs to take early action to implement the quality assurance arrangements and procedures outlined in the Higher Education (General Provisions) Act 2014. The Department will need to work together with the universities to continue the cycle of quality assurance audits, with the colleges to introduce these measures, and with other bodies such as the NTC to ensure coordinated action. The delivery and management of programmes
+
+offered by HEIs should be benchmarked against international good practice.
+
+The alignment of academic and training programmes to PNG's anticipated economic and social development will ensure that the H&TE sector is valued across the PNG community. This includes addressing the likely increased demand for more people qualified in science and technology, as well as education, health and other serv ice sectors. I t is essential that our H&TE becomes more responsive to national demands and, to this end, better information on the needs of the labour market must be available to HEIs. In addition, the HEIs should track graduate employment destinations and use this information to address any gaps
+
+or initiate improvements.
+
+Table 9: Strategies and actions for academic programmes and quality assurance
+
+Strategy Action Lead
+
+Actors Outcome Implementation Year 15 16 17 18 19 Establish new quality assurance arrangements in accordance with the Higher Education (General Provisions) Act 2014
+
+Ensure the National and Higher and Technical Education Board and Higher Education Appeals Tribunal are established in accordance with the new Act
+
+DHERST The NH&TEB and HEAT are recognised amongst H&TE stakeholders and the wider public as credible institutions
+
+
+
+Ensure that DHERST has comprehensive procedures to administer quality assurance measures outlined in the Act
+
+
+
+Continue to institutionalise university quality assurance measures and expand application to colleges Undertake follow-up required from first round of external quality assurance rev iews of universities DHERST HEIs The HEIs are delivering academic and training programmes and are managed in a manner that demonstrates continuous improvement
+
+ 
+
+Implement quality assurance measures for colleges in accordance with the Act
+
+ 
+
+Continue with second round of external quality assurance rev iews of universities
+
+ 
+
+Ensure academic and training programmes are in line with the PNG NQF Review and rev ise PNG NQF in line with recent national developments and international good practice
+
+DHERST Academic and training programmes are delivered in line with the PNG NQF
+
+
+
+Devise and undertake awareness plan on the PNG NQF
+
+ delivery and management of academic and training programmes is benchmarked against international good practice international participants in quality assurance measures where appropriate HEIs good practice is demonstrated in the delivery and management of PNG's academic and training programmes
+
+    
+
+Ensure PNG NQF is rev ised with reference to other countries' and regional qualification frameworks
+
+Ensure academic and training programmes are continually rev ised with reference to international practices including professional accreditation
+
+Undertake an analysis of current and future labour market needs for PNG
+
+Devise and implement a National Workforce Development Plan, in collaboration with other agencies as required.
+
+Support and develop the provision of academic and training programmes in HEIs in accordance with future labour market needs
+
+Introduce the conduct of annual graduate destination surveys
+
+
+
+    
+
+Expand and diversify academic and training programme offerings in accordance with national needs
+
+DHERST HEIs Other gov't agencies The H&TE sector is prov iding academic and training programmes with student place numbers and academic content targeted towards national workforce needs
+
+
+
+
+
+    
+
+ 
+
+4.5 Access, equity and diversity
+
+Ensure that access to H&TE opportunities is maximised and that gender equity
+
+and social inclusion are promoted in the H&TE sector.
+
+In 2013, the H&TE sector was able to prov ide approximately 4,600 student places for the more than 17,000 Grade 12 graduates. Due to a combination of factors - including population growth, the rising level and changing nature of economic activ ity, and increased education attainment levels - the demand for H&TE student places is expected to rise sharply in the near future. As a consequence, and consistent with the aim of PNGDSP 2010-2030 to reach middle-income country status by 2030, this plan aims to prov ide for nearly 125,000 students places in 2024. Prov iding these places will be one of the biggest challenges faced by the H&TE sector.
+
+As a priority, the sector will need to ensure that it can actually offer these places by establishing additional institutions and upgrading the physical teaching capacity of existing universities and colleges where possible. Simultaneously,
+
+initiatives will need to be undertaken to ensure students can actually utilise these opportunities, including the establishment of a national H&TE admissions centre, the provision of adequate national scholarships, the introduction of a student loan system, and an increase in flexible learning options. Arrangements to facilitate the recognition of prior learning and credit transfer should also be enhanced.
+
+In addition to improving efficiency in the allocation of student places, the establishment of a national H&TE admissions centre will prov ide the opportunity to introduce measures to enhance gender equity and social inclusion. The creation of a sector-wide gender committee, the introduction of social inclusion initiatives in the workplace, and the integration of a gender and a cultural
+
+diversity perspective in H&TE curriculum should also be undertaken.
+
+Table 10: Strategies and actions for access, equity and diversity
+
+Strategy Action Lead Actors Outcome Implementation Year
+
+15 16 17 18 19
+
+Increase the number of student places available in the universities and colleges in PNG Ensure that PNG National Open University is established DHERST Other gov't agencies The H&TE is able to offer student places in sufficient numbers to support the attainment of Vision 2050  
+
+Ensure that Western Pacific University is established  
+
+Undertake a situational rev iew of physical infrastructure (buildings and equipment) in universities and colleges and develop strategies for addressing any gaps  
+
+Undertake a situational rev iew of ICT for teaching and learning in universities and colleges and develop strategies for addressing any gaps  
+
+Enhance potential ability of suitably-qualified students to enrol in available student places in PNG Establish a national H&TE admission centre DHERST HEIs Suitably-qualified students are able to avail themselves of the H&TE opportunities that are offered  
+
+Review allocation and administration of national scholarships  
+
+Develop and introduce a new students loan scheme  
+
+Support and develop initiatives that facilitate open, distance or flexible learning options     
+
+Initiate activities that broaden the opportunity for recognition of prior learning and credit transfers     
+
+participation in the sector by women, diverse cultural groups, those liv ing with
+
+a disability, and those from remote areas Ensure that factors for women, diverse cultural groups and those liv ing with a disability are considered and addressed in scholarship opportunities promotion and practices     
+
+Introduce a gender committee for the H&TE sector to ensure concerns of women can be raised and addressed 
+
+Develop and implement workplace initiatives that encourage social inclusion     
+
+Ensure gender and diverse cultural perspectives are integrated in the curriculum Introduce initiatives designed to encourage the inclusion of a gender and a diverse cultural perspective in the curriculum DHERST HEIs Curriculum is enhanced by the integration of a gender and a diverse cultural perspective in the curriculum     
+
+measures are introduced by the national H&TE admissions to address gender equity and social inclusion HEIs Other gov't agencies recognised as a leader in terms of gender equity and social inclusion
+
+
+
+
+
+4.6 Industry and district alliances
+
+Develop a H&TE sector that is characterised by strong alliances with local industries and adopts a whole-of-Government approach across sub-national levels.
+
+Strategic partnerships and alliances are among the most important avenues for innovative H&TE: institutions cannot operate in isolation and the global trend is for more industry and government partnerships in the delivery of learning. Participation in the H&TE sector from industry and provincial governments in PNG acknowledges their shared interest in the efforts and achievements of HEIs and maximises the sector's ability to deliver tangible, sustainable outcomes. Partnerships have the potential to increase access to education, enhance quality, and ensure academic and training programmes better address private
+
+sector, local and national needs.
+
+Emphasis should be given to encouraging input from local industry into programme delivery, ensuring relevant and pragmatic curriculum. This input could involve: contributing to curriculum design, delivery and rev iews; offering workplace learning, practicums and internships; prov iding scholarship
+
+opportunities; and giv ing feedback on graduate performance.
+
+At the same time, strategic partnerships with prov inces and districts should form part of the national cooperative effort to rollout the Plan to rural areas to boost both quantity and quality in H&TE. Local governments should be given the opportunity to voice their particular needs, to give feedback, and to make contributions, whether related to resourcing, teaching or research. They should enjoy ownership of NHTEP and align their prov incial and district education plans accordingly.
+
+Table 11: Strategies and actions for industry and district alliances
+
+Strategy Action Lead Actors Outcome Implementation Year
+
+15 16 17 18 19
+
+Encourage engagement of local industry with regard to programme delivery Ensure the possibilities for industry alliances are addressed in the labour market assessment and consequential strategies DHERST HEIs Other gov't agencies Industry has active participation in H&TE and recognises the value of the sector's contribution. In turn, the sector is more effective and efficient in prov iding for their needs. 
+
+Encourage the participation of industry in curriculum design, delivery and rev iew     
+
+Support the development of innovative private sector funded scholarships that address industry needs     
+
+Encourage industry internships as a component of study where appropriate     
+
+Introduce mechanisms for industry to prov ide feedback on graduate performance, eg employer surveys 
+
+Enhance systematic prov incial government participation in H&TE planning, resourcing and delivery Undertake a rev iew of current prov incial Government participation in H&TE and devise strategy for more effective collaboration DHERST Prov incial gov'ts DHERST and provincial Government are collaborating in a manner that maximises outcomes for the particular needs of the provinces 
+
+Develop and implement a strategy to enhance provincial government participation in H&TE 
+
+Ensure that specific H&TE needs and achievements in districts receive appropriate recognition, eg discipline specialisations for regions, awards for regional contributions     
+
+4.7 Technical education
+
+Ensure TVET colleges are provided with sufficient targeted support to deliver well-organised and quality post-secondary technical education in accordance
+
+PNG's future needs.
+
+Technical education is an essential component towards increasing a country's productiv ity and facilitating economic growth, as ev idenced in a wide range of countries such as Singapore, UAE and Vietnam. The achievement of Vision 2050 cannot be realised unless skilled technicians and practitioners are available to prov ide the services that are foundational to public and private activ ities and to
+
+society more generally.
+
+While some of the aims and challenges of universities and TVET colleges are shared, the different nature and history of colleges in PNG means that they have some specific issues that need addressing. For example, in technical education, the focus upon trades, crafts and specialised vocations often requires competency-based learning and a hands-on approach and, as a consequence, very close collaboration with industry. As such, it is essential that the particular needs of technical education are recognised and addressed accordingly.
+
+Consequently, when H&TE sector initiatives are undertaken, the distinguishing elements of technical education should be identified and adaptations made
+
+where possible and necessary.
+
+For example: a governance manual could be adapted for the TVET colleges; an output-based Government funding formula must address TVET college performance outputs; and particular tactics should be formulated for specific TVET college teacher professional development needs. While many of the approaches to H&TE challenges may be shared between universities and TVET
+
+colleges, their distinguishing natures will sometimes necessitate different priorities.
+
+I t is recognised that DHERST will need to work closely with other agencies that have responsibilities for and experience in coordination of technical education programmes, such as the National Training Council and National Apprentice Trade Testing Board, as highlighted in the prev ious goal of promoting greater sector coordination. This will also involve the establishment of an appropriate partnership and forum for the specific requirements of technical education to be jointly raised and addressed.
+
+Table 12: Strategies and actions for technical education and training
+
+Strategy Action Lead Actors Outcome Implementation Year
+
+15 16 17 18 19
+
+Ensure that the specific requirements of technical education are identified and addressed in NHTEP initiatives Ensure that current and future planned actions address specific technical education needs where possible, for example: - issue of an adapted governance manual for TVET colleges - creation of a specific output-based Government funding model for TVET colleges - recapitalisation of facilit ies and equipment to international standard. - nationally agreed quality assurance arrangements for TVET colleges - specific identification of gaps between labour market needs and TVET college resource and workforce capacity - scholarships for technical education DHERST Other gov't agencies TVET colleges are able to contribute to the support to the achievement of Vision 2050 in an identifiable, effective and efficient manner     
+
+Undertake regular rev iews to ensure that technical education is appropriately addressed in any sector planning or initiatives     
+
+Ensure that the requirements and issues of TVET colleges have an appropriate audience Create partnership and a regular shared forum for the specific requirements of technical education to be jointly raised and addressed DHERST Other govt agencies TVET Colleges The specific requirements of technical education are managed in an effective and efficient manner  
+
+4.8 Internationalisation and global labour mobility
+
+Support the development of an international dimension in H&TE that prepares graduates to prosper in an increasingly globalised environment.
+
+Internationally, we are liv ing in an 'Asian Century' where Asian economies are increasingly shaping the global economy and markets. In response, while PNG should retain its traditional links with Pacific countries and longstanding partners, it should also develop an increased focus towards Asia. A range of international employers are based in PNG and this is likely to increase with the rising prominence of the resource sector in PNG and the country's increased global exposure.
+
+To keep abreast with these trends, PNG's approach to H&TE delivery and management must become more internationalised, ensuring that our graduates are adequately prepared for the international work environment they will enter. Academic and training programmes should be continually updated to include the latest international ideas and industry skill requirements where appropriate.
+
+DHERST should ensure that PNG's H&TE interests at the national level receive appropriate oversight and representation. A range of activ ities should also be undertaken to increase the international recognition of PNG qualifications, thus ensuring the growth of employment opportunities for PNG graduates in both
+
+national and international contexts.
+
+Table 13: Strategies and actions for internationalisation and global labour mobility
+
+Strategy Action Lead
+
+Actors Outcome Implementation Year 15 16 17 18 19 Support the development of an international dimension into H&TE programmes Through Australia's twinning programme and other international arrangements, support university partnerships that upgrade academic programmes content and delivery within an international context DHERST HEIs Graduates are adequately prepared and skilled to enter a workforce in the international environment
+
+    
+
+Ensure that technical training staff are continually upskilling to standards demanded by international industry skill requirements
+
+    
+
+Ensure that international search strategies are included in academic and teacher recruitment initiatives
+
+    
+
+15 16 17 18 19
+
+Undertake initiatives to raise the profile of PNG as a possible study destination, eg for Australian New Colombo Plan scholarship recipients
+
+ 
+
+Develop and implement initiatives designed to assist graduating students market themselves to international organisations
+
+    
+
+Develop strategic international Government-to-Government cooperation in H&TE Establish an international office in DHERST that is responsible for overseeing international partnerships and cooperation in H&TE
+
+DHERST DHERST has an identifiable range of country partners built upon mutual interest
+
+ 
+
+Undertaken a situational analysis and develop a strategy for developing overseas scholarships opportunities in line with the National Workforce Development Plan
+
+ 
+
+Ensure academic programmes are recognised-internationally Support and gain international accreditation for professional programmes, eg engineering, accounting and medicine. DHERST HEIs
+
+Qualifications of PNG HEIs are recognised as equivalent to those awarded by their international counterparts
+
+  
+
+Work with relevant overseas Government departments to gain recognition of PNG qualifications
+
+  
+
+Support the development of niche study areas where PNG has a comparative advantage to showcase PNG's capacity
+
+
+
+
+
+
+
+
+
+
+
+4.9 Monitoring and evaluation
+
+Implement an M&E framework for the H&TE sector that supports effective performance management at the sector and institutional level.
+
+Monitoring and evaluation is instrumental to successful performance management. Monitoring involves the systematic and routine collection and analysis of information in order to support continuous development, demonstrate accountability, and inform decision-making. The evaluation of initiatives provides
+
+fruitful lessons for future planning.
+
+To date, H&TE in PNG has lacked an overarching coordinated M&E framework and also the necessary systems, activ ities and tools to apply such a framework. This has resulted in a sector that has been unable to: appropriately identify areas for improvement; report to stakeholders in a timely and confident manner; or
+
+maximise the potential for ev idence-based decision-making.
+
+DHERST and other related Government agencies, together with HEIs, need to develop a robust M&E framework, with well-articulated targets tied to timeframes and budgets. To facilitate M&E, a national higher education management information system should be implemented. This will enable a timely and streamlined transfer of accurate, verifiable and fit-for-purpose information between HEIs and agencies. HEIs will require support in improving their capacity to collect and use data to assess their performance in achiev ing targets and national standards of quality.
+
+Table 14: Strategies and actions for monitoring and evaluation framework
+
+Strategy Action Lead
+
+Actors Outcome Implementation Year 15 16 17 18 19 Design an M&E framework for the H&TE sector Undertake a rev iew of current monitoring and evaluation systems, activ ities and tools in the H&TE sector DHERST HEIs An M&E framework that prov ides direction for effective performance management for all actors in the H&TE sector
+
+
+
+Design an M&E framework, including key performance indicators, targets and data, informed by NHTEP
+
+
+
+Introduce the systems, activ ities and tools necessary for the application of a M&E framework for the H&TE sector Design and introduce a Higher Education Management Information System that prov ides the necessary data for M&E purposes DHERST HEIs
+
+There is more effective decision-making in the sector as a result of increased access to detailed and accurate information
+
+The H&TE has increased credibility amongst the wider PNG community
+
+ 
+
+Delivery of training for HEIs and Government agencies on implementing M&E systems, activ ities and tools
+
+    
+
+Ensure that annual reporting of activ ities and achievements in HEIs, Government agencies and other associated bodies is timely, clear, up-to-date and accessible to the public.
+
+    
+
+An aspirational, responsive Plan
+
+While NHTEP 2015-2024 incorporates a strategic intent and nine comprehensive goals to be applied over the next ten years, actual strategies and actions have only been devised for the first five years of the Plan. This approach recognises that there is much to be done - and that could change - over the next five years, and so strategies and actions for Phase 2 can only be realistically devised closer to their implementation.
+
+The underlying ten year strategic intent and goals keep our focus upon the longer-term aims for the sector, while the approach to strategies and actions acknowledges our dynamic times and permits us to keep NHTEP relevant to our changing circumstances.
+
+A collaborative approach to sector planning
+
+DHERST will be responsible for managing the implementation of this Plan, in collaboration with other relevant Government agencies, HEIs and all other stakeholders. The knowledge economy and 'research for development' paradigm highlight that the human impact sought by NHTEP can only be delivered through joint efforts. Therefore, DHERST and all other stakeholders will need to work together.
+
+5. Plan implementation 5. Plan implementation
+
+An aspirational, responsive Plan
+
+While NHTEP 2015-2024 incorporates str tegic intent and ni e com r sive goals to be appli d ov r the next ten y ars, ctual strategies and acti s ve only been devise for the first five years of the Plan. This ap roach r ises that there is much to be don - and that could change - over the next fi ars, and so strategies and actions for Phase 2 can o ly be r alistically devis l ser to their implementation.
+
+The underlying ten year str tegic intent and goals keep our focus the longer-term aims for the sector, while th approach to strategies a tions acknowledges our dynamic ti es and permits us to keep NHTEP relev t t our changing circumstances.
+
+A collaborative appro ch to sector planning
+
+DHERST will be responsible for managing the implementation of this Pl n, in collaboration with other relevant Government agencies, HEIs and all other stakeholders. The knowledge economy and 'research for develop ent' paradigm highlight that the human impact sought by NHTEP can only be delivered through joint efforts. Therefore, DHERST and all other stakeholders ill need to work together.
+
+The new organisational structure and three-year Corporate Strategic Plan of DHERST will be aligned with the priority goal areas and strategies contained in NHTEP 2015-2024. This will facilitate collaboration, team work and action learning within the organisation. For each goal, the strategies and actions will be
+
+cascaded into branch and indiv idual work plans with milestones.
+
+Other Government agencies and HEIs should adopt a similar approach, customised where necessary for their own organisational capacities. From time to time, stakeholders will meet to rev iew and share details of their progress
+
+against the Plan.
+
+Resourcing the Plan
+
+The implementation of NHTEP 2015-2024 will need an adequately resourced, coordinated and managed sector. Responsible implementing agencies will need to formulate and mobilise specific funding for programmes and projects
+
+addressing goals and strategies from a wide range of sources.
+
+Sources of funding are likely to include the Government of PNG, public sector investment programmes, private-public sector partnerships, regional partnerships, international bilateral and multilateral donors and organisations, private foundations, and the private sector. Some of these funds may be employed by DHERST to offer competitive grants for the sector.
+
+Agencies and organisations that share common interests and goals will be encouraged to share resources with the sector by making financial and in-kind contributions for joint projects. In-kind contributions might include technical expertise, staff time, research and training facilities at either reduced cost or no cost. Arrangements might be made with agencies and organisations to use their own resources to independently implement projects and share results with DHERST.
+
+Monitoring and evaluation
+
+The implementation of any activ ity can only be properly evaluated if the planning process builds in appropriate M&E mechanisms. Monitoring and evaluation reveals the strengths and weaknesses of performance along the way, allowing for remedial actions to be taken when and where the need arises. I t can enhance decision-making and improve outcomes: for example, M&E can be used to guide funding agencies regarding possible future focus areas.
+
+DHERST recognises the importance of M&E for the successful implementation of NHTEP 2015-2024 and it has, therefore, included M&E as a priority goal for the sector in the Plan. One of the first tasks in the Plan for DHERST - in close collaboration with other Government agencies and HEIs - will be the development of a set of indicators to monitor the performance of the sector. A subset of these indicators will be identified as key performance indicators (KPIs),
+
+which will be used to monitor the goals and strategies of the Plan.
+
+5. Plan implementation
+
+This will require a range of baseline studies and trend analysis in order to formulate quantitative, qualitative and time-bound KPIs to monitor progress towards the achievement of goals and strategies and to eventually assess the impact of the Plan. A participatory M&E system will be adopted, to encourage DHERST, relevant Government agencies, HEIs and other parties to share information, including data and lessons learnt.
+
+An external mid-term evaluation and rev iew of NHTEP 2015-2024 will be carried out in the fifth year of the Plan, and will feed into the formulation of strategies and actions for the Plan's last five years, or Phase 2 of the H&TE growth model. A final impact assessment will be conducted towards the final year of the Plan.
+
+In any plan, there are risks to be considered prior to and during implementation, and hence, M&E for NHTEP 2015-2024 will incorporate a risk management plan. This Plan will be managed by DHERST, incorporating the shared principles of risk
+
+control, responsibility and commitment.
+
+Way forward for NHTEP 2015-2024
+
+NHTEP 2015-2024 seeks to begin the process of transforming H&TE in the twenty-first century in PNG. I t aims to achieve its v ision and mission through nine priority goals. The strategies and actions under each of the goals reflect the considered v iews of a range of stakeholders and experts involved in the sector.
+
+The Plan's success requires a collaborative approach, accompanied by political steadfastness, courageous leadership, and ownership by stakeholders. I f these elements are present, and if the implementation is effectively and efficiently managed, we can expect that H&TE will prov ide a solid foundation for the achievement of the Vision 2050 to be a Smart, Wise, Happy and Wealthy nation
+
+by 2050.
+
+5. Plan implementation
+
+Reference Materials
+
+Annual Survey of Institutions of Higher Education 2007, 2008, 2009, 2010, 2011, 2012 & 2013 - Office of Higher Education.
+
+Bank of Papua New Guinea Quarterly Economic Bulletin - Bank of Papua New Guinea (March 2012).
+
+Independent Review of the PNG University System -  Namaliu, R. and Garnaut, R. (2010).
+
+National Public Service Gender Equity & Social Inclusion (GESI) Policy - Department of Personnel Management.
+
+Needs Analysis of PNG TVET Colleges -
+
+AusAID, 2011. PNG Development Strategic Plan 2010 - 2030 - Department of National Planning & Monitoring.
+
+PNG Household Income and Expenditure Survey - National Statistical Office (2009-2010).
+
+PNG Medium Term Development Plan 2011 - 2015 - Department of National Planning & Monitoring.
+
+PNG National Labour Market Assessment Report  - Office of Higher Education (2010).
+
+PNG Public Service Ethics and Value-based Leadership Capability Framework
+
+- Department of Personnel Management.
+
+Report of Academic Salaries and Conditions Review Committee - Commission for Higher Education (2014).
+
+Vision 2050 - Government of Papua New Guinea
+
+Department of Higher Education, Research, Science and Technology 2015
+
+Level 2, Mutual Rumana Building, Waigani Drive, Port Moresby, NCD PNG
+
+PO Box 5117, Boroko, NCD, PNG
