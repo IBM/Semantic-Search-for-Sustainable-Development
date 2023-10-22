@@ -214,7 +214,7 @@ def get_all_matches(data, par_vec: CustomParVec, sents, targ_vecs, targs, num_ou
 #similarity of each sentence/paragraph with the sentences from the ground truth. 
 #Those sentences with the highest cosine similarity will be marked as matching the same target as the ground truth.
 
-def ria(documents_path, policy_documents, model, sents, targ_vecs, targs):
+def ria(documents_path, policy_documents, model: CustomParVec, sents, targ_vecs, targs):
     '''
     Find the sentences/paragaraphs of policy documents that most match each target
     
@@ -231,7 +231,7 @@ def ria(documents_path, policy_documents, model, sents, targ_vecs, targs):
     '''
     score_dict = {}
     for policy_document in policy_documents:
-        with open(os.path.join(documents_path, policy_document),encoding="utf8") as file:
+        with open(os.path.join(documents_path, policy_document), encoding="utf-8") as file:
             for line in file:
                 if len(line) > 30:
                     top_matches = model.getMostSimilar(line, 125, 0.01, sents, targ_vecs)

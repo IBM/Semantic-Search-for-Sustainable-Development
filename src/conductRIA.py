@@ -20,13 +20,11 @@ import custom_model as cpv
 import undp_experiments_Utils as utils
 from gensim import models
 from custom_logger import CustomLogger
-import pathlib
+from pathlib import Path
 
 #%%
-proj_dir = pathlib.Path(__file__).parent.absolute()
+proj_dir = Path(__file__).parent.absolute()
 logger = CustomLogger(__name__, write_local=True)
-
-#%%
 
 #if you want to use the Google news pre-trained model, set below to true
 USE_GOOGLE_NEWS = False
@@ -94,29 +92,6 @@ downsampling = 1e-3   # Downsample setting for frequent words
 # normalized bag of words scaling and another that uses tf-idf scaling
 
 logger.info('Creating custom paragraph vector models...')
-par_vec_nbow = cpv.CustomParVec(
-    word_sentence_list=words_by_line,
-    workers=num_workers,
-    dimensions=num_features,
-    min_word_count=min_word_count,
-    context=context,
-    downsampling=downsampling,
-    tfidf=False
-)
-
-par_vec_tfidf = cpv.CustomParVec(
-    word_sentence_list=words_by_line,
-    workers=num_workers,
-    dimensions=num_features,
-    min_word_count=min_word_count,
-    context=context,
-    downsampling=downsampling,
-    tfidf=True
-)
-
-par_vecs = [par_vec_nbow, par_vec_tfidf]
-
-# We will also experiment with Google's pre-trained word2vec model which has 300 dimensions.
 if USE_GOOGLE_NEWS:
     logger.info('Loading Google News pre-trained model...')
     model_google = models.KeyedVectors.load_word2vec_format('GoogleNews-vectors-negative300.bin', binary=True) 
@@ -132,7 +107,30 @@ if USE_GOOGLE_NEWS:
     )
 
     # Put models in a single list
-    par_vecs = [par_vec_google, par_vec_nbow, par_vec_tfidf]
+    
+else:
+    par_vec_nbow = cpv.CustomParVec(
+        word_sentence_list=words_by_line,
+        workers=num_workers,
+        dimensions=num_features,
+        min_word_count=min_word_count,
+        context=context,
+        downsampling=downsampling,
+        tfidf=False
+    )
+
+    par_vec_tfidf = cpv.CustomParVec(
+        word_sentence_list=words_by_line,
+        workers=num_workers,
+        dimensions=num_features,
+        min_word_count=min_word_count,
+        context=context,
+        downsampling=downsampling,
+        tfidf=True
+    )
+
+
+# We will also experiment with Google's pre-trained word2vec model which has 300 dimensions.
     
 #%%
 
