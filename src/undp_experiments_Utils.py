@@ -15,16 +15,18 @@
 """
 
 import shelve
-#from collections import Counter
 import parseundp
 from PyPDF2 import PdfFileWriter, PdfFileReader
 from difflib import SequenceMatcher as sm
 from collections import OrderedDict
 import os
 
+from custom_model import CustomParVec
+from custom_logger import CustomLogger
+from pathlib import Path
+from typing import Any
 
-
-
+logger = CustomLogger(__name__, write_local=True)
 
 
 #Loading the ground truth
@@ -32,7 +34,7 @@ import os
 #If we are testing with a country which we have a completed RIA for, we exclude that RIA. We also have functionality to only 
 #load the target descriptions.
 
-def loadTruth(template_data_path, exclude_ria = [], targets = None):
+def loadTruth(template_data_path, exclude_ria=[], targets=None):
     '''
     If the ground truth matches aren't already saved, extract the ground truth from all prior RIA template2 and 
     create the target matches dictionary. Save this for future use. If a certain RIA is to be excluded, create
@@ -56,7 +58,10 @@ def loadTruth(template_data_path, exclude_ria = [], targets = None):
             shelf = shelve.open('undp')
             target_matches = shelf['targets']
             shelf.close()
-        except:
+        
+        # Do too many things in except block is not a good practice.
+        except Exception as e:
+            logger.error(e)
             shelf.close()
             development_matches = parseundp.extract_template_data(template_data_path)
             target_matches = parseundp.create_target_dictionary(development_matches)
@@ -66,7 +71,8 @@ def loadTruth(template_data_path, exclude_ria = [], targets = None):
             
     return target_matches
 
-def getTargetDoc(template_data_path, exclude_ria = [], targets = None):
+
+def getTargetDoc(template_data_path, exclude_ria=[]):
     '''
     Append the results of all prior RIAs to the corresponding target description.
 
@@ -84,13 +90,14 @@ def getTargetDoc(template_data_path, exclude_ria = [], targets = None):
     for key in prior_ria_matches:
         doc = ''
         for val in prior_ria_matches[key]:
-            if type(val) == str:
+            if isinstance(val, str):
                 doc += val
                 doc += ' '
         target_documents[key] = [doc]
     return target_documents
 
-def getInfo(par_vec, target_matches, targets_only = False):
+
+def getInfo(par_vec, target_matches, data=False):
     '''
     If the ground truth matches aren't already saved, extract the ground truth from all prior RIA template2 and 
     create the target matches dictionary. Save this for future use. If a certain RIA is to be excluded, create
@@ -99,7 +106,7 @@ def getInfo(par_vec, target_matches, targets_only = False):
     Args:
         par_vec (CustomParVec) : Embedding model to be used.
         target_matches (dict)  : Our target matches dictionary of.
-        targets_only (bool)    : Specify if we are only using target descriptions.
+        data (bool)    : Specify if we are only using target descriptions.
 
     Returns:
         targs (dict), targ_vecs(list), sents(list) : dictionary of sentences and target they match, list of embedded
@@ -109,9 +116,11 @@ def getInfo(par_vec, target_matches, targets_only = False):
     targ_vecs = []
     sents = []
     for key, val in target_matches.items():
-        if targets_only:
+        if data:
             sents.append(str(val))
-            targ_vecs.append(par_vec.inferVector(str(val)))
+            #TRACE: If there is something wrong with inferVector, or val, then targ_vecs will be all 0
+            # val comes from target_matches
+            targ_vecs.append(par_vec.inferVector(str(val))) 
             targs[str(val)] = key
         else:
             for line in val:
@@ -140,53 +149,19 @@ def convertPdf(document_conversion, config, file):
         try:
             response = document_conversion.convert_document(document=pdf_file, config=config)
             document_text = response.text
-            text = open(file[:-4]+'.txt', 'w') 
-            text.write(document_text)
-            text.close()
-        except:
-            print(file, 'FAILED')
+            
+            with open(file[:-4]+'.txt', 'w')  as f:
+                f.write(document_text)
+        
+        except Exception as e:
+            logger.error(f"Failed to convert: {file}")
+            logger.error(e)
+            
             
 
 
 
-
-#def createPage(documents_path, policy_document):
-#    inputpdf = PdfFileReader(os.path.join(documents_path, policy_document), "rb")
-#    for i in range(inputpdf.numPages):
-#        output = PdfFileWriter()
-#        output.addPage(inputpdf.getPage(i))
-#        newname = policy_document[:-4] + "-" + str(i+1) + '.pdf'
-#        outputStream = open(newname, "wb")
-#        output.write(outputStream)
-#        outputStream.close()
-        
-#        convertPdf(document_conversion, config, newname)
-#        os.remove(newname)
-
-
-#Watson DocumentConversion service was used. That service has been deprecated and is no longer available
-#pdf documents have to be converted to text to use this code        
-#from watson_developer_cloud import DocumentConversionV1
-#import os
-#usr = 'REPLACE BY UID' 
-#pswd = 'REPLACE BY PWD'
-
-#document_conversion = DocumentConversionV1( # Create instance of document conversion service
-#  username = usr,
-#  password = pswd,
-#  version  = '2015-12-15'
-#)
-
-#config = {
-#  'conversion_target': 'NORMALIZED_TEXT' # Specify configuration to convert document to txt file.
-#}
-
-
-
-
-
-
-def get_all_matches(data, par_vec, sents, targ_vecs, targs, num_out):
+def get_all_matches(data, par_vec: CustomParVec, sents, targ_vecs, targs, num_out):
     sdg_matches = []
     targ_matches = []
     total_icaad_sdg = 0
@@ -196,17 +171,21 @@ def get_all_matches(data, par_vec, sents, targ_vecs, targs, num_out):
     for series in data.iterrows():
         idx, row = series[0], series[1]
         line = row['RECOMMENDATION']
+
         if len(line) > 0:
             top_matches = par_vec.getMostSimilar(line, num_out, .1, sents, targ_vecs)
             
             icaad_sdgs = row['SDGs'].split(',')
+
             if '' in icaad_sdgs:
                 icaad_sdgs.remove('')
             icaad_targets = row['Subcategory'].split(',')
+            
             if '' in icaad_targets:
                 icaad_targets.remove('')
             total_icaad_sdg += len(icaad_sdgs)
             total_icaad_targets += len(icaad_targets)
+            
             for match in top_matches:
                 key = targs[match[1]]
                 sdg = key.split('.')
@@ -264,6 +243,7 @@ def ria(documents_path, policy_documents, model, sents, targ_vecs, targs):
                             score_dict[key] = set({(match[0], line)})
     return score_dict
 
+
 def riaPDF(documents_path, policy_documents, model, sents, targ_vecs, targs):
     '''
     Find the sentences/paragaraphs of policy documents that most match each target.
@@ -283,9 +263,11 @@ def riaPDF(documents_path, policy_documents, model, sents, targ_vecs, targs):
     for policy_document in policy_documents:
         try:
             inputpdf = PdfFileReader(os.path.join(documents_path, policy_document), "rb")
-        except:
-            print(policy_document, 'FAILED')
+        except Exception as e:
+            logger.error(f"Failed to open: {policy_document}")
+            logger.error(e)
             continue
+
         for i in range(inputpdf.numPages):
             output = PdfFileWriter()
             output.addPage(inputpdf.getPage(i))
@@ -300,27 +282,29 @@ def riaPDF(documents_path, policy_documents, model, sents, targ_vecs, targs):
                 with open(newname[:-4]+'.txt') as file:
                     for line in file:
                         if len(line) > 30:
-                            #print(line)
+                            
                             top_matches = model.getMostSimilar(line, 125, 0.01, sents, targ_vecs)
                             for match in top_matches:
                                 key = targs[match[1]]
+            
                                 if key in score_dict:
-                                    #print('here1')
                                     score_dict[key].add((match[0], line, policy_document, i+1))
                                 else:
                                     score_dict[key] = set({(match[0], line, policy_document, i+1)})
-                                    #print('here1')
-            except:
-                print(newname[:-4]+'.txt failed')
+            
+            except Exception as e:
+                logger.error(f"Failed to open: {newname[:-4]+'.txt'}")
+                logger.error(e)
                 continue
             
             os.remove(newname)
             os.remove(newname[:-4]+'.txt')
     return score_dict
 
-#Functions to view RIA Results
 
-def get_matches2(target, target_dict, num_matches = 1000):
+
+#Functions to view RIA Results
+def get_matches2(target, target_dict, num_matches=1000):
     '''
     Returns the specified number of matches of a target along with its document of
     origin and page number in a target dictionary ordered by cosine similarity 
@@ -340,7 +324,8 @@ def get_matches2(target, target_dict, num_matches = 1000):
     #ordered = [[item[3], item[2], item[1]] for item in sorted(target_dict[target], reverse = True)]
     return ordered[:num_matches]
 
-def get_matches(target, target_dict, num_matches = 1000):
+
+def get_matches(target, target_dict, num_matches=1000):
     '''
     Returns the specified number of matches of a tagret in a target dictionary ordered by cosine similarity 
     
@@ -360,7 +345,8 @@ def lookup_matches(target, target_dict):
     results = get_matches(target, target_dict)
     for result in results:
         print(result)
-        
+
+
 #Functions to evaluate RIA Results
 def evaluateByTarget(score_dict, test_target_matches, num):
     '''
@@ -409,6 +395,7 @@ def evaluateByTarget(score_dict, test_target_matches, num):
                         match_by_sent[target] = [0]
     return match_by_sent
 
+
 def avgMatches(match_by_sent, test_target_matches, num):
     '''
     Finds the average percent matches with prior RIA for all targets as the number of sentences outputted increases
@@ -429,10 +416,13 @@ def avgMatches(match_by_sent, test_target_matches, num):
             try:
                 adder += (match_by_sent[key][i] * (len(test_target_matches[key])-1))
                 counter += (len(test_target_matches[key])-1)
-            except:
+            except Exception as e:
+                logger.warning(e) 
                 adder += (match_by_sent[key][-1] * (len(test_target_matches[key])-1))
                 counter += (len(test_target_matches[key])-1)
-        avg_new.append(adder/counter)
+        
+        avg = adder/counter if counter != 0 else None
+        avg_new.append(avg)
     return avg_new
 
 
@@ -508,6 +498,7 @@ def getUpdates(excel_results):
                 
     return updates
 
+
 def updateGroundTruth(new_truths):
     '''
     Updates the model with the new truth from the most recent RIA 
@@ -520,7 +511,8 @@ def updateGroundTruth(new_truths):
         shelf = shelve.open('RIA_Data')
         ground_truth = shelf['ground_truth']
         shelf.close()
-    except:
+    except Exception as e:
+        logger.error(e)
         shelf.close()
     
     for key in new_truths:
@@ -535,25 +527,29 @@ def updateGroundTruth(new_truths):
         shelf = shelve.open('RIA_Data')
         shelf['ground_truth'] = ground_truth
         shelf.close()
-    except:
+    except Exception as e:
+        logger.error(e)
         shelf.close()
 
 
+def open_shelve_object(shelf_name: str, obj_name: str):
+    if os.path.exists(shelf_name + '.db'):
+        shelf = shelve.open(shelf_name)
+        obj = shelf[obj_name]
+        shelf.close()
+        return obj
+    else:
+        logger.warning(f"Shelf {shelf_name} does not exist")
+        return None
 
 
+def create_shelve_object(shelf_name: str, source_data: Any, obj_name: str):
 
+    shelf_path = Path(shelf_name)
+    
+    if not os.path.exists(shelf_path.parent):
+        os.makedirs(shelf_path.parent)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    shelf = shelve.open(shelf_name)
+    shelf[obj_name] = source_data
+    shelf.close()
